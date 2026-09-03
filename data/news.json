@@ -1,465 +1,360 @@
 {
   "meta": {
-    "updatedAt": "2026-09-03T15:00:00+00:00",
-    "generatedBy": "sample",
+    "updatedAt": "2026-09-03T16:00:00Z",
+    "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "count": 35
   },
   "stories": [
     {
-      "id": "sample-01",
+      "id": "top-01",
       "category": "top",
-      "title": "SAMPLE: Global markets react to central bank rate decision, indexes mixed",
-      "summary": "Equities wavered after the central bank held rates steady while signaling future tightening. Analysts see volatility persisting through the quarter.",
+      "title": "U.S. military strikes Iran, Tehran retaliates in biggest exchange since July",
+      "summary": "U.S. forces hit targets in Iran on Tuesday and Tehran fired missiles and drones across the region in response, reviving the intermittent conflict. The exchange, the largest since July, keeps the Middle East on edge and pressures energy markets.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+      "publishedAt": "2026-09-02T20:00:00Z",
+      "tags": ["iran", "middleeast", "us-policy", "war"]
+    },
+    {
+      "id": "top-02",
+      "category": "top",
+      "title": "Denmark sends conscripts to Greenland as Arctic tensions grow",
+      "summary": "Denmark deployed conscripts to Greenland for the first time in recent history under the Arctic Endurance exercise as regional tensions rise. The move underscores intensifying Arctic security competition amid U.S. interest in the island.",
       "source": "Reuters",
-      "url": "https://reuters.com/sample/sample-01",
-      "publishedAt": "2026-09-03T14:23:00+00:00",
-      "tags": [
-        "markets",
-        "economy"
-      ]
+      "url": "https://www.reuters.com/world/denmark-sends-conscripts-greenland-arctic-tensions-grow-2026-09-02/",
+      "publishedAt": "2026-09-02T18:00:00Z",
+      "tags": ["denmark", "greenland", "arctic", "nato"]
     },
     {
-      "id": "sample-02",
+      "id": "top-03",
       "category": "top",
-      "title": "SAMPLE: World leaders gather for climate summit as targets come under scrutiny",
-      "summary": "Delegates convened to review stalled emissions pledges, with several nations facing pressure to strengthen commitments.",
-      "source": "Associated Press",
-      "url": "https://apnews.com/sample/sample-02",
-      "publishedAt": "2026-09-03T13:46:00+00:00",
-      "tags": [
-        "climate",
-        "politics"
-      ]
+      "title": "Russian forces keep pressing in Ukraine as Putin claims victory is inevitable",
+      "summary": "The Institute for the Study of War's Sept. 2 assessment reports continued Russian offensive pressure in Ukraine, with Putin exaggerating battlefield performance to argue that Russian victory is inevitable. Analysts see a widening gap between Moscow's messaging and ground realities.",
+      "source": "ISW",
+      "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-2-2026/",
+      "publishedAt": "2026-09-02T22:00:00Z",
+      "tags": ["ukraine", "russia", "war", "assessment"]
     },
     {
-      "id": "sample-03",
+      "id": "top-04",
       "category": "top",
-      "title": "SAMPLE: Humanitarian aid corridor reopens after ceasefire agreement",
-      "summary": "A temporary ceasefire allowed convoys to reach affected regions for the first time in weeks, aid groups confirmed.",
-      "source": "BBC News",
-      "url": "https://bbc.com/sample/sample-03",
-      "publishedAt": "2026-09-03T13:09:00+00:00",
-      "tags": [
-        "aid",
-        "diplomacy"
-      ]
+      "title": "U.S. seals deal for majority control of Venezuela's oil reserves",
+      "summary": "The Trump administration reached an agreement giving the U.S. majority control of more than 65 billion barrels of Venezuela's proven oil reserves. The deal is being defended as an energy-policy centerpiece but could take years to yield production.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html",
+      "publishedAt": "2026-09-01T15:00:00Z",
+      "tags": ["venezuela", "oil", "energy", "diplomacy"]
     },
     {
-      "id": "sample-04",
+      "id": "top-05",
       "category": "top",
-      "title": "SAMPLE: Major earthquake strikes coastal region, relief efforts underway",
-      "summary": "A magnitude 7.1 quake damaged infrastructure and prompted rescue operations as officials assessed the toll.",
-      "source": "Al Jazeera",
-      "url": "https://aljazeera.com/sample/sample-04",
-      "publishedAt": "2026-09-03T12:32:00+00:00",
-      "tags": [
-        "disaster",
-        "rescue"
-      ]
+      "title": "Crude prices push back toward $95 on U.S.-Iran exchanges",
+      "summary": "Fresh U.S.-Iran military exchanges in the Middle East drove crude prices back toward $95 a barrel as markets weigh supply-disruption risk. The renewed hostilities re-anchor oil prices higher after a recent pullback.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/energy-watch-back-boil-2026-09-03/",
+      "publishedAt": "2026-09-03T13:00:00Z",
+      "tags": ["oil", "energy", "markets", "middleeast"]
     },
     {
-      "id": "sample-05",
-      "category": "top",
-      "title": "SAMPLE: Landmark trade pact signed between regional economic blocs",
-      "summary": "The agreement removes tariffs on a range of goods and is expected to boost cross-border commerce over the next decade.",
-      "source": "Financial Times",
-      "url": "https://ft.com/sample/sample-05",
-      "publishedAt": "2026-09-03T11:55:00+00:00",
-      "tags": [
-        "trade",
-        "economy"
-      ]
-    },
-    {
-      "id": "sample-06",
+      "id": "tech-01",
       "category": "tech",
-      "title": "SAMPLE: New open-source model rivals frontier performance on reasoning benchmarks",
-      "summary": "A lean language model posted competitive scores while running on a fraction of the compute of larger peers.",
+      "title": "Nvidia to acquire Hugging Face for $12.93 billion",
+      "summary": "Nvidia agreed to buy Hugging Face, one of the largest platforms for distributing open-source AI models, for $12.93 billion. The deal extends Nvidia's reach beyond chips into the AI software ecosystem.",
       "source": "The Verge",
-      "url": "https://theverge.com/sample/sample-06",
-      "publishedAt": "2026-09-03T11:18:00+00:00",
-      "tags": [
-        "ai",
-        "open-source"
-      ]
+      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "publishedAt": "2026-09-03T14:00:00Z",
+      "tags": ["nvidia", "hugging-face", "ai", "acquisition"]
     },
     {
-      "id": "sample-07",
+      "id": "tech-02",
       "category": "tech",
-      "title": "SAMPLE: Chipmaker unveils next-gen accelerators targeted at inference workloads",
-      "summary": "The new silicon promises up to two times throughput for large-scale AI serving with lower power draw.",
+      "title": "OpenAI begins rollout of GPT-6 Astra with cyber guardrails",
+      "summary": "OpenAI started rolling out GPT-6 Astra, first to participants in its Daybreak cybersecurity program before broader consumer and enterprise access. It is the first OpenAI model designated Critical under the company's Preparedness Framework.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "publishedAt": "2026-09-03T13:00:00Z",
+      "tags": ["openai", "gpt6", "ai", "cybersecurity"]
+    },
+    {
+      "id": "tech-03",
+      "category": "tech",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "summary": "OpenAI faces 30 additional lawsuits filed on behalf of victims, families, teachers and students of the February mass shooting in Tumbler Ridge, B.C., alleging ChatGPT induced the shooter. The wave builds on seven earlier complaints and escalates legal scrutiny of AI safety.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/sample/sample-07",
-      "publishedAt": "2026-09-03T10:41:00+00:00",
-      "tags": [
-        "hardware",
-        "ai"
-      ]
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "publishedAt": "2026-09-02T19:00:00Z",
+      "tags": ["openai", "lawsuits", "ai-safety", "chatgpt"]
     },
     {
-      "id": "sample-08",
+      "id": "tech-04",
       "category": "tech",
-      "title": "SAMPLE: Regulators propose disclosure rules for consumer AI systems",
-      "summary": "The draft framework would require developers to document training data and safety test results before release.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/sample/sample-08",
-      "publishedAt": "2026-09-03T10:04:00+00:00",
-      "tags": [
-        "policy",
-        "ai"
-      ]
+      "title": "Broadcom Q3 AI chip revenue jump 221% to $16.7 billion",
+      "summary": "Broadcom reported $16.7 billion in fiscal Q3 AI semiconductor revenue, up 221% year over year, and guided fourth-quarter AI sales to $21.7 billion. The results underscore sustained hyperscaler demand for custom AI chips.",
+      "source": "Broadcom",
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial",
+      "publishedAt": "2026-09-02T23:30:00Z",
+      "tags": ["broadcom", "ai-chips", "earnings", "semiconductors"]
     },
     {
-      "id": "sample-09",
+      "id": "tech-05",
       "category": "tech",
-      "title": "SAMPLE: Quantum computing startup claims error-correction milestone",
-      "summary": "Researchers reported sustained logical qubit stability, a step toward fault-tolerant quantum hardware.",
-      "source": "Wired",
-      "url": "https://wired.com/sample/sample-09",
-      "publishedAt": "2026-09-03T09:27:00+00:00",
-      "tags": [
-        "quantum",
-        "research"
-      ]
+      "title": "Microsoft to restructure reporting around AI and cloud segments",
+      "summary": "Microsoft will overhaul its financial reporting from three segments to two — Agents and Infra, and Devices and Consumer — starting fiscal 2027, mirroring AI's growing centrality to the business. The change also adds quarterly Azure revenue disclosure for the first time.",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/tech/ai/microsoft-to-change-reporting-structure-to-reflect-effects-of-ai-59dce66d",
+      "publishedAt": "2026-09-02T15:00:00Z",
+      "tags": ["microsoft", "azure", "ai", "earnings"]
     },
     {
-      "id": "sample-10",
-      "category": "tech",
-      "title": "SAMPLE: Smartphone makers shift focus to on-device AI assistants",
-      "summary": "Flagship devices now ship with local models for privacy-focused voice and text workflows, vendors said.",
-      "source": "CNET",
-      "url": "https://cnet.com/sample/sample-10",
-      "publishedAt": "2026-09-03T08:50:00+00:00",
-      "tags": [
-        "mobile",
-        "ai"
-      ]
-    },
-    {
-      "id": "sample-11",
+      "id": "browns-01",
       "category": "browns",
-      "title": "SAMPLE: Starting quarterback cleared to return ahead of divisional matchup",
-      "summary": "The veteran signal-caller practiced in full and is expected to start after missing two games with a shoulder injury.",
-      "source": "ESPN",
-      "url": "https://espn.com/sample/sample-11",
-      "publishedAt": "2026-09-03T08:13:00+00:00",
-      "tags": [
-        "nfl",
-        "injury"
-      ]
+      "title": "Browns name Deshaun Watson starting quarterback for Week 1",
+      "summary": "The Browns named Deshaun Watson their starting quarterback for Week 1 of the 2026 season, days after he was booed by hometown fans. The decision to start him over Shedeur Sanders sets the tone for the opener at Jacksonville.",
+      "source": "clevelandbrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/deshaun-watson-named-browns-starting-quarterback",
+      "publishedAt": "2026-08-24T16:00:00Z",
+      "tags": ["browns", "deshaun-watson", "nfl", "quarterback"]
     },
     {
-      "id": "sample-12",
+      "id": "browns-02",
       "category": "browns",
-      "title": "SAMPLE: Defense holds strong in statement win over AFC rival",
-      "summary": "The unit forced three turnovers and racked up five sacks as Cleveland moved back above .500.",
-      "source": "Cleveland.com",
-      "url": "https://cleveland.com/sample/sample-12",
-      "publishedAt": "2026-09-03T07:36:00+00:00",
-      "tags": [
-        "nfl",
-        "defense"
-      ]
+      "title": "Watson faces a short leash heading into road-heavy start",
+      "summary": "Beat reporter Mary Kay Cabot expects the Browns' first two road games to function as a high-stakes audition, with Watson potentially not reaching his first home start if he struggles. Todd Monken's QB decision is already under the microscope.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/09/deshaun-watson-may-not-even-make-it-to-his-first-home-game-if-this-happens.html",
+      "publishedAt": "2026-09-03T12:00:00Z",
+      "tags": ["browns", "deshaun-watson", "nfl", "quarterback"]
     },
     {
-      "id": "sample-13",
+      "id": "browns-03",
       "category": "browns",
-      "title": "SAMPLE: Rookie wide receiver earns offensive player of the week honors",
-      "summary": "The first-year pass-catcher totaled 140 yards and two scores in a breakout performance.",
-      "source": "NFL",
-      "url": "https://nfl.com/sample/sample-13",
-      "publishedAt": "2026-09-03T06:59:00+00:00",
-      "tags": [
-        "nfl",
-        "rookie"
-      ]
+      "title": "Browns set initial 53-man roster; Dillon Gabriel goes to IR",
+      "summary": "The Browns trimmed to their initial 53-man roster, placing backup quarterback Dillon Gabriel on injured reserve with a back injury. The final cutdown locked in the team's roster structure ahead of Week 1.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/131651/cleveland-browns-news-shedeur-sanders-dillon-gabriel-taylen-green-luke-floriea",
+      "publishedAt": "2026-08-31T18:00:00Z",
+      "tags": ["browns", "roster", "nfl", "injury"]
     },
     {
-      "id": "sample-14",
+      "id": "browns-04",
       "category": "browns",
-      "title": "SAMPLE: Front office extends anchor offensive lineman on multi-year deal",
-      "summary": "The contract keeps the Pro Bowl guard in brown and orange through the 2029 season.",
-      "source": "Browns.com",
-      "url": "https://clevelandbrowns.com/sample/sample-14",
-      "publishedAt": "2026-09-03T06:22:00+00:00",
-      "tags": [
-        "contract",
-        "nfl"
-      ]
+      "title": "Keeping four quarterbacks was Browns' biggest cut-week move",
+      "summary": "Analysts single out the Browns' decision to keep four quarterbacks and place Dillon Gabriel on injured reserve as their defining move of roster-cut week. The call reflects an unsettled QB room heading into the season.",
+      "source": "Browns Wire (USA Today)",
+      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/09/02/what-was-the-browns-biggest-move-during-roster-cuts/91561762007/",
+      "publishedAt": "2026-09-02T14:00:00Z",
+      "tags": ["browns", "roster", "quarterback", "nfl"]
     },
     {
-      "id": "sample-15",
+      "id": "browns-05",
       "category": "browns",
-      "title": "SAMPLE: Injury report: two starters limited in Wednesday practice",
-      "summary": "Coaches remained optimistic on availability but listed both as questionable for the weekend.",
-      "source": "CBS Sports",
-      "url": "https://cbssports.com/sample/sample-15",
-      "publishedAt": "2026-09-03T05:45:00+00:00",
-      "tags": [
-        "nfl",
-        "injury"
-      ]
+      "title": "Previewing Browns at Jaguars: rebuilt front faces Week 1 test",
+      "summary": "The Browns open the 2026 season at Jacksonville on Sept. 13, with analysts flagging how Cleveland's rebuilt defensive front holds up without Myles Garrett as the key question. Most NFL.com predictors pick the Jaguars to win.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/videos/browns-vs-jaguars-preview-week-202528066.html",
+      "publishedAt": "2026-09-02T20:00:00Z",
+      "tags": ["browns", "jaguars", "nfl", "week-1"]
     },
     {
-      "id": "sample-16",
+      "id": "buckeyes-01",
       "category": "buckeyes",
-      "title": "SAMPLE: Buckeyes move up in AP poll after dominant road victory",
-      "summary": "Ohio State climbed two spots following a lopsided win over a ranked conference opponent.",
-      "source": "Eleven Warriors",
-      "url": "https://elevenwarriors.com/sample/sample-16",
-      "publishedAt": "2026-09-03T05:08:00+00:00",
-      "tags": [
-        "cfb",
-        "rankings"
-      ]
-    },
-    {
-      "id": "sample-17",
-      "category": "buckeyes",
-      "title": "SAMPLE: Quarterback depth chart settled as opener approaches",
-      "summary": "The coaching staff named a starter and confirmed the rotation plan for the season kickoff.",
-      "source": "The Columbus Dispatch",
-      "url": "https://dispatch.com/sample/sample-17",
-      "publishedAt": "2026-09-03T04:31:00+00:00",
-      "tags": [
-        "cfb",
-        "quarterback"
-      ]
-    },
-    {
-      "id": "sample-18",
-      "category": "buckeyes",
-      "title": "SAMPLE: Five-star safety commits to Ohio State over two rivals",
-      "summary": "The top-ranked defensive back announced his decision Friday, bolstering the 2027 recruiting class.",
+      "title": "No. 1 Ohio State opens 2026 season hosting Ball State",
+      "summary": "Top-ranked Ohio State hosts Ball State on Saturday at 12:30 p.m. on Big Ten Network to open the 2026 season, with Jim Tressel's Ring of Honor induction also on the card. The Buckeyes return 13 starters off last year's 12-0 team.",
       "source": "247Sports",
-      "url": "https://247sports.com/sample/sample-18",
-      "publishedAt": "2026-09-03T03:54:00+00:00",
-      "tags": [
-        "recruiting",
-        "cfb"
-      ]
+      "url": "https://247sports.com/college/ohio-state/longformarticle/ohio-state-buckeyes-football-season-opener-vs-ball-state-289431191/",
+      "publishedAt": "2026-09-03T11:00:00Z",
+      "tags": ["ohio-state", "buckeyes", "ball-state", "season-opener"]
     },
     {
-      "id": "sample-19",
+      "id": "buckeyes-02",
       "category": "buckeyes",
-      "title": "SAMPLE: Offensive line earns high grades in season-opening film review",
-      "summary": "Analysts praised the front five's protection, crediting the unit for a clean pocket all afternoon.",
-      "source": "Buckeye Sports Bulletin",
-      "url": "https://wetbandit.com/sample/sample-19",
-      "publishedAt": "2026-09-03T03:17:00+00:00",
-      "tags": [
-        "cfb",
-        "analysis"
-      ]
+      "title": "Buckeyes could be without receiver Kyle Parker to open the season",
+      "summary": "Ohio State could start the season without LSU transfer receiver Kyle Parker, who is dealing with an injury. His absence would thin a receiving corps expected to be a team strength.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/ohio-state-football-could-without-090042859.html",
+      "publishedAt": "2026-09-03T09:00:00Z",
+      "tags": ["ohio-state", "buckeyes", "injury", "receiver"]
     },
     {
-      "id": "sample-20",
+      "id": "buckeyes-03",
       "category": "buckeyes",
-      "title": "SAMPLE: Stadium renovation timeline announced with 2026 completion target",
-      "summary": "The phased upgrade adds premium seating and upgraded concessions without reducing capacity.",
-      "source": "OSU Athletics",
-      "url": "https://ohiostatebuckeyes.com/sample/sample-20",
-      "publishedAt": "2026-09-03T02:40:00+00:00",
-      "tags": [
-        "facilities",
-        "cfb"
-      ]
+      "title": "Dispatch outlines the biggest storylines entering Ohio State's 2026 season",
+      "summary": "The Columbus Dispatch previews Ohio State's top storylines entering the season, led by a daunting schedule in which six of 12 regular-season opponents were ranked in the preseason coaches poll. Heisman-hopeful playmakers also headline the discussion.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/03/ohio-state-football-biggest-storylines-entering-2026-season/91492268007/",
+      "publishedAt": "2026-09-03T13:00:00Z",
+      "tags": ["ohio-state", "buckeyes", "2026-season", "schedule"]
     },
     {
-      "id": "sample-21",
+      "id": "buckeyes-04",
+      "category": "buckeyes",
+      "title": "Ian Moore earns Ohio State's starting left tackle job",
+      "summary": "Ian Moore won Ohio State's starting left tackle spot this fall, earning the role by consistently playing at a high level. He anchors an offensive line protecting the quarterback room.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163576/ian-moore-earned-ohio-states-starting-left-tackle-spot-by-doing-his-job-at-a-high-level",
+      "publishedAt": "2026-09-03T14:00:00Z",
+      "tags": ["ohio-state", "buckeyes", "offensive-line", "starting-lineup"]
+    },
+    {
+      "id": "buckeyes-05",
+      "category": "buckeyes",
+      "title": "Ohio State adds Buckeye Stripes to end zones before season opener",
+      "summary": "Ohio State added Buckeye Stripes to Ohio Stadium's end zones ahead of Saturday's season opener against Ball State. The on-field branding change freshens the gameday look at the Shoe.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163580/ohio-state-adds-buckeye-stripes-to-end-zones-before-season-opener",
+      "publishedAt": "2026-09-03T13:00:00Z",
+      "tags": ["ohio-state", "buckeyes", "ohio-stadium", "gameday"]
+    },
+    {
+      "id": "f1-01",
       "category": "f1",
-      "title": "SAMPLE: Championship leader takes pole for the Italian Grand Prix",
-      "summary": "A blistering final lap secured the top spot, setting up a tense battle with the second-placed rival.",
-      "source": "formula1.com",
-      "url": "https://formula1.com/sample/sample-21",
-      "publishedAt": "2026-09-03T02:03:00+00:00",
-      "tags": [
-        "race",
-        "qualifying"
-      ]
+      "title": "F1 braced for wild 'MotoGP-style' Italian GP at Monza",
+      "summary": "Pundits expect the 2026 Italian GP at Monza to produce a chaotic, high-overtaking race as teams manage the new hybrid power units' energy deployment on long straights. Qualifying in particular could deliver big surprises.",
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/overtaking-records-messy-qualifying-f1-braced-wild-monza/",
+      "publishedAt": "2026-09-03T12:00:00Z",
+      "tags": ["f1", "monza", "italian-gp", "2026"]
     },
     {
-      "id": "sample-22",
+      "id": "f1-02",
       "category": "f1",
-      "title": "SAMPLE: Midfield team unveils major aerodynamic upgrade package",
-      "summary": "The update targets the floor and rear wing in a bid to close the gap to the front runners.",
-      "source": "Motorsport.com",
-      "url": "https://motorsport.com/sample/sample-22",
-      "publishedAt": "2026-09-03T01:26:00+00:00",
-      "tags": [
-        "development",
-        "upgrade"
-      ]
+      "title": "Italian GP predictions tilt toward a record-extending Ferrari home win",
+      "summary": "F1 experts predict the Italian GP could hand Ferrari a record-extending 23rd home victory, aided by an engine upgrade worth roughly 15 extra horsepower, while McLaren arrives on back-to-back wins. Kimi Antonelli's hopes are complicated by a grid penalty.",
+      "source": "F1Oversteer",
+      "url": "https://www.f1oversteer.com/races/italian-grand-prix-predictions-as-f1-experts-rate-kimi-antonellis-hopes-with-grid-penalty-at-monza/",
+      "publishedAt": "2026-09-01T16:00:00Z",
+      "tags": ["f1", "monza", "ferrari", "antonelli"]
     },
     {
-      "id": "sample-23",
+      "id": "f1-03",
       "category": "f1",
-      "title": "SAMPLE: Veteran driver signs contract extension through next season",
-      "summary": "The team confirmed the experienced racer will stay on board, ending months of speculation.",
-      "source": "Sky Sports F1",
-      "url": "https://skysports.com/sample/sample-23",
-      "publishedAt": "2026-09-03T00:49:00+00:00",
-      "tags": [
-        "driver",
-        "contract"
-      ]
+      "title": "Honda remain realistic at Monza despite upgraded power unit",
+      "summary": "Honda are keeping expectations measured ahead of the Italian Grand Prix even with an upgraded power unit for their Aston Martin customer. Monza's high-speed straights are one of the calendar's most demanding tests for any engine.",
+      "source": "GrandPrix247",
+      "url": "https://www.grandprix247.com/formula-1-news/honda-remain-realistic-ahead-of-2026-italian-grand-prix-despite-formula-1-power-unit-upgrade",
+      "publishedAt": "2026-09-03T09:00:00Z",
+      "tags": ["f1", "honda", "aston-martin", "monza"]
     },
     {
-      "id": "sample-24",
+      "id": "f1-04",
       "category": "f1",
-      "title": "SAMPLE: Stewards issue grid penalty for power unit component change",
-      "summary": "The driver will drop five places after exceeding the season's allotted engine parts.",
-      "source": "Autosport",
-      "url": "https://autosport.com/sample/sample-24",
-      "publishedAt": "2026-09-03T00:12:00+00:00",
-      "tags": [
-        "penalty",
-        "technical"
-      ]
+      "title": "Antonelli ready to help Russell in Italian GP qualifying",
+      "summary": "Andrea Kimi Antonelli said he is willing to help Mercedes teammate and title rival George Russell during Italian GP qualifying. The dynamic adds intrigue at a circuit where slipstreams can decide grid positions.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/antonelli-reveals-mercedes-italian-gp-160700594.html",
+      "publishedAt": "2026-09-03T10:00:00Z",
+      "tags": ["f1", "antonelli", "mercedes", "monza"]
     },
     {
-      "id": "sample-25",
+      "id": "f1-05",
       "category": "f1",
-      "title": "SAMPLE: Sprint weekend format tweaks approved for upcoming rounds",
-      "summary": "The revised schedule shortens practice time and reshuffles qualifying to reduce driver workload.",
-      "source": "RaceFans",
-      "url": "https://racefans.net/sample/sample-25",
-      "publishedAt": "2026-09-02T23:35:00+00:00",
-      "tags": [
-        "rules",
-        "format"
-      ]
+      "title": "Italian GP race weekend schedule and weather at Monza",
+      "summary": "Formula 1 heads to Monza this weekend with practice on Friday, qualifying Saturday (Sept. 5, 4 p.m. CEST) and the Italian Grand Prix on Sunday (Sept. 6, 3 p.m. CEST). Mild conditions are forecast across the weekend.",
+      "source": "motorsport.com",
+      "url": "https://us.motorsport.com/f1/news/f1-italian-gp-friday-schedule-weather-forecast-and-how-to-watch/10851963/",
+      "publishedAt": "2026-09-03T08:00:00Z",
+      "tags": ["f1", "italian-gp", "schedule", "monza"]
     },
     {
-      "id": "sample-26",
+      "id": "tarkov-01",
       "category": "tarkov",
-      "title": "SAMPLE: New patch introduces reworked map and weapon balance changes",
-      "summary": "The update reworks a fan-favorite location and adjusts recoil values across multiple platforms.",
-      "source": "Battlestate Games",
-      "url": "https://escapefromtarkov.com/sample/sample-26",
-      "publishedAt": "2026-09-02T22:58:00+00:00",
-      "tags": [
-        "update",
-        "patch"
-      ]
+      "title": "Escape from Tarkov 2026 roadmap promises five major updates",
+      "summary": "Battlestate Games unveiled a 2026 roadmap promising five major updates by year-end, including a September Lighthouse rework, new PvE content and a BattlePass season. The plan maps the game's direction after its first seasonal wipe structure.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/mikestubbs/2026/08/27/escape-from-tarkov-roadmap-reveals-major-2026-updates/",
+      "publishedAt": "2026-08-27T12:00:00Z",
+      "tags": ["escapefromtarkov", "roadmap", "bsg", "2026"]
     },
     {
-      "id": "sample-27",
+      "id": "tarkov-02",
       "category": "tarkov",
-      "title": "SAMPLE: Community event rewards players with rare in-game gear",
-      "summary": "A limited-time scavenger event tasks players with collecting rare items for exclusive cosmetics.",
-      "source": "Tarkov TV",
-      "url": "https://tarkov.tv/sample/sample-27",
-      "publishedAt": "2026-09-02T22:21:00+00:00",
-      "tags": [
-        "event",
-        "loot"
-      ]
+      "title": "September update 1.1.5.0 brings a Lighthouse map rework",
+      "summary": "Escape from Tarkov's 1.1.5.0 update is set to deliver a Lighthouse rework along with Lightkeeper tasks and leagues. The overhaul targets one of the most-criticized maps in the game.",
+      "source": "Guided News",
+      "url": "https://guided.news/en/news/escape-from-tarkov-roadmap-2026-updates-boss-weapons/",
+      "publishedAt": "2026-08-28T15:00:00Z",
+      "tags": ["escapefromtarkov", "lighthouse", "patch", "1.1.5"]
     },
     {
-      "id": "sample-28",
+      "id": "tarkov-03",
       "category": "tarkov",
-      "title": "SAMPLE: Developers detail upcoming wipe and progression reset plans",
-      "summary": "The next wipe resets character progress and introduces seasonal objectives, the studio announced.",
-      "source": "PC Gamer",
-      "url": "https://pcgamer.com/sample/sample-28",
-      "publishedAt": "2026-09-02T21:44:00+00:00",
-      "tags": [
-        "wipe",
-        "progression"
-      ]
+      "title": "Roadmap reveals new boss, weapons and mechanics coming to Tarkov",
+      "summary": "A preliminary roadmap reveals new bosses, weapons and mechanics headed to Escape from Tarkov in 2026, beginning with the Lighthouse overhaul in September. Battlestate cautioned the plan could still change.",
+      "source": "Insider Gaming",
+      "url": "https://www.insider-gaming.com/escape-from-tarkov-roadmap-boss-weapons-mechanics/",
+      "publishedAt": "2026-08-28T14:00:00Z",
+      "tags": ["escapefromtarkov", "roadmap", "boss", "weapons"]
     },
     {
-      "id": "sample-29",
+      "id": "tarkov-04",
       "category": "tarkov",
-      "title": "SAMPLE: Anti-cheat ban wave targets thousands of accounts",
-      "summary": "The latest enforcement effort removed a wave of detected cheaters ahead of the new season.",
-      "source": "Tarkov Community",
-      "url": "https://eft.community/sample/sample-29",
-      "publishedAt": "2026-09-02T21:07:00+00:00",
-      "tags": [
-        "anti-cheat",
-        "ban"
-      ]
+      "title": "Tarkov's first in-game season begins with patch 1.1.0.0",
+      "summary": "Escape from Tarkov kicked off its first in-game season with patch 1.1.0.0, introducing a seasonal structure that resets progression every four to six months. It marks a major shift in how the extraction shooter is played.",
+      "source": "escapefromtarkov.com",
+      "url": "https://www.escapefromtarkov.com/news",
+      "publishedAt": "2026-08-03T12:00:00Z",
+      "tags": ["escapefromtarkov", "patch", "1.1.0", "season"]
     },
     {
-      "id": "sample-30",
+      "id": "tarkov-05",
       "category": "tarkov",
-      "title": "SAMPLE: New weapons trader questline leaked in test build",
-      "summary": "Dataminers uncovered a multi-stage quest chain tied to a previously teasered trader.",
-      "source": "Reddit r/EscapefromTarkov",
-      "url": "https://reddit.com/sample/sample-30",
-      "publishedAt": "2026-09-02T20:30:00+00:00",
-      "tags": [
-        "quests",
-        "leak"
-      ]
+      "title": "TarkovTV lays out Lighthouse expansion, leagues and streamer events",
+      "summary": "A TarkovTV summary details upcoming patch content, including a Lighthouse expansion, leagues and BTR additions on the map, plus streamer events scheduled for August and September. The community is gearing up for the Lighthouse overhaul.",
+      "source": "Reddit (r/EscapefromTarkov)",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1vkqdlp/discussion_tarkovtv_summary_thread_10082026/",
+      "publishedAt": "2026-08-10T15:00:00Z",
+      "tags": ["escapefromtarkov", "tarkovtv", "lighthouse", "community"]
     },
     {
-      "id": "sample-31",
+      "id": "local-01",
       "category": "local",
-      "title": "SAMPLE: City council approves funding for downtown infrastructure project",
-      "summary": "The measure allocates funds for road and sidewalk improvements along a busy commercial corridor.",
-      "source": "Columbus Dispatch",
-      "url": "https://dispatch.com/sample/sample-31",
-      "publishedAt": "2026-09-02T19:53:00+00:00",
-      "tags": [
-        "government",
-        "infrastructure"
-      ]
+      "title": "Columbus City Schools break ground on construction-training housing project",
+      "summary": "Columbus City Schools broke ground on a workforce-development housing project on Gibbard Avenue in the Milo-Grogan neighborhood, giving students hands-on construction and trades training. The program ties education to a housing construction pipeline.",
+      "source": "ABC6 (WSYX)",
+      "url": "https://abc6onyourside.com/news/local/columbus-city-schools-break-ground-on-hands-on-construction-training-housing-project-gibbard-avenue-milo-grogan-neighborhood-workforce-skills",
+      "publishedAt": "2026-09-03T13:00:00Z",
+      "tags": ["columbus", "education", "construction", "workforce"]
     },
     {
-      "id": "sample-32",
+      "id": "local-02",
       "category": "local",
-      "title": "SAMPLE: Gahanna school board sets calendar for the coming academic year",
-      "summary": "The approved schedule includes two built-in weather make-up days and an earlier fall start.",
-      "source": "ThisWeek Community News",
-      "url": "https://thisweeknews.com/sample/sample-32",
-      "publishedAt": "2026-09-02T19:16:00+00:00",
-      "tags": [
-        "schools",
-        "calendar"
-      ]
+      "title": "Columbus pauses Flock license-plate readers amid misuse probe",
+      "summary": "Mayor Andrew Ginther paused the city's use of Flock license-plate readers while police investigate alleged misuse, including an officer who searched one plate more than 270 times. The move follows broader privacy concerns over the surveillance technology.",
+      "source": "ThisWeek Columbus",
+      "url": "https://www.thisweeknews.com/story/news/local/2026/09/03/columbus-mayor-andrew-ginther-pauses-flock-license-plate-reader-cameras/91591157007/",
+      "publishedAt": "2026-09-03T11:00:00Z",
+      "tags": ["columbus", "surveillance", "privacy", "police"]
     },
     {
-      "id": "sample-33",
+      "id": "local-03",
       "category": "local",
-      "title": "SAMPLE: New mixed-use development breaks ground near Gahanna",
-      "summary": "The project will combine retail, office and residential space in a walkable district, developers said.",
+      "title": "New Sheetz in Gahanna sells for $3.4 million",
+      "summary": "A newly built Sheetz gas station and convenience store in Gahanna sold for $3.4 million in an all-cash transaction. The sale reflects continued commercial investment along the city's high-traffic corridors.",
       "source": "Columbus Business First",
-      "url": "https://bizjournals.com/sample/sample-33",
-      "publishedAt": "2026-09-02T18:39:00+00:00",
-      "tags": [
-        "development",
-        "housing"
-      ]
+      "url": "https://www.bizjournals.com/columbus/news/2026/09/01/sheetz-convenience-store-gahanna-sells.html",
+      "publishedAt": "2026-09-01T15:00:00Z",
+      "tags": ["gahanna", "real-estate", "development", "commercial"]
     },
     {
-      "id": "sample-34",
+      "id": "local-04",
       "category": "local",
-      "title": "SAMPLE: Local food festival returns this weekend with expanded vendor lineup",
-      "summary": "Organizers expect record turnout as dozens of food trucks and vendors fill the park through Sunday.",
-      "source": "614 Magazine",
-      "url": "https://614now.com/sample/sample-34",
-      "publishedAt": "2026-09-02T18:02:00+00:00",
-      "tags": [
-        "events",
-        "food"
-      ]
+      "title": "Columbus unveils zoning overhaul covering nearly half the city",
+      "summary": "The City of Columbus released draft zoning changes for about 40% of the city — the second phase of its Zone In reform — with a 60-day public comment period running through Oct. 24. Officials say the new districts could raise housing capacity to roughly 119,000 new homes.",
+      "source": "Columbus Underground",
+      "url": "https://columbusunderground.com/new-zoning-changes-covering-nearly-half-of-city-unveiled-bw1/",
+      "publishedAt": "2026-08-21T19:00:00Z",
+      "tags": ["columbus", "zoning", "housing", "development"]
     },
     {
-      "id": "sample-35",
+      "id": "local-05",
       "category": "local",
-      "title": "SAMPLE: Metro parks announces fall trail maintenance schedule",
-      "summary": "Crews will close segments of several trails on weekdays through October for resurfacing work.",
-      "source": "Columbus Rec & Parks",
-      "url": "https://columbus.gov/sample/sample-35",
-      "publishedAt": "2026-09-02T17:25:00+00:00",
-      "tags": [
-        "parks",
-        "trails"
-      ]
+      "title": "Gahanna businesses, city crews clean up after widespread flooding",
+      "summary": "Gahanna businesses and city crews continued cleanup after widespread flooding sent water through roads, businesses and public spaces, including along Hamilton Road and Rock Fork Creek. The event keeps the spotlight on the area's flood-mitigation work.",
+      "source": "Fox 28 Columbus",
+      "url": "https://myfox28columbus.com/news/gahanna-businesses-city-crews-clean-up-after-widespread-flooding-gatsbys-bar-and-grille-hamilton-road-rock-fork-creek",
+      "publishedAt": "2026-08-21T18:00:00Z",
+      "tags": ["gahanna", "flooding", "weather", "cleanup"]
     }
   ]
 }
