@@ -1,0 +1,465 @@
+{
+  "meta": {
+    "updatedAt": "2026-09-03T15:00:00+00:00",
+    "generatedBy": "sample",
+    "title": "Daily Brief",
+    "count": 35
+  },
+  "stories": [
+    {
+      "id": "sample-01",
+      "category": "top",
+      "title": "SAMPLE: Global markets react to central bank rate decision, indexes mixed",
+      "summary": "Equities wavered after the central bank held rates steady while signaling future tightening. Analysts see volatility persisting through the quarter.",
+      "source": "Reuters",
+      "url": "https://reuters.com/sample/sample-01",
+      "publishedAt": "2026-09-03T14:23:00+00:00",
+      "tags": [
+        "markets",
+        "economy"
+      ]
+    },
+    {
+      "id": "sample-02",
+      "category": "top",
+      "title": "SAMPLE: World leaders gather for climate summit as targets come under scrutiny",
+      "summary": "Delegates convened to review stalled emissions pledges, with several nations facing pressure to strengthen commitments.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/sample/sample-02",
+      "publishedAt": "2026-09-03T13:46:00+00:00",
+      "tags": [
+        "climate",
+        "politics"
+      ]
+    },
+    {
+      "id": "sample-03",
+      "category": "top",
+      "title": "SAMPLE: Humanitarian aid corridor reopens after ceasefire agreement",
+      "summary": "A temporary ceasefire allowed convoys to reach affected regions for the first time in weeks, aid groups confirmed.",
+      "source": "BBC News",
+      "url": "https://bbc.com/sample/sample-03",
+      "publishedAt": "2026-09-03T13:09:00+00:00",
+      "tags": [
+        "aid",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "sample-04",
+      "category": "top",
+      "title": "SAMPLE: Major earthquake strikes coastal region, relief efforts underway",
+      "summary": "A magnitude 7.1 quake damaged infrastructure and prompted rescue operations as officials assessed the toll.",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/sample/sample-04",
+      "publishedAt": "2026-09-03T12:32:00+00:00",
+      "tags": [
+        "disaster",
+        "rescue"
+      ]
+    },
+    {
+      "id": "sample-05",
+      "category": "top",
+      "title": "SAMPLE: Landmark trade pact signed between regional economic blocs",
+      "summary": "The agreement removes tariffs on a range of goods and is expected to boost cross-border commerce over the next decade.",
+      "source": "Financial Times",
+      "url": "https://ft.com/sample/sample-05",
+      "publishedAt": "2026-09-03T11:55:00+00:00",
+      "tags": [
+        "trade",
+        "economy"
+      ]
+    },
+    {
+      "id": "sample-06",
+      "category": "tech",
+      "title": "SAMPLE: New open-source model rivals frontier performance on reasoning benchmarks",
+      "summary": "A lean language model posted competitive scores while running on a fraction of the compute of larger peers.",
+      "source": "The Verge",
+      "url": "https://theverge.com/sample/sample-06",
+      "publishedAt": "2026-09-03T11:18:00+00:00",
+      "tags": [
+        "ai",
+        "open-source"
+      ]
+    },
+    {
+      "id": "sample-07",
+      "category": "tech",
+      "title": "SAMPLE: Chipmaker unveils next-gen accelerators targeted at inference workloads",
+      "summary": "The new silicon promises up to two times throughput for large-scale AI serving with lower power draw.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/sample/sample-07",
+      "publishedAt": "2026-09-03T10:41:00+00:00",
+      "tags": [
+        "hardware",
+        "ai"
+      ]
+    },
+    {
+      "id": "sample-08",
+      "category": "tech",
+      "title": "SAMPLE: Regulators propose disclosure rules for consumer AI systems",
+      "summary": "The draft framework would require developers to document training data and safety test results before release.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/sample/sample-08",
+      "publishedAt": "2026-09-03T10:04:00+00:00",
+      "tags": [
+        "policy",
+        "ai"
+      ]
+    },
+    {
+      "id": "sample-09",
+      "category": "tech",
+      "title": "SAMPLE: Quantum computing startup claims error-correction milestone",
+      "summary": "Researchers reported sustained logical qubit stability, a step toward fault-tolerant quantum hardware.",
+      "source": "Wired",
+      "url": "https://wired.com/sample/sample-09",
+      "publishedAt": "2026-09-03T09:27:00+00:00",
+      "tags": [
+        "quantum",
+        "research"
+      ]
+    },
+    {
+      "id": "sample-10",
+      "category": "tech",
+      "title": "SAMPLE: Smartphone makers shift focus to on-device AI assistants",
+      "summary": "Flagship devices now ship with local models for privacy-focused voice and text workflows, vendors said.",
+      "source": "CNET",
+      "url": "https://cnet.com/sample/sample-10",
+      "publishedAt": "2026-09-03T08:50:00+00:00",
+      "tags": [
+        "mobile",
+        "ai"
+      ]
+    },
+    {
+      "id": "sample-11",
+      "category": "browns",
+      "title": "SAMPLE: Starting quarterback cleared to return ahead of divisional matchup",
+      "summary": "The veteran signal-caller practiced in full and is expected to start after missing two games with a shoulder injury.",
+      "source": "ESPN",
+      "url": "https://espn.com/sample/sample-11",
+      "publishedAt": "2026-09-03T08:13:00+00:00",
+      "tags": [
+        "nfl",
+        "injury"
+      ]
+    },
+    {
+      "id": "sample-12",
+      "category": "browns",
+      "title": "SAMPLE: Defense holds strong in statement win over AFC rival",
+      "summary": "The unit forced three turnovers and racked up five sacks as Cleveland moved back above .500.",
+      "source": "Cleveland.com",
+      "url": "https://cleveland.com/sample/sample-12",
+      "publishedAt": "2026-09-03T07:36:00+00:00",
+      "tags": [
+        "nfl",
+        "defense"
+      ]
+    },
+    {
+      "id": "sample-13",
+      "category": "browns",
+      "title": "SAMPLE: Rookie wide receiver earns offensive player of the week honors",
+      "summary": "The first-year pass-catcher totaled 140 yards and two scores in a breakout performance.",
+      "source": "NFL",
+      "url": "https://nfl.com/sample/sample-13",
+      "publishedAt": "2026-09-03T06:59:00+00:00",
+      "tags": [
+        "nfl",
+        "rookie"
+      ]
+    },
+    {
+      "id": "sample-14",
+      "category": "browns",
+      "title": "SAMPLE: Front office extends anchor offensive lineman on multi-year deal",
+      "summary": "The contract keeps the Pro Bowl guard in brown and orange through the 2029 season.",
+      "source": "Browns.com",
+      "url": "https://clevelandbrowns.com/sample/sample-14",
+      "publishedAt": "2026-09-03T06:22:00+00:00",
+      "tags": [
+        "contract",
+        "nfl"
+      ]
+    },
+    {
+      "id": "sample-15",
+      "category": "browns",
+      "title": "SAMPLE: Injury report: two starters limited in Wednesday practice",
+      "summary": "Coaches remained optimistic on availability but listed both as questionable for the weekend.",
+      "source": "CBS Sports",
+      "url": "https://cbssports.com/sample/sample-15",
+      "publishedAt": "2026-09-03T05:45:00+00:00",
+      "tags": [
+        "nfl",
+        "injury"
+      ]
+    },
+    {
+      "id": "sample-16",
+      "category": "buckeyes",
+      "title": "SAMPLE: Buckeyes move up in AP poll after dominant road victory",
+      "summary": "Ohio State climbed two spots following a lopsided win over a ranked conference opponent.",
+      "source": "Eleven Warriors",
+      "url": "https://elevenwarriors.com/sample/sample-16",
+      "publishedAt": "2026-09-03T05:08:00+00:00",
+      "tags": [
+        "cfb",
+        "rankings"
+      ]
+    },
+    {
+      "id": "sample-17",
+      "category": "buckeyes",
+      "title": "SAMPLE: Quarterback depth chart settled as opener approaches",
+      "summary": "The coaching staff named a starter and confirmed the rotation plan for the season kickoff.",
+      "source": "The Columbus Dispatch",
+      "url": "https://dispatch.com/sample/sample-17",
+      "publishedAt": "2026-09-03T04:31:00+00:00",
+      "tags": [
+        "cfb",
+        "quarterback"
+      ]
+    },
+    {
+      "id": "sample-18",
+      "category": "buckeyes",
+      "title": "SAMPLE: Five-star safety commits to Ohio State over two rivals",
+      "summary": "The top-ranked defensive back announced his decision Friday, bolstering the 2027 recruiting class.",
+      "source": "247Sports",
+      "url": "https://247sports.com/sample/sample-18",
+      "publishedAt": "2026-09-03T03:54:00+00:00",
+      "tags": [
+        "recruiting",
+        "cfb"
+      ]
+    },
+    {
+      "id": "sample-19",
+      "category": "buckeyes",
+      "title": "SAMPLE: Offensive line earns high grades in season-opening film review",
+      "summary": "Analysts praised the front five's protection, crediting the unit for a clean pocket all afternoon.",
+      "source": "Buckeye Sports Bulletin",
+      "url": "https://wetbandit.com/sample/sample-19",
+      "publishedAt": "2026-09-03T03:17:00+00:00",
+      "tags": [
+        "cfb",
+        "analysis"
+      ]
+    },
+    {
+      "id": "sample-20",
+      "category": "buckeyes",
+      "title": "SAMPLE: Stadium renovation timeline announced with 2026 completion target",
+      "summary": "The phased upgrade adds premium seating and upgraded concessions without reducing capacity.",
+      "source": "OSU Athletics",
+      "url": "https://ohiostatebuckeyes.com/sample/sample-20",
+      "publishedAt": "2026-09-03T02:40:00+00:00",
+      "tags": [
+        "facilities",
+        "cfb"
+      ]
+    },
+    {
+      "id": "sample-21",
+      "category": "f1",
+      "title": "SAMPLE: Championship leader takes pole for the Italian Grand Prix",
+      "summary": "A blistering final lap secured the top spot, setting up a tense battle with the second-placed rival.",
+      "source": "formula1.com",
+      "url": "https://formula1.com/sample/sample-21",
+      "publishedAt": "2026-09-03T02:03:00+00:00",
+      "tags": [
+        "race",
+        "qualifying"
+      ]
+    },
+    {
+      "id": "sample-22",
+      "category": "f1",
+      "title": "SAMPLE: Midfield team unveils major aerodynamic upgrade package",
+      "summary": "The update targets the floor and rear wing in a bid to close the gap to the front runners.",
+      "source": "Motorsport.com",
+      "url": "https://motorsport.com/sample/sample-22",
+      "publishedAt": "2026-09-03T01:26:00+00:00",
+      "tags": [
+        "development",
+        "upgrade"
+      ]
+    },
+    {
+      "id": "sample-23",
+      "category": "f1",
+      "title": "SAMPLE: Veteran driver signs contract extension through next season",
+      "summary": "The team confirmed the experienced racer will stay on board, ending months of speculation.",
+      "source": "Sky Sports F1",
+      "url": "https://skysports.com/sample/sample-23",
+      "publishedAt": "2026-09-03T00:49:00+00:00",
+      "tags": [
+        "driver",
+        "contract"
+      ]
+    },
+    {
+      "id": "sample-24",
+      "category": "f1",
+      "title": "SAMPLE: Stewards issue grid penalty for power unit component change",
+      "summary": "The driver will drop five places after exceeding the season's allotted engine parts.",
+      "source": "Autosport",
+      "url": "https://autosport.com/sample/sample-24",
+      "publishedAt": "2026-09-03T00:12:00+00:00",
+      "tags": [
+        "penalty",
+        "technical"
+      ]
+    },
+    {
+      "id": "sample-25",
+      "category": "f1",
+      "title": "SAMPLE: Sprint weekend format tweaks approved for upcoming rounds",
+      "summary": "The revised schedule shortens practice time and reshuffles qualifying to reduce driver workload.",
+      "source": "RaceFans",
+      "url": "https://racefans.net/sample/sample-25",
+      "publishedAt": "2026-09-02T23:35:00+00:00",
+      "tags": [
+        "rules",
+        "format"
+      ]
+    },
+    {
+      "id": "sample-26",
+      "category": "tarkov",
+      "title": "SAMPLE: New patch introduces reworked map and weapon balance changes",
+      "summary": "The update reworks a fan-favorite location and adjusts recoil values across multiple platforms.",
+      "source": "Battlestate Games",
+      "url": "https://escapefromtarkov.com/sample/sample-26",
+      "publishedAt": "2026-09-02T22:58:00+00:00",
+      "tags": [
+        "update",
+        "patch"
+      ]
+    },
+    {
+      "id": "sample-27",
+      "category": "tarkov",
+      "title": "SAMPLE: Community event rewards players with rare in-game gear",
+      "summary": "A limited-time scavenger event tasks players with collecting rare items for exclusive cosmetics.",
+      "source": "Tarkov TV",
+      "url": "https://tarkov.tv/sample/sample-27",
+      "publishedAt": "2026-09-02T22:21:00+00:00",
+      "tags": [
+        "event",
+        "loot"
+      ]
+    },
+    {
+      "id": "sample-28",
+      "category": "tarkov",
+      "title": "SAMPLE: Developers detail upcoming wipe and progression reset plans",
+      "summary": "The next wipe resets character progress and introduces seasonal objectives, the studio announced.",
+      "source": "PC Gamer",
+      "url": "https://pcgamer.com/sample/sample-28",
+      "publishedAt": "2026-09-02T21:44:00+00:00",
+      "tags": [
+        "wipe",
+        "progression"
+      ]
+    },
+    {
+      "id": "sample-29",
+      "category": "tarkov",
+      "title": "SAMPLE: Anti-cheat ban wave targets thousands of accounts",
+      "summary": "The latest enforcement effort removed a wave of detected cheaters ahead of the new season.",
+      "source": "Tarkov Community",
+      "url": "https://eft.community/sample/sample-29",
+      "publishedAt": "2026-09-02T21:07:00+00:00",
+      "tags": [
+        "anti-cheat",
+        "ban"
+      ]
+    },
+    {
+      "id": "sample-30",
+      "category": "tarkov",
+      "title": "SAMPLE: New weapons trader questline leaked in test build",
+      "summary": "Dataminers uncovered a multi-stage quest chain tied to a previously teasered trader.",
+      "source": "Reddit r/EscapefromTarkov",
+      "url": "https://reddit.com/sample/sample-30",
+      "publishedAt": "2026-09-02T20:30:00+00:00",
+      "tags": [
+        "quests",
+        "leak"
+      ]
+    },
+    {
+      "id": "sample-31",
+      "category": "local",
+      "title": "SAMPLE: City council approves funding for downtown infrastructure project",
+      "summary": "The measure allocates funds for road and sidewalk improvements along a busy commercial corridor.",
+      "source": "Columbus Dispatch",
+      "url": "https://dispatch.com/sample/sample-31",
+      "publishedAt": "2026-09-02T19:53:00+00:00",
+      "tags": [
+        "government",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "sample-32",
+      "category": "local",
+      "title": "SAMPLE: Gahanna school board sets calendar for the coming academic year",
+      "summary": "The approved schedule includes two built-in weather make-up days and an earlier fall start.",
+      "source": "ThisWeek Community News",
+      "url": "https://thisweeknews.com/sample/sample-32",
+      "publishedAt": "2026-09-02T19:16:00+00:00",
+      "tags": [
+        "schools",
+        "calendar"
+      ]
+    },
+    {
+      "id": "sample-33",
+      "category": "local",
+      "title": "SAMPLE: New mixed-use development breaks ground near Gahanna",
+      "summary": "The project will combine retail, office and residential space in a walkable district, developers said.",
+      "source": "Columbus Business First",
+      "url": "https://bizjournals.com/sample/sample-33",
+      "publishedAt": "2026-09-02T18:39:00+00:00",
+      "tags": [
+        "development",
+        "housing"
+      ]
+    },
+    {
+      "id": "sample-34",
+      "category": "local",
+      "title": "SAMPLE: Local food festival returns this weekend with expanded vendor lineup",
+      "summary": "Organizers expect record turnout as dozens of food trucks and vendors fill the park through Sunday.",
+      "source": "614 Magazine",
+      "url": "https://614now.com/sample/sample-34",
+      "publishedAt": "2026-09-02T18:02:00+00:00",
+      "tags": [
+        "events",
+        "food"
+      ]
+    },
+    {
+      "id": "sample-35",
+      "category": "local",
+      "title": "SAMPLE: Metro parks announces fall trail maintenance schedule",
+      "summary": "Crews will close segments of several trails on weekdays through October for resurfacing work.",
+      "source": "Columbus Rec & Parks",
+      "url": "https://columbus.gov/sample/sample-35",
+      "publishedAt": "2026-09-02T17:25:00+00:00",
+      "tags": [
+        "parks",
+        "trails"
+      ]
+    }
+  ]
+}

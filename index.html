@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Brief</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="site-title">Daily Brief</h1>
+      <div class="header-actions">
+        <span id="last-updated" class="last-updated" aria-live="polite">Last updated: &mdash;</span>
+        <button id="refresh-btn" class="refresh-btn" type="button" aria-label="Refresh news">Refresh</button>
+      </div>
+    </div>
+
+    <nav class="filter-bar" aria-label="Category filter">
+      <div class="filter-inner" id="filter-bar">
+        <!-- chips rendered by app.js -->
+      </div>
+    </nav>
+  </header>
+
+  <main class="page">
+    <noscript>
+      <p class="error-banner">
+        JavaScript is disabled. This dashboard loads its news content dynamically and needs JavaScript to display stories.
+      </p>
+    </noscript>
+
+    <div id="error-banner" class="error-banner" hidden role="alert"></div>
+
+    <div id="stories" aria-label="Stories"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
