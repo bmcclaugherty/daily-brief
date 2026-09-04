@@ -1,534 +1,413 @@
 {
   "meta": {
-    "updatedAt": "2026-09-04T16:11:22Z",
+    "updatedAt": "2026-09-04T16:45:27Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
-    "count": 35
+    "windowHours": 12,
+    "count": 28
   },
   "stories": [
     {
-      "id": "top-nepal-survivors",
+      "id": "top-nepal-tunnel",
       "category": "top",
-      "title": "Hope fading for survivors a week after Nepal flash flood",
-      "summary": "Rescuers in Nepal's mountains are still searching for survivors a week after a glacier-collapse flood swept villages near the Tibet border, killing more than 1,100 and leaving thousands missing. The disaster has strained Himalayan rescue operations stretched across two nations.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/pictures/hope-fading-survivors-week-after-devastating-flood-nepal-2026-09-02/4ILNWPFOZJNBDPR4MSTJTT6WEI/",
-      "publishedAt": "2026-09-02T00:00:00Z",
+      "title": "Rescuers pull survivors from flooded Nepal tunnel as glacier-collapse toll nears 1,300",
+      "summary": "Rescue teams in Nepal's Rasuwa district reached survivors trapped in a Trishuli-3A hydropower tunnel after flash flooding, pulling two out alive as one was found dead. A tunnelling expert says a 'Goldilocks zone' may hold more survivors, in a disaster that has killed nearly 1,300.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/cmwyz5er2lwnt",
+      "publishedAt": "2026-09-04T13:15:00Z",
       "tags": [
-        "flood",
-        "nepal",
-        "disaster",
-        "himalayas"
+        "Nepal",
+        "flooding",
+        "rescue"
       ]
     },
     {
-      "id": "top-grand-canyon-flood",
+      "id": "top-iran-vance",
       "category": "top",
-      "title": "Flash flood in Grand Canyon kills at least 2, a dozen still missing",
-      "summary": "A flash flood tore through part of the Grand Canyon, killing at least two people with more than a dozen still missing. Search efforts continue as officials warn of the danger of rapid water in the canyon's narrow slots.",
-      "source": "10TV/AP",
-      "url": "https://www.10tv.com/article/news/nation-world/flash-flood-grand-canyon/507-76a50d30-780a-44ba-93f6-da8510924e49",
-      "publishedAt": "2026-09-03T00:00:00Z",
+      "title": "U.S. conflict with Iran enters 7th month; Vance says I wouldn't call this a war",
+      "summary": "As the U.S.-Iran conflict reaches seven months, Vice President JD Vance played down the label of war and said Washington will investigate a recent missile strike while doubting U.S. involvement. The remarks come amid sharp escalation fears after strikes exchanged in the Gulf.",
+      "source": "Democracy Now",
+      "url": "https://www.democracynow.org/2026/9/4/headlines/as_us_conflict_with_iran_enters_7th_month_vance_declares_i_wouldnt_call_this_a_war",
+      "publishedAt": "2026-09-04T12:30:00Z",
       "tags": [
-        "flood",
-        "grand-canyon",
-        "national-park",
-        "search"
+        "Iran",
+        "US",
+        "Vance",
+        "conflict"
       ]
     },
     {
-      "id": "top-americans-missing-nepal",
+      "id": "top-israel-gaza",
       "category": "top",
-      "title": "Dozens of American families still waiting for news after Nepal flood",
-      "summary": "U.S. officials confirm American citizens remain unaccounted for in the Nepal flash flood, leaving families without answers a week on. The case underscores how far the disaster's toll reaches beyond the region.",
-      "source": "10TV/AP",
-      "url": "https://www.10tv.com/article/news/nation-world/americans-still-missing-nepal-flooding/507-80e1fd34-6e7e-47a5-bea9-9f13fc96e7a1",
-      "publishedAt": "2026-09-03T00:00:00Z",
+      "title": "Israel's national security minister outlines plan to expel all Palestinians from Gaza Strip",
+      "summary": "Israel's National Security Minister has publicly laid out a plan calling for the expulsion of all Palestinians from the Gaza Strip. The proposal drew immediate criticism from rights groups and raised alarm about a further escalation of Israel's campaign in the enclave.",
+      "source": "Democracy Now",
+      "url": "https://www.democracynow.org/2026/9/4/headlines/israels_national_security_minister_outlines_plan_to_expel_all_palestinians_from_gaza_strip",
+      "publishedAt": "2026-09-04T12:15:00Z",
       "tags": [
-        "nepal",
-        "flood",
-        "americans",
-        "missing"
+        "Gaza",
+        "Israel",
+        "Middle East"
       ]
     },
     {
-      "id": "top-messi-retires",
+      "id": "top-un-climate",
       "category": "top",
-      "title": "Messi announces retirement from Argentina's national team",
-      "summary": "Lionel Messi said he is retiring from playing for Argentina's national side after a career spanning six World Cups, including the 2022 title in Qatar and a runner-up finish in 2026. His departure closes one of the most decorated international careers in soccer history.",
-      "source": "10TV/AP",
-      "url": "https://www.10tv.com/article/news/nation-world/lionel-messi-retiring-playing-for-argentina-national-team/507-079fd461-5fbd-4166-9b82-a7e4c6a92ce6",
-      "publishedAt": "2026-09-03T00:00:00Z",
+      "title": "U.N. warns the world will overshoot 1.5C global heating limit",
+      "summary": "The United Nations warned that the world is on track to overshoot the 1.5C Paris Agreement limit on global heating, in a new assessment published Friday. The report sharpens pressure on governments ahead of upcoming climate talks.",
+      "source": "Democracy Now",
+      "url": "https://www.democracynow.org/2026/9/4/headlines/un_warns_the_world_will_overshoot_15_c_limit_to_global_heating",
+      "publishedAt": "2026-09-04T11:45:00Z",
       "tags": [
-        "messi",
-        "soccer",
-        "argentina",
-        "retirement"
+        "climate",
+        "UN",
+        "1.5C"
       ]
     },
     {
-      "id": "top-kalshi-santos",
-      "category": "top",
-      "title": "Kalshi bans ex-Congressman George Santos for life over suspected insider trading",
-      "summary": "Betting platform Kalshi said it permanently banned former U.S. Rep. George Santos after concluding he likely traded on non-public information. The move adds another legal headache for Santos, who has faced repeated fraud and ethics scrutiny.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/nation-world/kalshi-george-santos-ban/507-f55c2ffa-114d-46de-a17a-8a9bd7d361e3",
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "tags": [
-        "santos",
-        "kalshi",
-        "insider-trading",
-        "politics"
-      ]
-    },
-    {
-      "id": "tech-openai-astra",
+      "id": "tech-agents-tools",
       "category": "tech",
-      "title": "OpenAI launches GPT-6 Astra, calling it a 'generational leap'",
-      "summary": "OpenAI released GPT-6 Astra, its most capable model for complex coding, research and computer-use tasks, with president Greg Brockman calling it a generational leap toward AGI. Access to its most advanced cybersecurity capabilities will be limited.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "publishedAt": "2026-09-03T00:00:00Z",
+      "title": "Which tools do Claude, Codex and Cursor choose? Study measures 17,000 agent runs",
+      "summary": "A new analysis of more than 17,000 coding-agent runs measures which developer tools Claude, Codex and Cursor actually reach for. The data gives engineers a look at agent tool habits as AI coding assistants become standard workflow.",
+      "source": "Hacker News (armature.tech)",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "publishedAt": "2026-09-04T15:45:00Z",
       "tags": [
-        "openai",
-        "gpt-6",
-        "astra",
-        "ai"
+        "AI-agents",
+        "coding",
+        "tools"
       ]
     },
     {
-      "id": "tech-nvidia-huggingface",
+      "id": "tech-gpt6-astra",
       "category": "tech",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "summary": "Nvidia confirmed plans to acquire AI hub Hugging Face for $12.9 billion, one of the largest deals in the AI ecosystem. The purchase gives Nvidia control of a central platform where developers share and host open-source models.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "publishedAt": "2026-09-03T00:00:00Z",
+      "title": "OpenAI releases GPT-6 Astra",
+      "summary": "OpenAI has launched GPT-6 Astra, its next frontier model generation. The release, topping Hacker News, signals another step in frontier-model competition as OpenAI pushes multimodal and agentic capabilities.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "publishedAt": "2026-09-04T12:45:00Z",
       "tags": [
-        "nvidia",
-        "hugging-face",
-        "acquisition",
-        "ai"
+        "OpenAI",
+        "GPT-6",
+        "AI-models"
       ]
     },
     {
-      "id": "tech-astra-safety",
+      "id": "tech-qwen-cerebras",
       "category": "tech",
-      "title": "OpenAI's new reasoning technique alarms AI safety experts",
-      "summary": "A technique tied to OpenAI's Astra model, which is adept at breaking into computer systems, is drawing concern from AI safety researchers. Experts warn the capability raises questions about how well the frontier model can be contained.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "publishedAt": "2026-09-02T00:00:00Z",
+      "title": "Qwen 3.8 27B available on Cerebras at 1,500 tokens per second",
+      "summary": "The Qwen 3.8 27B model is now served on Cerebras hardware at roughly 1,500 tokens per second inference. The deployment highlights how optimized inference hardware is making large open-weight models dramatically faster for developers.",
+      "source": "Cerebras",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "publishedAt": "2026-09-04T12:40:00Z",
       "tags": [
-        "openai",
-        "ai-safety",
-        "reasoning",
-        "astra"
+        "Qwen",
+        "Cerebras",
+        "open-models",
+        "inference"
       ]
     },
     {
-      "id": "tech-copyright",
+      "id": "tech-k2-horizon",
       "category": "tech",
-      "title": "US government sides with OpenAI on training on copyrighted material",
-      "summary": "The U.S. government signaled support for OpenAI's position that training large language models on copyrighted material can be fair use. The stance could shape the legal ground for how AI companies build and train their models.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "publishedAt": "2026-09-02T00:00:00Z",
+      "title": "K2 Horizon: connected fleet of six open models released",
+      "summary": "Ifm.ai released K2 Horizon, a connected fleet of six open models designed to work together across capabilities. The open release adds another option for teams building multi-model AI systems without vendor lock-in.",
+      "source": "ifm.ai (via Hacker News)",
+      "url": "https://ifm.ai/blog/k2/",
+      "publishedAt": "2026-09-04T09:45:00Z",
       "tags": [
-        "openai",
-        "copyright",
-        "fair-use",
-        "llm"
+        "open-models",
+        "AI",
+        "K2"
       ]
     },
     {
-      "id": "tech-anthropic-fable",
-      "category": "tech",
-      "title": "Anthropic's new Fable release is cheaper and less restrictive",
-      "summary": "Anthropic issued a new Fable release that lowers cost and relaxes usage limits on its models. The move positions Anthropic to better compete on price while keeping capability.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "publishedAt": "2026-09-01T00:00:00Z",
-      "tags": [
-        "anthropic",
-        "fable",
-        "llm",
-        "pricing"
-      ]
-    },
-    {
-      "id": "browns-watson-starter",
+      "id": "browns-watson-weapon",
       "category": "browns",
-      "title": "Browns name Deshaun Watson starting QB, make roster moves",
-      "summary": "Cleveland named Deshaun Watson its starting quarterback for the 2026 season after a preseason competition with Shedeur Sanders; coach Kevin Stefanski said Watson gives the team its best chance to win. The decision triggered further roster adjustments, including waiving TE Dea'Quan Wright, who may return to college at LSU.",
-      "source": "Athlon Sports",
-      "url": "https://athlonsports.com/nfl/trending/browns-make-roster-move-after-major-deshaun-watson-decision",
-      "publishedAt": "2026-08-24T00:00:00Z",
+      "title": "Browns urged to pair Deshaun Watson with 6-foot-8 target, but they shouldn't, says Sporting News",
+      "summary": "With Deshaun Watson confirmed as Cleveland's Week 1 starter, pundits are debating whether the Browns should add a 6-foot-8 deep threat for him - a move The Sporting News argues against. The analysis lands as the roster waits to see how Watson's comeback season looks.",
+      "source": "The Sporting News via Yahoo",
+      "url": "https://sports.yahoo.com/articles/browns-urged-pair-deshaun-watson-143609909.html",
+      "publishedAt": "2026-09-04T14:45:00Z",
       "tags": [
-        "deshaun-watson",
-        "quarterback",
-        "browns",
-        "roster"
+        "Browns",
+        "Deshaun-Watson",
+        "offense"
       ]
     },
     {
-      "id": "browns-53-roster",
+      "id": "browns-sanders-trip",
       "category": "browns",
-      "title": "Mild surprises as Browns finalize 53-man roster",
-      "summary": "The Browns trimmed to their 53-man roster with a few surprises on the cut list, including Logan Fano and Gage Larvadain. Roster decisions set the team's final shape headed into the Sept. 13 opener at Jacksonville.",
+      "title": "Browns QB Shedeur Sanders turns heads with surprise trip",
+      "summary": "Browns rookie quarterback Shedeur Sanders made a surprise off-field appearance that turned heads, remaining Cleveland's primary backup behind Deshaun Watson with Taylen Green third on the depth chart. The move adds to the ongoing QB storyline as the season approaches.",
       "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/mild-surprises-browns-announce-final-030350262.html",
-      "publishedAt": "2026-08-31T00:00:00Z",
+      "url": "https://sports.yahoo.com/articles/browns-qb-shedeur-sanders-turns-125730903.html",
+      "publishedAt": "2026-09-04T12:45:00Z",
       "tags": [
-        "browns",
-        "53-man-roster",
-        "nfl",
-        "roster-cuts"
+        "Browns",
+        "Shedeur-Sanders",
+        "QB"
       ]
     },
     {
-      "id": "browns-biggest-cut-move",
+      "id": "browns-simms",
       "category": "browns",
-      "title": "Browns' biggest cutdown move: trimming 4 QBs to 3 without cutting a passer",
-      "summary": "The Browns reshaped their quarterbacks room from four passers to three without waiving or trading any of them, a deliberate staffing decision during cutdowns. It signals how Cleveland plans to manage depth at the sport's most important position.",
-      "source": "Browns Wire",
-      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/09/02/what-was-the-browns-biggest-move-during-roster-cuts/91561762007/",
-      "publishedAt": "2026-09-02T00:00:00Z",
+      "title": "Chris Simms makes eye-opening claim about Browns' QB competition aftermath",
+      "summary": "Analyst Chris Simms weighed in with a notable take on Cleveland's Deshaun Watson-vs-Shedeur Sanders quarterback decision, months after the competition dominated offseason headlines. His comments predict how the situation could play out if Watson struggles.",
+      "source": "Browns Nation",
+      "url": "https://www.brownsnation.com/chris-simms-makes-eye-opening-claim-about-browns-qb-competition/",
+      "publishedAt": "2026-09-04T10:45:00Z",
       "tags": [
-        "browns",
-        "quarterback",
-        "roster-cuts",
-        "nfl"
+        "Browns",
+        "Chris-Simms",
+        "QB-competition"
       ]
     },
     {
-      "id": "browns-cutdown-winners-losers",
+      "id": "browns-dl-workouts",
       "category": "browns",
-      "title": "Winners and losers from the Browns' 53-man roster cutdown",
-      "summary": "Breakdowns of the Browns' final roster cut to 53 point to wins for players who earned spots and losses for veterans left off, with the picture setting expectations for Week 1. The roster balance reflects Cleveland's preseason performance.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/5-winners-and-3-losers-from-the-browns-calculated-53-man-roster-cutdown",
-      "publishedAt": "2026-09-01T00:00:00Z",
+      "title": "Browns still hunting defensive line help, work out five linemen",
+      "summary": "Cleveland general manager Andrew Berry brought in five linemen for workouts Thursday as the team keeps reshaping the roster ahead of Week 1. The tryouts signal continuing churn along the line after late-August roster cuts.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132021/cleveland-browns-news-sam-williams-michael-coats-deshaun-watson-todd-monken",
+      "publishedAt": "2026-09-04T09:45:00Z",
       "tags": [
-        "browns",
+        "Browns",
         "roster",
-        "analysis",
-        "nfl"
+        "offensive-line"
       ]
     },
     {
-      "id": "browns-preseason-wr",
-      "category": "browns",
-      "title": "Report: Browns moving on from preseason standout wide receiver",
-      "summary": "Reports indicate the Browns are parting with a wide receiver who impressed during the preseason, part of the final roster trimming. The move frees a spot for players the coaching staff projects higher for the regular season.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/report-browns-moving-preseason-190636783.html",
-      "publishedAt": "2026-08-30T00:00:00Z",
-      "tags": [
-        "browns",
-        "wide-receiver",
-        "nfl",
-        "roster"
-      ]
-    },
-    {
-      "id": "osu-ballstate-preview",
+      "id": "buckeyes-ohsu-manufacturing",
       "category": "buckeyes",
-      "title": "Ohio State vs. Ball State preview: Buckeyes huge favorites in opener",
-      "summary": "Ohio State opens the 2026 season against Ball State favored by 50.5 points, with the roster gap expected to make for a lopsided opener. The game is a chance for new starters and young skill players to establish themselves.",
+      "title": "Ohio State among 8 schools selected for federal manufacturing program",
+      "summary": "Ohio State was chosen as one of eight universities for a new federal manufacturing program, opening up research and workforce opportunities. The award lands as the university's engineering and materials programs expand.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-among-8-schools-selected-for-federal-manufacturing-program/",
+      "publishedAt": "2026-09-04T12:45:00Z",
+      "tags": [
+        "Ohio-State",
+        "manufacturing",
+        "federal"
+      ]
+    },
+    {
+      "id": "buckeyes-gameday-traffic",
+      "category": "buckeyes",
+      "title": "Here's your game day guide for Saturday's traffic at Ohio Stadium",
+      "summary": "A game day guide outlines road closures and traffic expectations around Ohio Stadium for Saturday's season opener against Ball State, with more than 100,000 people expected in the area. Fans heading to the 12:30 p.m. kickoff are advised to plan routes and arrive early.",
+      "source": "WKYC",
+      "url": "https://www.wkyc.com/article/traffic/ohio-state-game-day-traffic-guide/530-73ac86a8-2220-4780-aefc-aa6027c8f597",
+      "publishedAt": "2026-09-04T09:45:00Z",
+      "tags": [
+        "Ohio-State",
+        "gameday",
+        "traffic",
+        "Ball-State"
+      ]
+    },
+    {
+      "id": "buckeyes-traffic-10tv",
+      "category": "buckeyes",
+      "title": "What to know before you hit the road to the Buckeyes season opener",
+      "summary": "10TV previews road and pathway conditions ahead of Ohio State's season opener, warning that more than 100,000 fans around Ohio Stadium will make campus traffic hectic. The guide covers timing and alternate routes for gameday.",
+      "source": "10TV WBNS",
+      "url": "https://www.10tv.com/video/traffic/what-to-know-before-you-hit-the-road-to-buckeyes-season-opener/530-8961da01-5e33-408a-9a28-f3325704005b",
+      "publishedAt": "2026-09-04T09:30:00Z",
+      "tags": [
+        "Ohio-State",
+        "gameday",
+        "traffic"
+      ]
+    },
+    {
+      "id": "buckeyes-trailer",
+      "category": "buckeyes",
+      "title": "Ball State Game Trailer: LeBron James narrates, Metallica soundtrack",
+      "summary": "Ohio State released its season-opening game trailer Thursday night, narrated by LeBron James with a Metallica soundtrack ahead of Saturday's Ball State game. The video sets the tone for a No. 1-ranked Buckeyes squad making its 2026 debut.",
       "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163568/ohio-state-vs-ball-state-preview",
-      "publishedAt": "2026-09-04T00:00:00Z",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163588/ball-state-game-trailer-lebron-james-narrates-the-ball-state-game-trailer-which-features-a-metallica-soundtrack",
+      "publishedAt": "2026-09-04T05:45:00Z",
       "tags": [
-        "ohio-state",
-        "ball-state",
-        "game-preview",
-        "college-football"
+        "Ohio-State",
+        "game-trailer",
+        "LeBron-James"
       ]
     },
     {
-      "id": "osu-bell-tolls",
-      "category": "buckeyes",
-      "title": "Ohio State releases 'The Bell Tolls' hype video for season opener",
-      "summary": "Ohio State dropped its latest hype video, themed 'The Bell Tolls,' ahead of Saturday's 12:30 p.m. kickoff against Ball State. It's part of the program's build-up for the 2026 season opener on Sept. 5.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-trailer-video-ball-state-game-2026/530-0593417f-f564-488c-96c1-4bf5d4f495d2",
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "tags": [
-        "ohio-state",
-        "trailer",
-        "game-week",
-        "football"
-      ]
-    },
-    {
-      "id": "osu-bold-predictions",
-      "category": "buckeyes",
-      "title": "Five bold predictions for Ohio State vs. Ball State opener",
-      "summary": "Pundits expect a memorable debut for Ohio State skill players, predicting multiple touchdowns from running back Legend Bey in the opener. The projections set the tone for a season-opening blowout at 12:30 p.m. Saturday.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/five-bold-predictions-ohio-state-150006139.html",
-      "publishedAt": "2026-09-04T00:00:00Z",
-      "tags": [
-        "ohio-state",
-        "ball-state",
-        "predictions",
-        "college-football"
-      ]
-    },
-    {
-      "id": "osu-how-to-watch",
-      "category": "buckeyes",
-      "title": "How to watch Ohio State vs. Ball State: channel, date, time",
-      "summary": "Ohio State hosts Ball State on Saturday, Sept. 5 at 12:30 p.m. ET, with broadcast details set for the Buckeyes' 2026 opener. Fans can find where to tune in for the first game of the season.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/how-to-watch-ohio-state-football-ball-state-tv-channel-date-time/530-929fe5b8-2d75-4602-953b-37d9ff479ade",
-      "publishedAt": "2026-09-04T00:00:00Z",
-      "tags": [
-        "ohio-state",
-        "how-to-watch",
-        "tickets",
-        "college-football"
-      ]
-    },
-    {
-      "id": "osu-the-beat",
-      "category": "buckeyes",
-      "title": "The Beat: OSU season-opening intrigue starts with personnel and game plan",
-      "summary": "Analysts say Ohio State's real intrigue for the opener lies in its personnel groupings and game-plan approach rather than the result. How new faces are deployed against Ball State could preview the season ahead.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/video/sports/football/ohio-state-football/the-beat-season-opening-intrigue-for-ohio-state-starts-with-personnel-game-plan-approach/530-67160469-df90-4d6e-b5bd-a0bfd2b13367",
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "tags": [
-        "ohio-state",
-        "analysis",
-        "personnel",
-        "football"
-      ]
-    },
-    {
-      "id": "f1-leclerc-fp1",
+      "id": "f1-fp1-leclerc",
       "category": "f1",
-      "title": "Leclerc leads Ferrari 1-2 in first Italian GP practice at Monza",
-      "summary": "Charles Leclerc set the pace in FP1 at the Italian Grand Prix, leading a Ferrari one-two with teammate Lewis Hamilton on home soil as the Tifosi turned out in force. It marked a strong start to Ferrari's Monza weekend.",
-      "source": "RACER",
-      "url": "https://racer.com/2026/09/04/leclerc-leads-ferrari-1-2-in-first-italian-gp-practice",
-      "publishedAt": "2026-09-04T00:00:00Z",
-      "tags": [
-        "f1",
-        "monza",
-        "leclerc",
-        "ferrari"
-      ]
-    },
-    {
-      "id": "f1-russell-fp2",
-      "category": "f1",
-      "title": "Russell tops second Monza practice ahead of Leclerc and Antonelli",
-      "summary": "George Russell set the fastest lap in FP2 at the Italian GP, edging Ferrari's Leclerc by 0.120s. Mercedes and Ferrari traded the top slots in Friday practice on the high-speed Monza layout.",
-      "source": "FIA",
-      "url": "https://www.fia.com/news/f1-russell-tops-second-practice-monza-ahead-leclerc-and-antonelli",
-      "publishedAt": "2026-09-04T00:00:00Z",
-      "tags": [
-        "f1",
-        "monza",
-        "russell",
-        "practice"
-      ]
-    },
-    {
-      "id": "f1-gasly-podium",
-      "category": "f1",
-      "title": "Gasly loses Monaco GP podium as FIA Court of Appeal reinstates penalties",
-      "summary": "The FIA's International Court of Appeal reinstated Pierre Gasly's pit-lane speeding penalties, dropping the Alpine driver from third to seventh at a reconfirmed Monaco GP and re-awarding the podium to Red Bull's Isack Hadjar. The ruling overturned an earlier decision that had rescinded the penalties.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/pierre-gasly-loses-monaco-gp-podium-as-penalties-reinstated-following-mclaren-and-red-bull-appeal/10852133/",
-      "publishedAt": "2026-09-04T00:00:00Z",
-      "tags": [
-        "f1",
-        "gasly",
-        "monaco",
-        "fia"
-      ]
-    },
-    {
-      "id": "f1-shorter-races",
-      "category": "f1",
-      "title": "F1 teams agree to shorten races to 290km starting in 2027",
-      "summary": "All 11 F1 teams backed a proposal to cut standard Grand Prix distance from 305km to about 290km from 2027, the first such reduction in decades. The change responds to higher fuel demands from the next-generation hybrid engines.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/f1-races-set-shorter-2027-103336287.html",
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "tags": [
-        "f1",
-        "rules",
-        "2027",
-        "race-distance"
-      ]
-    },
-    {
-      "id": "f1-briatore-controversy",
-      "category": "f1",
-      "title": "Briatore accuses judge of McLaren links after Gasly loses podium",
-      "summary": "Alpine boss Flavio Briatore questioned the integrity of the Monaco GP appeal at a fiery Monza press conference, alleging a judge had ties to McLaren. The comments add tension to a ruling that reshaped the championship standings.",
+      "title": "Leclerc leads Ferrari one-two in opening Monza practice with new engine",
+      "summary": "Charles Leclerc topped first practice at the Italian Grand Prix with a 1:23.008 lap, 0.173s ahead of teammate Lewis Hamilton in a Ferrari one-two as the team debuted its engine upgrade at Monza. Mercedes' George Russell slotted in behind the Ferraris.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/sports/formula1/fia-appeal-court-strips-gasly-monaco-podium-reinstates-hadjar-2026-09-04/",
-      "publishedAt": "2026-09-04T00:00:00Z",
+      "url": "https://www.reuters.com/sports/formula1/leclerc-leads-ferrari-one-two-first-monza-practice-2026-09-04/",
+      "publishedAt": "2026-09-04T15:50:00Z",
       "tags": [
-        "f1",
-        "briatore",
-        "controversy",
-        "monaco"
+        "F1",
+        "Monza",
+        "Leclerc",
+        "Ferrari"
       ]
     },
     {
-      "id": "tarkov-patch-1100",
-      "category": "tarkov",
-      "title": "Escape from Tarkov ships Patch 1.1.0.0 with first season and free Battle Pass",
-      "summary": "Patch 1.1.0.0 launched Tarkov's first-ever season, Kord Breach, adding a free Battle Pass with progression shared across all game modes. The update is the biggest seasonal shake-up for the hardcore shooter, introducing new rules and rewards.",
-      "source": "Escape from Tarkov",
-      "url": "https://www.escapefromtarkov.com/news/id/404",
-      "publishedAt": "2026-08-02T00:00:00Z",
+      "id": "f1-fia-fp1",
+      "category": "f1",
+      "title": "FIA: Leclerc leads Ferrari one-two in opening practice at Monza",
+      "summary": "In front of the tifosi, Leclerc produced a late-session benchmark of 1:23.008 to finish 0.173 seconds clear of Hamilton, with George Russell best of the rest for Mercedes. The session marked Ferrari's strong start to its home weekend.",
+      "source": "FIA",
+      "url": "https://www.fia.com/news/f1-leclerc-leads-ferrari-one-two-opening-practice-monza",
+      "publishedAt": "2026-09-04T11:45:00Z",
       "tags": [
-        "tarkov",
-        "patch-1.1.0.0",
-        "battle-pass",
-        "seasons"
+        "F1",
+        "Monza",
+        "practice",
+        "FIA"
       ]
     },
     {
-      "id": "tarkov-kord-guide",
-      "category": "tarkov",
-      "title": "Kord Breach Season 1 guide: what's new in Tarkov's first season",
-      "summary": "A guide to Kord Breach, Tarkov's first season launched in Patch 1.1.0.0 on Aug. 3, walks players through the new optional Seasonal Character, modifiers, rewards and gameplay changes. It's the template for how Tarkov plans to run future seasons.",
-      "source": "ArmadaBoost",
-      "url": "https://armadaboost.com/blog/escape-from-tarkov-kord-breach-season-1-guide",
-      "publishedAt": "2026-08-22T00:00:00Z",
+      "id": "f1-autosport-fp1",
+      "category": "f1",
+      "title": "F1 Italian GP: Leclerc heads Ferrari 1-2 in opening practice",
+      "summary": "Leclerc's 1m23.008s on medium tyres edged teammate Lewis Hamilton on a hot summer afternoon at Monza. Ferrari's early pace sets up an intriguing qualifying session as the Italian GP weekend begins.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/f1-italian-gp-fp1-report-10852157/10852157/",
+      "publishedAt": "2026-09-04T11:40:00Z",
       "tags": [
-        "tarkov",
-        "kord-breach",
-        "season-1",
-        "guide"
+        "F1",
+        "Monza",
+        "FP1",
+        "Ferrari"
       ]
     },
     {
-      "id": "tarkov-season-dates",
-      "category": "tarkov",
-      "title": "Kord Breach Season 1 dates, rewards and modifiers detailed",
-      "summary": "Kord Breach Season 1 opened Aug. 3 with the 1.1.0.0 install, with servers down about 6-8 hours during deployment. Season trackers map out the modifiers, rewards and seasonal timeline players can expect.",
-      "source": "Tarkov Questie",
-      "url": "https://tarkovquestie.com/tarkov/seasons/kord-breach",
-      "publishedAt": "2026-08-19T00:00:00Z",
+      "id": "f1-sky-fp1",
+      "category": "f1",
+      "title": "Italian GP: Leclerc leads Hamilton as Ferrari seal one-two in first practice",
+      "summary": "Ferrari impressed in Italian Grand Prix first practice, with Charles Leclerc leading Lewis Hamilton in a one-two after debuting an engine upgrade at Monza. The red cars' pace puts them in front heading into the rest of the weekend.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/12433/13581158/italian-gp-charles-leclerc-leads-lewis-hamilton-as-ferrari-seal-one-two-in-first-monza-practice-after-revealing-upgrades",
+      "publishedAt": "2026-09-04T11:35:00Z",
       "tags": [
-        "tarkov",
-        "kord-breach",
-        "season",
-        "rewards"
+        "F1",
+        "Monza",
+        "Hamilton",
+        "Leclerc"
       ]
     },
     {
-      "id": "tarkov-patch-reddit",
+      "id": "tarkov-arena-060",
       "category": "tarkov",
-      "title": "Tarkov community breaks down 1.1.0.0 patch notes and new Seasons system",
-      "summary": "Players on r/EscapefromTarkov discussed the 1.1.0.0 notes, focusing on the new Seasons system that introduces fresh rules, mechanics and rewards each season. The community conversation captures early reactions to Tarkov's biggest systematic change.",
-      "source": "Reddit",
-      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1ve4xsb/discussion_1100_patch_notes_kord_breach/",
-      "publishedAt": "2026-08-03T00:00:00Z",
+      "title": "Tarkov Arena 0.6.0 to add new Tactical Map: Laboratory",
+      "summary": "Battlestate Games teased the upcoming Escape from Tarkov: Arena 0.6.0 update, which brings a new three-floor Tactical Map named Laboratory with 56 unique rewards and hidden easter eggs. The studio also asked players which new challenges they want to see in the mode.",
+      "source": "Battlestate Games (X/Twitter)",
+      "url": "https://x.com/tarkovarena/status/2095869420832752001",
+      "publishedAt": "2026-09-04T13:30:00Z",
       "tags": [
-        "tarkov",
-        "reddit",
-        "patch-notes",
-        "seasons"
+        "Tarkov",
+        "Arena",
+        "update",
+        "Laboratory"
       ]
     },
     {
       "id": "tarkov-gearup",
       "category": "tarkov",
-      "title": "Tarkov teams up with GearUP to reduce lag and packet loss",
-      "summary": "Battlestate Games announced an Escape from Tarkov x GearUP collaboration aimed at minimizing packet loss and connection spikes through dedicated network routing. The partnership targets a long-running complaint about the game's online stability.",
-      "source": "Escape from Tarkov",
+      "title": "Escape from Tarkov announces GearUP network-routing collaboration",
+      "summary": "Battlestate Games announced a collaboration with GearUP designed to minimize packet loss and connection spikes in Escape from Tarkov via dedicated network routing. It is the most recent official main-game announcement amid an otherwise quiet news stretch.",
+      "source": "Escape from Tarkov (official)",
       "url": "https://www.escapefromtarkov.com/news",
-      "publishedAt": "2026-08-05T00:00:00Z",
+      "publishedAt": "2026-08-05T12:00:00Z",
       "tags": [
-        "tarkov",
-        "gearup",
-        "network",
-        "performance"
+        "Tarkov",
+        "GearUP",
+        "networking"
+      ]
+    },
+    {
+      "id": "tarkov-kord-drops",
+      "category": "tarkov",
+      "title": "Twitch Drops live for Kord Breach season one launch",
+      "summary": "Escape from Tarkov kicked off Twitch Drops to celebrate the launch of season one, the new Kord Breach season. Players can earn drops while watching streams as the long-awaited first season begins.",
+      "source": "Escape from Tarkov (official)",
+      "url": "https://www.escapefromtarkov.com/news",
+      "publishedAt": "2026-08-04T14:00:00Z",
+      "tags": [
+        "Tarkov",
+        "Kord-Breach",
+        "Twitch-Drops"
+      ]
+    },
+    {
+      "id": "tarkov-patch-1100",
+      "category": "tarkov",
+      "title": "Patch 1.1.0.0 releases with Kord Breach PvP season",
+      "summary": "Escape from Tarkov patch 1.1.0.0 introduced the new Kord Breach PvP season, along with a Seasons hub and a modifier build calculator. It remains the latest main-game patch ahead of the expected winter wipe cycle.",
+      "source": "Escape from Tarkov (official)",
+      "url": "https://www.escapefromtarkov.com/news",
+      "publishedAt": "2026-08-03T14:00:00Z",
+      "tags": [
+        "Tarkov",
+        "patch-1.1.0.0",
+        "Kord-Breach"
+      ]
+    },
+    {
+      "id": "local-donovan-lewis",
+      "category": "local",
+      "title": "Ex-Columbus police officer pleads guilty in 2022 Donovan Lewis shooting",
+      "summary": "A former Columbus police officer pleaded guilty to reckless homicide in the 2022 fatal shooting of unarmed Donovan Lewis. The plea opens the way for sentencing in one of central Ohio's most closely watched police-involved cases.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/ex-columbus-police-officer-pleads-guilty-in-fatal-shooting-of-unarmed-man/",
+      "publishedAt": "2026-09-04T16:34:00Z",
+      "tags": [
+        "Columbus",
+        "police",
+        "Donovan-Lewis",
+        "guilty-plea"
       ]
     },
     {
       "id": "local-911-outage",
       "category": "local",
-      "title": "AT&T outage hits Franklin County, could disrupt 911 and police lines",
-      "summary": "AT&T reported outages in Franklin County that could affect customers calling 911 or police non-emergency numbers. Columbus residents are urged to know alternate ways to reach emergency services during the disruption.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/",
-      "publishedAt": "2026-09-04T00:00:00Z",
+      "title": "911 service interruptions affecting Columbus area, AT&T reports",
+      "summary": "AT&T reported outages in Franklin County that could affect customers calling 911 or the police non-emergency line in the Columbus area. Officials are urging residents to seek alternate contact routes while the disruption persists.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/911-service-interruptions-affecting-columbus-area/",
+      "publishedAt": "2026-09-04T16:25:00Z",
       "tags": [
-        "columbus",
-        "at&t",
+        "Columbus",
         "911",
+        "AT&T",
         "outage"
       ]
     },
     {
-      "id": "local-weinland-shooting",
+      "id": "local-intel-ceo",
       "category": "local",
-      "title": "6-year-old critical after shooting near Weinland Park in Columbus",
-      "summary": "A 6-year-old is in critical condition after a shooting in the 1200 block of North 6th Street in the Weinland Park area. Police are investigating the incident, which put a child hospitalized.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/crime/weinland-park-shooting-child-injured-police-north-6th-street/530-e233bbd2-844f-4f52-83be-bbd6a40b9755",
-      "publishedAt": "2026-09-02T00:00:00Z",
+      "title": "Intel CEO under pressure to resign from Trump and Sen. Moreno",
+      "summary": "Intel's CEO faces growing calls to step down from President Trump and Ohio Senator Bernie Moreno, per NBC4's 'Intel in Ohio' coverage. The pressure adds uncertainty for the company's sprawling central-Ohio fab investments.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/intel-in-ohio/intel-ceo-under-pressure-to-resign-from-president-trump-ohio-senator-moreno/",
+      "publishedAt": "2026-09-04T14:45:00Z",
       "tags": [
-        "columbus",
-        "shooting",
-        "crime",
-        "weinland-park"
+        "Intel",
+        "Ohio",
+        "politics",
+        "semiconductors"
       ]
     },
     {
-      "id": "local-gahanna-civic-center",
+      "id": "local-invasive-insects",
       "category": "local",
-      "title": "Gahanna Civic Center move: what residents need to know",
-      "summary": "Gahanna's new Civic Center will house City Hall operations and the Division of Police headquarters as the city relocates its municipal functions. Officials outlined what residents should expect during the transition.",
-      "source": "City of Gahanna",
-      "url": "https://www.gahanna.gov/CivicAlerts.aspx?AID=490",
-      "publishedAt": "2026-09-01T00:00:00Z",
+      "title": "Invasive insect sightings on the rise in central Ohio",
+      "summary": "Reports of invasive insects are increasing across central Ohio, prompting officials to ask residents to document sightings. The uptick could threaten native trees and agriculture in the Columbus area.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/invasive-insect-sightings-on-the-rise-in-central-ohio/",
+      "publishedAt": "2026-09-04T13:45:00Z",
       "tags": [
-        "gahanna",
-        "civic-center",
-        "city-hall",
-        "local"
-      ]
-    },
-    {
-      "id": "local-gahanna-flooding",
-      "category": "local",
-      "title": "Gahanna issues flooding update after rainy week of property damage",
-      "summary": "The City of Gahanna updated residents on extensive rainfall and flooding that damaged properties, providing guidance on reporting and recovery. The weekend storms affected homes across the area.",
-      "source": "City of Gahanna",
-      "url": "https://www.gahanna.gov/CivicAlerts.aspx?AID=500",
-      "publishedAt": "2026-08-22T00:00:00Z",
-      "tags": [
-        "gahanna",
-        "flooding",
-        "weather",
-        "recovery"
-      ]
-    },
-    {
-      "id": "local-ohio-tornadoes",
-      "category": "local",
-      "title": "Ohio hits 44 confirmed tornadoes so far in 2026, a busy season",
-      "summary": "Ohio has now logged 44 confirmed tornadoes in 2026, with 29 during an active July and August. The year is shaping up as one of the state's more storm-heavy on record.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/weather/weather-blog/ohio-tornado-count-40-tornadoes-confirmed-so-far-2026/530-64ffd694-5ced-4fc4-ad9f-ed3578d97b97",
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "tags": [
-        "ohio",
-        "tornadoes",
-        "weather",
-        "columbus"
+        "central-Ohio",
+        "invasive-species",
+        "insects"
       ]
     }
   ]
