@@ -200,6 +200,11 @@
     return section;
   }
 
+  function byNewestFirst(a, b) {
+    var t = new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+    return isNaN(t) ? 0 : t;
+  }
+
   function render() {
     if (!state.stories) return;
     storiesContainer.textContent = '';
@@ -208,11 +213,13 @@
       var frag = document.createDocumentFragment();
       CATEGORIES.forEach(function (cat) {
         var group = state.stories.filter(function (s) { return s.category === cat; });
+        group.sort(byNewestFirst);
         frag.appendChild(renderCategorySection(cat, group));
       });
       storiesContainer.appendChild(frag);
     } else {
       var group = state.stories.filter(function (s) { return s.category === state.filter; });
+      group.sort(byNewestFirst);
       storiesContainer.appendChild(renderCategorySection(state.filter, group));
     }
   }
