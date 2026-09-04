@@ -4,7 +4,7 @@
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 28
+    "count": 25
   },
   "stories": [
     {
@@ -307,48 +307,6 @@
         "Arena",
         "update",
         "Laboratory"
-      ]
-    },
-    {
-      "id": "tarkov-gearup",
-      "category": "tarkov",
-      "title": "Escape from Tarkov announces GearUP network-routing collaboration",
-      "summary": "Battlestate Games announced a collaboration with GearUP designed to minimize packet loss and connection spikes in Escape from Tarkov via dedicated network routing. It is the most recent official main-game announcement amid an otherwise quiet news stretch.",
-      "source": "Escape from Tarkov (official)",
-      "url": "https://www.escapefromtarkov.com/news",
-      "publishedAt": "2026-08-05T12:00:00Z",
-      "tags": [
-        "Tarkov",
-        "GearUP",
-        "networking"
-      ]
-    },
-    {
-      "id": "tarkov-kord-drops",
-      "category": "tarkov",
-      "title": "Twitch Drops live for Kord Breach season one launch",
-      "summary": "Escape from Tarkov kicked off Twitch Drops to celebrate the launch of season one, the new Kord Breach season. Players can earn drops while watching streams as the long-awaited first season begins.",
-      "source": "Escape from Tarkov (official)",
-      "url": "https://www.escapefromtarkov.com/news",
-      "publishedAt": "2026-08-04T14:00:00Z",
-      "tags": [
-        "Tarkov",
-        "Kord-Breach",
-        "Twitch-Drops"
-      ]
-    },
-    {
-      "id": "tarkov-patch-1100",
-      "category": "tarkov",
-      "title": "Patch 1.1.0.0 releases with Kord Breach PvP season",
-      "summary": "Escape from Tarkov patch 1.1.0.0 introduced the new Kord Breach PvP season, along with a Seasons hub and a modifier build calculator. It remains the latest main-game patch ahead of the expected winter wipe cycle.",
-      "source": "Escape from Tarkov (official)",
-      "url": "https://www.escapefromtarkov.com/news",
-      "publishedAt": "2026-08-03T14:00:00Z",
-      "tags": [
-        "Tarkov",
-        "patch-1.1.0.0",
-        "Kord-Breach"
       ]
     },
     {
