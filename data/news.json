@@ -1,371 +1,235 @@
 {
   "meta": {
-    "updatedAt": "2026-09-04T16:45:27Z",
+    "updatedAt": "2026-09-04T19:30:52Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 25
+    "count": 15
   },
   "stories": [
     {
-      "id": "top-nepal-tunnel",
+      "id": "top-europe-sabotage",
       "category": "top",
-      "title": "Rescuers pull survivors from flooded Nepal tunnel as glacier-collapse toll nears 1,300",
-      "summary": "Rescue teams in Nepal's Rasuwa district reached survivors trapped in a Trishuli-3A hydropower tunnel after flash flooding, pulling two out alive as one was found dead. A tunnelling expert says a 'Goldilocks zone' may hold more survivors, in a disaster that has killed nearly 1,300.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/live/cmwyz5er2lwnt",
-      "publishedAt": "2026-09-04T13:15:00Z",
+      "title": "Europe targeted by spiralling sabotage campaign, Russia chief suspect",
+      "summary": "Germany has blamed Russia for an explosive drone found at Leipzig airport, part of a pattern of fires and attacks on defence sites across Europe from Italy to Estonia in August. Intelligence analysts see the campaign as Russia probing NATO's limits while its war in Ukraine intensifies.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro",
+      "publishedAt": "2026-09-04T15:30:00Z",
       "tags": [
-        "Nepal",
-        "flooding",
-        "rescue"
+        "russia",
+        "nato",
+        "europe",
+        "sabotage"
       ]
     },
     {
-      "id": "top-iran-vance",
+      "id": "top-iran-wedding",
       "category": "top",
-      "title": "U.S. conflict with Iran enters 7th month; Vance says I wouldn't call this a war",
-      "summary": "As the U.S.-Iran conflict reaches seven months, Vice President JD Vance played down the label of war and said Washington will investigate a recent missile strike while doubting U.S. involvement. The remarks come amid sharp escalation fears after strikes exchanged in the Gulf.",
-      "source": "Democracy Now",
-      "url": "https://www.democracynow.org/2026/9/4/headlines/as_us_conflict_with_iran_enters_7th_month_vance_declares_i_wouldnt_call_this_a_war",
-      "publishedAt": "2026-09-04T12:30:00Z",
+      "title": "US investigates deadly strike on Iranian wedding, analysis points to US munition",
+      "summary": "Washington is investigating a strike on a wedding in southern Iran that VP Vance said the US may have caused; Reuters analysis suggests a US munition hit directly. The case adds tension to US-Iran relations in the Middle East.",
+      "source": "TIME",
+      "url": "https://time.com/article/2026/09/04/did-the-u-s-strike-an-iranian-wedding-/",
+      "publishedAt": "2026-09-04T12:00:00Z",
       "tags": [
-        "Iran",
-        "US",
-        "Vance",
-        "conflict"
+        "iran",
+        "us",
+        "middle-east",
+        "investigation"
       ]
     },
     {
-      "id": "top-israel-gaza",
+      "id": "top-afd-saxony",
       "category": "top",
-      "title": "Israel's national security minister outlines plan to expel all Palestinians from Gaza Strip",
-      "summary": "Israel's National Security Minister has publicly laid out a plan calling for the expulsion of all Palestinians from the Gaza Strip. The proposal drew immediate criticism from rights groups and raised alarm about a further escalation of Israel's campaign in the enclave.",
-      "source": "Democracy Now",
-      "url": "https://www.democracynow.org/2026/9/4/headlines/israels_national_security_minister_outlines_plan_to_expel_all_palestinians_from_gaza_strip",
-      "publishedAt": "2026-09-04T12:15:00Z",
+      "title": "Germany's AfD eyes first far-right state government since 1945",
+      "summary": "The far-right AfD is on track to win Sunday's election in Saxony-Anhalt, which would give Germany its first far-right state governor since World War II. The vote is a test for Chancellor Merz's struggling national government.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+      "publishedAt": "2026-09-04T09:30:00Z",
       "tags": [
-        "Gaza",
-        "Israel",
-        "Middle East"
+        "germany",
+        "afd",
+        "election",
+        "far-right"
       ]
     },
     {
-      "id": "top-un-climate",
-      "category": "top",
-      "title": "U.N. warns the world will overshoot 1.5C global heating limit",
-      "summary": "The United Nations warned that the world is on track to overshoot the 1.5C Paris Agreement limit on global heating, in a new assessment published Friday. The report sharpens pressure on governments ahead of upcoming climate talks.",
-      "source": "Democracy Now",
-      "url": "https://www.democracynow.org/2026/9/4/headlines/un_warns_the_world_will_overshoot_15_c_limit_to_global_heating",
-      "publishedAt": "2026-09-04T11:45:00Z",
-      "tags": [
-        "climate",
-        "UN",
-        "1.5C"
-      ]
-    },
-    {
-      "id": "tech-agents-tools",
+      "id": "tech-us-china-ai-talks",
       "category": "tech",
-      "title": "Which tools do Claude, Codex and Cursor choose? Study measures 17,000 agent runs",
-      "summary": "A new analysis of more than 17,000 coding-agent runs measures which developer tools Claude, Codex and Cursor actually reach for. The data gives engineers a look at agent tool habits as AI coding assistants become standard workflow.",
-      "source": "Hacker News (armature.tech)",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "publishedAt": "2026-09-04T15:45:00Z",
+      "title": "US and China gear up for first AI safety talks in mid-September",
+      "summary": "Reuters reports the US plans first-ever bilateral talks devoted to AI safety with China, led by Treasury Secretary Bessent, covering AI-linked cyberattacks and lab self-policing. They come as frontier AI capabilities reach what experts call a global tipping point.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/exclusive-us-china-gear-mid-163032199.html",
+      "publishedAt": "2026-09-04T17:38:00Z",
       "tags": [
-        "AI-agents",
-        "coding",
-        "tools"
+        "ai-safety",
+        "us-china",
+        "policy",
+        "frontier-ai"
       ]
     },
     {
-      "id": "tech-gpt6-astra",
+      "id": "tech-gpt6-astra-azure",
       "category": "tech",
-      "title": "OpenAI releases GPT-6 Astra",
-      "summary": "OpenAI has launched GPT-6 Astra, its next frontier model generation. The release, topping Hacker News, signals another step in frontier-model competition as OpenAI pushes multimodal and agentic capabilities.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "publishedAt": "2026-09-04T12:45:00Z",
+      "title": "OpenAI's GPT-6 Astra begins rollout through Microsoft Foundry",
+      "summary": "Microsoft said GPT-6 Astra, OpenAI's newest frontier model, starts rolling out Friday through its Foundry Limited Access Program after Thursday's launch. It is OpenAI's first model to reach the Critical cyber threshold, making access rules as consequential as the performance jump.",
+      "source": "Microsoft",
+      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
+      "publishedAt": "2026-09-04T17:30:00Z",
       "tags": [
-        "OpenAI",
-        "GPT-6",
-        "AI-models"
+        "openai",
+        "gpt-6",
+        "azure",
+        "frontier-model"
+      ]
+    },
+    {
+      "id": "tech-astra-arcagi3",
+      "category": "tech",
+      "title": "OpenAI's GPT-6 Astra tested on ARC-AGI-3 benchmark",
+      "summary": "ARC Prize published its independent evaluation of GPT-6 Astra on the ARC-AGI-3 reasoning benchmark, a headline result in the model's first week. The results are being read as a signal of how close the model is to broad general intelligence.",
+      "source": "ARC Prize",
+      "url": "https://arcprize.org/blog/astra",
+      "publishedAt": "2026-09-04T16:30:00Z",
+      "tags": [
+        "openai",
+        "benchmark",
+        "arc-agi",
+        "reasoning"
       ]
     },
     {
       "id": "tech-qwen-cerebras",
       "category": "tech",
-      "title": "Qwen 3.8 27B available on Cerebras at 1,500 tokens per second",
-      "summary": "The Qwen 3.8 27B model is now served on Cerebras hardware at roughly 1,500 tokens per second inference. The deployment highlights how optimized inference hardware is making large open-weight models dramatically faster for developers.",
+      "title": "Qwen 3.8 27B now available on Cerebras at 1500 tokens/sec",
+      "summary": "Alibaba's Qwen 3.8 27B open multimodal model is now served on Cerebras hardware at around 1,500 tokens per second. The high-speed deployment makes the agentic coding model far more practical for long AI-agent workflows.",
       "source": "Cerebras",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "publishedAt": "2026-09-04T12:40:00Z",
+      "url": "https://inference-docs.cerebras.ai/models/qwen-3.8-27b",
+      "publishedAt": "2026-09-04T15:30:00Z",
       "tags": [
-        "Qwen",
-        "Cerebras",
+        "qwen",
+        "alibaba",
         "open-models",
         "inference"
       ]
     },
     {
-      "id": "tech-k2-horizon",
-      "category": "tech",
-      "title": "K2 Horizon: connected fleet of six open models released",
-      "summary": "Ifm.ai released K2 Horizon, a connected fleet of six open models designed to work together across capabilities. The open release adds another option for teams building multi-model AI systems without vendor lock-in.",
-      "source": "ifm.ai (via Hacker News)",
-      "url": "https://ifm.ai/blog/k2/",
-      "publishedAt": "2026-09-04T09:45:00Z",
-      "tags": [
-        "open-models",
-        "AI",
-        "K2"
-      ]
-    },
-    {
-      "id": "browns-watson-weapon",
+      "id": "browns-week1-prediction",
       "category": "browns",
-      "title": "Browns urged to pair Deshaun Watson with 6-foot-8 target, but they shouldn't, says Sporting News",
-      "summary": "With Deshaun Watson confirmed as Cleveland's Week 1 starter, pundits are debating whether the Browns should add a 6-foot-8 deep threat for him - a move The Sporting News argues against. The analysis lands as the roster waits to see how Watson's comeback season looks.",
-      "source": "The Sporting News via Yahoo",
-      "url": "https://sports.yahoo.com/articles/browns-urged-pair-deshaun-watson-143609909.html",
-      "publishedAt": "2026-09-04T14:45:00Z",
-      "tags": [
-        "Browns",
-        "Deshaun-Watson",
-        "offense"
-      ]
-    },
-    {
-      "id": "browns-sanders-trip",
-      "category": "browns",
-      "title": "Browns QB Shedeur Sanders turns heads with surprise trip",
-      "summary": "Browns rookie quarterback Shedeur Sanders made a surprise off-field appearance that turned heads, remaining Cleveland's primary backup behind Deshaun Watson with Taylen Green third on the depth chart. The move adds to the ongoing QB storyline as the season approaches.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/browns-qb-shedeur-sanders-turns-125730903.html",
-      "publishedAt": "2026-09-04T12:45:00Z",
-      "tags": [
-        "Browns",
-        "Shedeur-Sanders",
-        "QB"
-      ]
-    },
-    {
-      "id": "browns-simms",
-      "category": "browns",
-      "title": "Chris Simms makes eye-opening claim about Browns' QB competition aftermath",
-      "summary": "Analyst Chris Simms weighed in with a notable take on Cleveland's Deshaun Watson-vs-Shedeur Sanders quarterback decision, months after the competition dominated offseason headlines. His comments predict how the situation could play out if Watson struggles.",
+      "title": "Browns face a relatively easy 2026 schedule before Week 11 bye",
+      "summary": "Analysis notes the Browns play just five teams that made last year's playoffs in 2026, all before their Week 11 bye, setting up a manageable early stretch. A strong start would build momentum for a team aiming to improve on 2025.",
       "source": "Browns Nation",
-      "url": "https://www.brownsnation.com/chris-simms-makes-eye-opening-claim-about-browns-qb-competition/",
-      "publishedAt": "2026-09-04T10:45:00Z",
-      "tags": [
-        "Browns",
-        "Chris-Simms",
-        "QB-competition"
-      ]
-    },
-    {
-      "id": "browns-dl-workouts",
-      "category": "browns",
-      "title": "Browns still hunting defensive line help, work out five linemen",
-      "summary": "Cleveland general manager Andrew Berry brought in five linemen for workouts Thursday as the team keeps reshaping the roster ahead of Week 1. The tryouts signal continuing churn along the line after late-August roster cuts.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132021/cleveland-browns-news-sam-williams-michael-coats-deshaun-watson-todd-monken",
-      "publishedAt": "2026-09-04T09:45:00Z",
-      "tags": [
-        "Browns",
-        "roster",
-        "offensive-line"
-      ]
-    },
-    {
-      "id": "buckeyes-ohsu-manufacturing",
-      "category": "buckeyes",
-      "title": "Ohio State among 8 schools selected for federal manufacturing program",
-      "summary": "Ohio State was chosen as one of eight universities for a new federal manufacturing program, opening up research and workforce opportunities. The award lands as the university's engineering and materials programs expand.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-among-8-schools-selected-for-federal-manufacturing-program/",
-      "publishedAt": "2026-09-04T12:45:00Z",
-      "tags": [
-        "Ohio-State",
-        "manufacturing",
-        "federal"
-      ]
-    },
-    {
-      "id": "buckeyes-gameday-traffic",
-      "category": "buckeyes",
-      "title": "Here's your game day guide for Saturday's traffic at Ohio Stadium",
-      "summary": "A game day guide outlines road closures and traffic expectations around Ohio Stadium for Saturday's season opener against Ball State, with more than 100,000 people expected in the area. Fans heading to the 12:30 p.m. kickoff are advised to plan routes and arrive early.",
-      "source": "WKYC",
-      "url": "https://www.wkyc.com/article/traffic/ohio-state-game-day-traffic-guide/530-73ac86a8-2220-4780-aefc-aa6027c8f597",
-      "publishedAt": "2026-09-04T09:45:00Z",
-      "tags": [
-        "Ohio-State",
-        "gameday",
-        "traffic",
-        "Ball-State"
-      ]
-    },
-    {
-      "id": "buckeyes-traffic-10tv",
-      "category": "buckeyes",
-      "title": "What to know before you hit the road to the Buckeyes season opener",
-      "summary": "10TV previews road and pathway conditions ahead of Ohio State's season opener, warning that more than 100,000 fans around Ohio Stadium will make campus traffic hectic. The guide covers timing and alternate routes for gameday.",
-      "source": "10TV WBNS",
-      "url": "https://www.10tv.com/video/traffic/what-to-know-before-you-hit-the-road-to-buckeyes-season-opener/530-8961da01-5e33-408a-9a28-f3325704005b",
+      "url": "https://www.brownsnation.com/this-browns-week-1-prediction-might-make-you-mad/",
       "publishedAt": "2026-09-04T09:30:00Z",
       "tags": [
-        "Ohio-State",
-        "gameday",
-        "traffic"
+        "browns",
+        "schedule",
+        "nfl",
+        "week-1"
       ]
     },
     {
-      "id": "buckeyes-trailer",
+      "id": "buckeyes-five-storylines",
       "category": "buckeyes",
-      "title": "Ball State Game Trailer: LeBron James narrates, Metallica soundtrack",
-      "summary": "Ohio State released its season-opening game trailer Thursday night, narrated by LeBron James with a Metallica soundtrack ahead of Saturday's Ball State game. The video sets the tone for a No. 1-ranked Buckeyes squad making its 2026 debut.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163588/ball-state-game-trailer-lebron-james-narrates-the-ball-state-game-trailer-which-features-a-metallica-soundtrack",
-      "publishedAt": "2026-09-04T05:45:00Z",
-      "tags": [
-        "Ohio-State",
-        "game-trailer",
-        "LeBron-James"
-      ]
-    },
-    {
-      "id": "f1-fp1-leclerc",
-      "category": "f1",
-      "title": "Leclerc leads Ferrari one-two in opening Monza practice with new engine",
-      "summary": "Charles Leclerc topped first practice at the Italian Grand Prix with a 1:23.008 lap, 0.173s ahead of teammate Lewis Hamilton in a Ferrari one-two as the team debuted its engine upgrade at Monza. Mercedes' George Russell slotted in behind the Ferraris.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sports/formula1/leclerc-leads-ferrari-one-two-first-monza-practice-2026-09-04/",
-      "publishedAt": "2026-09-04T15:50:00Z",
-      "tags": [
-        "F1",
-        "Monza",
-        "Leclerc",
-        "Ferrari"
-      ]
-    },
-    {
-      "id": "f1-fia-fp1",
-      "category": "f1",
-      "title": "FIA: Leclerc leads Ferrari one-two in opening practice at Monza",
-      "summary": "In front of the tifosi, Leclerc produced a late-session benchmark of 1:23.008 to finish 0.173 seconds clear of Hamilton, with George Russell best of the rest for Mercedes. The session marked Ferrari's strong start to its home weekend.",
-      "source": "FIA",
-      "url": "https://www.fia.com/news/f1-leclerc-leads-ferrari-one-two-opening-practice-monza",
-      "publishedAt": "2026-09-04T11:45:00Z",
-      "tags": [
-        "F1",
-        "Monza",
-        "practice",
-        "FIA"
-      ]
-    },
-    {
-      "id": "f1-autosport-fp1",
-      "category": "f1",
-      "title": "F1 Italian GP: Leclerc heads Ferrari 1-2 in opening practice",
-      "summary": "Leclerc's 1m23.008s on medium tyres edged teammate Lewis Hamilton on a hot summer afternoon at Monza. Ferrari's early pace sets up an intriguing qualifying session as the Italian GP weekend begins.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/f1-italian-gp-fp1-report-10852157/10852157/",
-      "publishedAt": "2026-09-04T11:40:00Z",
-      "tags": [
-        "F1",
-        "Monza",
-        "FP1",
-        "Ferrari"
-      ]
-    },
-    {
-      "id": "f1-sky-fp1",
-      "category": "f1",
-      "title": "Italian GP: Leclerc leads Hamilton as Ferrari seal one-two in first practice",
-      "summary": "Ferrari impressed in Italian Grand Prix first practice, with Charles Leclerc leading Lewis Hamilton in a one-two after debuting an engine upgrade at Monza. The red cars' pace puts them in front heading into the rest of the weekend.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/12433/13581158/italian-gp-charles-leclerc-leads-lewis-hamilton-as-ferrari-seal-one-two-in-first-monza-practice-after-revealing-upgrades",
-      "publishedAt": "2026-09-04T11:35:00Z",
-      "tags": [
-        "F1",
-        "Monza",
-        "Hamilton",
-        "Leclerc"
-      ]
-    },
-    {
-      "id": "tarkov-arena-060",
-      "category": "tarkov",
-      "title": "Tarkov Arena 0.6.0 to add new Tactical Map: Laboratory",
-      "summary": "Battlestate Games teased the upcoming Escape from Tarkov: Arena 0.6.0 update, which brings a new three-floor Tactical Map named Laboratory with 56 unique rewards and hidden easter eggs. The studio also asked players which new challenges they want to see in the mode.",
-      "source": "Battlestate Games (X/Twitter)",
-      "url": "https://x.com/tarkovarena/status/2095869420832752001",
+      "title": "Five storylines to watch as No. 1 Ohio State opens vs. Ball State",
+      "summary": "Ohio State kicks off its 2026 season Saturday at Ohio Stadium against Ball State, with storylines including the debut of new coordinator Arthur Smith's offense and quarterback Julian Sayin's season as a Heisman finalist. The top-ranked Buckeyes open the year as heavy favorites.",
+      "source": "Buckeyes Wire",
+      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/04/ohio-state-football-ball-state-five-buckeyes-story-lines/91602328007/",
       "publishedAt": "2026-09-04T13:30:00Z",
       "tags": [
-        "Tarkov",
-        "Arena",
-        "update",
-        "Laboratory"
+        "ohio-state",
+        "ball-state",
+        "season-opener",
+        "college-football"
       ]
     },
     {
-      "id": "local-donovan-lewis",
-      "category": "local",
-      "title": "Ex-Columbus police officer pleads guilty in 2022 Donovan Lewis shooting",
-      "summary": "A former Columbus police officer pleaded guilty to reckless homicide in the 2022 fatal shooting of unarmed Donovan Lewis. The plea opens the way for sentencing in one of central Ohio's most closely watched police-involved cases.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/ex-columbus-police-officer-pleads-guilty-in-fatal-shooting-of-unarmed-man/",
-      "publishedAt": "2026-09-04T16:34:00Z",
+      "id": "buckeyes-game-trailer",
+      "category": "buckeyes",
+      "title": "LeBron James narrates Ohio State's Ball State game trailer",
+      "summary": "Eleven Warriors published the season-opener hype trailer, narrated by NBA star and frequent Ohio State donor LeBron James with a Metallica soundtrack. It sets the tone for Saturday's opener against Ball State at the Shoe.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163588/ball-state-game-trailer-lebron-james-narrates-the-ball-state-game-trailer-which-features-a-metallica-soundtrack",
+      "publishedAt": "2026-09-04T08:30:00Z",
       "tags": [
-        "Columbus",
-        "police",
-        "Donovan-Lewis",
-        "guilty-plea"
+        "ohio-state",
+        "lebron-james",
+        "gameday",
+        "trailer"
       ]
     },
     {
-      "id": "local-911-outage",
-      "category": "local",
-      "title": "911 service interruptions affecting Columbus area, AT&T reports",
-      "summary": "AT&T reported outages in Franklin County that could affect customers calling 911 or the police non-emergency line in the Columbus area. Officials are urging residents to seek alternate contact routes while the disruption persists.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/911-service-interruptions-affecting-columbus-area/",
-      "publishedAt": "2026-09-04T16:25:00Z",
+      "id": "f1-gasly-monaco-podium",
+      "category": "f1",
+      "title": "Gasly loses Monaco GP podium as FIA Court of Appeal reinstates penalties",
+      "summary": "The FIA International Court of Appeal upheld pit-lane speeding penalties against Pierre Gasly, stripping his Monaco podium from May and dropping Alpine to seventh, with Hadjar inheriting third. The ruling also shakes up the F1 championship standings.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/gasly-loses-monaco-podium-as-penalties-reinstated-following-mclaren-and-red-bull-appeal.2DvZIUbpmqhnBSGJuDNjlv",
+      "publishedAt": "2026-09-04T14:41:00Z",
       "tags": [
-        "Columbus",
-        "911",
-        "AT&T",
-        "outage"
+        "gasly",
+        "alpine",
+        "monaco",
+        "fia"
       ]
     },
     {
-      "id": "local-intel-ceo",
-      "category": "local",
-      "title": "Intel CEO under pressure to resign from Trump and Sen. Moreno",
-      "summary": "Intel's CEO faces growing calls to step down from President Trump and Ohio Senator Bernie Moreno, per NBC4's 'Intel in Ohio' coverage. The pressure adds uncertainty for the company's sprawling central-Ohio fab investments.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/intel-in-ohio/intel-ceo-under-pressure-to-resign-from-president-trump-ohio-senator-moreno/",
-      "publishedAt": "2026-09-04T14:45:00Z",
+      "id": "f1-leclerc-fp1",
+      "category": "f1",
+      "title": "Leclerc leads Ferrari 1-2 in first practice for Italian GP",
+      "summary": "Charles Leclerc headed a Ferrari one-two ahead of Lewis Hamilton in Friday's FP1 at Monza, with the Tifosi getting a strong start to the team's home race. George Russell was third for Mercedes as the Italian GP weekend opened.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/leclerc-leads-ferrari-one-two-114841488.html",
+      "publishedAt": "2026-09-04T12:45:00Z",
       "tags": [
-        "Intel",
-        "Ohio",
-        "politics",
-        "semiconductors"
+        "ferrari",
+        "monza",
+        "italian-gp",
+        "leclerc"
       ]
     },
     {
-      "id": "local-invasive-insects",
-      "category": "local",
-      "title": "Invasive insect sightings on the rise in central Ohio",
-      "summary": "Reports of invasive insects are increasing across central Ohio, prompting officials to ask residents to document sightings. The uptick could threaten native trees and agriculture in the Columbus area.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/invasive-insect-sightings-on-the-rise-in-central-ohio/",
-      "publishedAt": "2026-09-04T13:45:00Z",
+      "id": "f1-norris-team-jobs",
+      "category": "f1",
+      "title": "Norris' new race team received 'a few hundred job requests' in first hour",
+      "summary": "Lando Norris said his newly announced junior racing team got a few hundred job applications within an hour of going public. The team, set to enter F3 in 2027, is building out staff ahead of its debut.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/lando-norris-race-team-received-123247849.html",
+      "publishedAt": "2026-09-04T12:32:00Z",
       "tags": [
-        "central-Ohio",
-        "invasive-species",
-        "insects"
+        "norris",
+        "junior-series",
+        "f3",
+        "mclaren"
+      ]
+    },
+    {
+      "id": "f1-schumacher-documentary",
+      "category": "f1",
+      "title": "Netflix releases trailer for 'Schumacher '94' documentary",
+      "summary": "Netflix dropped the trailer for \"Schumacher '94 — The Birth of a Legend,\" covering Michael Schumacher's first F1 world championship in 1994 via interviews and archive footage. The documentary arrives as Ferrari honors Schumacher at this weekend's Italian GP.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/netflix-releases-trailer-for-new-michael-schumacher-1994-f1-documentary/10852158/",
+      "publishedAt": "2026-09-04T11:30:00Z",
+      "tags": [
+        "netflix",
+        "schumacher",
+        "documentary",
+        "f1-history"
+      ]
+    },
+    {
+      "id": "local-osu-traffic",
+      "category": "local",
+      "title": "Game-day guide: heavy traffic expected around Ohio Stadium Saturday",
+      "summary": "Columbus police and ODOT are warning of heavy traffic around Ohio Stadium for Saturday's Buckeyes opener, with SR-315 backups and one-way reconfigurations near the Shoe. Fans are urged to plan routes early and avoid GPS rerouting.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/traffic/ohio-state-game-day-traffic-guide/530-73ac86a8-2220-4780-aefc-aa6027c8f597",
+      "publishedAt": "2026-09-04T09:30:00Z",
+      "tags": [
+        "columbus",
+        "traffic",
+        "ohio-state",
+        "gameday"
       ]
     }
   ]
