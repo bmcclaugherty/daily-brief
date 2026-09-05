@@ -1,236 +1,141 @@
 {
   "meta": {
-    "updatedAt": "2026-09-04T19:30:52Z",
+    "updatedAt": "2026-09-05T11:05:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 15
+    "count": 13
   },
   "stories": [
     {
-      "id": "top-europe-sabotage",
+      "id": "top-uae-pardons-al-qaradawi",
       "category": "top",
-      "title": "Europe targeted by spiralling sabotage campaign, Russia chief suspect",
-      "summary": "Germany has blamed Russia for an explosive drone found at Leipzig airport, part of a pattern of fires and attacks on defence sites across Europe from Italy to Estonia in August. Intelligence analysts see the campaign as Russia probing NATO's limits while its war in Ukraine intensifies.",
+      "title": "UAE pardons Egyptian dissident-poet al-Qaradawi",
+      "summary": "UAE President Sheikh Mohamed bin Zayed pardoned Egyptian opposition poet Abdul Rahman al-Qaradawi, who faced 10 years in prison over charges tied to his activism and was extradited from Lebanon in January 2025. The pardon closes a case that had drawn international scrutiny to the UAE's treatment of political critics.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison",
+      "publishedAt": "2026-09-05T07:40:00Z",
+      "tags": ["uae", "middle-east", "human-rights", "egypt"]
+    },
+    {
+      "id": "top-boy-12-dies-train-mayo",
+      "category": "top",
+      "title": "Boy, 12, dies after car hit by train in County Mayo",
+      "summary": "A 12-year-old boy died when the car he was traveling in was struck by a train at a level crossing at Kiltybo near Ballyhaunis, Ireland, on Thursday evening. Gardaí are investigating the collision, which has left the local community in shock.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro",
-      "publishedAt": "2026-09-04T15:30:00Z",
-      "tags": [
-        "russia",
-        "nato",
-        "europe",
-        "sabotage"
-      ]
+      "url": "https://www.bbc.com/news/articles/c1l6mzd9663o",
+      "publishedAt": "2026-09-05T07:00:00Z",
+      "tags": ["ireland", "train", "accident"]
     },
     {
-      "id": "top-iran-wedding",
+      "id": "top-malaysia-sarawak-haze-emergency",
       "category": "top",
-      "title": "US investigates deadly strike on Iranian wedding, analysis points to US munition",
-      "summary": "Washington is investigating a strike on a wedding in southern Iran that VP Vance said the US may have caused; Reuters analysis suggests a US munition hit directly. The case adds tension to US-Iran relations in the Middle East.",
-      "source": "TIME",
-      "url": "https://time.com/article/2026/09/04/did-the-u-s-strike-an-iranian-wedding-/",
-      "publishedAt": "2026-09-04T12:00:00Z",
-      "tags": [
-        "iran",
-        "us",
-        "middle-east",
-        "investigation"
-      ]
+      "title": "Malaysia declares emergency in Sarawak as haze worsens",
+      "summary": "Malaysia declared a state of emergency in Sarawak state's Serian district after thick haze from wildfires in neighboring Indonesia pushed air pollution to hazardous levels. Authorities are urging residents to limit outdoor activity as the cross-border smoke event persists.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens",
+      "publishedAt": "2026-09-05T03:40:00Z",
+      "tags": ["malaysia", "environment", "air-quality", "haze"]
     },
     {
-      "id": "top-afd-saxony",
-      "category": "top",
-      "title": "Germany's AfD eyes first far-right state government since 1945",
-      "summary": "The far-right AfD is on track to win Sunday's election in Saxony-Anhalt, which would give Germany its first far-right state governor since World War II. The vote is a test for Chancellor Merz's struggling national government.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-      "publishedAt": "2026-09-04T09:30:00Z",
-      "tags": [
-        "germany",
-        "afd",
-        "election",
-        "far-right"
-      ]
-    },
-    {
-      "id": "tech-us-china-ai-talks",
+      "id": "tech-nvidia-dlss5-rtx40",
       "category": "tech",
-      "title": "US and China gear up for first AI safety talks in mid-September",
-      "summary": "Reuters reports the US plans first-ever bilateral talks devoted to AI safety with China, led by Treasury Secretary Bessent, covering AI-linked cyberattacks and lab self-policing. They come as frontier AI capabilities reach what experts call a global tipping point.",
+      "title": "Nvidia commits DLSS 5 to RTX 40 GPUs this fall",
+      "summary": "Nvidia confirmed its DLSS 5 upscaling technology will reach GeForce RTX 40-series cards later this fall, though no exact date is set. The move extends the next-generation upscaler to the previous GPU generation.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+      "publishedAt": "2026-09-05T09:00:00Z",
+      "tags": ["nvidia", "gaming", "dlss"]
+    },
+    {
+      "id": "tech-chrome-v8-zero-day",
+      "category": "tech",
+      "title": "Google patches Chrome V8 zero-day exploited in the wild",
+      "summary": "Google shipped an emergency Chrome update fixing a V8 JavaScript-engine zero-day that attackers were actively exploiting. Users are urged to update immediately, as the flaw was being used in attacks before the fix landed.",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "publishedAt": "2026-09-05T03:00:00Z",
+      "tags": ["chrome", "security", "zero-day"]
+    },
+    {
+      "id": "tech-us-china-ai-safety-talks",
+      "category": "tech",
+      "title": "US and China set mid-September AI safety talks in Beijing",
+      "summary": "Washington and Beijing are preparing a new round of AI safety dialogue in Beijing for mid-September, the latest step in a fragile bilateral channel on frontier-model risks. The talks come as both governments race to set AI governance rules.",
       "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/exclusive-us-china-gear-mid-163032199.html",
-      "publishedAt": "2026-09-04T17:38:00Z",
-      "tags": [
-        "ai-safety",
-        "us-china",
-        "policy",
-        "frontier-ai"
-      ]
+      "url": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+      "publishedAt": "2026-09-05T02:20:00Z",
+      "tags": ["ai", "policy", "us-china"]
     },
     {
-      "id": "tech-gpt6-astra-azure",
+      "id": "tech-anthropic-ipo-slip",
       "category": "tech",
-      "title": "OpenAI's GPT-6 Astra begins rollout through Microsoft Foundry",
-      "summary": "Microsoft said GPT-6 Astra, OpenAI's newest frontier model, starts rolling out Friday through its Foundry Limited Access Program after Thursday's launch. It is OpenAI's first model to reach the Critical cyber threshold, making access rules as consequential as the performance jump.",
-      "source": "Microsoft",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
-      "publishedAt": "2026-09-04T17:30:00Z",
-      "tags": [
-        "openai",
-        "gpt-6",
-        "azure",
-        "frontier-model"
-      ]
+      "title": "Anthropic IPO launch slips to mid-October, could top $2T",
+      "summary": "Anthropic's IPO is now expected to launch in mid-October rather than late September, with sources saying the deal could value the AI firm above $2 trillion. The delay gives Anthropic more time to line up investors as markets weigh AI valuations.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/",
+      "publishedAt": "2026-09-05T02:00:00Z",
+      "tags": ["anthropic", "ai", "ipo"]
     },
     {
-      "id": "tech-astra-arcagi3",
-      "category": "tech",
-      "title": "OpenAI's GPT-6 Astra tested on ARC-AGI-3 benchmark",
-      "summary": "ARC Prize published its independent evaluation of GPT-6 Astra on the ARC-AGI-3 reasoning benchmark, a headline result in the model's first week. The results are being read as a signal of how close the model is to broad general intelligence.",
-      "source": "ARC Prize",
-      "url": "https://arcprize.org/blog/astra",
-      "publishedAt": "2026-09-04T16:30:00Z",
-      "tags": [
-        "openai",
-        "benchmark",
-        "arc-agi",
-        "reasoning"
-      ]
-    },
-    {
-      "id": "tech-qwen-cerebras",
-      "category": "tech",
-      "title": "Qwen 3.8 27B now available on Cerebras at 1500 tokens/sec",
-      "summary": "Alibaba's Qwen 3.8 27B open multimodal model is now served on Cerebras hardware at around 1,500 tokens per second. The high-speed deployment makes the agentic coding model far more practical for long AI-agent workflows.",
-      "source": "Cerebras",
-      "url": "https://inference-docs.cerebras.ai/models/qwen-3.8-27b",
-      "publishedAt": "2026-09-04T15:30:00Z",
-      "tags": [
-        "qwen",
-        "alibaba",
-        "open-models",
-        "inference"
-      ]
-    },
-    {
-      "id": "browns-week1-prediction",
+      "id": "browns-saturday-dawg-chow",
       "category": "browns",
-      "title": "Browns face a relatively easy 2026 schedule before Week 11 bye",
-      "summary": "Analysis notes the Browns play just five teams that made last year's playoffs in 2026, all before their Week 11 bye, setting up a manageable early stretch. A strong start would build momentum for a team aiming to improve on 2025.",
-      "source": "Browns Nation",
-      "url": "https://www.brownsnation.com/this-browns-week-1-prediction-might-make-you-mad/",
-      "publishedAt": "2026-09-04T09:30:00Z",
-      "tags": [
-        "browns",
-        "schedule",
-        "nfl",
-        "week-1"
-      ]
+      "title": "Saturday Dawg Chow: Browns news roundup",
+      "summary": "SB Nation's September 5 edition of the Dawg Chow rounds up the week's Browns headlines, including items on Mike Hall Jr., Jerry Jeudy and Deshaun Watson ahead of the regular season. A quick-read digest for fans catching up on the team.",
+      "source": "SB Nation",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132061/cleveland-browns-news-mike-hall-jerry-jeury-deshaun-watson",
+      "publishedAt": "2026-09-05T10:07:00Z",
+      "tags": ["browns", "nfl", "roundup"]
     },
     {
-      "id": "buckeyes-five-storylines",
+      "id": "browns-dline-health",
+      "category": "browns",
+      "title": "Browns defensive line getting healthy at right time entering opener",
+      "summary": "The Browns' defensive line, the position group hit hardest by training-camp injuries, is nearing full health just before the season opener, per the Beacon Journal. The timing gives Cleveland a boost up front as Week 1 approaches.",
+      "source": "Beacon Journal",
+      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/09/05/browns-defensive-line-health/91610378007/",
+      "publishedAt": "2026-09-05T09:30:00Z",
+      "tags": ["browns", "nfl", "defensive-line"]
+    },
+    {
+      "id": "buckeyes-day-seeks-clean-opener",
       "category": "buckeyes",
-      "title": "Five storylines to watch as No. 1 Ohio State opens vs. Ball State",
-      "summary": "Ohio State kicks off its 2026 season Saturday at Ohio Stadium against Ball State, with storylines including the debut of new coordinator Arthur Smith's offense and quarterback Julian Sayin's season as a Heisman finalist. The top-ranked Buckeyes open the year as heavy favorites.",
-      "source": "Buckeyes Wire",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/04/ohio-state-football-ball-state-five-buckeyes-story-lines/91602328007/",
-      "publishedAt": "2026-09-04T13:30:00Z",
-      "tags": [
-        "ohio-state",
-        "ball-state",
-        "season-opener",
-        "college-football"
-      ]
+      "title": "Day seeks clean opener as No. 1 Ohio State hosts Ball State",
+      "summary": "Ryan Day wants the top-ranked Buckeyes to play a clean opener against Ball State on Saturday at Ohio Stadium, with a marquee Texas matchup already looming next week. Ohio State opens as a 50-point favorite in its title-defense season opener.",
+      "source": "AP",
+      "url": "https://apnews.com/article/ohio-st-ball-st-football-660ae3e98dd6b96c4a9b0b18d2474613",
+      "publishedAt": "2026-09-05T00:15:00Z",
+      "tags": ["buckeyes", "ohio-state", "football"]
     },
     {
-      "id": "buckeyes-game-trailer",
-      "category": "buckeyes",
-      "title": "LeBron James narrates Ohio State's Ball State game trailer",
-      "summary": "Eleven Warriors published the season-opener hype trailer, narrated by NBA star and frequent Ohio State donor LeBron James with a Metallica soundtrack. It sets the tone for Saturday's opener against Ball State at the Shoe.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163588/ball-state-game-trailer-lebron-james-narrates-the-ball-state-game-trailer-which-features-a-metallica-soundtrack",
-      "publishedAt": "2026-09-04T08:30:00Z",
-      "tags": [
-        "ohio-state",
-        "lebron-james",
-        "gameday",
-        "trailer"
-      ]
-    },
-    {
-      "id": "f1-gasly-monaco-podium",
+      "id": "f1-qualifying-today-monza",
       "category": "f1",
-      "title": "Gasly loses Monaco GP podium as FIA Court of Appeal reinstates penalties",
-      "summary": "The FIA International Court of Appeal upheld pit-lane speeding penalties against Pierre Gasly, stripping his Monaco podium from May and dropping Alpine to seventh, with Hadjar inheriting third. The ruling also shakes up the F1 championship standings.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/gasly-loses-monaco-podium-as-penalties-reinstated-following-mclaren-and-red-bull-appeal.2DvZIUbpmqhnBSGJuDNjlv",
-      "publishedAt": "2026-09-04T14:41:00Z",
-      "tags": [
-        "gasly",
-        "alpine",
-        "monaco",
-        "fia"
-      ]
+      "title": "F1 Qualifying Today: Italian GP 2026 start times",
+      "summary": "Qualifying for the Italian Grand Prix at Monza takes place Saturday (10 a.m. ET), with Lewis Hamilton chasing Kimi Antonelli in the title fight while Antonelli starts from the back after an engine penalty. Ferrari's home crowd will expect a strong showing.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1089858/f1-qualifying-today-italian-grand-prix-2026-start-times-schedule-tv-channel-free-live-stream/",
+      "publishedAt": "2026-09-05T10:30:00Z",
+      "tags": ["f1", "monza", "qualifying", "ferrari"]
     },
     {
-      "id": "f1-leclerc-fp1",
+      "id": "f1-red-bull-mccullough-signing",
       "category": "f1",
-      "title": "Leclerc leads Ferrari 1-2 in first practice for Italian GP",
-      "summary": "Charles Leclerc headed a Ferrari one-two ahead of Lewis Hamilton in Friday's FP1 at Monza, with the Tifosi getting a strong start to the team's home race. George Russell was third for Mercedes as the Italian GP weekend opened.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/leclerc-leads-ferrari-one-two-114841488.html",
-      "publishedAt": "2026-09-04T12:45:00Z",
-      "tags": [
-        "ferrari",
-        "monza",
-        "italian-gp",
-        "leclerc"
-      ]
+      "title": "F1 expert: 'Brilliant' new Red Bull signing is 'massive mistake' for Aston Martin",
+      "summary": "An F1 pundit argued Red Bull's signing of Aston Martin's Tom McCullough is a 'massive mistake' for the Silverstone squad, calling him a brilliant engineer they can ill afford to lose. Red Bull confirmed the hire as it reshapes its senior technical leadership.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1089827/red-bull-f1-tom-mccullough-aston-martin-signing/",
+      "publishedAt": "2026-09-05T10:25:00Z",
+      "tags": ["f1", "red-bull", "aston-martin"]
     },
     {
-      "id": "f1-norris-team-jobs",
-      "category": "f1",
-      "title": "Norris' new race team received 'a few hundred job requests' in first hour",
-      "summary": "Lando Norris said his newly announced junior racing team got a few hundred job applications within an hour of going public. The team, set to enter F3 in 2027, is building out staff ahead of its debut.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/lando-norris-race-team-received-123247849.html",
-      "publishedAt": "2026-09-04T12:32:00Z",
-      "tags": [
-        "norris",
-        "junior-series",
-        "f3",
-        "mclaren"
-      ]
-    },
-    {
-      "id": "f1-schumacher-documentary",
-      "category": "f1",
-      "title": "Netflix releases trailer for 'Schumacher '94' documentary",
-      "summary": "Netflix dropped the trailer for \"Schumacher '94 — The Birth of a Legend,\" covering Michael Schumacher's first F1 world championship in 1994 via interviews and archive footage. The documentary arrives as Ferrari honors Schumacher at this weekend's Italian GP.",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/netflix-releases-trailer-for-new-michael-schumacher-1994-f1-documentary/10852158/",
-      "publishedAt": "2026-09-04T11:30:00Z",
-      "tags": [
-        "netflix",
-        "schumacher",
-        "documentary",
-        "f1-history"
-      ]
-    },
-    {
-      "id": "local-osu-traffic",
+      "id": "local-columbus-weather-storms",
       "category": "local",
-      "title": "Game-day guide: heavy traffic expected around Ohio Stadium Saturday",
-      "summary": "Columbus police and ODOT are warning of heavy traffic around Ohio Stadium for Saturday's Buckeyes opener, with SR-315 backups and one-way reconfigurations near the Shoe. Fans are urged to plan routes early and avoid GPS rerouting.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/traffic/ohio-state-game-day-traffic-guide/530-73ac86a8-2220-4780-aefc-aa6027c8f597",
-      "publishedAt": "2026-09-04T09:30:00Z",
-      "tags": [
-        "columbus",
-        "traffic",
-        "ohio-state",
-        "gameday"
-      ]
+      "title": "Columbus Weather: Pre-sunrise storms could be strong Saturday",
+      "summary": "Scattered thunderstorms could be strong across Columbus before sunrise Saturday, according to ABC6's forecast, kicking off an unsettled stretch through the Labor Day weekend. The storm timing matters with a busy holiday weekend of events ahead.",
+      "source": "ABC6",
+      "url": "https://abc6onyourside.com/news/local/columbus-ohio-weather-forecast-pre-sunrise-storms-could-be-strong-saturday-labor-day-weekend-sept-september-5-2026",
+      "publishedAt": "2026-09-05T09:57:00Z",
+      "tags": ["columbus", "weather", "forecast"]
     }
   ]
 }
