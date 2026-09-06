@@ -1,279 +1,151 @@
 {
   "meta": {
-    "updatedAt": "2026-09-06T11:00:00Z",
+    "updatedAt": "2026-09-06T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 18
+    "count": 10
   },
   "stories": [
     {
-      "id": "top-iran-us-vessel-0906",
+      "id": "top-kyiv-envoys",
       "category": "top",
-      "title": "Iran claims strike on unmanned US vessel in Strait of Hormuz as fighting escalates",
-      "summary": "Iran said it struck an unmanned US vessel trying to enter the Strait of Hormuz, the latest salvo in a resurgent conflict with the US around the key shipping chokepoint. The US has not confirmed the claim, and the strike follows US action on Iranian oil tankers.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-war-strait-hormuz-ship-attack-a52beec77dc90af3d040d0553837ad20",
-      "publishedAt": "2026-09-06T08:00:00Z",
+      "title": "US envoys hold 'substantive' talks with Zelenskyy in first-ever Kyiv visit",
+      "summary": "Trump envoys Jared Kushner and Steve Witkoff met Volodymyr Zelenskyy in Kyiv for their first talks in the Ukrainian capital, renewed the push to end Russia's war. It's a notable shift after eight prior Moscow trips and a real test of the ceasefire push.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv",
+      "publishedAt": "2026-09-06T15:00:00Z",
       "tags": [
-        "iran",
+        "ukraine",
+        "diplomacy",
+        "russia-war"
+      ]
+    },
+    {
+      "id": "top-iran-tanker",
+      "category": "top",
+      "title": "Iranian tanker sinks in Gulf of Oman after US strike, CENTCOM says",
+      "summary": "A US strike sank an Iranian tanker in the Gulf of Oman, per CENTCOM, while US forces redirect commercial vessels amid an Iran blockade and strikes hit southern Lebanon. The sinking marks another escalation in the ongoing Iran war.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/09/06/live-iran-war-us-kharg-island-tankers-explosion/",
+      "publishedAt": "2026-09-06T08:10:00Z",
+      "tags": [
+        "iran-war",
         "middle-east",
-        "strait-of-hormuz",
-        "geopolitics"
-      ]
-    },
-    {
-      "id": "top-iran-us-tankers-0906",
-      "category": "top",
-      "title": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
-      "summary": "The US military reported striking three Iranian oil tankers after saying its warships had come under ballistic missile fire. The exchange marks a sharp escalation in the renewed Iran-US conflict.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-war-oil-tankers-b3650799901c56a6deeca962cbaa4109",
-      "publishedAt": "2026-09-05T23:30:00Z",
-      "tags": [
-        "iran",
-        "us-military",
-        "oil-tankers",
-        "conflict"
-      ]
-    },
-    {
-      "id": "top-iran-us-bbc-0906",
-      "category": "top",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "summary": "The US and Iran exchanged retaliatory strikes on ships, the latest round since fighting flared a week ago after a month of relative calm. The Strait of Hormuz is the focus of the renewed hostilities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o",
-      "publishedAt": "2026-09-06T00:30:00Z",
-      "tags": [
-        "iran",
-        "us",
-        "retaliation",
-        "shipping"
-      ]
-    },
-    {
-      "id": "tech-berlin-ransomware-0906",
-      "category": "tech",
-      "title": "Berlin launches crisis response after hackers publish stolen state data",
-      "summary": "Berlin said it is urgently reviewing a 5.79TB data release by the Rhysida ransomware group after refusing to pay a ransom, with files reportedly including national defense and threat-response plans. The leak is a major breach of German state infrastructure.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/",
-      "publishedAt": "2026-09-05T23:15:00Z",
-      "tags": [
-        "cybersecurity",
-        "ransomware",
-        "germany",
-        "data-breach"
-      ]
-    },
-    {
-      "id": "tech-army-laser-0906",
-      "category": "tech",
-      "title": "The Army just used a 20-kilowatt laser to take out three drones",
-      "summary": "The US Army tested a 20-kilowatt directed-energy weapon that destroyed three drones in a single engagement, a step forward for low-cost counter-drone defense. The system offers a cheaper alternative to interceptor missiles.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
-      "publishedAt": "2026-09-05T23:45:00Z",
-      "tags": [
-        "laser",
-        "military-tech",
-        "drones",
-        "defense"
-      ]
-    },
-    {
-      "id": "tech-fruitfly-brain-0906",
-      "category": "tech",
-      "title": "Second complete map of a fruit fly brain completed",
-      "summary": "Researchers finished a complete connectome of a male fruit fly brain, joining the earlier female fly map and giving neuroscientists a view of brain wiring that may inform AI and neural-computing research. It is a landmark in whole-brain mapping.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
-      "publishedAt": "2026-09-06T03:00:00Z",
-      "tags": [
-        "neuroscience",
-        "connectome",
-        "science",
-        "ai"
-      ]
-    },
-    {
-      "id": "tech-tx-datacenters-0906",
-      "category": "tech",
-      "title": "The data center backlash is challenging Texas",
-      "summary": "Texas, which has profited for 30 years from data center growth, is facing a mounting community and political backlash over the power and water demands of AI-scale facilities. The tensions could reshape where hyperscale projects are sited.",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/fff531fc-988c-4016-9b5b-25f2274f4d47",
-      "publishedAt": "2026-09-06T01:00:00Z",
-      "tags": [
-        "data-centers",
-        "texas",
-        "ai-infrastructure",
         "energy"
       ]
     },
     {
-      "id": "browns-dawgchow-0906",
+      "id": "tech-ackman-eyes",
+      "category": "tech",
+      "title": "Ackman reveals daughter got experimental mitochondrial eye transplant",
+      "summary": "Bill Ackman disclosed his blind 26-year-old daughter Lucy received an experimental mitochondrial transplant - mitochondria from her leg injected into both eyes under emergency FDA authorization after a February brain hemorrhage. It restored partial vision, a potential first for treating vision loss.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/09/06/she-lost-her-sight-her-billionaire-father-bet-daring-new-treatment/",
+      "publishedAt": "2026-09-06T12:00:00Z",
+      "tags": [
+        "biotech",
+        "medicine",
+        "first-time"
+      ]
+    },
+    {
+      "id": "tech-retro-comeback",
+      "category": "tech",
+      "title": "Retro tech makes a comeback",
+      "summary": "TechCrunch surveys the retro gadgets, formats and old-school interfaces making a comeback as consumers mix nostalgia with modern utility. The trend points to renewed demand for simpler, tactile hardware.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/06/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+      "publishedAt": "2026-09-06T12:00:00Z",
+      "tags": [
+        "gadgets",
+        "nostalgia",
+        "tech-trends"
+      ]
+    },
+    {
+      "id": "tech-nasa-dsn",
+      "category": "tech",
+      "title": "NASA expands Deep Space Network with giant new dish in California",
+      "summary": "NASA added a large new antenna to its Deep Space Network in California to boost communications capacity as more missions strain the aging network. The expansion keeps deep-space probes and human missions reliably in contact.",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert",
+      "publishedAt": "2026-09-06T09:30:00Z",
+      "tags": [
+        "space",
+        "nasa",
+        "deep-space-network"
+      ]
+    },
+    {
+      "id": "browns-dawg-chow",
       "category": "browns",
-      "title": "Sunday Dawg Chow: final Sunday before the Browns' season opener",
-      "summary": "The latest Cleveland Browns news roundup lands on the final Sunday before the team's Week 1 opener at Jacksonville, tying together roster, injury and game-plan notes. With Deshaun Watson confirmed as starter, the focus shifts to how the offense will open the season.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-final-sunday-103000550.html",
-      "publishedAt": "2026-09-06T10:25:00Z",
+      "title": "Browns enter final Sunday before 2026 season opener",
+      "summary": "The Dawgs By Nature roundup covers the Browns' last weekend before the 2026 NFL season opens Wednesday, touching on defensive-line health, roster questions and expectations for first-year head coach Todd Monken. It sets up the outlook for a team in transition.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132102/cleveland-browns-news-the-final-sunday-before-the-browns-return",
+      "publishedAt": "2026-09-06T10:30:00Z",
       "tags": [
         "nfl",
-        "season-opener",
-        "deshaun-watson",
-        "browns"
-      ]
-    },
-    {
-      "id": "buckeyes-espn-rout-0906",
-      "category": "buckeyes",
-      "title": "Ohio State routs Ball State, ready for 'monster game' at Texas",
-      "summary": "No. 1 Ohio State opened its season with a 56-3 rout of Ball State, then immediately turned attention to next week's trip to No. 5 Texas. Coach Ryan Day gave the team 15 minutes to celebrate before pivoting to the marquee road game, which he called a 'monster game.'",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49839635/ohio-state-routs-ball-state-ready-monster-game-texas",
-      "publishedAt": "2026-09-06T02:10:00Z",
-      "tags": [
-        "ohio-state",
-        "ncaa-football",
-        "texas",
-        "ryan-day"
-      ]
-    },
-    {
-      "id": "buckeyes-sayin-smith-0906",
-      "category": "buckeyes",
-      "title": "Smith and Sayin help No. 1 Ohio State prepare for Texas with 56-3 rout of Ball State",
-      "summary": "Jeremiah Smith and quarterback Julian Sayin connected early, including a season-opening touchdown, as top-ranked Ohio State cruised past Ball State 56-3. The Buckeyes scored on eight of 11 post-first-drive possessions ahead of their Texas showdown.",
-      "source": "Newsday",
-      "url": "https://www.newsday.com/sports/college/college-football/ohio-state-ball-state-football-score-h74057",
-      "publishedAt": "2026-09-06T02:30:00Z",
-      "tags": [
-        "ohio-state",
-        "jeremiah-smith",
-        "week-1"
-      ]
-    },
-    {
-      "id": "buckeyes-cbs-0906",
-      "category": "buckeyes",
-      "title": "No. 1 Ohio State rolls past Ball State 56-3 ahead of Texas clash",
-      "summary": "Ohio State went three-and-out on its opening drive but found the end zone on seven of its next nine possessions in a 56-3 win over Ball State. The dominant opener sets up next week's trip to Texas.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/no-1-ohio-state-rolls-past-ball-state-56-3-ahead-of-texas-clash/",
-      "publishedAt": "2026-09-06T03:00:00Z",
-      "tags": [
-        "ohio-state",
-        "ball-state",
-        "ncaa-football",
+        "browns",
         "season-opener"
       ]
     },
     {
-      "id": "buckeyes-dispatch-0906",
+      "id": "buckeyes-opener",
       "category": "buckeyes",
-      "title": "Ohio State dominates 2026 opener in 56-3 win over Ball State, replay",
-      "summary": "Ohio State rolled to a 56-3 season-opening win over Ball State, with highlights and analysis in the Columbus Dispatch's full recap. The Buckeyes used the straightforward win to build momentum before facing Texas.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/05/ohio-state-ball-state-football-live-score-stats-highlights-analysis--live/91585014007/",
-      "publishedAt": "2026-09-06T04:00:00Z",
+      "title": "Smith and Sayin help No. 1 Ohio State prepare for Texas with 56-3 rout of Ball State",
+      "summary": "Top-ranked Ohio State hammered Ball State 56-3 in the season opener, with receiver Jeremiah Smith and quarterback Julian Sayin leading the blowout at Ohio Stadium. The dominant win catapults OSU into next week's marquee matchup with Texas.",
+      "source": "Spectrum News / AP",
+      "url": "https://spectrumnews1.com/oh/columbus/news/2026/09/06/ohio-state-with-56-3-rout-of-ball-state",
+      "publishedAt": "2026-09-06T14:53:00Z",
       "tags": [
         "ohio-state",
-        "game-recap",
-        "ncaa-football",
-        "highlights"
+        "football",
+        "big-ten"
       ]
     },
     {
-      "id": "f1-gasly-pole-0906",
+      "id": "f1-vettel-rb",
       "category": "f1",
-      "title": "Final starting grid for the 2026 Italian Grand Prix after penalties",
-      "summary": "Pierre Gasly took a shock maiden pole at Monza, the first French pole since Jean Alesi in 1997, edging George Russell by under a tenth as Ferrari missed home pole with Leclerc fourth and Hamilton fifth. The grid is set for Sunday's race at the Temple of Speed.",
-      "source": "Forbes / RacingNews365",
-      "url": "https://www.forbes.com/sites/yaraelshebiny/2026/09/06/starting-grid-for-the-2026-f1-italian-grand-prix-after-penalties/",
-      "publishedAt": "2026-09-06T10:45:00Z",
+      "title": "Vettel returns to Red Bull and 'leaves surprise' for Verstappen at Monza",
+      "summary": "Sebastian Vettel made a return appearance with his old Red Bull team at Monza, leaving Max Verstappen a surprise tied to Michael Schumacher lore during the Italian GP weekend. The reunion drew a big crowd reaction at the Temple of Speed.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1089933/f1-sebastian-vettel-red-bull-max-verstappen-michael-schumacher-italian-grand-prix-monza/",
+      "publishedAt": "2026-09-06T19:03:00Z",
       "tags": [
         "f1",
-        "monza",
-        "gasly",
-        "qualifying"
+        "vettel",
+        "red-bull"
       ]
     },
     {
-      "id": "f1-italian-gp-guide-0906",
+      "id": "f1-monza-win",
       "category": "f1",
-      "title": "Italian Grand Prix 2026: start time, how to watch and schedule",
-      "summary": "The Italian Grand Prix at Monza runs Sunday afternoon, serving as an important European home race for Ferrari. The guide lays out start time, TV coverage and what to watch with Gasly on pole.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/49689121/italian-grand-prix-2026-circuit-monza-race-f1-start-s-how-watch-schedule-usa-tv-channel-live-stream-predictions-results",
-      "publishedAt": "2026-09-06T07:00:00Z",
+      "title": "Antonelli wins Italian Grand Prix at Monza from back of the grid",
+      "summary": "Kimi Antonelli went from P20 - after a back-of-grid engine penalty - to victory in a sensational drive, passing Mercedes teammate George Russell to win on home soil and strengthen his title lead. It was a defining comeback win at the Temple of Speed.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/2026-italian-grand-prix-f1-race-results",
+      "publishedAt": "2026-09-06T15:59:00Z",
       "tags": [
         "f1",
-        "monza",
-        "race-day",
-        "how-to-watch"
+        "italian-gp",
+        "antonelli"
       ]
     },
     {
-      "id": "local-phone-outages-0906",
-      "category": "local",
-      "title": "Central Ohio law enforcement and hospitals report phone service interruptions",
-      "summary": "Central Ohio law enforcement agencies and hospitals reported phone service interruptions affecting 911 and regular lines in parts of the region. Officials advised residents to use alternate contact routes while the outages were investigated.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/central-ohio-police-hospitals-att-verizon-outages-columbus-sheriffs-office/530-99e3aa2f-6761-413a-9dfd-fc144ac5ea1f",
-      "publishedAt": "2026-09-06T05:00:00Z",
+      "id": "f1-antonelli-ferrari",
+      "category": "f1",
+      "title": "Antonelli: Ferrari links will follow me for life",
+      "summary": "Championship leader Kimi Antonelli told GPFans he expects constant Ferrari speculation throughout his career as an Italian driver, but insists he is happy at Mercedes, the team he joined as a 12-year-old. The comments keep the Scuderia rumor mill alive.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1089852/f1-kimi-antonelli-ferrari-move-links-future-transfer-rumours/",
+      "publishedAt": "2026-09-06T11:57:00Z",
       "tags": [
-        "columbus",
-        "outage",
-        "911",
-        "public-safety"
-      ]
-    },
-    {
-      "id": "local-anderson-plea-0906",
-      "category": "local",
-      "title": "Former Columbus police officer pleads guilty in fatal shooting of Donovan Lewis",
-      "summary": "Former Columbus police officer Ricky Anderson pleaded guilty in the deadly 2023 shooting of Donovan Lewis, having faced murder and reckless homicide charges. The plea moves a high-profile central Ohio police accountability case toward sentencing.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/ricky-anderson-plea-deal-donovan-lewis-fatal-shooting/530-bde87582-16ec-42ef-ab5b-720b18d524f7",
-      "publishedAt": "2026-09-06T06:00:00Z",
-      "tags": [
-        "columbus",
-        "police",
-        "donovan-lewis",
-        "accountability"
-      ]
-    },
-    {
-      "id": "local-utility-disconnects-0906",
-      "category": "local",
-      "title": "Ohio families face utility disconnections amid rising electric rates",
-      "summary": "Ohio families are increasingly facing utility disconnections as electric rates climb, straining household budgets around central Ohio. The trend highlights growing affordability pressure on the region's residents.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/ohio/ohio-families-face-utility-disconnections-rising-electric-rates/530-01bc34d5-bdf6-4d3b-8b65-35bc289b0e74",
-      "publishedAt": "2026-09-05T23:30:00Z",
-      "tags": [
-        "ohio",
-        "utilities",
-        "electric-rates",
-        "affordability"
-      ]
-    },
-    {
-      "id": "local-morrow-crash-0906",
-      "category": "local",
-      "title": "17-year-old killed in Morrow County crash",
-      "summary": "A 17-year-old was killed in a crash on County Road 170 in Morrow County. Authorities were investigating the circumstances of the fatal accident.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/17-year-old-killed-morrow-county-crash-county-road-170/530-16183917-b1ca-4c36-978e-01d19458088e",
-      "publishedAt": "2026-09-06T00:30:00Z",
-      "tags": [
-        "morrow-county",
-        "crash",
-        "fatal",
-        "local"
+        "f1",
+        "antonelli",
+        "ferrari",
+        "mercedes"
       ]
     }
   ]
