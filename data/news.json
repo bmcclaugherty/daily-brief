@@ -1,151 +1,244 @@
 {
   "meta": {
-    "updatedAt": "2026-09-06T19:30:00Z",
+    "updatedAt": "2026-09-07T14:35:48Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 10
+    "count": 16
   },
   "stories": [
     {
-      "id": "top-kyiv-envoys",
+      "id": "top-volcano-20260907",
       "category": "top",
-      "title": "US envoys hold 'substantive' talks with Zelenskyy in first-ever Kyiv visit",
-      "summary": "Trump envoys Jared Kushner and Steve Witkoff met Volodymyr Zelenskyy in Kyiv for their first talks in the Ukrainian capital, renewed the push to end Russia's war. It's a notable shift after eight prior Moscow trips and a real test of the ceasefire push.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv",
-      "publishedAt": "2026-09-06T15:00:00Z",
+      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+      "summary": "Volcanic ash from Anak Krakatau kept Indonesian airports shut for a second day Monday, stranding about 270,000 passengers and grounding more than 2,000 flights, with long queues forming at Jakarta's main airport. The extended closures signal prolonged ash-driven disruption across Southeast Asian air travel.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/czezydp4l97o",
+      "publishedAt": "2026-09-07T11:05:00Z",
       "tags": [
-        "ukraine",
-        "diplomacy",
-        "russia-war"
+        "volcano",
+        "Indonesia",
+        "travel"
       ]
     },
     {
-      "id": "top-iran-tanker",
+      "id": "top-delhi-collapse-20260907",
       "category": "top",
-      "title": "Iranian tanker sinks in Gulf of Oman after US strike, CENTCOM says",
-      "summary": "A US strike sank an Iranian tanker in the Gulf of Oman, per CENTCOM, while US forces redirect commercial vessels amid an Iran blockade and strikes hit southern Lebanon. The sinking marks another escalation in the ongoing Iran war.",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/mena/2026/09/06/live-iran-war-us-kharg-island-tankers-explosion/",
-      "publishedAt": "2026-09-06T08:10:00Z",
+      "title": "Rescuers search rubble for survivors after New Delhi hostel collapse kills seven",
+      "summary": "Rescuers worked a second day through the debris of a five-storey boys' hostel that collapsed Sunday in New Delhi's Satya Niketan, with the death toll reaching seven and more people feared trapped. Police arrested the building's owner, suspended five municipal officials, and Delhi's chief minister promised mandatory periodic structural audits for public buildings.",
+      "source": "AP (via Yahoo News)",
+      "url": "https://www.yahoo.com/news/world/articles/rescuers-search-rubble-survivors-delhi-113738852.html",
+      "publishedAt": "2026-09-07T10:45:00Z",
       "tags": [
-        "iran-war",
-        "middle-east",
-        "energy"
+        "India",
+        "building collapse",
+        "Delhi"
       ]
     },
     {
-      "id": "tech-ackman-eyes",
+      "id": "top-nepal-mourning-20260907",
+      "category": "top",
+      "title": "Nepal holds a day of mourning after floods kill at least 1,300",
+      "summary": "Nepal held a national day of mourning Monday for more than 1,300 people killed in the Aug. 26 floods, which also left roughly 5,000 missing, with flags lowered at government offices. It was the 13th day since one of the deadliest flood disasters in the country's recent history.",
+      "source": "AP",
+      "url": "https://www.wsls.com/news/world/2026/09/07/nepal-holds-a-day-of-mourning-after-floods-kill-1300/",
+      "publishedAt": "2026-09-07T05:54:00Z",
+      "tags": [
+        "Nepal",
+        "floods",
+        "mourning"
+      ]
+    },
+    {
+      "id": "top-iran-20260907",
+      "category": "top",
+      "title": "Trump vows unprecedented economic warfare to isolate Iran",
+      "summary": "President Trump announced what he called the \"most crushing economic operation\" against Iran, vowing unprecedented economic warfare to isolate Tehran. The declaration escalates the administration's pressure campaign against the Islamic Republic.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
+      "publishedAt": "2026-09-07T05:15:00Z",
+      "tags": [
+        "Iran",
+        "Trump",
+        "sanctions",
+        "foreign policy"
+      ]
+    },
+    {
+      "id": "tech-huawei-rico-20260907",
       "category": "tech",
-      "title": "Ackman reveals daughter got experimental mitochondrial eye transplant",
-      "summary": "Bill Ackman disclosed his blind 26-year-old daughter Lucy received an experimental mitochondrial transplant - mitochondria from her leg injected into both eyes under emergency FDA authorization after a February brain hemorrhage. It restored partial vision, a potential first for treating vision loss.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2026/09/06/she-lost-her-sight-her-billionaire-father-bet-daring-new-treatment/",
-      "publishedAt": "2026-09-06T12:00:00Z",
+      "title": "Huawei's US racketeering trial opens in Brooklyn over sanctions evasion and IP theft",
+      "summary": "Huawei's US racketeering (RICO) trial opened Monday in Brooklyn federal court, with prosecutors charging the Chinese telecom with a scheme of sanctions evasion and intellectual-property theft dating to 2000. The case asks a jury to decide whether Huawei's rise was built on crime.",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9422805f-519c-4b22-839c-cbd7a6464f07",
+      "publishedAt": "2026-09-07T14:15:00Z",
       "tags": [
-        "biotech",
-        "medicine",
-        "first-time"
+        "Huawei",
+        "RICO trial",
+        "sanctions",
+        "semiconductors"
       ]
     },
     {
-      "id": "tech-retro-comeback",
+      "id": "tech-liquid-hack-20260907",
       "category": "tech",
-      "title": "Retro tech makes a comeback",
-      "summary": "TechCrunch surveys the retro gadgets, formats and old-school interfaces making a comeback as consumers mix nostalgia with modern utility. The trend points to renewed demand for simpler, tactile hardware.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
-      "publishedAt": "2026-09-06T12:00:00Z",
+      "title": "$320M bitcoin exploit drains Liquid Network's federation wallet",
+      "summary": "Purported white-hat hackers withdrew about 4,000 of the 4,200 bitcoin - roughly $320 million - from Liquid Network's federation wallet, prompting Blockstream to halt all transactions on the settlement sidechain used by exchanges. Blockstream attributed the drain to a software bug in its Elements software rather than compromised keys, raising fresh questions about the network's reserve model.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "publishedAt": "2026-09-07T14:05:00Z",
       "tags": [
-        "gadgets",
-        "nostalgia",
-        "tech-trends"
+        "bitcoin",
+        "crypto",
+        "security",
+        "hack"
       ]
     },
     {
-      "id": "tech-nasa-dsn",
+      "id": "tech-anthropic-labs-20260907",
       "category": "tech",
-      "title": "NASA expands Deep Space Network with giant new dish in California",
-      "summary": "NASA added a large new antenna to its Deep Space Network in California to boost communications capacity as more missions strain the aging network. The expansion keeps deep-space probes and human missions reliably in contact.",
-      "source": "Space.com",
-      "url": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert",
-      "publishedAt": "2026-09-06T09:30:00Z",
+      "title": "Inside Anthropic's tiny Labs team, the incubator behind Claude Code and MCP",
+      "summary": "Business Insider profiled Anthropic's small in-house Labs unit, credited with incubating breakout products including Claude Code and the Model Context Protocol as the AI startup's IPO nears. The team is deliberately built to kill bad ideas fast and keep starting over.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9",
+      "publishedAt": "2026-09-07T09:00:00Z",
       "tags": [
-        "space",
-        "nasa",
-        "deep-space-network"
+        "Anthropic",
+        "AI",
+        "Claude",
+        "IPO"
       ]
     },
     {
-      "id": "browns-dawg-chow",
-      "category": "browns",
-      "title": "Browns enter final Sunday before 2026 season opener",
-      "summary": "The Dawgs By Nature roundup covers the Browns' last weekend before the 2026 NFL season opens Wednesday, touching on defensive-line health, roster questions and expectations for first-year head coach Todd Monken. It sets up the outlook for a team in transition.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132102/cleveland-browns-news-the-final-sunday-before-the-browns-return",
-      "publishedAt": "2026-09-06T10:30:00Z",
+      "id": "tech-huawei-matext2-20260907",
+      "category": "tech",
+      "title": "Huawei's Mate XT2 trifold ships with homegrown, 'US-free' Kirin 9050 Pro chips",
+      "summary": "Huawei unveiled its first triple-folding smartphone, the Mate XT2, powered by homegrown Kirin 9050 Pro chips it says are free of US supply restrictions - days before Apple's annual iPhone launch. The device underscores how far China's domestic chip supply chain has come despite US export controls.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/electronics/huawei-unveils-first-triple-fold-phone-with-us-free-core-chips",
+      "publishedAt": "2026-09-07T08:07:00Z",
       "tags": [
-        "nfl",
-        "browns",
-        "season-opener"
+        "Huawei",
+        "smartphones",
+        "chips",
+        "China"
       ]
     },
     {
-      "id": "buckeyes-opener",
+      "id": "buckeyes-bythenumbers-20260907",
       "category": "buckeyes",
-      "title": "Smith and Sayin help No. 1 Ohio State prepare for Texas with 56-3 rout of Ball State",
-      "summary": "Top-ranked Ohio State hammered Ball State 56-3 in the season opener, with receiver Jeremiah Smith and quarterback Julian Sayin leading the blowout at Ohio Stadium. The dominant win catapults OSU into next week's marquee matchup with Texas.",
-      "source": "Spectrum News / AP",
-      "url": "https://spectrumnews1.com/oh/columbus/news/2026/09/06/ohio-state-with-56-3-rout-of-ball-state",
-      "publishedAt": "2026-09-06T14:53:00Z",
+      "title": "By the Numbers: Key numbers from Ohio State's 56-3 win over Ball State",
+      "summary": "A stats-driven breakdown of No. 1 Ohio State's 56-3 season-opening rout of Ball State puts the Buckeyes' explosive debut in context as they prepare for a marquee home game against Texas on Saturday.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/numbers-key-numbers-stand-ohio-133100947.html",
+      "publishedAt": "2026-09-07T13:31:00Z",
       "tags": [
-        "ohio-state",
-        "football",
-        "big-ten"
+        "Ohio State",
+        "Buckeyes",
+        "Ball State",
+        "recap"
       ]
     },
     {
-      "id": "f1-vettel-rb",
-      "category": "f1",
-      "title": "Vettel returns to Red Bull and 'leaves surprise' for Verstappen at Monza",
-      "summary": "Sebastian Vettel made a return appearance with his old Red Bull team at Monza, leaving Max Verstappen a surprise tied to Michael Schumacher lore during the Italian GP weekend. The reunion drew a big crowd reaction at the Temple of Speed.",
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1089933/f1-sebastian-vettel-red-bull-max-verstappen-michael-schumacher-italian-grand-prix-monza/",
-      "publishedAt": "2026-09-06T19:03:00Z",
+      "id": "buckeyes-texas-scout-20260907",
+      "category": "buckeyes",
+      "title": "Behind Enemy Lines: Texas site scouts Ohio State ahead of Week 2 showdown",
+      "summary": "A Texas-focused scouting preview of Ohio State highlights which Buckeyes flashed in the opener, including freshman running back Legend Bey, who totaled 74 yards from scrimmage and a touchdown in his debut. It sets the table for Saturday's top-tier matchup between the Longhorns and Buckeyes in Columbus.",
+      "source": "Orangebloods",
+      "url": "https://www.orangebloods.com/2026/09/07/behind-enemy-lines-ohio-state/",
+      "publishedAt": "2026-09-07T13:00:00Z",
       "tags": [
-        "f1",
-        "vettel",
-        "red-bull"
+        "Ohio State",
+        "Texas",
+        "preview",
+        "Legend Bey"
       ]
     },
     {
-      "id": "f1-monza-win",
-      "category": "f1",
-      "title": "Antonelli wins Italian Grand Prix at Monza from back of the grid",
-      "summary": "Kimi Antonelli went from P20 - after a back-of-grid engine penalty - to victory in a sensational drive, passing Mercedes teammate George Russell to win on home soil and strengthen his title lead. It was a defining comeback win at the Temple of Speed.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/2026-italian-grand-prix-f1-race-results",
-      "publishedAt": "2026-09-06T15:59:00Z",
+      "id": "buckeyes-openingwin-20260907",
+      "category": "buckeyes",
+      "title": "Lots to like about Ohio State's opening win",
+      "summary": "The Wilmington News Journal breaks down Ohio State's 56-3 win over Ball State in Saturday's season opener, finding plenty of positives for the No. 1 Buckeyes even though the blowout left some questions unanswered before Texas arrives.",
+      "source": "Wilmington News Journal",
+      "url": "https://www.wnewsj.com/2026/09/07/lots-to-like-about-ohio-states-opening-win/",
+      "publishedAt": "2026-09-07T11:05:00Z",
       "tags": [
-        "f1",
-        "italian-gp",
-        "antonelli"
+        "Ohio State",
+        "Buckeyes",
+        "analysis"
       ]
     },
     {
-      "id": "f1-antonelli-ferrari",
+      "id": "f1-russell-20260907",
       "category": "f1",
-      "title": "Antonelli: Ferrari links will follow me for life",
-      "summary": "Championship leader Kimi Antonelli told GPFans he expects constant Ferrari speculation throughout his career as an Italian driver, but insists he is happy at Mercedes, the team he joined as a 12-year-old. The comments keep the Scuderia rumor mill alive.",
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1089852/f1-kimi-antonelli-ferrari-move-links-future-transfer-rumours/",
-      "publishedAt": "2026-09-06T11:57:00Z",
+      "title": "George Russell strikes defiant tone after 'real tough' spell",
+      "summary": "Mercedes' George Russell insisted he remains unbowed after a difficult run that saw teammate Kimi Antonelli pass him late to win the Italian Grand Prix at Monza. Antonelli now leads Russell by 66 points in the drivers' championship, nearly three race wins' worth.",
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/george-russell-strikes-defiant-tone-after-real-tough-spell",
+      "publishedAt": "2026-09-07T13:30:00Z",
       "tags": [
-        "f1",
-        "antonelli",
-        "ferrari",
-        "mercedes"
+        "F1",
+        "Mercedes",
+        "Russell",
+        "Monza"
+      ]
+    },
+    {
+      "id": "f1-mclaren-review-20260907",
+      "category": "f1",
+      "title": "McLaren confirm review after Norris and Piastri almost come to blows",
+      "summary": "McLaren said it will review an incident after teammates Lando Norris and Oscar Piastri nearly came to blows during the Italian Grand Prix. Both McLarens finished ahead of Lewis Hamilton at Monza, but the flare-up adds tension to their intra-team battle.",
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/mclaren-confirm-review-after-lando-norris-and-oscar-piastri-almost-come-to-blows",
+      "publishedAt": "2026-09-07T11:50:00Z",
+      "tags": [
+        "F1",
+        "McLaren",
+        "Norris",
+        "Piastri"
+      ]
+    },
+    {
+      "id": "f1-ferrari-orders-20260907",
+      "category": "f1",
+      "title": "Fred Vasseur hints at potential Ferrari team orders change",
+      "summary": "Ferrari team principal Fred Vasseur hinted the team may adjust its orders policy after Lewis Hamilton criticised strategy during a difficult home race at Monza. Ferrari's 'disastrous day' saw it fail to challenge for victory as Mercedes' Kimi Antonelli won from 19th on the grid.",
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/ferrari-hints-at-potential-team-orders-change-despite-lewis-hamilton-criticism",
+      "publishedAt": "2026-09-07T10:55:00Z",
+      "tags": [
+        "F1",
+        "Ferrari",
+        "Vasseur",
+        "Hamilton"
+      ]
+    },
+    {
+      "id": "local-motorcyclist-20260907",
+      "category": "local",
+      "title": "East Columbus motorcyclist, 42, killed after swerving to avoid animal on Wilton Drive",
+      "summary": "Fredrick Hunter, 42, died after his motorcycle hit a utility pole Sunday when he swerved to avoid an animal on Wilton Drive in east Columbus. Columbus police are investigating and asking witnesses to come forward.",
+      "source": "Hoodline",
+      "url": "https://hoodline.com/2026/09/east-columbus-motorcyclist-42-killed-after-swerving-to-dodge-animal-on-wilton-drive/",
+      "publishedAt": "2026-09-07T13:50:00Z",
+      "tags": [
+        "Columbus",
+        "traffic",
+        "crash"
+      ]
+    },
+    {
+      "id": "local-church-arson-20260907",
+      "category": "local",
+      "title": "Man arrested after alleged church arson near Ohio State campus",
+      "summary": "Columbus police arrested Lawrence Rose, 47, after he allegedly broke into St. Stephen's Episcopal Church at 30 West Woodruff Avenue near Ohio State's campus and set a book bag on fire in the basement. No injuries were reported in the Saturday-morning fire.",
+      "source": "Hoodline",
+      "url": "https://hoodline.com/2026/09/man-47-breaks-into-osu-area-church-torches-book-bag-in-basement/",
+      "publishedAt": "2026-09-07T12:05:00Z",
+      "tags": [
+        "Columbus",
+        "crime",
+        "arson"
       ]
     }
   ]
