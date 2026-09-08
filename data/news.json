@@ -1,245 +1,151 @@
 {
   "meta": {
-    "updatedAt": "2026-09-07T14:35:48Z",
+    "updatedAt": "2026-09-08T11:00:33Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 14
   },
   "stories": [
     {
-      "id": "top-volcano-20260907",
+      "id": "indonesia-volcano-anak-krakatau-20260908",
       "category": "top",
-      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
-      "summary": "Volcanic ash from Anak Krakatau kept Indonesian airports shut for a second day Monday, stranding about 270,000 passengers and grounding more than 2,000 flights, with long queues forming at Jakarta's main airport. The extended closures signal prolonged ash-driven disruption across Southeast Asian air travel.",
+      "title": "Indonesia volcano eruption strands 340,000 as airports begin reopening",
+      "summary": "Anak Krakatau's weekend eruption disrupted Indonesian air travel, leaving about 340,000 passengers stranded as airports suspended or extended closures. Indonesian airports are resuming operations as volcanic ash clears and stranded travelers seek refunds.",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/czezydp4l97o",
-      "publishedAt": "2026-09-07T11:05:00Z",
-      "tags": [
-        "volcano",
-        "Indonesia",
-        "travel"
-      ]
+      "publishedAt": "2026-09-08T09:00:00Z",
+      "tags": ["Indonesia", "Volcano", "Air Travel", "Anak Krakatau"]
     },
     {
-      "id": "top-delhi-collapse-20260907",
+      "id": "world-shares-oil-ap-20260908",
       "category": "top",
-      "title": "Rescuers search rubble for survivors after New Delhi hostel collapse kills seven",
-      "summary": "Rescuers worked a second day through the debris of a five-storey boys' hostel that collapsed Sunday in New Delhi's Satya Niketan, with the death toll reaching seven and more people feared trapped. Police arrested the building's owner, suspended five municipal officials, and Delhi's chief minister promised mandatory periodic structural audits for public buildings.",
-      "source": "AP (via Yahoo News)",
-      "url": "https://www.yahoo.com/news/world/articles/rescuers-search-rubble-survivors-delhi-113738852.html",
-      "publishedAt": "2026-09-07T10:45:00Z",
-      "tags": [
-        "India",
-        "building collapse",
-        "Delhi"
-      ]
-    },
-    {
-      "id": "top-nepal-mourning-20260907",
-      "category": "top",
-      "title": "Nepal holds a day of mourning after floods kill at least 1,300",
-      "summary": "Nepal held a national day of mourning Monday for more than 1,300 people killed in the Aug. 26 floods, which also left roughly 5,000 missing, with flags lowered at government offices. It was the 13th day since one of the deadliest flood disasters in the country's recent history.",
+      "title": "World shares and US futures decline, while oil prices press higher",
+      "summary": "Global stock indexes and US futures slid Tuesday while Brent crude gained 1.5% to about $98 a barrel, as tensions in the six-month US-Iran war kept supply worries in focus. Investors are also weighing tariff-driven uncertainty in the world economy.",
       "source": "AP",
-      "url": "https://www.wsls.com/news/world/2026/09/07/nepal-holds-a-day-of-mourning-after-floods-kill-1300/",
-      "publishedAt": "2026-09-07T05:54:00Z",
-      "tags": [
-        "Nepal",
-        "floods",
-        "mourning"
-      ]
+      "url": "https://apnews.com/article/stocks-markets-trump-oil-ai-rates-d3d6157a534584985987f828a940cffa",
+      "publishedAt": "2026-09-08T05:00:00Z",
+      "tags": ["Markets", "Oil", "Economy", "Iran"]
     },
     {
-      "id": "top-iran-20260907",
+      "id": "canada-tariffs-take-effect-20260908",
       "category": "top",
-      "title": "Trump vows unprecedented economic warfare to isolate Iran",
-      "summary": "President Trump announced what he called the \"most crushing economic operation\" against Iran, vowing unprecedented economic warfare to isolate Tehran. The declaration escalates the administration's pressure campaign against the Islamic Republic.",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
-      "publishedAt": "2026-09-07T05:15:00Z",
-      "tags": [
-        "Iran",
-        "Trump",
-        "sanctions",
-        "foreign policy"
-      ]
+      "title": "Canada's retaliatory tariffs on $20bn of US goods take effect",
+      "summary": "Ottawa's counter-tariffs on roughly $20 billion of American products kicked in Tuesday after trade talks collapsed, escalating the strain on the world's largest bilateral trading relationship. Canada paired the move with a $7.5 billion support package for affected businesses and workers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect",
+      "publishedAt": "2026-09-08T04:03:00Z",
+      "tags": ["Canada", "Tariffs", "Trade War", "US"]
     },
     {
-      "id": "tech-huawei-rico-20260907",
+      "id": "amazon-cargo-crash-recorders-20260908",
+      "category": "top",
+      "title": "Flight recorders recovered from Amazon cargo plane crash in Miami",
+      "summary": "Investigators recovered the flight data and cockpit voice recorders from the Amazon-contracted Boeing 767 that overshot Miami's runway, killing five. The plane traveled about 1,300 feet past the paved surface before coming to rest.",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/world/americas/amazon-cargo-plane-crash-flight-recorders-recovered-in-miami-1.500666484",
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "tags": ["Amazon", "Aviation", "NTSB", "Miami"]
+    },
+    {
+      "id": "pytorch-foundation-new-members-20260908",
       "category": "tech",
-      "title": "Huawei's US racketeering trial opens in Brooklyn over sanctions evasion and IP theft",
-      "summary": "Huawei's US racketeering (RICO) trial opened Monday in Brooklyn federal court, with prosecutors charging the Chinese telecom with a scheme of sanctions evasion and intellectual-property theft dating to 2000. The case asks a jury to decide whether Huawei's rise was built on crime.",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/9422805f-519c-4b22-839c-cbd7a6464f07",
-      "publishedAt": "2026-09-07T14:15:00Z",
-      "tags": [
-        "Huawei",
-        "RICO trial",
-        "sanctions",
-        "semiconductors"
-      ]
+      "title": "Alibaba, Cambricon and Ant Group join PyTorch Foundation governance",
+      "summary": "The PyTorch Foundation named Alibaba Cloud and Cambricon as Platinum members, earning each a Governing Board seat, and Ant Group as a Gold member, announced at PyTorch Conference China in Shanghai. The additions broaden the open-source AI stack's governance across major Chinese firms.",
+      "source": "pytorch.org",
+      "url": "https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/",
+      "publishedAt": "2026-09-08T06:00:00Z",
+      "tags": ["PyTorch", "Open Source", "AI", "China"]
     },
     {
-      "id": "tech-liquid-hack-20260907",
+      "id": "anthropic-decart-deal-off-20260908",
       "category": "tech",
-      "title": "$320M bitcoin exploit drains Liquid Network's federation wallet",
-      "summary": "Purported white-hat hackers withdrew about 4,000 of the 4,200 bitcoin - roughly $320 million - from Liquid Network's federation wallet, prompting Blockstream to halt all transactions on the settlement sidechain used by exchanges. Blockstream attributed the drain to a software bug in its Elements software rather than compromised keys, raising fresh questions about the network's reserve model.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
-      "publishedAt": "2026-09-07T14:05:00Z",
-      "tags": [
-        "bitcoin",
-        "crypto",
-        "security",
-        "hack"
-      ]
+      "title": "Anthropic walks away from $6 billion Decart acquisition",
+      "summary": "Anthropic ended talks to acquire Israeli AI startup Decart after due diligence, dropping what would have been its largest known acquisition at roughly $6 billion, about a 50% premium to Decart's last private valuation. The pullback comes as Anthropic prepares for a possible IPO as early as October.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
+      "publishedAt": "2026-09-08T05:00:00Z",
+      "tags": ["Anthropic", "M&A", "Startup", "AI"]
     },
     {
-      "id": "tech-anthropic-labs-20260907",
-      "category": "tech",
-      "title": "Inside Anthropic's tiny Labs team, the incubator behind Claude Code and MCP",
-      "summary": "Business Insider profiled Anthropic's small in-house Labs unit, credited with incubating breakout products including Claude Code and the Model Context Protocol as the AI startup's IPO nears. The team is deliberately built to kill bad ideas fast and keep starting over.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9",
-      "publishedAt": "2026-09-07T09:00:00Z",
-      "tags": [
-        "Anthropic",
-        "AI",
-        "Claude",
-        "IPO"
-      ]
+      "id": "browns-optimism-preview-20260907",
+      "category": "browns",
+      "title": "4 Reasons To Feel Optimistic About the Cleveland Browns' 2026 Season",
+      "summary": "An SI preview lays out four reasons for optimism ahead of the Browns' Week 1 trip to Jacksonville: a rebuilt offensive staff, expected second-year leaps from young playmakers, a promising recent draft core, and the NFL's easiest schedule (only three 2025 playoff teams). The team opens Sunday at the Jaguars.",
+      "source": "SI.com via NBC4",
+      "url": "https://www.nbc4i.com/sports/sports-illustrated/arena-nfl/si-cleveland-browns-nfl/1159143b/4-reasons-to-feel-optimistic-about-the-cleveland-browns-2026-season",
+      "publishedAt": "2026-09-07T23:55:00Z",
+      "tags": ["Browns", "NFL", "2026", "Preview"]
     },
     {
-      "id": "tech-huawei-matext2-20260907",
-      "category": "tech",
-      "title": "Huawei's Mate XT2 trifold ships with homegrown, 'US-free' Kirin 9050 Pro chips",
-      "summary": "Huawei unveiled its first triple-folding smartphone, the Mate XT2, powered by homegrown Kirin 9050 Pro chips it says are free of US supply restrictions - days before Apple's annual iPhone launch. The device underscores how far China's domestic chip supply chain has come despite US export controls.",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/electronics/huawei-unveils-first-triple-fold-phone-with-us-free-core-chips",
-      "publishedAt": "2026-09-07T08:07:00Z",
-      "tags": [
-        "Huawei",
-        "smartphones",
-        "chips",
-        "China"
-      ]
-    },
-    {
-      "id": "buckeyes-bythenumbers-20260907",
+      "id": "osu-freshmen-star-power-20260908",
       "category": "buckeyes",
-      "title": "By the Numbers: Key numbers from Ohio State's 56-3 win over Ball State",
-      "summary": "A stats-driven breakdown of No. 1 Ohio State's 56-3 season-opening rout of Ball State puts the Buckeyes' explosive debut in context as they prepare for a marquee home game against Texas on Saturday.",
+      "title": "The star power of Ohio State's freshmen in Saturday's win over Ball State",
+      "summary": "A recap zeros in on Ohio State's true freshmen in the 56-3 season-opening rout of Ball State, headlined by running back Legend Bey, as the No. 1 Buckeyes prep for this week's trip to No. 5 Texas.",
       "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/numbers-key-numbers-stand-ohio-133100947.html",
-      "publishedAt": "2026-09-07T13:31:00Z",
-      "tags": [
-        "Ohio State",
-        "Buckeyes",
-        "Ball State",
-        "recap"
-      ]
+      "url": "https://sports.yahoo.com/articles/m-still-thinking-star-power-103100230.html",
+      "publishedAt": "2026-09-08T10:31:00Z",
+      "tags": ["Ohio State", "Freshmen", "Ball State", "College Football"]
     },
     {
-      "id": "buckeyes-texas-scout-20260907",
+      "id": "osu-texas-rematch-preview-20260908",
       "category": "buckeyes",
-      "title": "Behind Enemy Lines: Texas site scouts Ohio State ahead of Week 2 showdown",
-      "summary": "A Texas-focused scouting preview of Ohio State highlights which Buckeyes flashed in the opener, including freshman running back Legend Bey, who totaled 74 yards from scrimmage and a touchdown in his debut. It sets the table for Saturday's top-tier matchup between the Longhorns and Buckeyes in Columbus.",
-      "source": "Orangebloods",
-      "url": "https://www.orangebloods.com/2026/09/07/behind-enemy-lines-ohio-state/",
-      "publishedAt": "2026-09-07T13:00:00Z",
-      "tags": [
-        "Ohio State",
-        "Texas",
-        "preview",
-        "Legend Bey"
-      ]
+      "title": "Texas braces for rematch with No. 1 Ohio State",
+      "summary": "No. 1 Ohio State travels to Austin to face No. 5 Texas on Saturday night — its first road game of the season and only the sixth all-time meeting between the programs. Defensive lineman Hero Kanu, who played for both schools, called it a 'playoff-caliber' game and noted the Buckeyes won the last two meetings.",
+      "source": "AP via Spectrum News",
+      "url": "https://spectrumnews1.com/oh/cleveland/news/2026/09/08/texas-braces-for-rematch-with-no--1-ohio-state",
+      "publishedAt": "2026-09-08T10:09:00Z",
+      "tags": ["Ohio State", "Texas", "College Football", "Buckeyes"]
     },
     {
-      "id": "buckeyes-openingwin-20260907",
-      "category": "buckeyes",
-      "title": "Lots to like about Ohio State's opening win",
-      "summary": "The Wilmington News Journal breaks down Ohio State's 56-3 win over Ball State in Saturday's season opener, finding plenty of positives for the No. 1 Buckeyes even though the blowout left some questions unanswered before Texas arrives.",
-      "source": "Wilmington News Journal",
-      "url": "https://www.wnewsj.com/2026/09/07/lots-to-like-about-ohio-states-opening-win/",
-      "publishedAt": "2026-09-07T11:05:00Z",
-      "tags": [
-        "Ohio State",
-        "Buckeyes",
-        "analysis"
-      ]
-    },
-    {
-      "id": "f1-russell-20260907",
+      "id": "f1-tost-defends-2026-rules-20260908",
       "category": "f1",
-      "title": "George Russell strikes defiant tone after 'real tough' spell",
-      "summary": "Mercedes' George Russell insisted he remains unbowed after a difficult run that saw teammate Kimi Antonelli pass him late to win the Italian Grand Prix at Monza. Antonelli now leads Russell by 66 points in the drivers' championship, nearly three race wins' worth.",
-      "source": "RacingNews365",
-      "url": "https://racingnews365.com/george-russell-strikes-defiant-tone-after-real-tough-spell",
-      "publishedAt": "2026-09-07T13:30:00Z",
-      "tags": [
-        "F1",
-        "Mercedes",
-        "Russell",
-        "Monza"
-      ]
+      "title": "Tost defends 2026 F1 rules despite driver criticism",
+      "summary": "Former Toro Rosso boss Franz Tost, now a Red Bull consultant, defended Formula 1's 2026 energy-management regulations against driver criticism, arguing the racing was foreseeable and entertaining. He also called Kimi Antonelli's title form 'fantastic' and expects Lewis Hamilton to extend his contract.",
+      "source": "AutoRacing1 (GMM)",
+      "url": "https://www.autoracing1.com/pl/503544/formula-1-news-out-of-touch-tost-defends-2026-rules-despite-driver-criticism/",
+      "publishedAt": "2026-09-08T09:00:00Z",
+      "tags": ["F1", "Tost", "2026 Rules", "Red Bull"]
     },
     {
-      "id": "f1-mclaren-review-20260907",
-      "category": "f1",
-      "title": "McLaren confirm review after Norris and Piastri almost come to blows",
-      "summary": "McLaren said it will review an incident after teammates Lando Norris and Oscar Piastri nearly came to blows during the Italian Grand Prix. Both McLarens finished ahead of Lewis Hamilton at Monza, but the flare-up adds tension to their intra-team battle.",
-      "source": "RacingNews365",
-      "url": "https://racingnews365.com/mclaren-confirm-review-after-lando-norris-and-oscar-piastri-almost-come-to-blows",
-      "publishedAt": "2026-09-07T11:50:00Z",
-      "tags": [
-        "F1",
-        "McLaren",
-        "Norris",
-        "Piastri"
-      ]
+      "id": "tarkov-1-1-5-0-patch-notes-20260908",
+      "category": "tarkov",
+      "title": "Escape from Tarkov 1.1.5.0 patch notes unveiled",
+      "summary": "Battlestate Games released the full 1.1.5.0 patch notes, overhauling the Lighthouse map with new route variants and underground passages, changing how Lightkeeper is accessed, and altering core mechanics tied to the Icebreaker transition.",
+      "source": "Insider Gaming",
+      "url": "https://insider-gaming.com/tarkov-latest-patch-notes-lighthouse-changes/",
+      "publishedAt": "2026-09-08T09:00:00Z",
+      "tags": ["Tarkov", "Patch", "Lighthouse", "1.1.5.0"]
     },
     {
-      "id": "f1-ferrari-orders-20260907",
-      "category": "f1",
-      "title": "Fred Vasseur hints at potential Ferrari team orders change",
-      "summary": "Ferrari team principal Fred Vasseur hinted the team may adjust its orders policy after Lewis Hamilton criticised strategy during a difficult home race at Monza. Ferrari's 'disastrous day' saw it fail to challenge for victory as Mercedes' Kimi Antonelli won from 19th on the grid.",
-      "source": "RacingNews365",
-      "url": "https://racingnews365.com/ferrari-hints-at-potential-team-orders-change-despite-lewis-hamilton-criticism",
-      "publishedAt": "2026-09-07T10:55:00Z",
-      "tags": [
-        "F1",
-        "Ferrari",
-        "Vasseur",
-        "Hamilton"
-      ]
-    },
-    {
-      "id": "local-motorcyclist-20260907",
+      "id": "columbus-911-restored-20260908",
       "category": "local",
-      "title": "East Columbus motorcyclist, 42, killed after swerving to avoid animal on Wilton Drive",
-      "summary": "Fredrick Hunter, 42, died after his motorcycle hit a utility pole Sunday when he swerved to avoid an animal on Wilton Drive in east Columbus. Columbus police are investigating and asking witnesses to come forward.",
-      "source": "Hoodline",
-      "url": "https://hoodline.com/2026/09/east-columbus-motorcyclist-42-killed-after-swerving-to-dodge-animal-on-wilton-drive/",
-      "publishedAt": "2026-09-07T13:50:00Z",
-      "tags": [
-        "Columbus",
-        "traffic",
-        "crash"
-      ]
+      "title": "911 services return in Columbus area after hourlong interruption",
+      "summary": "Columbus-area 911 services were restored Tuesday morning after roughly an hour-long interruption affecting callers across central Ohio.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/911-service-interruptions-affecting-columbus-area/",
+      "publishedAt": "2026-09-08T09:00:00Z",
+      "tags": ["Columbus", "911", "Emergency"]
     },
     {
-      "id": "local-church-arson-20260907",
+      "id": "central-ohio-invasive-insects-20260908",
       "category": "local",
-      "title": "Man arrested after alleged church arson near Ohio State campus",
-      "summary": "Columbus police arrested Lawrence Rose, 47, after he allegedly broke into St. Stephen's Episcopal Church at 30 West Woodruff Avenue near Ohio State's campus and set a book bag on fire in the basement. No injuries were reported in the Saturday-morning fire.",
-      "source": "Hoodline",
-      "url": "https://hoodline.com/2026/09/man-47-breaks-into-osu-area-church-torches-book-bag-in-basement/",
-      "publishedAt": "2026-09-07T12:05:00Z",
-      "tags": [
-        "Columbus",
-        "crime",
-        "arson"
-      ]
+      "title": "Invasive insect sightings on the rise in central Ohio",
+      "summary": "Central Ohio is reporting more invasive insect sightings, with agencies directing residents to Ohio guidance on managing pests like the spotted lanternfly on their property.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/invasive-insect-sightings-on-the-rise-in-central-ohio/",
+      "publishedAt": "2026-09-08T07:00:00Z",
+      "tags": ["Columbus", "Insects", "Invasive Species"]
+    },
+    {
+      "id": "cota-line-30-launch-20260908",
+      "category": "local",
+      "title": "COTA launches new route from Hilliard to Downtown",
+      "summary": "COTA launched Line 30 on Monday, a new fixed route connecting Downtown Columbus with Ohio State, Upper Arlington and Hilliard, running every 30 minutes seven days a week as part of the LinkUS transit plan.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/cota-launches-new-route-from-hilliard-to-downtown/",
+      "publishedAt": "2026-09-08T03:57:00Z",
+      "tags": ["Columbus", "Transit", "COTA"]
     }
   ]
 }
