@@ -1,151 +1,251 @@
 {
   "meta": {
-    "updatedAt": "2026-09-08T11:00:33Z",
+    "updatedAt": "2026-09-08T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 14
+    "count": 16
   },
   "stories": [
     {
-      "id": "indonesia-volcano-anak-krakatau-20260908",
+      "id": "top-1",
       "category": "top",
-      "title": "Indonesia volcano eruption strands 340,000 as airports begin reopening",
-      "summary": "Anak Krakatau's weekend eruption disrupted Indonesian air travel, leaving about 340,000 passengers stranded as airports suspended or extended closures. Indonesian airports are resuming operations as volcanic ash clears and stranded travelers seek refunds.",
+      "title": "Hundreds of flights cancelled at UK airports after air traffic control issue",
+      "summary": "A UK air traffic control issue disrupted operations at airports, leading to hundreds of flight cancellations. The BBC is covering the live situation as passengers face delays across the country.",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czezydp4l97o",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "tags": ["Indonesia", "Volcano", "Air Travel", "Anak Krakatau"]
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "publishedAt": "2026-09-08T18:45:00Z",
+      "tags": [
+        "uk",
+        "travel",
+        "aviation",
+        "air-traffic-control"
+      ]
     },
     {
-      "id": "world-shares-oil-ap-20260908",
+      "id": "top-2",
       "category": "top",
-      "title": "World shares and US futures decline, while oil prices press higher",
-      "summary": "Global stock indexes and US futures slid Tuesday while Brent crude gained 1.5% to about $98 a barrel, as tensions in the six-month US-Iran war kept supply worries in focus. Investors are also weighing tariff-driven uncertainty in the world economy.",
-      "source": "AP",
-      "url": "https://apnews.com/article/stocks-markets-trump-oil-ai-rates-d3d6157a534584985987f828a940cffa",
-      "publishedAt": "2026-09-08T05:00:00Z",
-      "tags": ["Markets", "Oil", "Economy", "Iran"]
+      "title": "Israeli strikes kill 11 people in southern Lebanon",
+      "summary": "Israeli airstrikes killed at least 11 people in southern Lebanon, according to reports. The strikes add to rising cross-border tensions between Israel and Hezbollah.",
+      "source": "Democracy Now",
+      "url": "https://www.democracynow.org/2026/9/8/headlines/israeli_strikes_kill_11_people_in_southern_lebanon",
+      "publishedAt": "2026-09-08T15:00:00Z",
+      "tags": [
+        "middle-east",
+        "israel",
+        "lebanon",
+        "conflict"
+      ]
     },
     {
-      "id": "canada-tariffs-take-effect-20260908",
+      "id": "top-3",
       "category": "top",
-      "title": "Canada's retaliatory tariffs on $20bn of US goods take effect",
-      "summary": "Ottawa's counter-tariffs on roughly $20 billion of American products kicked in Tuesday after trade talks collapsed, escalating the strain on the world's largest bilateral trading relationship. Canada paired the move with a $7.5 billion support package for affected businesses and workers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect",
-      "publishedAt": "2026-09-08T04:03:00Z",
-      "tags": ["Canada", "Tariffs", "Trade War", "US"]
+      "title": "Russia and Ukraine trade strikes after three-day pause in hostilities",
+      "summary": "Russia and Ukraine traded strikes following a three-day pause in hostilities, ending a brief lull. The exchange underscores the continued intensity of the war despite intermittent ceasefires.",
+      "source": "Democracy Now",
+      "url": "https://www.democracynow.org/2026/9/8/headlines/russia_and_ukraine_trade_strikes_following_three_day_pause_on_hostilities",
+      "publishedAt": "2026-09-08T14:30:00Z",
+      "tags": [
+        "russia",
+        "ukraine",
+        "war",
+        "europe"
+      ]
     },
     {
-      "id": "amazon-cargo-crash-recorders-20260908",
+      "id": "top-4",
       "category": "top",
-      "title": "Flight recorders recovered from Amazon cargo plane crash in Miami",
-      "summary": "Investigators recovered the flight data and cockpit voice recorders from the Amazon-contracted Boeing 767 that overshot Miami's runway, killing five. The plane traveled about 1,300 feet past the paved surface before coming to rest.",
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/world/americas/amazon-cargo-plane-crash-flight-recorders-recovered-in-miami-1.500666484",
-      "publishedAt": "2026-09-08T00:00:00Z",
-      "tags": ["Amazon", "Aviation", "NTSB", "Miami"]
+      "title": "Far-right party posts strongest showing in a German election since the Nazi era",
+      "summary": "A far-right party recorded its strongest result in a German national election since the Nazi era. The outcome signals a major political shift in Germany and across Europe.",
+      "source": "Democracy Now",
+      "url": "https://www.democracynow.org/2026/9/8/headlines/far_right_party_posts_strongest_showing_in_a_german_election_since_the_nazi_era",
+      "publishedAt": "2026-09-08T14:00:00Z",
+      "tags": [
+        "germany",
+        "election",
+        "far-right",
+        "politics"
+      ]
     },
     {
-      "id": "pytorch-foundation-new-members-20260908",
+      "id": "tech-1",
       "category": "tech",
-      "title": "Alibaba, Cambricon and Ant Group join PyTorch Foundation governance",
-      "summary": "The PyTorch Foundation named Alibaba Cloud and Cambricon as Platinum members, earning each a Governing Board seat, and Ant Group as a Gold member, announced at PyTorch Conference China in Shanghai. The additions broaden the open-source AI stack's governance across major Chinese firms.",
-      "source": "pytorch.org",
-      "url": "https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/",
-      "publishedAt": "2026-09-08T06:00:00Z",
-      "tags": ["PyTorch", "Open Source", "AI", "China"]
+      "title": "Meta debuts its Muse AI agent",
+      "summary": "Meta introduced Muse, its new AI agent, raising questions about whether consumers will trust it. The launch marks another major consumer-facing AI push from the company.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "publishedAt": "2026-09-08T19:20:00Z",
+      "tags": [
+        "meta",
+        "ai",
+        "ai-agent",
+        "consumer-tech"
+      ]
     },
     {
-      "id": "anthropic-decart-deal-off-20260908",
+      "id": "tech-2",
       "category": "tech",
-      "title": "Anthropic walks away from $6 billion Decart acquisition",
-      "summary": "Anthropic ended talks to acquire Israeli AI startup Decart after due diligence, dropping what would have been its largest known acquisition at roughly $6 billion, about a 50% premium to Decart's last private valuation. The pullback comes as Anthropic prepares for a possible IPO as early as October.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
-      "publishedAt": "2026-09-08T05:00:00Z",
-      "tags": ["Anthropic", "M&A", "Startup", "AI"]
+      "title": "OpenAI releases ChatGPT Images 2.5",
+      "summary": "OpenAI announced ChatGPT Images 2.5, an upgrade to its image-generation model for ChatGPT. The update is the latest step in the company's push to expand multimodal AI capabilities.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "publishedAt": "2026-09-08T19:00:00Z",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "image-generation",
+        "ai"
+      ]
     },
     {
-      "id": "browns-optimism-preview-20260907",
+      "id": "tech-3",
+      "category": "tech",
+      "title": "Google DeepMind releases AlphaGenome Atlas, a predictive map of every DNA letter change",
+      "summary": "Google DeepMind launched AlphaGenome Atlas, a free research platform containing predictions for the effects of 9 billion single-nucleotide variants across the human genome. It is the most comprehensive catalogue yet of how genetic mutations affect molecular biology and aims to accelerate rare-disease and genetic research.",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "publishedAt": "2026-09-08T15:30:00Z",
+      "tags": [
+        "deepmind",
+        "genomics",
+        "ai",
+        "research"
+      ]
+    },
+    {
+      "id": "tech-4",
+      "category": "tech",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "French AI startup Mistral raised €3 billion in a round that underscores Europe's push for sovereign, open-weight AI. The funding gives Mistral a larger war chest to compete with US frontier labs.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "publishedAt": "2026-09-08T14:30:00Z",
+      "tags": [
+        "mistral",
+        "funding",
+        "ai",
+        "europe"
+      ]
+    },
+    {
+      "id": "browns-1",
       "category": "browns",
-      "title": "4 Reasons To Feel Optimistic About the Cleveland Browns' 2026 Season",
-      "summary": "An SI preview lays out four reasons for optimism ahead of the Browns' Week 1 trip to Jacksonville: a rebuilt offensive staff, expected second-year leaps from young playmakers, a promising recent draft core, and the NFL's easiest schedule (only three 2025 playoff teams). The team opens Sunday at the Jaguars.",
-      "source": "SI.com via NBC4",
-      "url": "https://www.nbc4i.com/sports/sports-illustrated/arena-nfl/si-cleveland-browns-nfl/1159143b/4-reasons-to-feel-optimistic-about-the-cleveland-browns-2026-season",
-      "publishedAt": "2026-09-07T23:55:00Z",
-      "tags": ["Browns", "NFL", "2026", "Preview"]
+      "title": "Too optimistic? Browns looking like a 7-10 team in 2026",
+      "summary": "News-Herald columnist Jeff Schudel argues the Browns are likely headed for a 7-10 record in 2026. He lays out where the roster falls short as the team prepares for the season.",
+      "source": "News-Herald",
+      "url": "https://www.news-herald.com/2026/09/08/too-optimistic-browns-looking-like-a-7-10-team-in-2026-jeff-schudel/",
+      "publishedAt": "2026-09-08T17:30:00Z",
+      "tags": [
+        "cleveland-browns",
+        "nfl",
+        "2026",
+        "analysis"
+      ]
     },
     {
-      "id": "osu-freshmen-star-power-20260908",
+      "id": "browns-2",
+      "category": "browns",
+      "title": "A bad day to be a certain backup QB",
+      "summary": "The daily Browns news roundup highlights a rough day for a backup quarterback, with notes on the quarterback room and roster updates. It collects the latest Browns and NFL news from around the league.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132192/cleveland-browns-news-shedeur-sanders-austin-barber-spencer-fano-taylen-green",
+      "publishedAt": "2026-09-08T10:30:00Z",
+      "tags": [
+        "cleveland-browns",
+        "nfl",
+        "quarterback",
+        "news-roundup"
+      ]
+    },
+    {
+      "id": "buckeyes-1",
       "category": "buckeyes",
-      "title": "The star power of Ohio State's freshmen in Saturday's win over Ball State",
-      "summary": "A recap zeros in on Ohio State's true freshmen in the 56-3 season-opening rout of Ball State, headlined by running back Legend Bey, as the No. 1 Buckeyes prep for this week's trip to No. 5 Texas.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/m-still-thinking-star-power-103100230.html",
-      "publishedAt": "2026-09-08T10:31:00Z",
-      "tags": ["Ohio State", "Freshmen", "Ball State", "College Football"]
+      "title": "Ohio State football press conference: Ryan Day speaks ahead of Texas",
+      "summary": "Ohio State head coach Ryan Day spoke to the media on Tuesday ahead of the Buckeyes' top-five rematch against Texas this weekend. Day discussed preparation for the road showdown in Austin.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-football-press-conference-ryan-day-texas/530-1d80dc5d-f345-4dd6-bf7d-211144d1ac67",
+      "publishedAt": "2026-09-08T16:30:00Z",
+      "tags": [
+        "ohio-state",
+        "buckeyes",
+        "football",
+        "texas"
+      ]
     },
     {
-      "id": "osu-texas-rematch-preview-20260908",
+      "id": "buckeyes-2",
       "category": "buckeyes",
-      "title": "Texas braces for rematch with No. 1 Ohio State",
-      "summary": "No. 1 Ohio State travels to Austin to face No. 5 Texas on Saturday night — its first road game of the season and only the sixth all-time meeting between the programs. Defensive lineman Hero Kanu, who played for both schools, called it a 'playoff-caliber' game and noted the Buckeyes won the last two meetings.",
-      "source": "AP via Spectrum News",
-      "url": "https://spectrumnews1.com/oh/cleveland/news/2026/09/08/texas-braces-for-rematch-with-no--1-ohio-state",
-      "publishedAt": "2026-09-08T10:09:00Z",
-      "tags": ["Ohio State", "Texas", "College Football", "Buckeyes"]
+      "title": "Ohio State's Ryan Day previews game against Texas",
+      "summary": "Ryan Day and team captains previewed Ohio State's Week 2 matchup with No. 4 Texas following the Buckeyes' 56-3 season-opening win over Ball State. The rematch pits the top-ranked Buckeyes against the Longhorns in Austin.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/buckeyes/watch-ohio-states-ryan-day-previews-game-against-texas/",
+      "publishedAt": "2026-09-08T15:30:00Z",
+      "tags": [
+        "ohio-state",
+        "buckeyes",
+        "football",
+        "texas"
+      ]
     },
     {
-      "id": "f1-tost-defends-2026-rules-20260908",
-      "category": "f1",
-      "title": "Tost defends 2026 F1 rules despite driver criticism",
-      "summary": "Former Toro Rosso boss Franz Tost, now a Red Bull consultant, defended Formula 1's 2026 energy-management regulations against driver criticism, arguing the racing was foreseeable and entertaining. He also called Kimi Antonelli's title form 'fantastic' and expects Lewis Hamilton to extend his contract.",
-      "source": "AutoRacing1 (GMM)",
-      "url": "https://www.autoracing1.com/pl/503544/formula-1-news-out-of-touch-tost-defends-2026-rules-despite-driver-criticism/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "tags": ["F1", "Tost", "2026 Rules", "Red Bull"]
-    },
-    {
-      "id": "tarkov-1-1-5-0-patch-notes-20260908",
+      "id": "tarkov-1",
       "category": "tarkov",
-      "title": "Escape from Tarkov 1.1.5.0 patch notes unveiled",
-      "summary": "Battlestate Games released the full 1.1.5.0 patch notes, overhauling the Lighthouse map with new route variants and underground passages, changing how Lightkeeper is accessed, and altering core mechanics tied to the Icebreaker transition.",
-      "source": "Insider Gaming",
-      "url": "https://insider-gaming.com/tarkov-latest-patch-notes-lighthouse-changes/",
+      "title": "Escape from Tarkov releases patch 1.1.5.0",
+      "summary": "Battlestate Games shipped Escape from Tarkov patch 1.1.5.0, a major update. It brings a large-scale Lighthouse rework with Rogues leaving the Water Treatment plant, changes to how Lightkeeper is accessed, and the Icebreaker game mechanic update.",
+      "source": "Escape from Tarkov",
+      "url": "https://www.escapefromtarkov.com/news",
+      "publishedAt": "2026-09-08T14:00:00Z",
+      "tags": [
+        "tarkov",
+        "patch",
+        "lighthouse",
+        "update"
+      ]
+    },
+    {
+      "id": "tarkov-2",
+      "category": "tarkov",
+      "title": "Tarkov patch notes feature major Lighthouse overhaul",
+      "summary": "Analysis of the new Escape from Tarkov patch highlights a massive overhaul of the Lighthouse map, including Rogues relocating and landmines being removed. It is described as the biggest Lighthouse change yet.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/mikestubbs/2026/09/08/escape-from-tarkov-patch-notes-feature-major-lighthouse-overhaul/",
       "publishedAt": "2026-09-08T09:00:00Z",
-      "tags": ["Tarkov", "Patch", "Lighthouse", "1.1.5.0"]
+      "tags": [
+        "tarkov",
+        "patch",
+        "lighthouse",
+        "gaming"
+      ]
     },
     {
-      "id": "columbus-911-restored-20260908",
+      "id": "local-1",
       "category": "local",
-      "title": "911 services return in Columbus area after hourlong interruption",
-      "summary": "Columbus-area 911 services were restored Tuesday morning after roughly an hour-long interruption affecting callers across central Ohio.",
+      "title": "Columbus man withdraws guilty plea in deadly I-670 road rage shooting",
+      "summary": "Tony Brock, scheduled to be sentenced Tuesday in connection with a deadly road-rage shooting on I-670 in Columbus, instead withdrew his guilty plea and obtained new counsel. The case involving the 2023 killing of Village Cigars owner Bret Bennett continues.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/911-service-interruptions-affecting-columbus-area/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "tags": ["Columbus", "911", "Emergency"]
+      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
+      "publishedAt": "2026-09-08T16:00:00Z",
+      "tags": [
+        "columbus",
+        "crime",
+        "court",
+        "road-rage"
+      ]
     },
     {
-      "id": "central-ohio-invasive-insects-20260908",
+      "id": "local-2",
       "category": "local",
-      "title": "Invasive insect sightings on the rise in central Ohio",
-      "summary": "Central Ohio is reporting more invasive insect sightings, with agencies directing residents to Ohio guidance on managing pests like the spotted lanternfly on their property.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/invasive-insect-sightings-on-the-rise-in-central-ohio/",
-      "publishedAt": "2026-09-08T07:00:00Z",
-      "tags": ["Columbus", "Insects", "Invasive Species"]
-    },
-    {
-      "id": "cota-line-30-launch-20260908",
-      "category": "local",
-      "title": "COTA launches new route from Hilliard to Downtown",
-      "summary": "COTA launched Line 30 on Monday, a new fixed route connecting Downtown Columbus with Ohio State, Upper Arlington and Hilliard, running every 30 minutes seven days a week as part of the LinkUS transit plan.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/cota-launches-new-route-from-hilliard-to-downtown/",
-      "publishedAt": "2026-09-08T03:57:00Z",
-      "tags": ["Columbus", "Transit", "COTA"]
+      "title": "U.S. Marshals find 79 missing children in Ohio during Operation Meridian",
+      "summary": "The U.S. Marshals Service recovered 79 missing and endangered children across Ohio in Operation Meridian, working with federal, state and local agencies including Columbus police. Authorities call it the largest missing-child operation in state history.",
+      "source": "ABC6/WSYX",
+      "url": "https://abc6onyourside.com/news/local/us-marshals-find-79-missing-children-columbus-cleveland-akron-toledo-ohio-georgia-operation-meridian-kids-michael-black-shawn-rice-pete-elliott",
+      "publishedAt": "2026-09-08T13:45:00Z",
+      "tags": [
+        "ohio",
+        "columbus",
+        "missing-children",
+        "law-enforcement"
+      ]
     }
   ]
 }
