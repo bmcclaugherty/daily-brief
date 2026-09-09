@@ -1,235 +1,220 @@
 {
   "meta": {
-    "updatedAt": "2026-09-09T11:00:00Z",
+    "updatedAt": "2026-09-09T19:30:50Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 15
+    "count": 14
   },
   "stories": [
     {
-      "id": "top-oil-100",
+      "id": "top-iran-hormuz-0909",
       "category": "top",
-      "title": "Oil hits $100 a barrel as Iran-US clashes escalate",
-      "summary": "Crude oil climbed to a seven-week high above $100 a barrel after the US destroyed five Iranian tankers and Tehran retaliated, stoking fresh supply fears around the Strait of Hormuz.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price/",
-      "publishedAt": "2026-09-09T10:10:00Z",
+      "title": "US forces and Iran attack oil tankers in Strait of Hormuz as oil heads to $100",
+      "summary": "Iran's IRGC says it targeted two US vessels and eight oil tankers in the Strait of Hormuz while US forces struck Iranian tankers, pushing crude toward $100 a barrel. The attacks escalate a direct US-Iran confrontation that threatens a vital global shipping lane and oil supply.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan",
+      "publishedAt": "2026-09-09T18:38:00Z",
       "tags": [
+        "iran",
+        "united-states",
         "oil",
-        "markets",
-        "iran",
-        "energy"
+        "strait-of-hormuz"
       ]
     },
     {
-      "id": "top-iran-tankers",
+      "id": "top-moldova-drone-0909",
       "category": "top",
-      "title": "US military says it destroyed 5 Iranian oil tankers after missile attacks on Navy warship",
-      "summary": "The US destroyed five Iranian oil tankers in response to missile attacks on a US Navy warship, and Tehran retaliated against American targets in Jordan — sharply escalating fighting in the Gulf.",
-      "source": "AP",
-      "url": "https://apnews.com/article/iran-tanker-navy-warship-dfc9a1d9c9a5b8bc7b47fcc004025e65",
-      "publishedAt": "2026-09-09T00:00:00Z",
+      "title": "Two killed at Moldova's border as Russia and Ukraine exchange drone strikes",
+      "summary": "Russian drones struck the Starokozache checkpoint on the Ukrainian-Moldovan border, killing two civilians, as both sides traded new strikes (five deaths in Ukraine, four in Russia). The cross-border spillover heightens risks along Ukraine's western flank near NATO member Romania.",
+      "source": "Yahoo News / BBC",
+      "url": "https://www.yahoo.com/news/world/articles/russia-ukraine-exchange-strikes-two-105922131.html",
+      "publishedAt": "2026-09-09T10:30:00Z",
       "tags": [
-        "iran",
-        "middle-east",
-        "military",
-        "oil"
+        "russia",
+        "ukraine",
+        "drone",
+        "moldova"
       ]
     },
     {
-      "id": "tech-google-finland",
+      "id": "tech-ternus-iphone-0909",
       "category": "tech",
-      "title": "Google to invest $15B in AI datacenters and buy nuclear power in Finland",
-      "summary": "Alphabet's Google will invest at least €13 billion (about $15.1 billion) in AI infrastructure in Finland over two years — its largest single investment in Europe — and signed its first nuclear power contract outside the US.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
-      "publishedAt": "2026-09-09T10:45:00Z",
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "summary": "Apple's chief executive argued the iPhone remains the best device for AI as the company pushes on-device intelligence. It signals Apple is betting phones, not standalone AI gadgets, will win the AI-device race.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "publishedAt": "2026-09-09T17:30:00Z",
       "tags": [
-        "google",
-        "ai-infrastructure",
-        "datacenters",
-        "nuclear"
+        "apple",
+        "iphone",
+        "ai",
+        "john-ternus"
       ]
     },
     {
-      "id": "tech-anthropic-risk",
+      "id": "tech-anthropic-quits-0909",
       "category": "tech",
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "summary": "A senior Anthropic researcher said there is more than a 10% probability that advanced AI could destroy humanity, reigniting debate over existential AI risk.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
-      "publishedAt": "2026-09-09T10:37:00Z",
+      "title": "'Gambling with our lives': Anthropic researcher quits, warns against self-improving AI",
+      "summary": "A researcher resigned from Anthropic warning publicly that self-improving AI systems amount to 'gambling with our lives.' It highlights growing unease that AI capability is advancing faster than safety and oversight.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "publishedAt": "2026-09-09T15:30:00Z",
       "tags": [
         "anthropic",
         "ai-safety",
-        "existential-risk",
-        "ai"
+        "research",
+        "resignation"
       ]
     },
     {
-      "id": "tech-suno-v6",
+      "id": "tech-instacart-clementine-0909",
       "category": "tech",
-      "title": "Suno launches v6 AI-music models with licensed music, will pay royalties",
-      "summary": "Suno released its v6 AI-music models, the first built with licensed partners Warner, BMG and Believe, is paying royalties and retiring all previous models as it transitions away from its contested training data.",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/09/09/suno-launches-its-v6-ai-music-models-heres-what-you-need-to-know/",
-      "publishedAt": "2026-09-09T09:00:00Z",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart rolled out Clementine, an AI assistant that helps with grocery shopping and planning. It adds Instacart to the growing wave of apps embedding AI shopping copilots.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "publishedAt": "2026-09-09T13:30:00Z",
       "tags": [
-        "suno",
-        "ai-music",
-        "licensing",
-        "copyright"
+        "instacart",
+        "ai-assistant",
+        "grocery",
+        "shopping"
       ]
     },
     {
-      "id": "browns-rookie-buzz",
-      "category": "browns",
-      "title": "Browns news: buzz growing around a pair of rookies",
-      "summary": "Cleveland's daily news roundup highlights growing buzz around the Browns' rookie class — including a pair generating early attention — as the team wraps up preparation for Sunday's opener in Jacksonville.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132232/cleveland-browns-news-kc-concepcion-denzel-boston-emmanuel-mcneil-warren",
-      "publishedAt": "2026-09-09T10:00:00Z",
+      "id": "tech-sequoia-cymphony-0909",
+      "category": "tech",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Sequoia increased its stake in Cymphony, a startup that protects enterprises against threats from autonomous AI agents. The deal reflects surging demand for guardrails as companies deploy agents at scale.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "publishedAt": "2026-09-09T13:30:00Z",
       "tags": [
-        "browns",
-        "rookies",
-        "nfl",
-        "roster"
+        "sequoia",
+        "cybersecurity",
+        "ai-agents",
+        "startups"
       ]
     },
     {
-      "id": "browns-jags-picks",
+      "id": "browns-trap-0909",
       "category": "browns",
-      "title": "Jaguars vs Browns predictions, picks, odds for NFL Week 1",
-      "summary": "USA TODAY's NFL experts made their picks for the Browns' season opener, with Deshaun Watson facing heavy pressure in his first regular-season start since 2024 behind a revamped offensive line.",
-      "source": "USA TODAY",
-      "url": "https://www.usatoday.com/story/sports/nfl/2026/09/09/jaguars-vs-browns-predictions-picks-odds/91666936007/",
-      "publishedAt": "2026-09-09T00:00:00Z",
+      "title": "Jaguars fans: Is the Week 1 Browns matchup a trap game?",
+      "summary": "With Jacksonville installed as about 8.5-point home favorites over Cleveland for Sunday's opener, a Jaguars fan survey debates whether the game is a trap. The spread signals the market backing the home side against the Browns on the road.",
+      "source": "Big Cat Country",
+      "url": "https://www.bigcatcountry.com/jacksonville-jaguars-news/88367/jags-reacts-survey-2026-season-opener-cleveland-browns",
+      "publishedAt": "2026-09-09T13:30:00Z",
       "tags": [
-        "browns",
         "jaguars",
-        "week1",
-        "nfl"
+        "browns",
+        "odds",
+        "week1"
       ]
     },
     {
-      "id": "buckeyes-smith-texas",
+      "id": "browns-gameweek-0909",
+      "category": "browns",
+      "title": "All eyes on the Jaguars: live Browns updates from Sept. 9",
+      "summary": "The Browns opened game week ahead of Sunday's season opener at Jacksonville, with coach Todd Monken addressing the media and an open locker-room session as the team preps for its first game of 2026.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/eyes-jacksonville-jaguars-live-browns-130055556.html",
+      "publishedAt": "2026-09-09T12:30:00Z",
+      "tags": [
+        "browns",
+        "nfl",
+        "jaguars",
+        "week1"
+      ]
+    },
+    {
+      "id": "buckeyes-week2-preview-0909",
       "category": "buckeyes",
-      "title": "Jeremiah Smith eyes a breakthrough vs. Texas as No. 1 Ohio State faces No. 4 Longhorns",
-      "summary": "Star wide receiver Jeremiah Smith is looking for a breakout performance as top-ranked Ohio State visits No. 4 Texas in Saturday's marquee college football showdown in Austin.",
-      "source": "AP",
-      "url": "https://www.timesleaderonline.com/sports/local-sports/2026/09/jeremiah-smith-eyes-a-breakthrough-vs-texas-as-top-ranked-ohio-state-meets-the-no-4-longhorns/",
-      "publishedAt": "2026-09-09T05:00:00Z",
+      "title": "Ohio State Week 2 preview: Offense must take a step vs. Texas",
+      "summary": "A breakdown of what the Buckeyes' offense needs to improve ahead of Saturday night's trip to face a CFP-contending Texas. It's a far bigger test than Week 1's 56-3 win over Ball State.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/ohio-state-week-2-preview-130045547.html",
+      "publishedAt": "2026-09-09T13:00:45Z",
       "tags": [
         "ohio-state",
         "texas",
-        "jeremiah-smith",
-        "week2"
+        "week2",
+        "football"
       ]
     },
     {
-      "id": "buckeyes-te-2028",
+      "id": "buckeyes-streaming-0909",
       "category": "buckeyes",
-      "title": "Ohio State lands top tight end in the 2028 recruiting class",
-      "summary": "Ohio State secured a commitment from a top tight end prospect in the 2028 recruiting class, adding recruiting momentum ahead of Saturday's top-five matchup at Texas.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/ohio-state-lands-top-tight-013147517.html",
-      "publishedAt": "2026-09-09T01:00:00Z",
+      "title": "College football Week 2 streaming guide: Ohio State-Texas leads the slate",
+      "summary": "A guide to watching the biggest game of Week 2: No. 1 Ohio State at No. 4 Texas on Saturday night, where Arch Manning and the Longhorns host the Buckeyes. Details how to catch the marquee matchup.",
+      "source": "The Athletic",
+      "url": "https://www.nytimes.com/athletic/7575031/2026/09/09/college-football-ohio-state-texas-week-2-schedule/",
+      "publishedAt": "2026-09-09T11:00:00Z",
       "tags": [
         "ohio-state",
-        "recruiting",
-        "tight-end",
-        "2028"
+        "texas",
+        "week2",
+        "college-football"
       ]
     },
     {
-      "id": "f1-madring-guide",
-      "category": "f1",
-      "title": "Spanish Grand Prix: everything you need to know about F1's brand-new Madring",
-      "summary": "A guide to the new Madring street circuit in Madrid, which debuts this weekend as the home of the Spanish Grand Prix, replacing Barcelona-Catalunya.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/49825723/spanish-grand-prix-everything-need-know-f1-brand-new-madring",
-      "publishedAt": "2026-09-09T08:45:00Z",
-      "tags": [
-        "f1",
-        "spanish-grand-prix",
-        "madring",
-        "madrid"
-      ]
-    },
-    {
-      "id": "f1-madring-aero",
-      "category": "f1",
-      "title": "FIA makes key Madring decision, confirming two active aero zones for Spanish GP",
-      "summary": "The FIA confirmed two active aero zones for this weekend's Spanish Grand Prix at the new Madring circuit, a decision that will help shape the season's first race at the debut venue.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/fia-spanish-grand-prix-2026-madring-active-aero",
-      "publishedAt": "2026-09-09T00:00:00Z",
-      "tags": [
-        "f1",
-        "fia",
-        "active-aero",
-        "spain"
-      ]
-    },
-    {
-      "id": "tarkov-patch-1150",
-      "category": "tarkov",
-      "title": "Escape from Tarkov 1.1.5.0 patch notes released",
-      "summary": "Battlestate Games released the full notes for patch 1.1.5.0, a major update in Escape from Tarkov's current 'Kord Breach' season, adding a host of fixes and content.",
-      "source": "escapefromtarkov.com",
-      "url": "https://www.escapefromtarkov.com/news",
-      "publishedAt": "2026-09-08T23:30:00Z",
-      "tags": [
-        "tarkov",
-        "patch",
-        "1.1.5.0",
-        "update"
-      ]
-    },
-    {
-      "id": "local-flock-debate",
+      "id": "local-havas-acton-0909",
       "category": "local",
-      "title": "Central Ohio cities debate Flock camera usage",
-      "summary": "Columbus-area cities are debating whether to keep Flock automatic license-plate-reader cameras as the city reviews the program amid privacy concerns from residents.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-09-09T06:00:00Z",
+      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event?",
+      "summary": "A look at the man accused of attacking Dr. Amy Acton at a campaign event, part of a developing political incident in Columbus. The alleged attack has drawn attention ahead of the election season.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
+      "publishedAt": "2026-09-09T18:30:00Z",
       "tags": [
         "columbus",
-        "flock-cameras",
-        "privacy",
-        "policing"
+        "amy-acton",
+        "politics",
+        "incident"
       ]
     },
     {
-      "id": "local-south-side-shooting",
+      "id": "local-roadrage-plea-0909",
       "category": "local",
-      "title": "One killed in South Side Columbus shooting",
-      "summary": "A person was found shot to death in an alley on Columbus's South Side, the latest in a string of shootings across the city this week.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
-      "publishedAt": "2026-09-09T02:00:00Z",
+      "title": "Columbus man reverses plea in deadly road-rage shooting",
+      "summary": "A Columbus man who had pleaded guilty in a deadly road-rage shooting reversed his plea after retaining new counsel. The move resets the case in a high-profile local prosecution.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
+      "publishedAt": "2026-09-09T17:30:00Z",
       "tags": [
         "columbus",
+        "road-rage",
         "crime",
-        "shooting",
-        "south-side"
+        "court"
       ]
     },
     {
-      "id": "local-operation-meridian",
+      "id": "local-911-memorials-0909",
       "category": "local",
-      "title": "US Marshals find 79 missing children in Ohio's largest such operation",
-      "summary": "A monthlong US Marshals operation called 'Operation Meridian' recovered 79 missing or endangered children across Ohio — the largest missing-child sweep in state history.",
-      "source": "USA TODAY",
-      "url": "https://www.usatoday.com/story/news/nation/2026/09/09/us-marshals-operation-meridian-missing-children-found/91669097007/",
-      "publishedAt": "2026-09-09T00:00:00Z",
+      "title": "Central Ohio events marking the anniversary of 9/11",
+      "summary": "A list of Columbus-area memorial ceremonies, including volunteers placing flags at the Ohio Statehouse, marking the anniversary of the September 11 attacks. Ceremonies are set for this week's observance.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-memorial-ceremonies-upcoming/",
+      "publishedAt": "2026-09-09T14:30:00Z",
       "tags": [
-        "ohio",
-        "missing-children",
-        "us-marshals",
-        "columbus"
+        "columbus",
+        "9-11",
+        "memorial",
+        "ohio"
+      ]
+    },
+    {
+      "id": "local-bexley-lion-0909",
+      "category": "local",
+      "title": "Bexley to welcome dog-friendly outdoor expansion of The Lion",
+      "summary": "Popular Bexley restaurant The Lion is planning a dog-friendly outdoor expansion. It's the latest hospitality addition in the restaurant-friendly suburb east of Columbus.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
+      "publishedAt": "2026-09-09T13:30:00Z",
+      "tags": [
+        "bexley",
+        "restaurant",
+        "columbus",
+        "dining"
       ]
     }
   ]
