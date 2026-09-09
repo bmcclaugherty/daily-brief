@@ -1,250 +1,235 @@
 {
   "meta": {
-    "updatedAt": "2026-09-08T19:30:00Z",
+    "updatedAt": "2026-09-09T11:00:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 15
   },
   "stories": [
     {
-      "id": "top-1",
+      "id": "top-oil-100",
       "category": "top",
-      "title": "Hundreds of flights cancelled at UK airports after air traffic control issue",
-      "summary": "A UK air traffic control issue disrupted operations at airports, leading to hundreds of flight cancellations. The BBC is covering the live situation as passengers face delays across the country.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-      "publishedAt": "2026-09-08T18:45:00Z",
+      "title": "Oil hits $100 a barrel as Iran-US clashes escalate",
+      "summary": "Crude oil climbed to a seven-week high above $100 a barrel after the US destroyed five Iranian tankers and Tehran retaliated, stoking fresh supply fears around the Strait of Hormuz.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price/",
+      "publishedAt": "2026-09-09T10:10:00Z",
       "tags": [
-        "uk",
-        "travel",
-        "aviation",
-        "air-traffic-control"
+        "oil",
+        "markets",
+        "iran",
+        "energy"
       ]
     },
     {
-      "id": "top-2",
+      "id": "top-iran-tankers",
       "category": "top",
-      "title": "Israeli strikes kill 11 people in southern Lebanon",
-      "summary": "Israeli airstrikes killed at least 11 people in southern Lebanon, according to reports. The strikes add to rising cross-border tensions between Israel and Hezbollah.",
-      "source": "Democracy Now",
-      "url": "https://www.democracynow.org/2026/9/8/headlines/israeli_strikes_kill_11_people_in_southern_lebanon",
-      "publishedAt": "2026-09-08T15:00:00Z",
+      "title": "US military says it destroyed 5 Iranian oil tankers after missile attacks on Navy warship",
+      "summary": "The US destroyed five Iranian oil tankers in response to missile attacks on a US Navy warship, and Tehran retaliated against American targets in Jordan — sharply escalating fighting in the Gulf.",
+      "source": "AP",
+      "url": "https://apnews.com/article/iran-tanker-navy-warship-dfc9a1d9c9a5b8bc7b47fcc004025e65",
+      "publishedAt": "2026-09-09T00:00:00Z",
       "tags": [
+        "iran",
         "middle-east",
-        "israel",
-        "lebanon",
-        "conflict"
+        "military",
+        "oil"
       ]
     },
     {
-      "id": "top-3",
-      "category": "top",
-      "title": "Russia and Ukraine trade strikes after three-day pause in hostilities",
-      "summary": "Russia and Ukraine traded strikes following a three-day pause in hostilities, ending a brief lull. The exchange underscores the continued intensity of the war despite intermittent ceasefires.",
-      "source": "Democracy Now",
-      "url": "https://www.democracynow.org/2026/9/8/headlines/russia_and_ukraine_trade_strikes_following_three_day_pause_on_hostilities",
-      "publishedAt": "2026-09-08T14:30:00Z",
-      "tags": [
-        "russia",
-        "ukraine",
-        "war",
-        "europe"
-      ]
-    },
-    {
-      "id": "top-4",
-      "category": "top",
-      "title": "Far-right party posts strongest showing in a German election since the Nazi era",
-      "summary": "A far-right party recorded its strongest result in a German national election since the Nazi era. The outcome signals a major political shift in Germany and across Europe.",
-      "source": "Democracy Now",
-      "url": "https://www.democracynow.org/2026/9/8/headlines/far_right_party_posts_strongest_showing_in_a_german_election_since_the_nazi_era",
-      "publishedAt": "2026-09-08T14:00:00Z",
-      "tags": [
-        "germany",
-        "election",
-        "far-right",
-        "politics"
-      ]
-    },
-    {
-      "id": "tech-1",
+      "id": "tech-google-finland",
       "category": "tech",
-      "title": "Meta debuts its Muse AI agent",
-      "summary": "Meta introduced Muse, its new AI agent, raising questions about whether consumers will trust it. The launch marks another major consumer-facing AI push from the company.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "publishedAt": "2026-09-08T19:20:00Z",
+      "title": "Google to invest $15B in AI datacenters and buy nuclear power in Finland",
+      "summary": "Alphabet's Google will invest at least €13 billion (about $15.1 billion) in AI infrastructure in Finland over two years — its largest single investment in Europe — and signed its first nuclear power contract outside the US.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
+      "publishedAt": "2026-09-09T10:45:00Z",
       "tags": [
-        "meta",
-        "ai",
-        "ai-agent",
-        "consumer-tech"
+        "google",
+        "ai-infrastructure",
+        "datacenters",
+        "nuclear"
       ]
     },
     {
-      "id": "tech-2",
+      "id": "tech-anthropic-risk",
       "category": "tech",
-      "title": "OpenAI releases ChatGPT Images 2.5",
-      "summary": "OpenAI announced ChatGPT Images 2.5, an upgrade to its image-generation model for ChatGPT. The update is the latest step in the company's push to expand multimodal AI capabilities.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "publishedAt": "2026-09-08T19:00:00Z",
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "summary": "A senior Anthropic researcher said there is more than a 10% probability that advanced AI could destroy humanity, reigniting debate over existential AI risk.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+      "publishedAt": "2026-09-09T10:37:00Z",
       "tags": [
-        "openai",
-        "chatgpt",
-        "image-generation",
+        "anthropic",
+        "ai-safety",
+        "existential-risk",
         "ai"
       ]
     },
     {
-      "id": "tech-3",
+      "id": "tech-suno-v6",
       "category": "tech",
-      "title": "Google DeepMind releases AlphaGenome Atlas, a predictive map of every DNA letter change",
-      "summary": "Google DeepMind launched AlphaGenome Atlas, a free research platform containing predictions for the effects of 9 billion single-nucleotide variants across the human genome. It is the most comprehensive catalogue yet of how genetic mutations affect molecular biology and aims to accelerate rare-disease and genetic research.",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "publishedAt": "2026-09-08T15:30:00Z",
+      "title": "Suno launches v6 AI-music models with licensed music, will pay royalties",
+      "summary": "Suno released its v6 AI-music models, the first built with licensed partners Warner, BMG and Believe, is paying royalties and retiring all previous models as it transitions away from its contested training data.",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/09/09/suno-launches-its-v6-ai-music-models-heres-what-you-need-to-know/",
+      "publishedAt": "2026-09-09T09:00:00Z",
       "tags": [
-        "deepmind",
-        "genomics",
-        "ai",
-        "research"
+        "suno",
+        "ai-music",
+        "licensing",
+        "copyright"
       ]
     },
     {
-      "id": "tech-4",
-      "category": "tech",
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "summary": "French AI startup Mistral raised €3 billion in a round that underscores Europe's push for sovereign, open-weight AI. The funding gives Mistral a larger war chest to compete with US frontier labs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "publishedAt": "2026-09-08T14:30:00Z",
-      "tags": [
-        "mistral",
-        "funding",
-        "ai",
-        "europe"
-      ]
-    },
-    {
-      "id": "browns-1",
+      "id": "browns-rookie-buzz",
       "category": "browns",
-      "title": "Too optimistic? Browns looking like a 7-10 team in 2026",
-      "summary": "News-Herald columnist Jeff Schudel argues the Browns are likely headed for a 7-10 record in 2026. He lays out where the roster falls short as the team prepares for the season.",
-      "source": "News-Herald",
-      "url": "https://www.news-herald.com/2026/09/08/too-optimistic-browns-looking-like-a-7-10-team-in-2026-jeff-schudel/",
-      "publishedAt": "2026-09-08T17:30:00Z",
-      "tags": [
-        "cleveland-browns",
-        "nfl",
-        "2026",
-        "analysis"
-      ]
-    },
-    {
-      "id": "browns-2",
-      "category": "browns",
-      "title": "A bad day to be a certain backup QB",
-      "summary": "The daily Browns news roundup highlights a rough day for a backup quarterback, with notes on the quarterback room and roster updates. It collects the latest Browns and NFL news from around the league.",
+      "title": "Browns news: buzz growing around a pair of rookies",
+      "summary": "Cleveland's daily news roundup highlights growing buzz around the Browns' rookie class — including a pair generating early attention — as the team wraps up preparation for Sunday's opener in Jacksonville.",
       "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132192/cleveland-browns-news-shedeur-sanders-austin-barber-spencer-fano-taylen-green",
-      "publishedAt": "2026-09-08T10:30:00Z",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132232/cleveland-browns-news-kc-concepcion-denzel-boston-emmanuel-mcneil-warren",
+      "publishedAt": "2026-09-09T10:00:00Z",
       "tags": [
-        "cleveland-browns",
+        "browns",
+        "rookies",
         "nfl",
-        "quarterback",
-        "news-roundup"
+        "roster"
       ]
     },
     {
-      "id": "buckeyes-1",
+      "id": "browns-jags-picks",
+      "category": "browns",
+      "title": "Jaguars vs Browns predictions, picks, odds for NFL Week 1",
+      "summary": "USA TODAY's NFL experts made their picks for the Browns' season opener, with Deshaun Watson facing heavy pressure in his first regular-season start since 2024 behind a revamped offensive line.",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/sports/nfl/2026/09/09/jaguars-vs-browns-predictions-picks-odds/91666936007/",
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "tags": [
+        "browns",
+        "jaguars",
+        "week1",
+        "nfl"
+      ]
+    },
+    {
+      "id": "buckeyes-smith-texas",
       "category": "buckeyes",
-      "title": "Ohio State football press conference: Ryan Day speaks ahead of Texas",
-      "summary": "Ohio State head coach Ryan Day spoke to the media on Tuesday ahead of the Buckeyes' top-five rematch against Texas this weekend. Day discussed preparation for the road showdown in Austin.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-football-press-conference-ryan-day-texas/530-1d80dc5d-f345-4dd6-bf7d-211144d1ac67",
-      "publishedAt": "2026-09-08T16:30:00Z",
+      "title": "Jeremiah Smith eyes a breakthrough vs. Texas as No. 1 Ohio State faces No. 4 Longhorns",
+      "summary": "Star wide receiver Jeremiah Smith is looking for a breakout performance as top-ranked Ohio State visits No. 4 Texas in Saturday's marquee college football showdown in Austin.",
+      "source": "AP",
+      "url": "https://www.timesleaderonline.com/sports/local-sports/2026/09/jeremiah-smith-eyes-a-breakthrough-vs-texas-as-top-ranked-ohio-state-meets-the-no-4-longhorns/",
+      "publishedAt": "2026-09-09T05:00:00Z",
       "tags": [
         "ohio-state",
-        "buckeyes",
-        "football",
-        "texas"
+        "texas",
+        "jeremiah-smith",
+        "week2"
       ]
     },
     {
-      "id": "buckeyes-2",
+      "id": "buckeyes-te-2028",
       "category": "buckeyes",
-      "title": "Ohio State's Ryan Day previews game against Texas",
-      "summary": "Ryan Day and team captains previewed Ohio State's Week 2 matchup with No. 4 Texas following the Buckeyes' 56-3 season-opening win over Ball State. The rematch pits the top-ranked Buckeyes against the Longhorns in Austin.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/watch-ohio-states-ryan-day-previews-game-against-texas/",
-      "publishedAt": "2026-09-08T15:30:00Z",
+      "title": "Ohio State lands top tight end in the 2028 recruiting class",
+      "summary": "Ohio State secured a commitment from a top tight end prospect in the 2028 recruiting class, adding recruiting momentum ahead of Saturday's top-five matchup at Texas.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/ohio-state-lands-top-tight-013147517.html",
+      "publishedAt": "2026-09-09T01:00:00Z",
       "tags": [
         "ohio-state",
-        "buckeyes",
-        "football",
-        "texas"
+        "recruiting",
+        "tight-end",
+        "2028"
       ]
     },
     {
-      "id": "tarkov-1",
+      "id": "f1-madring-guide",
+      "category": "f1",
+      "title": "Spanish Grand Prix: everything you need to know about F1's brand-new Madring",
+      "summary": "A guide to the new Madring street circuit in Madrid, which debuts this weekend as the home of the Spanish Grand Prix, replacing Barcelona-Catalunya.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/f1/story/_/id/49825723/spanish-grand-prix-everything-need-know-f1-brand-new-madring",
+      "publishedAt": "2026-09-09T08:45:00Z",
+      "tags": [
+        "f1",
+        "spanish-grand-prix",
+        "madring",
+        "madrid"
+      ]
+    },
+    {
+      "id": "f1-madring-aero",
+      "category": "f1",
+      "title": "FIA makes key Madring decision, confirming two active aero zones for Spanish GP",
+      "summary": "The FIA confirmed two active aero zones for this weekend's Spanish Grand Prix at the new Madring circuit, a decision that will help shape the season's first race at the debut venue.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/fia-spanish-grand-prix-2026-madring-active-aero",
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "tags": [
+        "f1",
+        "fia",
+        "active-aero",
+        "spain"
+      ]
+    },
+    {
+      "id": "tarkov-patch-1150",
       "category": "tarkov",
-      "title": "Escape from Tarkov releases patch 1.1.5.0",
-      "summary": "Battlestate Games shipped Escape from Tarkov patch 1.1.5.0, a major update. It brings a large-scale Lighthouse rework with Rogues leaving the Water Treatment plant, changes to how Lightkeeper is accessed, and the Icebreaker game mechanic update.",
-      "source": "Escape from Tarkov",
+      "title": "Escape from Tarkov 1.1.5.0 patch notes released",
+      "summary": "Battlestate Games released the full notes for patch 1.1.5.0, a major update in Escape from Tarkov's current 'Kord Breach' season, adding a host of fixes and content.",
+      "source": "escapefromtarkov.com",
       "url": "https://www.escapefromtarkov.com/news",
-      "publishedAt": "2026-09-08T14:00:00Z",
+      "publishedAt": "2026-09-08T23:30:00Z",
       "tags": [
         "tarkov",
         "patch",
-        "lighthouse",
+        "1.1.5.0",
         "update"
       ]
     },
     {
-      "id": "tarkov-2",
-      "category": "tarkov",
-      "title": "Tarkov patch notes feature major Lighthouse overhaul",
-      "summary": "Analysis of the new Escape from Tarkov patch highlights a massive overhaul of the Lighthouse map, including Rogues relocating and landmines being removed. It is described as the biggest Lighthouse change yet.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/mikestubbs/2026/09/08/escape-from-tarkov-patch-notes-feature-major-lighthouse-overhaul/",
-      "publishedAt": "2026-09-08T09:00:00Z",
+      "id": "local-flock-debate",
+      "category": "local",
+      "title": "Central Ohio cities debate Flock camera usage",
+      "summary": "Columbus-area cities are debating whether to keep Flock automatic license-plate-reader cameras as the city reviews the program amid privacy concerns from residents.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
+      "publishedAt": "2026-09-09T06:00:00Z",
       "tags": [
-        "tarkov",
-        "patch",
-        "lighthouse",
-        "gaming"
+        "columbus",
+        "flock-cameras",
+        "privacy",
+        "policing"
       ]
     },
     {
-      "id": "local-1",
+      "id": "local-south-side-shooting",
       "category": "local",
-      "title": "Columbus man withdraws guilty plea in deadly I-670 road rage shooting",
-      "summary": "Tony Brock, scheduled to be sentenced Tuesday in connection with a deadly road-rage shooting on I-670 in Columbus, instead withdrew his guilty plea and obtained new counsel. The case involving the 2023 killing of Village Cigars owner Bret Bennett continues.",
+      "title": "One killed in South Side Columbus shooting",
+      "summary": "A person was found shot to death in an alley on Columbus's South Side, the latest in a string of shootings across the city this week.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
-      "publishedAt": "2026-09-08T16:00:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
+      "publishedAt": "2026-09-09T02:00:00Z",
       "tags": [
         "columbus",
         "crime",
-        "court",
-        "road-rage"
+        "shooting",
+        "south-side"
       ]
     },
     {
-      "id": "local-2",
+      "id": "local-operation-meridian",
       "category": "local",
-      "title": "U.S. Marshals find 79 missing children in Ohio during Operation Meridian",
-      "summary": "The U.S. Marshals Service recovered 79 missing and endangered children across Ohio in Operation Meridian, working with federal, state and local agencies including Columbus police. Authorities call it the largest missing-child operation in state history.",
-      "source": "ABC6/WSYX",
-      "url": "https://abc6onyourside.com/news/local/us-marshals-find-79-missing-children-columbus-cleveland-akron-toledo-ohio-georgia-operation-meridian-kids-michael-black-shawn-rice-pete-elliott",
-      "publishedAt": "2026-09-08T13:45:00Z",
+      "title": "US Marshals find 79 missing children in Ohio's largest such operation",
+      "summary": "A monthlong US Marshals operation called 'Operation Meridian' recovered 79 missing or endangered children across Ohio — the largest missing-child sweep in state history.",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/news/nation/2026/09/09/us-marshals-operation-meridian-missing-children-found/91669097007/",
+      "publishedAt": "2026-09-09T00:00:00Z",
       "tags": [
         "ohio",
-        "columbus",
         "missing-children",
-        "law-enforcement"
+        "us-marshals",
+        "columbus"
       ]
     }
   ]
