@@ -1,188 +1,111 @@
 {
   "meta": {
-    "updatedAt": "2026-09-10T11:06:47Z",
+    "updatedAt": "2026-09-10T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 10
   },
   "stories": [
     {
-      "id": "top-philippines-ferry-fire-20260910",
+      "id": "top-npr-keating-20260910",
       "category": "top",
-      "title": "Ferry fire in the Philippines leaves 5 dead and 86 missing",
-      "summary": "A fire broke out on a passenger ferry near Coron in Palawan, killing at least five people with dozens still unaccounted for, the coast guard said. Rescuers are searching for survivors.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/live/crje8w9jelnyt",
-      "publishedAt": "2026-09-10T09:00:00Z",
-      "tags": [
-        "philippines",
-        "ferry",
-        "disaster",
-        "rescue"
-      ]
+      "title": "9/11 victim Barbara Keating laid to rest 25 years after attack",
+      "summary": "The remains of Barbara Keating, a passenger on American Airlines Flight 11 killed on 9/11, were finally identified and she is being laid to rest 25 years later. Her burial underscores that more than 1,100 people killed in New York still have unverified remains.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
+      "publishedAt": "2026-09-10T15:30:00Z",
+      "tags": ["9/11", "anniversary", "remains-identified"]
     },
     {
-      "id": "top-trump-dividend-20260910",
+      "id": "top-reuters-chinaship-20260910",
       "category": "top",
-      "title": "Trump promises every American adult $5,000 if Republicans win midterms",
-      "summary": "President Donald Trump said he would hand every adult American a $5,000 'Trump dividend' if the GOP holds both chambers in November. He gave no details on cost or funding.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c62kzr1jg0jo",
-      "publishedAt": "2026-09-10T02:00:00Z",
-      "tags": [
-        "us-politics",
-        "midterms",
-        "trump",
-        "economy"
-      ]
-    },
-    {
-      "id": "tech-apple-iphone-duo-20260910",
-      "category": "tech",
-      "title": "Apple unveils $1,999 foldable iPhone Duo",
-      "summary": "Apple unveiled a foldable iPhone Duo priced at $1,999, pushing its lineup further upmarket. The foldable is notable for using an AI-designed hinge and a reference-image system to certify photos aren't AI-generated.",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/apple-unveils-1999-iphone-duo-pushes-lineup-further-upmarket-4894342",
-      "publishedAt": "2026-09-10T06:00:00Z",
-      "tags": [
-        "apple",
-        "iphone",
-        "foldable",
-        "devices"
-      ]
-    },
-    {
-      "id": "tech-china-ai-chip-hbm-20260910",
-      "category": "tech",
-      "title": "China's AI chipmakers raise prices 20-50% on HBM shortage",
-      "summary": "Huawei, Cambricon, MetaX and Iluvatar CoreX hiked prices on current and next-gen AI accelerators by up to 50% as the high-bandwidth memory shortage bites. The squeeze complicates Beijing's drive to build Nvidia alternatives.",
+      "title": "Cargo ship fire at Chinese shipyard in Qingdao kills 25",
+      "summary": "At least 25 people died when fire engulfed a foreign cargo vessel undergoing repairs at a state-owned yard in Qingdao, east China's Shandong province, with five more injured. The blaze at one of China's busiest ports highlights persistent risks in ship-repair operations.",
       "source": "Reuters",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivechinas-ai-chipmakers-raise-prices-as-highbandwidth-memory-shortage-bites-4894950",
-      "publishedAt": "2026-09-10T01:10:00Z",
-      "tags": [
-        "ai-chips",
-        "hbm",
-        "china",
-        "semiconductors"
-      ]
+      "url": "https://www.reuters.com/world/asia-pacific/fire-cargo-vessel-china-shipyard-causes-major-casualties-state-media-reports-2026-09-10/",
+      "publishedAt": "2026-09-10T13:30:00Z",
+      "tags": ["fire", "China", "shipping", "Qingdao"]
     },
     {
-      "id": "tech-listen-labs-salesforce-20260910",
+      "id": "top-aljazeera-yemen-20260910",
+      "category": "top",
+      "title": "Houthis advance on Red Sea coast, threatening Bab al-Mandeb",
+      "summary": "Iran-backed Houthi rebels are rapidly advancing along Yemen's Red Sea coast, threatening leverage over the Bab al-Mandeb Strait, a vital global trade route, while Saudi Arabia launched about 40 strikes in a new salvo after Houthi attacks on its oil facilities. The escalation imperils one of the world's key shipping chokepoints.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles",
+      "publishedAt": "2026-09-10T08:00:00Z",
+      "tags": ["Yemen", "Houthis", "Red Sea", "Middle East"]
+    },
+    {
+      "id": "tech-positron-20260910",
       "category": "tech",
-      "title": "AI startup Listen Labs scraps $1.5B round for Salesforce talks",
-      "summary": "AI research startup Listen Labs walked away from a $1.5 billion funding round in favor of acquisition talks with Salesforce, according to TechCrunch. The move underscores how AI startups are increasingly courting strategic buyers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "publishedAt": "2026-09-10T00:00:00Z",
-      "tags": [
-        "startups",
-        "funding",
-        "ai",
-        "salesforce"
-      ]
+      "title": "Positron AI raises $875M at $5B valuation for inference chips",
+      "summary": "AI inference-chip startup Positron AI raised $875 million in a Series C at a $5 billion post-money valuation to scale its memory-first inference silicon. The round signals investor appetite for hardware that makes serving AI models cheaper and more efficient as inference becomes a distinct battleground from training.",
+      "source": "Quartz",
+      "url": "https://qz.com/positron-ai-funding-series-c-inference-chips-091026",
+      "publishedAt": "2026-09-10T14:30:00Z",
+      "tags": ["AI", "chips", "inference", "funding"]
     },
     {
-      "id": "browns-watson-first-start-20260910",
+      "id": "browns-yahoo-preview-20260910",
       "category": "browns",
-      "title": "Browns' Deshaun Watson set for first start since 2024 season",
-      "summary": "Deshaun Watson is set to make his first regular-season start since October 2024 in Sunday's season opener at Jacksonville. He acknowledged the weight of the opportunity as he prepares to face a Jaguars team he is 7-0 against career-wise.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49881629/browns-deshaun-watson-set-first-start-2024-season",
-      "publishedAt": "2026-09-10T01:00:00Z",
-      "tags": [
-        "browns",
-        "watson",
-        "quarterback",
-        "season-opener"
-      ]
+      "title": "5 Browns players to know for Week 1 vs. Jaguars",
+      "summary": "Jared Verse, acquired from the Rams in the Myles Garrett trade, headlines five Browns players to watch in Sunday's season opener against the Jaguars after recording 100 pressures last year. The list previews the roster pieces Cleveland will lean on in Week 1.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/5-browns-players-know-week-141030519.html",
+      "publishedAt": "2026-09-10T14:30:00Z",
+      "tags": ["Browns", "Week 1", "Jaguars", "Jared Verse"]
     },
     {
-      "id": "browns-passing-attack-jags-20260909",
+      "id": "browns-dawgs-keys-20260910",
       "category": "browns",
-      "title": "Browns' offense looks to establish explosive passing attack against Jaguars",
-      "summary": "Ahead of Sunday's opener in Jacksonville, Cleveland is leaning on Deshaun Watson and the wideout room to unlock its deep passing game. Watson showed a downfield spark during training camp that the staff wants to carry into Week 1.",
-      "source": "ClevelandBrowns.com",
-      "url": "https://www.clevelandbrowns.com/news/browns-offense-looks-to-establish-explosive-passing-attack-against-jaguars",
-      "publishedAt": "2026-09-09T23:30:00Z",
-      "tags": [
-        "browns",
-        "watson",
-        "jaguars",
-        "passing"
-      ]
+      "title": "3 keys for the Browns to beat the Jaguars in Week 1",
+      "summary": "A film-room breakdown lays out three keys for the Browns to beat the Jaguars on Sunday, leaning on cornerbacks Denzel Ward, Tyson Campbell and Myles Harden to bend without breaking and force Jacksonville to run. Cleveland opens the season on the road.",
+      "source": "Dawgs By Nature (SB Nation)",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-game-schedule-information/132315/3-keys-upset-browns-defeat-jaguars-week-1",
+      "publishedAt": "2026-09-10T13:30:00Z",
+      "tags": ["Browns", "Jaguars", "game-preview", "defense"]
     },
     {
-      "id": "f1-madring-layout-20260910",
+      "id": "buckeyes-cbs-edge-20260910",
+      "category": "buckeyes",
+      "title": "Ohio State vs. Texas: which team has the edge at each position",
+      "summary": "CBS Sports breaks down where No. 1 Ohio State and No. 4 Texas hold the edge at each position ahead of Saturday's marquee Week 2 showdown in Austin. The result tests the Buckeyes' top-ranked status on the road against the most anticipated nonconference game of the season.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/ohio-state-texas-position-breakdown-week-2/",
+      "publishedAt": "2026-09-10T14:30:00Z",
+      "tags": ["Ohio State", "Texas", "Week 2"]
+    },
+    {
+      "id": "buckeyes-usatoday-picks-20260910",
+      "category": "buckeyes",
+      "title": "College football Week 2 picks: Texas vs. Ohio State",
+      "summary": "USA Today's experts make picks for Week 2, headlined by No. 1 Ohio State visiting No. 4 Texas in a game carrying Big Ten-versus-SEC weight. Several prognosticators lean toward Texas in the primetime clash.",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/10/college-football-picks-week-2-texas-ohio-state/91674421007/",
+      "publishedAt": "2026-09-10T12:00:00Z",
+      "tags": ["Ohio State", "Texas", "college-football", "picks"]
+    },
+    {
+      "id": "f1-spanishgp-presser-20260910",
       "category": "f1",
-      "title": "Madring's unforgiving layout raises red-flag fears for F1 debut",
-      "summary": "Drivers expect the brand-new Madring circuit in Madrid, hosting this weekend's Spanish GP, to be hard on cars with high-speed spots prone to big crashes. Its tight, aggressive layout has already triggered safety concerns ahead of the track's F1 debut.",
-      "source": "GPblog (Yahoo Sports)",
-      "url": "https://sports.yahoo.com/articles/madrings-unforgiving-layout-raises-red-070100072.html",
-      "publishedAt": "2026-09-10T07:01:00Z",
-      "tags": [
-        "f1",
-        "spanish-gp",
-        "madring",
-        "madrid"
-      ]
+      "title": "Spanish GP Thursday press conference opens Madrid weekend",
+      "summary": "Drivers including Fernando Alonso and Carlos Sainz spoke in Madrid at Thursday's Spanish Grand Prix press conference ahead of F1's second race in Spain, held at the new Madring circuit this weekend. The 11-13 September round replaces Imola and kicks off the team's second visit to the country this season.",
+      "source": "AutoRacing1",
+      "url": "https://www.autoracing1.com/pl/503784/formula-1-news-2026-spanish-gp-thursday-press-conference/",
+      "publishedAt": "2026-09-10T16:30:00Z",
+      "tags": ["F1", "Spanish GP", "Madrid"]
     },
     {
-      "id": "local-havas-acton-20260910",
+      "id": "local-bexley-mayor-20260910",
       "category": "local",
-      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event",
-      "summary": "Patrick Havas is accused of attacking someone at an event for Ohio Democratic Senate candidate Amy Acton. The incident has drawn attention as the closely watched Senate race heads toward November.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
+      "title": "Bexley Mayor Ben Kessler to resign after 14 years",
+      "summary": "Bexley Mayor Ben Kessler, first elected in 2012, announced he will resign September 30 to work on regional housing efforts with Columbus, ending a 14-year tenure. City council will select his successor.",
+      "source": "Yahoo News (10TV)",
+      "url": "https://www.yahoo.com/news/politics/articles/bexley-mayor-announces-intent-resign-101014009.html",
       "publishedAt": "2026-09-10T10:30:00Z",
-      "tags": [
-        "columbus",
-        "politics",
-        "crime",
-        "senate"
-      ]
-    },
-    {
-      "id": "local-roadrage-plea-20260910",
-      "category": "local",
-      "title": "Columbus man reverses plea in deadly road-rage shooting",
-      "summary": "A Columbus man who had pled guilty in a deadly road-rage shooting has retained new counsel and reversed his plea. The case will move forward in court after the change.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
-      "publishedAt": "2026-09-10T09:30:00Z",
-      "tags": [
-        "columbus",
-        "courts",
-        "crime"
-      ]
-    },
-    {
-      "id": "local-911-ceremonies-20260910",
-      "category": "local",
-      "title": "List: Central Ohio events marking 9/11 anniversary",
-      "summary": "Central Ohio communities are hosting memorial ceremonies for the 25th anniversary of 9/11, including a flag-planting at the Ohio Statehouse. NBC4 rounded up the remembrances scheduled across the region.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-memorial-ceremonies-upcoming/",
-      "publishedAt": "2026-09-10T06:30:00Z",
-      "tags": [
-        "columbus",
-        "911",
-        "remembrances"
-      ]
-    },
-    {
-      "id": "local-home-sales-20260910",
-      "category": "local",
-      "title": "List: Columbus-area top home sales for August",
-      "summary": "NBC4 compiled the top Columbus-area home sales from August, including several seven-figure transactions. The list tracks the region's high end of the housing market.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/real-estate/columbus-ohio-million-dollar-homes/",
-      "publishedAt": "2026-09-10T02:30:00Z",
-      "tags": [
-        "columbus",
-        "real-estate",
-        "housing"
-      ]
+      "tags": ["Bexley", "local-government", "Columbus"]
     }
   ]
 }
