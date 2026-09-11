@@ -1,111 +1,254 @@
 {
   "meta": {
-    "updatedAt": "2026-09-10T19:30:00Z",
+    "updatedAt": "2026-09-11T11:07:32Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 10
+    "count": 17
   },
   "stories": [
     {
-      "id": "top-npr-keating-20260910",
+      "id": "top-pakistan-saudi-houthi",
       "category": "top",
-      "title": "9/11 victim Barbara Keating laid to rest 25 years after attack",
-      "summary": "The remains of Barbara Keating, a passenger on American Airlines Flight 11 killed on 9/11, were finally identified and she is being laid to rest 25 years later. Her burial underscores that more than 1,100 people killed in New York still have unverified remains.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
-      "publishedAt": "2026-09-10T15:30:00Z",
-      "tags": ["9/11", "anniversary", "remains-identified"]
-    },
-    {
-      "id": "top-reuters-chinaship-20260910",
-      "category": "top",
-      "title": "Cargo ship fire at Chinese shipyard in Qingdao kills 25",
-      "summary": "At least 25 people died when fire engulfed a foreign cargo vessel undergoing repairs at a state-owned yard in Qingdao, east China's Shandong province, with five more injured. The blaze at one of China's busiest ports highlights persistent risks in ship-repair operations.",
+      "title": "Pakistan pressed to pick a side as Saudi-Houthi tensions escalate",
+      "summary": "Reuters reports Pakistan is juggling roles as Riyadh's defence partner and Washington's backchannel to Tehran and is now under pressure to choose a side. It has carried a Saudi warning to Iran to rein in the Houthis while saying no military response is under discussion.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/fire-cargo-vessel-china-shipyard-causes-major-casualties-state-media-reports-2026-09-10/",
-      "publishedAt": "2026-09-10T13:30:00Z",
-      "tags": ["fire", "China", "shipping", "Qingdao"]
+      "url": "https://www.reuters.com/world/asia-pacific/saudi-tensions-with-iran-backed-houthis-escalate-mediator-pakistan-faces-2026-09-11/",
+      "publishedAt": "2026-09-11T09:02:00Z",
+      "tags": [
+        "Pakistan",
+        "Saudi Arabia",
+        "Iran",
+        "diplomacy"
+      ]
     },
     {
-      "id": "top-aljazeera-yemen-20260910",
+      "id": "top-hormuz-saildrone",
       "category": "top",
-      "title": "Houthis advance on Red Sea coast, threatening Bab al-Mandeb",
-      "summary": "Iran-backed Houthi rebels are rapidly advancing along Yemen's Red Sea coast, threatening leverage over the Bab al-Mandeb Strait, a vital global trade route, while Saudi Arabia launched about 40 strikes in a new salvo after Houthi attacks on its oil facilities. The escalation imperils one of the world's key shipping chokepoints.",
+      "title": "Iran's IRGC says it struck a US drone vessel in the Strait of Hormuz",
+      "summary": "Iran's Revolutionary Guard said its navy hit a US 'Saildrone-type' unmanned vessel in the Strait of Hormuz, while the UK Maritime Trade Operations centre reported projectiles striking two ships off Oman. The incidents add to escalation around the world's key oil chokepoint.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles",
-      "publishedAt": "2026-09-10T08:00:00Z",
-      "tags": ["Yemen", "Houthis", "Red Sea", "Middle East"]
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit",
+      "publishedAt": "2026-09-11T08:30:00Z",
+      "tags": [
+        "Iran",
+        "Hormuz",
+        "shipping",
+        "Middle East"
+      ]
     },
     {
-      "id": "tech-positron-20260910",
+      "id": "top-houthis-red-sea-coast",
+      "category": "top",
+      "title": "Houthis take Yemen's entire western coast and Red Sea islands",
+      "summary": "Yemeni officials say the Iran-backed Houthis now control the whole western coast plus the Red Sea islands of Perim and Zuqar, giving them unmatched reach over the Bab al-Mandeb strait. Whoever holds the strait can monitor vessels heading to and from the Suez Canal.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/09/11/houthis-seize-yemens-entire-western-coast-and-strategic-red-sea-islands/",
+      "publishedAt": "2026-09-11T05:09:00Z",
+      "tags": [
+        "Yemen",
+        "Houthis",
+        "Red Sea",
+        "shipping"
+      ]
+    },
+    {
+      "id": "tech-openai-gpt-live-1",
       "category": "tech",
-      "title": "Positron AI raises $875M at $5B valuation for inference chips",
-      "summary": "AI inference-chip startup Positron AI raised $875 million in a Series C at a $5 billion post-money valuation to scale its memory-first inference silicon. The round signals investor appetite for hardware that makes serving AI models cheaper and more efficient as inference becomes a distinct battleground from training.",
-      "source": "Quartz",
-      "url": "https://qz.com/positron-ai-funding-series-c-inference-chips-091026",
-      "publishedAt": "2026-09-10T14:30:00Z",
-      "tags": ["AI", "chips", "inference", "funding"]
+      "title": "OpenAI ships GPT-Live-1 in its API",
+      "summary": "OpenAI added GPT-Live-1 to its developer API, giving builders access to a new live model. The release shot to the top of Hacker News, signalling heavy developer interest in low-latency, real-time AI.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "publishedAt": "2026-09-11T07:00:00Z",
+      "tags": [
+        "OpenAI",
+        "API",
+        "models"
+      ]
     },
     {
-      "id": "browns-yahoo-preview-20260910",
+      "id": "tech-anthropic-bio-misuse",
+      "category": "tech",
+      "title": "Anthropic says it blocked attempts to use AI for biological weapons",
+      "summary": "Anthropic's September threat-intelligence report details cases where it disrupted actors misusing Claude for cyber operations, surveillance and research that could have led to biological weapons. The disclosure follows a former top company researcher's warnings about AI risk.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx2zrrpkx20o",
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "tags": [
+        "Anthropic",
+        "AI safety",
+        "biosecurity"
+      ]
+    },
+    {
+      "id": "tech-system76-thelio-mira",
+      "category": "tech",
+      "title": "System76's Thelio Mira AI workstation packs 192 GB of GPU memory",
+      "summary": "Linux vendor System76 launched the Thelio Mira AI, a workstation aimed at local AI workloads with 192 GB of GPU memory. It lands as interest grows in running large models on-premises instead of in the cloud.",
+      "source": "System76",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "tags": [
+        "hardware",
+        "Linux",
+        "AI"
+      ]
+    },
+    {
+      "id": "tech-deathray-mac-freeze",
+      "category": "tech",
+      "title": "Simple technique lets an untrusted site freeze a Mac",
+      "summary": "A write-up dubbed 'The Deathray' shows how a malicious web page can lock up a Mac, drawing hundreds of comments on Hacker News. It spotlights browser-level resource exhaustion as an underappreciated denial-of-service risk.",
+      "source": "auberon.xyz",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "publishedAt": "2026-09-10T23:30:00Z",
+      "tags": [
+        "security",
+        "Apple",
+        "browsers"
+      ]
+    },
+    {
+      "id": "browns-jaguars-preview",
       "category": "browns",
-      "title": "5 Browns players to know for Week 1 vs. Jaguars",
-      "summary": "Jared Verse, acquired from the Rams in the Myles Garrett trade, headlines five Browns players to watch in Sunday's season opener against the Jaguars after recording 100 pressures last year. The list previews the roster pieces Cleveland will lean on in Week 1.",
+      "title": "Browns open at Jacksonville with Watson back under center",
+      "summary": "Preview coverage ahead of Sunday's season opener at the Jaguars centres on Deshaun Watson's first regular-season start in nearly two years and Todd Monken's head-coaching debut. Cleveland enters with a mostly healthy roster, with right guard Teven Jenkins' back the main question mark.",
+      "source": "Audacy",
+      "url": "https://www.audacy.com/podcasts/baskin__phelps/episodes/browns-jaguars_predictions_play-8651204",
+      "publishedAt": "2026-09-11T09:00:00Z",
+      "tags": [
+        "Browns",
+        "Jaguars",
+        "NFL",
+        "Deshaun Watson"
+      ]
+    },
+    {
+      "id": "buckeyes-position-breakdown-texas",
+      "category": "buckeyes",
+      "title": "Position-by-position look at No. 1 Ohio State vs. No. 4 Texas",
+      "summary": "Ahead of Saturday's prime-time rematch in Austin, a full position-by-position breakdown weighs the Buckeyes' talent against the Longhorns. The game is the first marquee test of Ohio State's 2026 season.",
+      "source": "BucksInsider",
+      "url": "https://www.bucksinsider.com/2026/09/10/ohio-state-vs-texas-full-position-by-position-breakdown/",
+      "publishedAt": "2026-09-11T05:00:00Z",
+      "tags": [
+        "Ohio State",
+        "Texas",
+        "college football"
+      ]
+    },
+    {
+      "id": "buckeyes-texas-prediction",
+      "category": "buckeyes",
+      "title": "Yahoo Sports picks Ohio State vs. Texas",
+      "summary": "Yahoo's preview lays out the odds and a pick for the Week 2 blockbuster, noting the Buckeyes are 21-9-1 against the spread since the start of 2024. It's the third straight year the two programs meet.",
       "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/5-browns-players-know-week-141030519.html",
-      "publishedAt": "2026-09-10T14:30:00Z",
-      "tags": ["Browns", "Week 1", "Jaguars", "Jared Verse"]
+      "url": "https://sports.yahoo.com/articles/ohio-state-vs-texas-prediction-002952845.html",
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "tags": [
+        "Ohio State",
+        "Texas",
+        "betting"
+      ]
     },
     {
-      "id": "browns-dawgs-keys-20260910",
-      "category": "browns",
-      "title": "3 keys for the Browns to beat the Jaguars in Week 1",
-      "summary": "A film-room breakdown lays out three keys for the Browns to beat the Jaguars on Sunday, leaning on cornerbacks Denzel Ward, Tyson Campbell and Myles Harden to bend without breaking and force Jacksonville to run. Cleveland opens the season on the road.",
-      "source": "Dawgs By Nature (SB Nation)",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-game-schedule-information/132315/3-keys-upset-browns-defeat-jaguars-week-1",
-      "publishedAt": "2026-09-10T13:30:00Z",
-      "tags": ["Browns", "Jaguars", "game-preview", "defense"]
-    },
-    {
-      "id": "buckeyes-cbs-edge-20260910",
-      "category": "buckeyes",
-      "title": "Ohio State vs. Texas: which team has the edge at each position",
-      "summary": "CBS Sports breaks down where No. 1 Ohio State and No. 4 Texas hold the edge at each position ahead of Saturday's marquee Week 2 showdown in Austin. The result tests the Buckeyes' top-ranked status on the road against the most anticipated nonconference game of the season.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/ohio-state-texas-position-breakdown-week-2/",
-      "publishedAt": "2026-09-10T14:30:00Z",
-      "tags": ["Ohio State", "Texas", "Week 2"]
-    },
-    {
-      "id": "buckeyes-usatoday-picks-20260910",
-      "category": "buckeyes",
-      "title": "College football Week 2 picks: Texas vs. Ohio State",
-      "summary": "USA Today's experts make picks for Week 2, headlined by No. 1 Ohio State visiting No. 4 Texas in a game carrying Big Ten-versus-SEC weight. Several prognosticators lean toward Texas in the primetime clash.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/10/college-football-picks-week-2-texas-ohio-state/91674421007/",
-      "publishedAt": "2026-09-10T12:00:00Z",
-      "tags": ["Ohio State", "Texas", "college-football", "picks"]
-    },
-    {
-      "id": "f1-spanishgp-presser-20260910",
+      "id": "f1-madring-debut",
       "category": "f1",
-      "title": "Spanish GP Thursday press conference opens Madrid weekend",
-      "summary": "Drivers including Fernando Alonso and Carlos Sainz spoke in Madrid at Thursday's Spanish Grand Prix press conference ahead of F1's second race in Spain, held at the new Madring circuit this weekend. The 11-13 September round replaces Imola and kicks off the team's second visit to the country this season.",
-      "source": "AutoRacing1",
-      "url": "https://www.autoracing1.com/pl/503784/formula-1-news-2026-spanish-gp-thursday-press-conference/",
-      "publishedAt": "2026-09-10T16:30:00Z",
-      "tags": ["F1", "Spanish GP", "Madrid"]
+      "title": "F1 arrives at Madrid's new Madring circuit for the Spanish Grand Prix",
+      "summary": "Round 14 of 2026 takes F1 to the new 5.4 km Madring street circuit in Madrid, which replaces Barcelona as Spain's grand prix host. Kimi Antonelli arrives with a 66-point championship lead after winning Monza from 19th on the grid.",
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/live/1044265/f1-madrid-live-madring-first-look-and-spanish-gp-practice-updates",
+      "publishedAt": "2026-09-11T10:37:00Z",
+      "tags": [
+        "F1",
+        "Spanish GP",
+        "Madring",
+        "Antonelli"
+      ]
     },
     {
-      "id": "local-bexley-mayor-20260910",
+      "id": "f1-spain-practice-live-bbc",
+      "category": "f1",
+      "title": "BBC live: first practice at Madrid's Madring circuit",
+      "summary": "BBC Sport is running live coverage of Friday practice at the new Madring circuit, with FP1 and FP2 bookending the day. The weekend marks Madrid's debut as a Formula 1 host city.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/formula1/live/c4gx3w88pkjt",
+      "publishedAt": "2026-09-11T10:00:00Z",
+      "tags": [
+        "F1",
+        "Spanish GP",
+        "Madrid"
+      ]
+    },
+    {
+      "id": "f1-spanish-gp-practice-schedule",
+      "category": "f1",
+      "title": "Spanish GP practice schedule and how to watch",
+      "summary": "Two Friday practice sessions and one Saturday session precede Sunday's race at Madring. Teams get their first real read on the unfamiliar street layout, with title rivals Mercedes already juggling engine penalties.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1090088/f1-practice-today-spanish-grand-prix-2026-madring-schedule-times-tv-channel-live-stream/",
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "tags": [
+        "F1",
+        "Spanish GP",
+        "practice"
+      ]
+    },
+    {
+      "id": "local-911-25th-anniversary",
       "category": "local",
-      "title": "Bexley Mayor Ben Kessler to resign after 14 years",
-      "summary": "Bexley Mayor Ben Kessler, first elected in 2012, announced he will resign September 30 to work on regional housing efforts with Columbus, ending a 14-year tenure. City council will select his successor.",
-      "source": "Yahoo News (10TV)",
-      "url": "https://www.yahoo.com/news/politics/articles/bexley-mayor-announces-intent-resign-101014009.html",
-      "publishedAt": "2026-09-10T10:30:00Z",
-      "tags": ["Bexley", "local-government", "Columbus"]
+      "title": "Central Ohio marks the 25th anniversary of 9/11",
+      "summary": "Communities across central Ohio are holding memorial ceremonies, flag displays and stair climbs to mark 25 years since the Sept. 11 attacks, including a Statehouse flag memorial and a fire museum bell toll. Events run through the weekend.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-memorial-ceremonies-upcoming/",
+      "publishedAt": "2026-09-11T06:00:00Z",
+      "tags": [
+        "Columbus",
+        "9/11",
+        "community"
+      ]
+    },
+    {
+      "id": "local-bexley-the-lion-expansion",
+      "category": "local",
+      "title": "Bexley to get dog-friendly outdoor expansion of The Lion",
+      "summary": "The Lion is adding an outdoor expansion in Bexley that will welcome dogs, NBC4 reports. It's the latest change to the inner-ring suburb's dining scene.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
+      "publishedAt": "2026-09-11T05:00:00Z",
+      "tags": [
+        "Bexley",
+        "dining",
+        "Columbus"
+      ]
+    },
+    {
+      "id": "local-home-sales-august",
+      "category": "local",
+      "title": "Columbus-area top home sales for August",
+      "summary": "NBC4 lists the Columbus area's top home sales for August, a periodic snapshot of the region's high-end housing market. It comes as buyers across central Ohio weigh elevated financing costs.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/real-estate/columbus-ohio-million-dollar-homes/",
+      "publishedAt": "2026-09-11T02:00:00Z",
+      "tags": [
+        "Columbus",
+        "real estate",
+        "housing"
+      ]
+    },
+    {
+      "id": "local-operation-meridian",
+      "category": "local",
+      "title": "79 missing children recovered in Columbus-area operation",
+      "summary": "NBC4 reports that 79 missing children were found in a Columbus-area effort dubbed 'Operation Meridian'. The recovery was highlighted alongside a US Marshals arrest of a Texas murder suspect in the region.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/79-missing-children-recovered-in-operation-meridian/",
+      "publishedAt": "2026-09-10T23:00:00Z",
+      "tags": [
+        "Columbus",
+        "public safety",
+        "US Marshals"
+      ]
     }
   ]
 }
