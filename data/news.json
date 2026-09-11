@@ -1,253 +1,219 @@
 {
   "meta": {
-    "updatedAt": "2026-09-11T11:07:32Z",
+    "updatedAt": "2026-09-11T19:35:34Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 17
+    "count": 14
   },
   "stories": [
     {
-      "id": "top-pakistan-saudi-houthi",
+      "id": "top-houthi-perim-dhubab",
       "category": "top",
-      "title": "Pakistan pressed to pick a side as Saudi-Houthi tensions escalate",
-      "summary": "Reuters reports Pakistan is juggling roles as Riyadh's defence partner and Washington's backchannel to Tehran and is now under pressure to choose a side. It has carried a Saudi warning to Iran to rein in the Houthis while saying no military response is under discussion.",
+      "title": "Houthis reach Dhubab on Bab el-Mandeb Strait after seizing Perim Island",
+      "summary": "Iran-backed Houthi forces took the strategic island of Perim and reached the coastal town of Dhubab, tightening their grip on the Bab el-Mandeb Strait and raising the stakes for one of the world's most important shipping lanes.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/saudi-tensions-with-iran-backed-houthis-escalate-mediator-pakistan-faces-2026-09-11/",
-      "publishedAt": "2026-09-11T09:02:00Z",
-      "tags": [
-        "Pakistan",
-        "Saudi Arabia",
-        "Iran",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "top-hormuz-saildrone",
-      "category": "top",
-      "title": "Iran's IRGC says it struck a US drone vessel in the Strait of Hormuz",
-      "summary": "Iran's Revolutionary Guard said its navy hit a US 'Saildrone-type' unmanned vessel in the Strait of Hormuz, while the UK Maritime Trade Operations centre reported projectiles striking two ships off Oman. The incidents add to escalation around the world's key oil chokepoint.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit",
+      "url": "https://www.reuters.com/world/middle-east/iran-backed-houthis-reach-yemens-dhubab-bab-el-mandeb-strait-sources-say-2026-09-11/",
       "publishedAt": "2026-09-11T08:30:00Z",
       "tags": [
-        "Iran",
-        "Hormuz",
-        "shipping",
-        "Middle East"
-      ]
-    },
-    {
-      "id": "top-houthis-red-sea-coast",
-      "category": "top",
-      "title": "Houthis take Yemen's entire western coast and Red Sea islands",
-      "summary": "Yemeni officials say the Iran-backed Houthis now control the whole western coast plus the Red Sea islands of Perim and Zuqar, giving them unmatched reach over the Bab al-Mandeb strait. Whoever holds the strait can monitor vessels heading to and from the Suez Canal.",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/mena/2026/09/11/houthis-seize-yemens-entire-western-coast-and-strategic-red-sea-islands/",
-      "publishedAt": "2026-09-11T05:09:00Z",
-      "tags": [
-        "Yemen",
-        "Houthis",
-        "Red Sea",
+        "yemen",
+        "houthis",
+        "red-sea",
         "shipping"
       ]
     },
     {
-      "id": "tech-openai-gpt-live-1",
-      "category": "tech",
-      "title": "OpenAI ships GPT-Live-1 in its API",
-      "summary": "OpenAI added GPT-Live-1 to its developer API, giving builders access to a new live model. The release shot to the top of Hacker News, signalling heavy developer interest in low-latency, real-time AI.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-      "publishedAt": "2026-09-11T07:00:00Z",
+      "id": "top-carney-trump-tariffs",
+      "category": "top",
+      "title": "Carney calls Trump's latest trade measures 'relatively modest,' signals restraint",
+      "summary": "Canada's prime minister characterized the new U.S. tariff moves as comparatively mild and signaled Ottawa will avoid escalating, as the U.S.-Canada trade dispute continues to simmer.",
+      "source": "AP",
+      "url": "https://apnews.com/article/trump-canada-tariffs-ford-carney-700d1eaad7f1aa87f1d7875222691b35",
+      "publishedAt": "2026-09-11T15:00:00Z",
       "tags": [
-        "OpenAI",
-        "API",
-        "models"
+        "canada",
+        "tariffs",
+        "trade-war",
+        "trump"
       ]
     },
     {
-      "id": "tech-anthropic-bio-misuse",
+      "id": "tech-roblox-ai",
       "category": "tech",
-      "title": "Anthropic says it blocked attempts to use AI for biological weapons",
-      "summary": "Anthropic's September threat-intelligence report details cases where it disrupted actors misusing Claude for cyber operations, surveillance and research that could have led to biological weapons. The disclosure follows a former top company researcher's warnings about AI risk.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx2zrrpkx20o",
-      "publishedAt": "2026-09-11T00:00:00Z",
+      "title": "Roblox is making it easier to build games with AI \u2014 and play them outside Roblox",
+      "summary": "Roblox announced new AI-assisted game-building tools and broader ways to play titles beyond its own platform, aiming to widen how and where its games are created and consumed.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "publishedAt": "2026-09-11T19:22:00Z",
       "tags": [
-        "Anthropic",
-        "AI safety",
-        "biosecurity"
+        "roblox",
+        "ai",
+        "gaming"
       ]
     },
     {
-      "id": "tech-system76-thelio-mira",
+      "id": "tech-nscale-fidji-simo",
       "category": "tech",
-      "title": "System76's Thelio Mira AI workstation packs 192 GB of GPU memory",
-      "summary": "Linux vendor System76 launched the Thelio Mira AI, a workstation aimed at local AI workloads with 192 GB of GPU memory. It lands as interest grows in running large models on-premises instead of in the cloud.",
-      "source": "System76",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "publishedAt": "2026-09-11T00:00:00Z",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "AI infrastructure firm Nscale brought on Fidji Simo, a former OpenAI executive, as it reportedly prepares for a potential public offering.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "publishedAt": "2026-09-11T17:30:00Z",
       "tags": [
-        "hardware",
-        "Linux",
-        "AI"
+        "nscale",
+        "ipo",
+        "ai",
+        "simone"
       ]
     },
     {
-      "id": "tech-deathray-mac-freeze",
+      "id": "tech-mullenweg-automattic",
       "category": "tech",
-      "title": "Simple technique lets an untrusted site freeze a Mac",
-      "summary": "A write-up dubbed 'The Deathray' shows how a malicious web page can lock up a Mac, drawing hundreds of comments on Hacker News. It spotlights browser-level resource exhaustion as an underappreciated denial-of-service risk.",
-      "source": "auberon.xyz",
-      "url": "https://auberon.xyz/blog/posts/deathray/",
-      "publishedAt": "2026-09-10T23:30:00Z",
+      "title": "Matt Mullenweg tells Automattic staff he's back in control after CEO ouster",
+      "summary": "WordPress co-founder Matt Mullenweg told Automattic employees he has regained control of the company following the departure of its chief executive, settling a contentious leadership chapter.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "publishedAt": "2026-09-11T15:30:00Z",
       "tags": [
-        "security",
-        "Apple",
-        "browsers"
+        "automattic",
+        "wordpress",
+        "mullenweg",
+        "leadership"
       ]
     },
     {
-      "id": "browns-jaguars-preview",
+      "id": "tech-trezor-breach",
+      "category": "tech",
+      "title": "Scammers target crypto owners after Trezor confirms data breach of email provider",
+      "summary": "Trezor confirmed a data breach at its email provider, and scammers are now phishing hundreds of thousands of crypto owners in the aftermath, underscoring ongoing risks to customer data in the space.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "publishedAt": "2026-09-11T13:30:00Z",
+      "tags": [
+        "trezor",
+        "crypto",
+        "data-breach",
+        "security"
+      ]
+    },
+    {
+      "id": "browns-jaguars-prep",
       "category": "browns",
-      "title": "Browns open at Jacksonville with Watson back under center",
-      "summary": "Preview coverage ahead of Sunday's season opener at the Jaguars centres on Deshaun Watson's first regular-season start in nearly two years and Todd Monken's head-coaching debut. Cleveland enters with a mostly healthy roster, with right guard Teven Jenkins' back the main question mark.",
-      "source": "Audacy",
-      "url": "https://www.audacy.com/podcasts/baskin__phelps/episodes/browns-jaguars_predictions_play-8651204",
-      "publishedAt": "2026-09-11T09:00:00Z",
-      "tags": [
-        "Browns",
-        "Jaguars",
-        "NFL",
-        "Deshaun Watson"
-      ]
-    },
-    {
-      "id": "buckeyes-position-breakdown-texas",
-      "category": "buckeyes",
-      "title": "Position-by-position look at No. 1 Ohio State vs. No. 4 Texas",
-      "summary": "Ahead of Saturday's prime-time rematch in Austin, a full position-by-position breakdown weighs the Buckeyes' talent against the Longhorns. The game is the first marquee test of Ohio State's 2026 season.",
-      "source": "BucksInsider",
-      "url": "https://www.bucksinsider.com/2026/09/10/ohio-state-vs-texas-full-position-by-position-breakdown/",
-      "publishedAt": "2026-09-11T05:00:00Z",
-      "tags": [
-        "Ohio State",
-        "Texas",
-        "college football"
-      ]
-    },
-    {
-      "id": "buckeyes-texas-prediction",
-      "category": "buckeyes",
-      "title": "Yahoo Sports picks Ohio State vs. Texas",
-      "summary": "Yahoo's preview lays out the odds and a pick for the Week 2 blockbuster, noting the Buckeyes are 21-9-1 against the spread since the start of 2024. It's the third straight year the two programs meet.",
+      "title": "Browns wrap up preparations for Jaguars ahead of Week 1 matchup",
+      "summary": "Cleveland finalized its Week 1 game plan against Jacksonville, with the team's 53-man roster set behind quarterbacks Taylen Green, Shedeur Sanders and Deshaun Watson as the heavy underdogs.",
       "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/ohio-state-vs-texas-prediction-002952845.html",
-      "publishedAt": "2026-09-11T00:00:00Z",
+      "url": "https://sports.yahoo.com/articles/browns-wrap-preparations-jaguars-live-130100628.html",
+      "publishedAt": "2026-09-11T13:01:00Z",
       "tags": [
-        "Ohio State",
-        "Texas",
-        "betting"
+        "browns",
+        "jaguars",
+        "week1",
+        "nfl"
       ]
     },
     {
-      "id": "f1-madring-debut",
-      "category": "f1",
-      "title": "F1 arrives at Madrid's new Madring circuit for the Spanish Grand Prix",
-      "summary": "Round 14 of 2026 takes F1 to the new 5.4 km Madring street circuit in Madrid, which replaces Barcelona as Spain's grand prix host. Kimi Antonelli arrives with a 66-point championship lead after winning Monza from 19th on the grid.",
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/live/1044265/f1-madrid-live-madring-first-look-and-spanish-gp-practice-updates",
-      "publishedAt": "2026-09-11T10:37:00Z",
-      "tags": [
-        "F1",
-        "Spanish GP",
-        "Madring",
-        "Antonelli"
-      ]
-    },
-    {
-      "id": "f1-spain-practice-live-bbc",
-      "category": "f1",
-      "title": "BBC live: first practice at Madrid's Madring circuit",
-      "summary": "BBC Sport is running live coverage of Friday practice at the new Madring circuit, with FP1 and FP2 bookending the day. The weekend marks Madrid's debut as a Formula 1 host city.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/live/c4gx3w88pkjt",
+      "id": "browns-dogg-chow-injuries",
+      "category": "browns",
+      "title": "Browns injury watch, Week 1 predictions headline Friday news roundup",
+      "summary": "The Friday Browns roundup tracks injuries (Parker Brailsford limited on a thumb, Maliek Collins on a quad) and finds Cleveland are big Week 1 underdogs against the AFC South-leading Jaguars.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132384/cleveland-browns-news-andrew-berry-deshaun-watson-harold-fannin-dawand-jones",
       "publishedAt": "2026-09-11T10:00:00Z",
       "tags": [
-        "F1",
-        "Spanish GP",
-        "Madrid"
+        "browns",
+        "injuries",
+        "jaguars",
+        "deshaun-watson"
       ]
     },
     {
-      "id": "f1-spanish-gp-practice-schedule",
+      "id": "bucks-texas-preview",
+      "category": "buckeyes",
+      "title": "Ohio State vs. Texas preview: Top-four matchup, elite QBs headline Saturday",
+      "summary": "No. 1 Ohio State visits No. 4 Texas in Austin on Saturday night in a marquee battle of elite quarterbacks and wide receivers that could shape the national title picture.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163749/ohio-state-vs-texas-preview-elite-quarterbacks-battles-in-the-trenches-flashy-wide-receivers-highlight-top-four-matchup",
+      "publishedAt": "2026-09-11T12:30:00Z",
+      "tags": [
+        "ohio-state",
+        "texas",
+        "week2",
+        "college-football"
+      ]
+    },
+    {
+      "id": "bucks-texas-odds-injuries",
+      "category": "buckeyes",
+      "title": "No. 4 Texas vs. No. 1 Ohio State: How to watch, odds and injury updates",
+      "summary": "Primetime Saturday sets No. 1 Ohio State against No. 4 Texas in Austin, with Longhorns running back Derrek Cooper likely out on an ankle injury while the teams split the spotlight as a near-toss-up.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/texas/football/no-4-texas-vs-no-1-ohio-state-how-to-watch-odds-injuries-and-more",
+      "publishedAt": "2026-09-11T11:30:00Z",
+      "tags": [
+        "ohio-state",
+        "texas",
+        "injury-report",
+        "odds"
+      ]
+    },
+    {
+      "id": "f1-madring-practice",
       "category": "f1",
-      "title": "Spanish GP practice schedule and how to watch",
-      "summary": "Two Friday practice sessions and one Saturday session precede Sunday's race at Madring. Teams get their first real read on the unfamiliar street layout, with title rivals Mercedes already juggling engine penalties.",
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1090088/f1-practice-today-spanish-grand-prix-2026-madring-schedule-times-tv-channel-live-stream/",
-      "publishedAt": "2026-09-11T00:00:00Z",
+      "title": "Antonelli leads Spanish GP practice as Madring makes its F1 debut",
+      "summary": "Kimi Antonelli topped first practice at Madrid's new Madring circuit with Ferrari's Charles Leclerc close behind, giving the first on-track reading of Formula 1's newest venue.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sports/formula1/russell-leads-mercedes-one-two-first-f1-practice-madring-2026-09-11/",
+      "publishedAt": "2026-09-11T16:30:00Z",
       "tags": [
-        "F1",
-        "Spanish GP",
-        "practice"
+        "f1",
+        "spanish-gp",
+        "madring",
+        "antonelli"
       ]
     },
     {
-      "id": "local-911-25th-anniversary",
-      "category": "local",
-      "title": "Central Ohio marks the 25th anniversary of 9/11",
-      "summary": "Communities across central Ohio are holding memorial ceremonies, flag displays and stair climbs to mark 25 years since the Sept. 11 attacks, including a Statehouse flag memorial and a fire museum bell toll. Events run through the weekend.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-memorial-ceremonies-upcoming/",
-      "publishedAt": "2026-09-11T06:00:00Z",
+      "id": "f1-russell-engine-penalty",
+      "category": "f1",
+      "title": "Russell to take F1 engine penalty when Mercedes introduces upgraded power unit",
+      "summary": "George Russell says he will serve his engine penalty once Mercedes rolls out its upgraded power unit, timing it to avoid a double hit as the season's championship battle tightens between the Mercedes teammates.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/",
+      "publishedAt": "2026-09-11T08:30:00Z",
       "tags": [
-        "Columbus",
-        "9/11",
-        "community"
+        "f1",
+        "russell",
+        "mercedes",
+        "engine-penalty"
       ]
     },
     {
-      "id": "local-bexley-the-lion-expansion",
+      "id": "local-bexley-lion",
       "category": "local",
-      "title": "Bexley to get dog-friendly outdoor expansion of The Lion",
-      "summary": "The Lion is adding an outdoor expansion in Bexley that will welcome dogs, NBC4 reports. It's the latest change to the inner-ring suburb's dining scene.",
-      "source": "NBC4 WCMH",
+      "title": "Bexley to welcome dog-friendly outdoor expansion of The Lion",
+      "summary": "The popular Lion restaurant in Bexley is planning a dog-friendly outdoor expansion, a new amenity for the Columbus suburb's dining scene.",
+      "source": "NBC4 WCMH-TV",
       "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
-      "publishedAt": "2026-09-11T05:00:00Z",
+      "publishedAt": "2026-09-11T19:00:00Z",
       "tags": [
-        "Bexley",
-        "dining",
-        "Columbus"
+        "bexley",
+        "columbus",
+        "restaurants",
+        "dining"
       ]
     },
     {
-      "id": "local-home-sales-august",
+      "id": "local-skillet-brunch",
       "category": "local",
-      "title": "Columbus-area top home sales for August",
-      "summary": "NBC4 lists the Columbus area's top home sales for August, a periodic snapshot of the region's high-end housing market. It comes as buyers across central Ohio weigh elevated financing costs.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/real-estate/columbus-ohio-million-dollar-homes/",
-      "publishedAt": "2026-09-11T02:00:00Z",
+      "title": "Brunch spot opens in former Skillet space in German Village",
+      "summary": "A new brunch restaurant has opened in the former Skillet space in Columbus's German Village, breathing new life into the well-known storefront.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/brunch-spot-opens-in-former-skillet-space-in-german-village/",
+      "publishedAt": "2026-09-11T16:30:00Z",
       "tags": [
-        "Columbus",
-        "real estate",
-        "housing"
-      ]
-    },
-    {
-      "id": "local-operation-meridian",
-      "category": "local",
-      "title": "79 missing children recovered in Columbus-area operation",
-      "summary": "NBC4 reports that 79 missing children were found in a Columbus-area effort dubbed 'Operation Meridian'. The recovery was highlighted alongside a US Marshals arrest of a Texas murder suspect in the region.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/79-missing-children-recovered-in-operation-meridian/",
-      "publishedAt": "2026-09-10T23:00:00Z",
-      "tags": [
-        "Columbus",
-        "public safety",
-        "US Marshals"
+        "columbus",
+        "german-village",
+        "brunch",
+        "restaurants"
       ]
     }
   ]
