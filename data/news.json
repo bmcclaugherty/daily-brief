@@ -1,219 +1,124 @@
 {
   "meta": {
-    "updatedAt": "2026-09-11T19:35:34Z",
+    "updatedAt": "2026-09-12T11:08:48Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 14
+    "count": 8
   },
   "stories": [
     {
-      "id": "top-houthi-perim-dhubab",
+      "id": "top-philippines-ferry-fire-20260912",
       "category": "top",
-      "title": "Houthis reach Dhubab on Bab el-Mandeb Strait after seizing Perim Island",
-      "summary": "Iran-backed Houthi forces took the strategic island of Perim and reached the coastal town of Dhubab, tightening their grip on the Bab el-Mandeb Strait and raising the stakes for one of the world's most important shipping lanes.",
+      "title": "Philippines starts identifying ferry fire victims; dozens still missing",
+      "summary": "Authorities in Coron began identifying bodies from a ferry fire that killed at least 35 people, with more than 50 still missing. Forensic teams are processing remains recovered from a burned-out vessel a day after the disaster.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-backed-houthis-reach-yemens-dhubab-bab-el-mandeb-strait-sources-say-2026-09-11/",
-      "publishedAt": "2026-09-11T08:30:00Z",
+      "url": "https://www.reuters.com/world/asia-pacific/philippines-begins-identifying-victims-ferry-fire-dozens-still-missing-2026-09-12/",
+      "publishedAt": "2026-09-12T08:10:00Z",
       "tags": [
-        "yemen",
-        "houthis",
-        "red-sea",
-        "shipping"
+        "Philippines",
+        "ferry",
+        "disaster"
       ]
     },
     {
-      "id": "top-carney-trump-tariffs",
+      "id": "top-brics-declaration-20260912",
       "category": "top",
-      "title": "Carney calls Trump's latest trade measures 'relatively modest,' signals restraint",
-      "summary": "Canada's prime minister characterized the new U.S. tariff moves as comparatively mild and signaled Ottawa will avoid escalating, as the U.S.-Canada trade dispute continues to simmer.",
-      "source": "AP",
-      "url": "https://apnews.com/article/trump-canada-tariffs-ford-carney-700d1eaad7f1aa87f1d7875222691b35",
-      "publishedAt": "2026-09-11T15:00:00Z",
-      "tags": [
-        "canada",
-        "tariffs",
-        "trade-war",
-        "trump"
-      ]
-    },
-    {
-      "id": "tech-roblox-ai",
-      "category": "tech",
-      "title": "Roblox is making it easier to build games with AI \u2014 and play them outside Roblox",
-      "summary": "Roblox announced new AI-assisted game-building tools and broader ways to play titles beyond its own platform, aiming to widen how and where its games are created and consumed.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "publishedAt": "2026-09-11T19:22:00Z",
-      "tags": [
-        "roblox",
-        "ai",
-        "gaming"
-      ]
-    },
-    {
-      "id": "tech-nscale-fidji-simo",
-      "category": "tech",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "summary": "AI infrastructure firm Nscale brought on Fidji Simo, a former OpenAI executive, as it reportedly prepares for a potential public offering.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "publishedAt": "2026-09-11T17:30:00Z",
-      "tags": [
-        "nscale",
-        "ipo",
-        "ai",
-        "simone"
-      ]
-    },
-    {
-      "id": "tech-mullenweg-automattic",
-      "category": "tech",
-      "title": "Matt Mullenweg tells Automattic staff he's back in control after CEO ouster",
-      "summary": "WordPress co-founder Matt Mullenweg told Automattic employees he has regained control of the company following the departure of its chief executive, settling a contentious leadership chapter.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "publishedAt": "2026-09-11T15:30:00Z",
-      "tags": [
-        "automattic",
-        "wordpress",
-        "mullenweg",
-        "leadership"
-      ]
-    },
-    {
-      "id": "tech-trezor-breach",
-      "category": "tech",
-      "title": "Scammers target crypto owners after Trezor confirms data breach of email provider",
-      "summary": "Trezor confirmed a data breach at its email provider, and scammers are now phishing hundreds of thousands of crypto owners in the aftermath, underscoring ongoing risks to customer data in the space.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "publishedAt": "2026-09-11T13:30:00Z",
-      "tags": [
-        "trezor",
-        "crypto",
-        "data-breach",
-        "security"
-      ]
-    },
-    {
-      "id": "browns-jaguars-prep",
-      "category": "browns",
-      "title": "Browns wrap up preparations for Jaguars ahead of Week 1 matchup",
-      "summary": "Cleveland finalized its Week 1 game plan against Jacksonville, with the team's 53-man roster set behind quarterbacks Taylen Green, Shedeur Sanders and Deshaun Watson as the heavy underdogs.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/browns-wrap-preparations-jaguars-live-130100628.html",
-      "publishedAt": "2026-09-11T13:01:00Z",
-      "tags": [
-        "browns",
-        "jaguars",
-        "week1",
-        "nfl"
-      ]
-    },
-    {
-      "id": "browns-dogg-chow-injuries",
-      "category": "browns",
-      "title": "Browns injury watch, Week 1 predictions headline Friday news roundup",
-      "summary": "The Friday Browns roundup tracks injuries (Parker Brailsford limited on a thumb, Maliek Collins on a quad) and finds Cleveland are big Week 1 underdogs against the AFC South-leading Jaguars.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132384/cleveland-browns-news-andrew-berry-deshaun-watson-harold-fannin-dawand-jones",
-      "publishedAt": "2026-09-11T10:00:00Z",
-      "tags": [
-        "browns",
-        "injuries",
-        "jaguars",
-        "deshaun-watson"
-      ]
-    },
-    {
-      "id": "bucks-texas-preview",
-      "category": "buckeyes",
-      "title": "Ohio State vs. Texas preview: Top-four matchup, elite QBs headline Saturday",
-      "summary": "No. 1 Ohio State visits No. 4 Texas in Austin on Saturday night in a marquee battle of elite quarterbacks and wide receivers that could shape the national title picture.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163749/ohio-state-vs-texas-preview-elite-quarterbacks-battles-in-the-trenches-flashy-wide-receivers-highlight-top-four-matchup",
-      "publishedAt": "2026-09-11T12:30:00Z",
-      "tags": [
-        "ohio-state",
-        "texas",
-        "week2",
-        "college-football"
-      ]
-    },
-    {
-      "id": "bucks-texas-odds-injuries",
-      "category": "buckeyes",
-      "title": "No. 4 Texas vs. No. 1 Ohio State: How to watch, odds and injury updates",
-      "summary": "Primetime Saturday sets No. 1 Ohio State against No. 4 Texas in Austin, with Longhorns running back Derrek Cooper likely out on an ankle injury while the teams split the spotlight as a near-toss-up.",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/texas/football/no-4-texas-vs-no-1-ohio-state-how-to-watch-odds-injuries-and-more",
-      "publishedAt": "2026-09-11T11:30:00Z",
-      "tags": [
-        "ohio-state",
-        "texas",
-        "injury-report",
-        "odds"
-      ]
-    },
-    {
-      "id": "f1-madring-practice",
-      "category": "f1",
-      "title": "Antonelli leads Spanish GP practice as Madring makes its F1 debut",
-      "summary": "Kimi Antonelli topped first practice at Madrid's new Madring circuit with Ferrari's Charles Leclerc close behind, giving the first on-track reading of Formula 1's newest venue.",
+      "title": "BRICS bloc agrees on joint declaration, sources say",
+      "summary": "The BRICS group agreed on a joint declaration at its Delhi summit that is expected to avoid naming any country but will condemn unilateral war by any country, four sources told Reuters. Members worked to bridge a divide between Iran and the UAE over the Gulf conflict.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/sports/formula1/russell-leads-mercedes-one-two-first-f1-practice-madring-2026-09-11/",
-      "publishedAt": "2026-09-11T16:30:00Z",
+      "url": "https://www.reuters.com/world/china/brics-bloc-agrees-joint-declaration-sources-say-2026-09-12/",
+      "publishedAt": "2026-09-12T08:01:00Z",
       "tags": [
-        "f1",
-        "spanish-gp",
-        "madring",
-        "antonelli"
+        "BRICS",
+        "Delhi",
+        "summit"
       ]
     },
     {
-      "id": "f1-russell-engine-penalty",
+      "id": "top-xi-delhi-brics-20260912",
+      "category": "top",
+      "title": "China's Xi lands in Delhi for BRICS summit, talks with Modi",
+      "summary": "Chinese President Xi Jinping arrived in New Delhi on Saturday for the BRICS summit and bilateral talks with Indian Prime Minister Narendra Modi, TV channels showed. The bloc is holding its annual gathering in the Indian capital this weekend.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-xi-lands-delhi-brics-summit-indian-tv-channels-report-2026-09-12/",
+      "publishedAt": "2026-09-12T06:15:00Z",
+      "tags": [
+        "China",
+        "India",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "top-bulgaria-weapons-explosion-20260912",
+      "category": "top",
+      "title": "Explosion hits another weapons site in Bulgaria",
+      "summary": "An explosion caused a fire at a weapons storage site in Bulgaria on Saturday, the latest in a series of incidents at the country's munitions facilities. Damage and casualty details were not immediately available.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/explosion-hits-another-weapons-site-bulgaria-2026-09-12/",
+      "publishedAt": "2026-09-12T05:35:00Z",
+      "tags": [
+        "Bulgaria",
+        "weapons",
+        "explosion"
+      ]
+    },
+    {
+      "id": "tech-apple-neural-engine-20260912",
+      "category": "tech",
+      "title": "Reverse-engineering of Apple's Neural Engine tops Hacker News",
+      "summary": "A technical deep-dive walking through the reverse engineering of Apple's Neural Engine became the top story on Hacker News, drawing heavy attention from developers and ML engineers. The analysis breaks down the AI accelerator's architecture and instruction set inside Apple silicon.",
+      "source": "Hacker News",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "publishedAt": "2026-09-12T08:00:00Z",
+      "tags": [
+        "Apple",
+        "machine-learning",
+        "silicon"
+      ]
+    },
+    {
+      "id": "browns-cowboys-2027-pickens-20260912",
+      "category": "browns",
+      "title": "Cowboys hint George Pickens could be hard to keep, fueling Browns 2027 talk",
+      "summary": "Cowboys executive Stephen Jones signalled wide receiver George Pickens could be difficult to re-sign, a development Browns beat writers flagged as potentially opening the door for Cleveland to pursue him in 2027. Cleveland hosts Jacksonville on Sunday to open its season.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/the-cowboys-already-appear-to-be-opening-the-door-for-the-browns-perfect-2027-target",
+      "publishedAt": "2026-09-12T10:35:00Z",
+      "tags": [
+        "NFL",
+        "Browns",
+        "2027",
+        "wide receiver"
+      ]
+    },
+    {
+      "id": "f1-madring-qualifying-preview-20260912",
       "category": "f1",
-      "title": "Russell to take F1 engine penalty when Mercedes introduces upgraded power unit",
-      "summary": "George Russell says he will serve his engine penalty once Mercedes rolls out its upgraded power unit, timing it to avoid a double hit as the season's championship battle tightens between the Mercedes teammates.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/",
-      "publishedAt": "2026-09-11T08:30:00Z",
+      "title": "F1: Spanish GP qualifying takes centre stage at the Madring",
+      "summary": "Qualifying for the 2026 Spanish Grand Prix starts at 4 p.m. local time at F1's newest street circuit, the Madring, where grid position is seen as crucial given few overtaking spots. Kimi Antonelli carries a 66-point championship lead over Mercedes teammate George Russell.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1090130/f1-qualifying-today-madring-schedule-times-tv-channel-live-stream-2026-spanish-grand-prix/",
+      "publishedAt": "2026-09-12T06:45:00Z",
       "tags": [
-        "f1",
-        "russell",
-        "mercedes",
-        "engine-penalty"
+        "F1",
+        "Spanish GP",
+        "qualifying"
       ]
     },
     {
-      "id": "local-bexley-lion",
-      "category": "local",
-      "title": "Bexley to welcome dog-friendly outdoor expansion of The Lion",
-      "summary": "The popular Lion restaurant in Bexley is planning a dog-friendly outdoor expansion, a new amenity for the Columbus suburb's dining scene.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
-      "publishedAt": "2026-09-11T19:00:00Z",
+      "id": "f1-leclerc-peace-talks-20260912",
+      "category": "f1",
+      "title": "Leclerc makes big admission after Hamilton peace talks",
+      "summary": "Charles Leclerc made a notable admission after holding peace talks with Ferrari teammate Lewis Hamilton following their clash at Monza. The pair smoothed things over ahead of qualifying for the Spanish Grand Prix this weekend.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1090117/f1-star-charles-leclerc-makes-big-admission-after-lewis-hamilton-peace-talks/",
+      "publishedAt": "2026-09-12T09:15:00Z",
       "tags": [
-        "bexley",
-        "columbus",
-        "restaurants",
-        "dining"
-      ]
-    },
-    {
-      "id": "local-skillet-brunch",
-      "category": "local",
-      "title": "Brunch spot opens in former Skillet space in German Village",
-      "summary": "A new brunch restaurant has opened in the former Skillet space in Columbus's German Village, breathing new life into the well-known storefront.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/brunch-spot-opens-in-former-skillet-space-in-german-village/",
-      "publishedAt": "2026-09-11T16:30:00Z",
-      "tags": [
-        "columbus",
-        "german-village",
-        "brunch",
-        "restaurants"
+        "F1",
+        "Ferrari",
+        "Leclerc",
+        "Hamilton"
       ]
     }
   ]
