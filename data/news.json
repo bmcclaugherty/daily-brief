@@ -1,235 +1,113 @@
 {
   "meta": {
-    "updatedAt": "2026-09-12T19:35:00Z",
+    "updatedAt": "2026-09-13T11:05:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 15
+    "count": 7
   },
   "stories": [
     {
-      "id": "local-2-0912",
-      "category": "local",
-      "title": "New Italian restaurant and wine bar coming to Gahanna's Creekside",
-      "summary": "Micheli's Osteria + Wine Bar, a Florence-inspired casual dining concept, is set to open in Gahanna's Creekside district. The addition continues a wave of new dining options at the redeveloping Mill Street hub.",
-      "source": "614 Columbus Magazine",
-      "url": "https://spotonohio.com/central-ohio/3575432/new-italian-restaurant-and-wine.html",
-      "publishedAt": "2026-09-12T19:00:00Z",
+      "id": "top-sky-iran-pipeline-20260913",
+      "category": "top",
+      "title": "Iran-backed militias confirmed behind Saudi pipeline attack; Trump in Ireland points to Tehran",
+      "summary": "An attack on Saudi Arabia's key East-West oil pipeline was confirmed to have been carried out from Iraqi territory by Iran-linked militias, and President Trump, visiting Ireland, said Iran was 'probably' responsible as Baghdad takes countermeasures. The Gulf standoff continues to rattle oil markets with the Strait of Hormuz at the center.",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/iran-war-latest-trump-deal-tehran-pakistan-strait-hormuz-blockade-13509565",
+      "publishedAt": "2026-09-13T00:00:00Z",
       "tags": [
-        "Gahanna",
-        "Creekside",
-        "restaurant",
-        "dining"
+        "Iran",
+        "Saudi Arabia",
+        "pipeline",
+        "Middle East"
       ]
     },
     {
-      "id": "local-3-0912",
-      "category": "local",
-      "title": "US Marshals find 79 missing children in monthlong Ohio operation",
-      "summary": "A US Marshals task force recovered 79 missing children during a monthlong operation spanning Columbus, Cleveland and Toledo. In central Ohio, the effort reunited two sisters, aged 13 and 16, who had been missing since 2024 and 2026 respectively.",
-      "source": "10TV WBNS",
-      "url": "https://www.10tv.com/article/news/local/us-marshals-find-79-missing-children-during-monthlong-operation-columbus-cleveland-toledo/530-88c64fc4-773e-4bf2-9111-2233b80b8aa1",
-      "publishedAt": "2026-09-12T14:30:00Z",
-      "tags": [
-        "Columbus",
-        "missing children",
-        "US Marshals",
-        "Central Ohio"
-      ]
-    },
-    {
-      "id": "local-1-0912",
-      "category": "local",
-      "title": "Columbus weather: scattered showers and storms kick off the weekend",
-      "summary": "Showers and storms are expected across Columbus and central Ohio on Saturday as unsettled weather opens the weekend. Forecasters advise residents to plan around scattered thunderstorms into the afternoon and evening.",
-      "source": "WSYX ABC6",
-      "url": "https://abc6onyourside.com/news/local/columbus-ohio-weather-forecast-scattered-showers-storms-kick-weekend-saturday-sunday-sept-september-12-2026-rain-summer",
-      "publishedAt": "2026-09-12T11:14:00Z",
-      "tags": [
-        "Columbus",
-        "weather",
-        "storms",
-        "forecast"
-      ]
-    },
-    {
-      "id": "f1-3-0912",
-      "category": "f1",
-      "title": "Wolff: Mercedes could have looked 'idiots' like Ferrari at Madring",
-      "summary": "Toto Wolff said Mercedes risked looking like 'idiots' in the way Ferrari did, as the team weighed an aggressive one-stop or strategy gamble at the new Madring circuit. The comments came after Ferrari was caught out at the Spanish Grand Prix.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/toto-wolff-mercedes-ferrari-kimi-antonelli-george-russell-idiots",
-      "publishedAt": "2026-09-12T15:30:00Z",
-      "tags": [
-        "F1",
-        "Mercedes",
-        "Wolff",
-        "Spanish GP"
-      ]
-    },
-    {
-      "id": "f1-2-0912",
-      "category": "f1",
-      "title": "FIA confirms Valtteri Bottas punishment after Spanish GP investigation",
-      "summary": "The FIA handed Valtteri Bottas a penalty following an investigation at the Spanish Grand Prix. Bottas had been eliminated in Q1, and the ruling adds to a turbulent Madring weekend for the Cadillac driver.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/fia-valtteri-bottas-spanish-grand-prix-2026-investigation",
-      "publishedAt": "2026-09-12T15:00:00Z",
-      "tags": [
-        "F1",
-        "Bottas",
-        "FIA",
-        "Spanish GP"
-      ]
-    },
-    {
-      "id": "f1-1-0912",
-      "category": "f1",
-      "title": "Verstappen wins pole: Spanish Grand Prix qualifying results",
-      "summary": "Max Verstappen took pole for the Spanish Grand Prix at the new Madring circuit in Madrid ahead of the Mercedes duo, with George Russell second and Kimi Antonelli third. An early Q1 exit for Carlos Sainz was among the surprises at F1's newest street track.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/f1-results-spanish-grand-prix-2026-qualifying",
-      "publishedAt": "2026-09-12T13:22:00Z",
-      "tags": [
-        "F1",
-        "Spanish GP",
-        "qualifying",
-        "Verstappen"
-      ]
-    },
-    {
-      "id": "buckeyes-2-0912",
-      "category": "buckeyes",
-      "title": "Ohio State vs. Texas: time, channel and where to stream",
-      "summary": "The Buckeyes take on the Longhorns in Austin on Saturday night, headlined by the quarterback duel between Julian Sayin and Arch Manning. A viewer's guide details kickoff time, ABC broadcast and streaming options.",
-      "source": "Buckeyes Wire",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/12/ohio-state-vs-texas-tv-schedule-time-streaming-info/91720814007/",
-      "publishedAt": "2026-09-12T15:00:00Z",
-      "tags": [
-        "Ohio State",
-        "Texas",
-        "streaming",
-        "Sayin"
-      ]
-    },
-    {
-      "id": "buckeyes-1-0912",
-      "category": "buckeyes",
-      "title": "How to watch No. 1 Ohio State vs. No. 4 Texas for free today",
-      "summary": "Top-ranked Ohio State visits Arch Manning and No. 4 Texas in Austin in a monstrous Week 2 showdown. The how-to-watch guide covers the free streaming options, TV channel and start time for the top-five matchup.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/tv/2026/09/how-to-watch-ohio-state-football-vs-texas-for-free-today.html",
-      "publishedAt": "2026-09-12T13:30:00Z",
-      "tags": [
-        "Ohio State",
-        "Texas",
-        "Week 2",
-        "college football"
-      ]
-    },
-    {
-      "id": "browns-1-0912",
-      "category": "browns",
-      "title": "Browns' Saturday Dawg Chow: getting ready for the Jaguars",
-      "summary": "Cleveland's morning roundup sets up Sunday's Week 1 opener in Jacksonville, covering the youth movement in the starting lineup and predictions ahead of the Deshaun Watson-vs-Trevor Lawrence matchup. Watson is 7-0 as a starter against the Jaguars, while Lawrence is 0-2 vs. Cleveland.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132454/cleveland-browns-news-austin-barber-deshaun-watson-trevor-lawrence",
-      "publishedAt": "2026-09-12T10:30:00Z",
-      "tags": [
-        "Browns",
-        "Jaguars",
-        "Week 1",
-        "Watson"
-      ]
-    },
-    {
-      "id": "tech-1-0912",
+      "id": "tech-obama-ai-caution-20260913",
       "category": "tech",
-      "title": "Anthropic CEO Amodei proposes plan to 'slow the pace' of advancing AI",
-      "summary": "Dario Amodei published an essay urging AI companies to deliberately pace capability improvements, proposing embedded third-party evaluators, industry safety standards and US-China coordination. The essay follows an Anthropic researcher's high-profile resignation and escalating calls from Altman and Musk to slow development.",
+      "title": "Obama voices caution on AI, urges Democrats to tackle it",
+      "summary": "Barack Obama warned that artificial intelligence could be 'dangerous' if not properly managed and urged Democrats to make it a policy priority, according to the New York Times. The remarks add to a weekend of prominent voices calling for more measured AI development.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-      "publishedAt": "2026-09-12T16:22:00Z",
+      "url": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
+      "publishedAt": "2026-09-13T07:00:00Z",
       "tags": [
-        "AI safety",
-        "Anthropic",
-        "Amodei",
+        "AI",
+        "policy",
+        "Obama",
+        "safety"
+      ]
+    },
+    {
+      "id": "tech-china-embodied-ai-20260913",
+      "category": "tech",
+      "title": "China's data regulator plans standards push for embodied AI",
+      "summary": "China's data regulator said it will develop standards for embodied (physical-world) AI and guide local authorities as demand for large multimodal training datasets grows. The plan points to an effort to accelerate robot-AI deployment rather than slow it.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+      "publishedAt": "2026-09-13T04:00:00Z",
+      "tags": [
+        "AI",
+        "China",
+        "robotics",
         "regulation"
       ]
     },
     {
-      "id": "tech-2-0912",
-      "category": "tech",
-      "title": "Anthropic grants outside evaluators permanent employee-level access",
-      "summary": "As part of his 'pace the frontier' plan, Amodei said Anthropic is unilaterally committing to give independent evaluators permanent, employee-level access to the company to verify safety practices and report incidents. He called on governments to require other frontier firms to match the arrangement.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/12/anthropic-ceo-dario-amodei-ai-safety-global-panic/",
-      "publishedAt": "2026-09-12T14:37:00Z",
+      "id": "browns-week1-jags-preview-20260913",
+      "category": "browns",
+      "title": "Browns open season at Jacksonville today: how to watch, odds, kickoff",
+      "summary": "Cleveland faces Jacksonville in its 2026 season opener Sunday at 1 p.m. ET on CBS, with the Browns 8.5-point underdogs (Jaguars -8.5). Rookie Austin Barber is set to start at right guard in his hometown after Teven Jenkins was ruled out.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-game-information/132296/cleveland-browns-vs-jacksonville-jaguars-how-to-watch-tv-schedule-history-betting-odds-and-more",
+      "publishedAt": "2026-09-13T10:00:00Z",
       "tags": [
-        "AI safety",
-        "Anthropic",
-        "evaluators",
-        "governance"
+        "Browns",
+        "NFL",
+        "Week 1",
+        "Jaguars"
       ]
     },
     {
-      "id": "top-2-0912",
-      "category": "top",
-      "title": "Modi and Xi welcome 'steady progress' in India-China ties at bilateral meet",
-      "summary": "On the sidelines of the Delhi summit, PM Modi and Xi Jinping held a bilateral meeting and welcomed 'steady progress' in repairing relations that have been strained for years. Improving ties between the two Asian giants has broad regional and strategic implications.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/india-news/brics-summit-india-live-updates-modi-xi-jinping-putin-pezeshkian-china-russia-new-delhi-bharat-mandapam-police-traffic-101789179441620.html",
-      "publishedAt": "2026-09-12T17:30:00Z",
+      "id": "buckeyes-texas-comeback-20260913",
+      "category": "buckeyes",
+      "title": "No. 1 Ohio State stunned 24-23 as Texas erases 20-point deficit",
+      "summary": "Arch Manning led three fourth-quarter touchdown drives as No. 4 Texas rallied from 20 down to stun top-ranked Ohio State 24-23 in Austin. The Buckeyes dominated the first half and led 23-3 after three quarters before the Longhorns' furious comeback.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/ohio-state-texas-live-updates-score-college-football-week-2/live/",
+      "publishedAt": "2026-09-13T04:00:00Z",
       "tags": [
-        "BRICS",
-        "India",
-        "China",
-        "Xi Jinping"
+        "Ohio State",
+        "Texas",
+        "football",
+        "upset"
       ]
     },
     {
-      "id": "top-3-0912",
-      "category": "top",
-      "title": "Modi greets Putin and Xi as BRICS leaders open Delhi summit",
-      "summary": "A gallery of key moments from the BRICS summit in New Delhi captured PM Modi greeting Vladimir Putin and Xi Jinping from arrival to group photos. The summit unites some of the largest economies jockeying for position against US-led pressure.",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/brics-summit-2026-delhi-key-moments-photos-pm-narendra-modi-vladimir-putin-xi-jinping-10875485/",
-      "publishedAt": "2026-09-12T17:30:00Z",
+      "id": "buckeyes-texas-recap-athletic-20260913",
+      "category": "buckeyes",
+      "title": "How Texas, Arch Manning stunned Ohio State after rallying from 20 down",
+      "summary": "A detailed breakdown of the Longhorns' fourth-quarter turnaround that handed the Buckeyes a 24-23 loss, capped by three Manning touchdown drives. The win snaps OSU's win streak versus Texas and reshapes the early College Football Playoff picture.",
+      "source": "The Athletic",
+      "url": "https://www.nytimes.com/athletic/live-blogs/ohio-state-vs-texas-live-updates-college-football-score-result/5GkJE6JxyRh8/",
+      "publishedAt": "2026-09-13T06:00:00Z",
       "tags": [
-        "BRICS",
-        "summit",
-        "photos",
-        "India"
+        "Ohio State",
+        "Arch Manning",
+        "comeback"
       ]
     },
     {
-      "id": "top-4-0912",
-      "category": "top",
-      "title": "BRICS adopts New Delhi Declaration; Modi holds key bilateral talks",
-      "summary": "BRICS leaders adopted the New Delhi Declaration on the first day of the summit, alongside Modi's bilateral meetings with Xi Jinping. The declaration seeks to deepen cooperation on trade and global governance among the bloc's members.",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/top-news-of-the-day-september-12-2026/article71459874.ece",
-      "publishedAt": "2026-09-12T14:30:00Z",
+      "id": "f1-spanish-gp-preview-20260913",
+      "category": "f1",
+      "title": "Spanish GP race day: new Madring circuit in Madrid hosts its first grand prix",
+      "summary": "Formula 1's Spanish Grand Prix takes place Sunday at 2 p.m. UK time at the new Madring circuit near Madrid. Race-day guide covers start times, how to watch and a hot forecast that could make tyre degradation a factor.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/12433/13582249/spanish-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-madrid-live-on-sky-sports",
+      "publishedAt": "2026-09-13T09:00:00Z",
       "tags": [
-        "BRICS",
-        "New Delhi Declaration",
-        "trade",
-        "summit"
-      ]
-    },
-    {
-      "id": "top-1-0912",
-      "category": "top",
-      "title": "Xi, Putin and Modi meet at BRICS summit amid US pressure",
-      "summary": "Chinese President Xi Jinping, Vladimir Putin and Narendra Modi gathered in New Delhi for the BRICS summit as US trade and tariff pressure pushes member states to hedge their bets. The meeting highlights how Washington's America-first posture is driving rivals closer together on trade and security.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-      "publishedAt": "2026-09-12T13:30:00Z",
-      "tags": [
-        "BRICS",
-        "diplomacy",
-        "India",
-        "trade"
+        "F1",
+        "Spanish GP",
+        "Madring"
       ]
     }
   ]
