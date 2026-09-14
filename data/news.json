@@ -1,190 +1,250 @@
 {
   "meta": {
-    "updatedAt": "2026-09-14T11:00:00Z",
+    "updatedAt": "2026-09-14T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 16
   },
   "stories": [
     {
-      "id": "top-houthis-saudi-0914",
+      "id": "top-20260914-hormuz-talks",
       "category": "top",
-      "title": "Houthis claim large-scale missile and drone attack on Saudi air base",
-      "summary": "Yemen's Iran-backed Houthis claimed a large-scale missile and drone attack on King Khalid Air Base in southern Saudi Arabia, a sharp escalation in the conflict. Riyadh had not immediately confirmed the strike.",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/b033bc4f56c1",
-      "publishedAt": "2026-09-14T10:40:00Z",
+      "title": "Gulf states postpone Strait of Hormuz talks with Iran",
+      "summary": "Gulf nations called off a planned meeting with Iran over a temporary shipping lane through the Strait of Hormuz, citing a lack of Arab consensus and Saudi anger over Tehran's backing of the Houthis. The delay keeps global oil-transit risk elevated after attacks disrupted Red Sea and Gulf shipping.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/14/gulf-states-postpone-strait-of-hormuz-talks-iran-yemen-houthi-saudi-arabia-airbase-pipeline",
+      "publishedAt": "2026-09-14T19:00:00Z",
       "tags": [
-        "Yemen",
-        "Saudi Arabia",
-        "Houthis",
-        "conflict"
+        "hormuz",
+        "iran",
+        "gulf",
+        "oil"
       ]
     },
     {
-      "id": "top-syria-fuel-protests-0914",
+      "id": "top-20260914-iran-drone",
       "category": "top",
-      "title": "Protests break out across Syria over fuel price increases",
-      "summary": "Protesters in several Syrian cities, including along the highway between Aleppo and Turkey, demonstrated after the government raised diesel prices by up to 40% and gasoline by 28%. The hikes, tied to an overhaul of the Baniyas refinery, drew some of the sharpest unrest in years.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases",
-      "publishedAt": "2026-09-14T05:00:00Z",
+      "title": "Iran says it destroyed a US drone over the Strait of Hormuz",
+      "summary": "Iran's Revolutionary Guards said a new air-defense system intercepted and destroyed a US MQ-1 drone over the strategic waterway as Washington and Tehran keep trading strikes. The escalation adds to concerns about shipping and energy flows through Hormuz.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+      "publishedAt": "2026-09-14T12:30:00Z",
       "tags": [
-        "Syria",
-        "protests",
-        "fuel",
-        "economy"
+        "iran",
+        "us",
+        "hormuz",
+        "drone"
       ]
     },
     {
-      "id": "top-indonesia-ferry-0914",
+      "id": "top-20260914-syria-protests",
       "category": "top",
-      "title": "Rescuers search for ~130 people still missing after Indonesian ferry sinks",
-      "summary": "The Indonesian ferry Virgo Transport 8 sank in the Java Sea en route from Surabaya to Banjarmasin, with crews searching for roughly 129 people still unaccounted for after 108 of the 243 on board were rescued. At least six people died in the incident.",
+      "title": "Fuel price hikes trigger widest protests in Syria since Assad fell",
+      "summary": "A sharp rise in fuel prices at the weekend set off demonstrations across Syria, the most widespread since Bashar al-Assad's overthrow nearly two years ago, with protesters blocking roads and burning tires. The unrest underscores how fragile public support for the post-Assad government is amid deep economic pain.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/indonesia-rescuers-searching-129-people-still-missing-after-passenger-ship-2026-09-14/",
-      "publishedAt": "2026-09-14T01:00:00Z",
+      "url": "https://www.reuters.com/world/middle-east/syria-fuel-price-hikes-trigger-widest-protests-since-assad-fall-2026-09-14/",
+      "publishedAt": "2026-09-14T08:30:00Z",
       "tags": [
-        "Indonesia",
-        "ferry",
-        "rescue",
-        "maritime"
+        "syria",
+        "fuel",
+        "protests",
+        "assad"
       ]
     },
     {
-      "id": "tech-ai-warnings-0914",
+      "id": "tech-20260914-microsoft-ai",
       "category": "tech",
-      "title": "New warnings about the risks of AI to humanity revive a long-running debate",
-      "summary": "Fresh warnings from the AI industry, including Anthropic CEO Dario Amodei's call to slow model development, have revived debate over whether advanced models could escape human control and threaten humanity. The push comes as OpenAI and Anthropic weigh potential IPOs.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/artificial-intelligence-threats-humanity-anthropic-openai-98316b0d64de17191f33c0fbf1d37858",
-      "publishedAt": "2026-09-14T10:38:00Z",
+      "title": "Microsoft drafts code of conduct to keep its AI under human control",
+      "summary": "Microsoft unveiled a draft code of conduct for its in-house AI requiring models to never resist correction or shutdown, communicate understandably, and treat violations as failures. It reflects growing industry concern about keeping future powerful AI controlled by humans.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/microsoft-drafts-code-conduct-keep-its-ai-under-human-control-2026-09-14/",
+      "publishedAt": "2026-09-14T13:30:00Z",
       "tags": [
-        "AI",
+        "microsoft",
+        "ai",
         "safety",
-        "Anthropic",
         "regulation"
       ]
     },
     {
-      "id": "tech-samsung-kepco-0914",
+      "id": "tech-20260914-nuance",
       "category": "tech",
-      "title": "Samsung and SK Hynix refuse KEPCO's $18.7B power prepayment ask",
-      "summary": "Samsung and SK Hynix rebuffed a request to prepay roughly $18.7 billion in electricity bills meant to help fund grid investments feeding their chip mega-clusters, citing uncertainty over the long-term chip cycle. The refusal leaves state utility KEPCO scrambling for alternate financing to support AI-chip capacity expansion.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/samsung-sk-hynix-reject-kepcos-19-billion-power-prepayment-proposal-document-2026-09-14/",
-      "publishedAt": "2026-09-14T05:00:00Z",
+      "title": "Ex-Apple researchers raise $50M to make AI conversation less awkward",
+      "summary": "Seattle startup Nuance raised a $50 million Series A led by Lightspeed to build AI foundation models for face-to-face, audio-plus-video conversation. It is collecting specialized training data rather than relying only on internet-scraped content.",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/150593-ex-apple-researchers-raise-50m-to-make-ai-conversations-less-awkward/",
+      "publishedAt": "2026-09-14T12:30:00Z",
       "tags": [
-        "semiconductors",
-        "AI",
-        "chips",
-        "energy"
+        "nuance",
+        "ai",
+        "funding",
+        "startup"
       ]
     },
     {
-      "id": "browns-week1-recap-0914",
-      "category": "browns",
-      "title": "Browns' Week 1 failures aplenty in 34-10 loss to Jaguars",
-      "summary": "Cleveland's season-opening 34-10 loss to Jacksonville exposed issues across the offense and secondary, drawing sharp grades from analysts. Head coach Todd Monken said it would be 'unfair' to pin the defeat entirely on any one player or unit.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132635/cleveland-browns-news-week-1-failures-aplenty-versus-jaguars-todd-monken-unfazed",
-      "publishedAt": "2026-09-14T10:00:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "Jaguars",
-        "Week1"
-      ]
-    },
-    {
-      "id": "browns-watson-0914",
-      "category": "browns",
-      "title": "Browns QB Deshaun Watson sounds off on critics after loss to Jaguars",
-      "summary": "Browns quarterback Deshaun Watson hit back at critics after the 34-10 season-opening loss to the Jaguars, defending his performance despite widespread scrutiny over the defeat. The loss dropped Cleveland to 0-1 under new head coach Todd Monken.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/browns-qb-deshaun-watson-sounds-021105031.html",
-      "publishedAt": "2026-09-14T02:00:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "Watson",
-        "Jaguars"
-      ]
-    },
-    {
-      "id": "f1-antonelli-nbc-0914",
-      "category": "f1",
-      "title": "Kimi Antonelli wins Formula 1 race in Madrid to extend championship lead",
-      "summary": "Mercedes' Kimi Antonelli won the Spanish Grand Prix at the new Madring street circuit, beating Max Verstappen and Lando Norris after a virtual safety car undid pole-sitter Norris' control of the race. The win strengthened Antonelli's lead in the drivers' title fight.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-formula-1-race-madrid-rcna597467",
-      "publishedAt": "2026-09-14T00:00:00Z",
-      "tags": [
-        "F1",
-        "SpanishGP",
-        "Antonelli",
-        "Mercedes"
-      ]
-    },
-    {
-      "id": "f1-antonelli-usatoday-0914",
-      "category": "f1",
-      "title": "Kimi Antonelli wins Spanish Grand Prix in F1's return to Madrid",
-      "summary": "Formula 1 returned to Madrid for the first time in 45 years as Kimi Antonelli won the 2026 Spanish Grand Prix and hoisted the churro-shaped trophy. The result added to Mercedes' strong run as the season's championship picture tightens.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/motor/formula1/2026/09/13/kimi-antonelli-wins-formula-1-spanish-grand-prix-madrid/91746132007/",
-      "publishedAt": "2026-09-14T00:00:00Z",
-      "tags": [
-        "F1",
-        "Madrid",
-        "Antonelli",
-        "Mercedes"
-      ]
-    },
-    {
-      "id": "local-wrongway-i71-0914",
-      "category": "local",
-      "title": "One dead after fiery wrong-way crash closes I-71 in downtown Columbus",
-      "summary": "One person died after a fiery, wrong-way, four-vehicle collision shut down I-71 north in downtown Columbus. At least one other person was hospitalized and police were investigating.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/one-hospitalized-after-fiery-wrong-way-four-vehicle-collision-in-downtown-columbus/",
+      "id": "tech-20260914-ai-stocks",
+      "category": "tech",
+      "title": "AI stocks slide after industry CEOs call for a development slowdown",
+      "summary": "AI-linked stocks tumbled Monday after CEOs at top labs urged a slowdown in developing the technology following days of safety warnings. The selloff signals investors are pricing in the risk that faster AI progress could now be seen as a liability.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-slide-top-industry-101949821.html",
       "publishedAt": "2026-09-14T10:30:00Z",
       "tags": [
-        "Columbus",
-        "crash",
-        "I-71",
-        "traffic"
+        "ai",
+        "stocks",
+        "slowdown",
+        "markets"
       ]
     },
     {
-      "id": "local-gahanna-flock-0914",
-      "category": "local",
-      "title": "Gahanna sees multiple acts of vandalism against Flock cameras amid controversy",
-      "summary": "Gahanna was the target of multiple acts of vandalism against Flock license-plate cameras, part of a string of similar incidents across central Ohio. The cameras, used by police to track suspects and missing people, have drawn national privacy scrutiny this year.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/gahanna/gahanna-sees-multiple-acts-of-vandalism-against-flock-cameras-amid-controversy/",
-      "publishedAt": "2026-09-14T08:00:00Z",
+      "id": "browns-20260914-watson-week2",
+      "category": "browns",
+      "title": "Browns' Monken says he anticipates Deshaun Watson starting in Week 2",
+      "summary": "Coach Todd Monken said he anticipates Deshaun Watson starting at quarterback in Week 2 against the Tampa Bay Buccaneers after the opener. The decision is under scrutiny after Cleveland's rough season-opening loss.",
+      "source": "A to Z Sports",
+      "url": "https://atozsports.com/nfl/cleveland-browns-news/todd-monken-might-be-digging-a-hole-he-cant-get-out-of-after-latest-browns-decision-for-week-2/",
+      "publishedAt": "2026-09-14T18:30:00Z",
       "tags": [
-        "Gahanna",
-        "police",
-        "privacy",
-        "Flock"
+        "browns",
+        "watson",
+        "week2",
+        "nfl"
       ]
     },
     {
-      "id": "local-columbus-person-0914",
-      "category": "local",
-      "title": "Columbus police release video of person of interest near home where couple was killed",
-      "summary": "Columbus police released video of a person of interest spotted near the home where a couple was killed, asking the public for help identifying them. The footage is central to the ongoing homicide investigation.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-police-release-video-of-person-of-interest-near-home-where-couple-was-killed/",
-      "publishedAt": "2026-09-14T02:00:00Z",
+      "id": "browns-20260914-week1-recap",
+      "category": "browns",
+      "title": "Browns fall in season opener to the Jaguars",
+      "summary": "Cleveland dropped its Week 1 opener in Jacksonville, trailing 24-0 at halftime. It was a sluggish debut for the Browns' revamped offense under a new-look quarterback arrangement.",
+      "source": "Beacon Journal",
+      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/09/13/cleveland-browns-score-jacksonville-jaguars-week-1-live-updates--live/91732904007/",
+      "publishedAt": "2026-09-14T13:23:00Z",
       "tags": [
-        "Columbus",
-        "police",
-        "homicide",
-        "investigation"
+        "browns",
+        "jaguars",
+        "week1",
+        "nfl"
+      ]
+    },
+    {
+      "id": "browns-20260914-news-roundup",
+      "category": "browns",
+      "title": "Week 1 failures aplenty for Browns; Monken unfazed",
+      "summary": "A roundup of national Browns coverage focuses on the many Week 1 failures against Jacksonville while noting Todd Monken shows little concern going forward. It's a sign of early scrutiny on the coaching staff after the opener.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132635/cleveland-browns-news-week-1-failures-aplenty-versus-jaguars-todd-monken-unfazed",
+      "publishedAt": "2026-09-14T10:30:00Z",
+      "tags": [
+        "browns",
+        "monken",
+        "week1",
+        "recap"
+      ]
+    },
+    {
+      "id": "buckeyes-20260914-reportcard",
+      "category": "buckeyes",
+      "title": "Report Card: Ohio State fails the second-half test vs. Texas",
+      "summary": "A position-by-position review grades Ohio State poorly for its second-half collapse at Texas, where the Buckeyes surrendered a 20-point lead to lose 24-23. The game exposed concerns about closing out big leads under Ryan Day.",
+      "source": "BucksInsider",
+      "url": "https://www.bucksinsider.com/2026/09/14/report-card-ohio-state-fails-the-second-half-test/",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "tags": [
+        "ohio-state",
+        "texas",
+        "report-card",
+        "college-football"
+      ]
+    },
+    {
+      "id": "buckeyes-20260914-kentstate-preview",
+      "category": "buckeyes",
+      "title": "Ohio State vs. Kent State preview, injury updates, storylines",
+      "summary": "Ohio State hosts Kent State looking to rebound from its 24-23 loss at Texas, with no reported injuries ahead of the game. It's a chance for the Buckeyes to reset after blowing a 20-point fourth-quarter lead.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/14/ohio-state-vs-texas-time-channel-injury-updates-osu-buckeyes-football/91755167007/",
+      "publishedAt": "2026-09-14T11:30:00Z",
+      "tags": [
+        "ohio-state",
+        "kent-state",
+        "college-football",
+        "preview"
+      ]
+    },
+    {
+      "id": "f1-20260914-mclaren-vsc",
+      "category": "f1",
+      "title": "Why McLaren won't blame race control for losing the Spanish GP win",
+      "summary": "McLaren downplayed any anger at F1 race control after an early virtual safety car cost Lando Norris what looked like a certain Spanish Grand Prix victory. Team boss Andrea Stella says the VSC's influence is outside the race director's control.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-mclaren-wont-blame-race-control-for-lost-spanish-gp-victory/10855804/",
+      "publishedAt": "2026-09-14T19:06:00Z",
+      "tags": [
+        "f1",
+        "mclaren",
+        "norris",
+        "spanish-gp"
+      ]
+    },
+    {
+      "id": "f1-20260914-honda-pu",
+      "category": "f1",
+      "title": "Honda replaces head of F1 power unit programme after poor Aston Martin start",
+      "summary": "Honda replaced Tetsushi Kakuda with Yoichiro Fukao as leader of its Formula 1 power unit development following a disappointing first season supplying Aston Martin. The move aims to help the team claw back into contention.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/aston-martin-partner-honda-replaces-f1-power-unit-boss/10855750/",
+      "publishedAt": "2026-09-14T13:30:00Z",
+      "tags": [
+        "f1",
+        "honda",
+        "aston-martin",
+        "power-unit"
+      ]
+    },
+    {
+      "id": "f1-20260914-grosjean-apology",
+      "category": "f1",
+      "title": "Romain Grosjean apologises to McLaren over controversial comments",
+      "summary": "Former F1 driver Romain Grosjean issued a public apology to McLaren CEO Zak Brown after misinterpreting his remarks about Oscar Piastri during the Spanish GP. The misunderstanding drew widespread attention in the paddock.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/grosjean-apologises-to-mclaren-over-controversial-unfounded-comments/10855806/",
+      "publishedAt": "2026-09-14T10:30:00Z",
+      "tags": [
+        "f1",
+        "grosjean",
+        "mclaren",
+        "spanish-gp"
+      ]
+    },
+    {
+      "id": "f1-20260914-verstappen-hamilton",
+      "category": "f1",
+      "title": "\"My race could have been over\" — Verstappen on Lap 1 clash with Hamilton",
+      "summary": "Max Verstappen said his race could have ended on the first lap of the Spanish GP after a wheel-to-wheel incident with Lewis Hamilton at the Madring. Verstappen recovered to finish P2 behind winner Kimi Antonelli.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/my-race-could-have-been-over-max-verstappens-take-on-first-lap-incident-with-lewis-hamilton/10855771/",
+      "publishedAt": "2026-09-14T09:30:00Z",
+      "tags": [
+        "f1",
+        "verstappen",
+        "hamilton",
+        "spanish-gp"
+      ]
+    },
+    {
+      "id": "local-20260914-noling",
+      "category": "local",
+      "title": "Ohio Parole Board recommends commuting death-row inmate Tyrone Noling's sentence",
+      "summary": "The Ohio Parole Board recommended Gov. Mike DeWine commute the death sentence of Tyrone Noling, 54, of Alliance, who has been on death row for more than 30 years. The decision now rests with the governor.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/ohio-parole-board-recommends-commuting-sentence-of-death-row-inmate-tyrone-noling/",
+      "publishedAt": "2026-09-14T10:30:00Z",
+      "tags": [
+        "ohio",
+        "death-row",
+        "parole-board",
+        "justice"
       ]
     }
   ]
