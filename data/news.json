@@ -1,113 +1,190 @@
 {
   "meta": {
-    "updatedAt": "2026-09-13T11:05:00Z",
+    "updatedAt": "2026-09-14T11:00:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 7
+    "count": 12
   },
   "stories": [
     {
-      "id": "top-sky-iran-pipeline-20260913",
+      "id": "top-houthis-saudi-0914",
       "category": "top",
-      "title": "Iran-backed militias confirmed behind Saudi pipeline attack; Trump in Ireland points to Tehran",
-      "summary": "An attack on Saudi Arabia's key East-West oil pipeline was confirmed to have been carried out from Iraqi territory by Iran-linked militias, and President Trump, visiting Ireland, said Iran was 'probably' responsible as Baghdad takes countermeasures. The Gulf standoff continues to rattle oil markets with the Strait of Hormuz at the center.",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/iran-war-latest-trump-deal-tehran-pakistan-strait-hormuz-blockade-13509565",
-      "publishedAt": "2026-09-13T00:00:00Z",
+      "title": "Houthis claim large-scale missile and drone attack on Saudi air base",
+      "summary": "Yemen's Iran-backed Houthis claimed a large-scale missile and drone attack on King Khalid Air Base in southern Saudi Arabia, a sharp escalation in the conflict. Riyadh had not immediately confirmed the strike.",
+      "source": "TRT World",
+      "url": "https://www.trtworld.com/article/b033bc4f56c1",
+      "publishedAt": "2026-09-14T10:40:00Z",
       "tags": [
-        "Iran",
+        "Yemen",
         "Saudi Arabia",
-        "pipeline",
-        "Middle East"
+        "Houthis",
+        "conflict"
       ]
     },
     {
-      "id": "tech-obama-ai-caution-20260913",
-      "category": "tech",
-      "title": "Obama voices caution on AI, urges Democrats to tackle it",
-      "summary": "Barack Obama warned that artificial intelligence could be 'dangerous' if not properly managed and urged Democrats to make it a policy priority, according to the New York Times. The remarks add to a weekend of prominent voices calling for more measured AI development.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
-      "publishedAt": "2026-09-13T07:00:00Z",
+      "id": "top-syria-fuel-protests-0914",
+      "category": "top",
+      "title": "Protests break out across Syria over fuel price increases",
+      "summary": "Protesters in several Syrian cities, including along the highway between Aleppo and Turkey, demonstrated after the government raised diesel prices by up to 40% and gasoline by 28%. The hikes, tied to an overhaul of the Baniyas refinery, drew some of the sharpest unrest in years.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases",
+      "publishedAt": "2026-09-14T05:00:00Z",
       "tags": [
-        "AI",
-        "policy",
-        "Obama",
-        "safety"
+        "Syria",
+        "protests",
+        "fuel",
+        "economy"
       ]
     },
     {
-      "id": "tech-china-embodied-ai-20260913",
+      "id": "top-indonesia-ferry-0914",
+      "category": "top",
+      "title": "Rescuers search for ~130 people still missing after Indonesian ferry sinks",
+      "summary": "The Indonesian ferry Virgo Transport 8 sank in the Java Sea en route from Surabaya to Banjarmasin, with crews searching for roughly 129 people still unaccounted for after 108 of the 243 on board were rescued. At least six people died in the incident.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/indonesia-rescuers-searching-129-people-still-missing-after-passenger-ship-2026-09-14/",
+      "publishedAt": "2026-09-14T01:00:00Z",
+      "tags": [
+        "Indonesia",
+        "ferry",
+        "rescue",
+        "maritime"
+      ]
+    },
+    {
+      "id": "tech-ai-warnings-0914",
       "category": "tech",
-      "title": "China's data regulator plans standards push for embodied AI",
-      "summary": "China's data regulator said it will develop standards for embodied (physical-world) AI and guide local authorities as demand for large multimodal training datasets grows. The plan points to an effort to accelerate robot-AI deployment rather than slow it.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
-      "publishedAt": "2026-09-13T04:00:00Z",
+      "title": "New warnings about the risks of AI to humanity revive a long-running debate",
+      "summary": "Fresh warnings from the AI industry, including Anthropic CEO Dario Amodei's call to slow model development, have revived debate over whether advanced models could escape human control and threaten humanity. The push comes as OpenAI and Anthropic weigh potential IPOs.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/artificial-intelligence-threats-humanity-anthropic-openai-98316b0d64de17191f33c0fbf1d37858",
+      "publishedAt": "2026-09-14T10:38:00Z",
       "tags": [
         "AI",
-        "China",
-        "robotics",
+        "safety",
+        "Anthropic",
         "regulation"
       ]
     },
     {
-      "id": "browns-week1-jags-preview-20260913",
+      "id": "tech-samsung-kepco-0914",
+      "category": "tech",
+      "title": "Samsung and SK Hynix refuse KEPCO's $18.7B power prepayment ask",
+      "summary": "Samsung and SK Hynix rebuffed a request to prepay roughly $18.7 billion in electricity bills meant to help fund grid investments feeding their chip mega-clusters, citing uncertainty over the long-term chip cycle. The refusal leaves state utility KEPCO scrambling for alternate financing to support AI-chip capacity expansion.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/samsung-sk-hynix-reject-kepcos-19-billion-power-prepayment-proposal-document-2026-09-14/",
+      "publishedAt": "2026-09-14T05:00:00Z",
+      "tags": [
+        "semiconductors",
+        "AI",
+        "chips",
+        "energy"
+      ]
+    },
+    {
+      "id": "browns-week1-recap-0914",
       "category": "browns",
-      "title": "Browns open season at Jacksonville today: how to watch, odds, kickoff",
-      "summary": "Cleveland faces Jacksonville in its 2026 season opener Sunday at 1 p.m. ET on CBS, with the Browns 8.5-point underdogs (Jaguars -8.5). Rookie Austin Barber is set to start at right guard in his hometown after Teven Jenkins was ruled out.",
+      "title": "Browns' Week 1 failures aplenty in 34-10 loss to Jaguars",
+      "summary": "Cleveland's season-opening 34-10 loss to Jacksonville exposed issues across the offense and secondary, drawing sharp grades from analysts. Head coach Todd Monken said it would be 'unfair' to pin the defeat entirely on any one player or unit.",
       "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-game-information/132296/cleveland-browns-vs-jacksonville-jaguars-how-to-watch-tv-schedule-history-betting-odds-and-more",
-      "publishedAt": "2026-09-13T10:00:00Z",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132635/cleveland-browns-news-week-1-failures-aplenty-versus-jaguars-todd-monken-unfazed",
+      "publishedAt": "2026-09-14T10:00:00Z",
       "tags": [
         "Browns",
         "NFL",
-        "Week 1",
+        "Jaguars",
+        "Week1"
+      ]
+    },
+    {
+      "id": "browns-watson-0914",
+      "category": "browns",
+      "title": "Browns QB Deshaun Watson sounds off on critics after loss to Jaguars",
+      "summary": "Browns quarterback Deshaun Watson hit back at critics after the 34-10 season-opening loss to the Jaguars, defending his performance despite widespread scrutiny over the defeat. The loss dropped Cleveland to 0-1 under new head coach Todd Monken.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/browns-qb-deshaun-watson-sounds-021105031.html",
+      "publishedAt": "2026-09-14T02:00:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "Watson",
         "Jaguars"
       ]
     },
     {
-      "id": "buckeyes-texas-comeback-20260913",
-      "category": "buckeyes",
-      "title": "No. 1 Ohio State stunned 24-23 as Texas erases 20-point deficit",
-      "summary": "Arch Manning led three fourth-quarter touchdown drives as No. 4 Texas rallied from 20 down to stun top-ranked Ohio State 24-23 in Austin. The Buckeyes dominated the first half and led 23-3 after three quarters before the Longhorns' furious comeback.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/ohio-state-texas-live-updates-score-college-football-week-2/live/",
-      "publishedAt": "2026-09-13T04:00:00Z",
-      "tags": [
-        "Ohio State",
-        "Texas",
-        "football",
-        "upset"
-      ]
-    },
-    {
-      "id": "buckeyes-texas-recap-athletic-20260913",
-      "category": "buckeyes",
-      "title": "How Texas, Arch Manning stunned Ohio State after rallying from 20 down",
-      "summary": "A detailed breakdown of the Longhorns' fourth-quarter turnaround that handed the Buckeyes a 24-23 loss, capped by three Manning touchdown drives. The win snaps OSU's win streak versus Texas and reshapes the early College Football Playoff picture.",
-      "source": "The Athletic",
-      "url": "https://www.nytimes.com/athletic/live-blogs/ohio-state-vs-texas-live-updates-college-football-score-result/5GkJE6JxyRh8/",
-      "publishedAt": "2026-09-13T06:00:00Z",
-      "tags": [
-        "Ohio State",
-        "Arch Manning",
-        "comeback"
-      ]
-    },
-    {
-      "id": "f1-spanish-gp-preview-20260913",
+      "id": "f1-antonelli-nbc-0914",
       "category": "f1",
-      "title": "Spanish GP race day: new Madring circuit in Madrid hosts its first grand prix",
-      "summary": "Formula 1's Spanish Grand Prix takes place Sunday at 2 p.m. UK time at the new Madring circuit near Madrid. Race-day guide covers start times, how to watch and a hot forecast that could make tyre degradation a factor.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/12433/13582249/spanish-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-madrid-live-on-sky-sports",
-      "publishedAt": "2026-09-13T09:00:00Z",
+      "title": "Kimi Antonelli wins Formula 1 race in Madrid to extend championship lead",
+      "summary": "Mercedes' Kimi Antonelli won the Spanish Grand Prix at the new Madring street circuit, beating Max Verstappen and Lando Norris after a virtual safety car undid pole-sitter Norris' control of the race. The win strengthened Antonelli's lead in the drivers' title fight.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-formula-1-race-madrid-rcna597467",
+      "publishedAt": "2026-09-14T00:00:00Z",
       "tags": [
         "F1",
-        "Spanish GP",
-        "Madring"
+        "SpanishGP",
+        "Antonelli",
+        "Mercedes"
+      ]
+    },
+    {
+      "id": "f1-antonelli-usatoday-0914",
+      "category": "f1",
+      "title": "Kimi Antonelli wins Spanish Grand Prix in F1's return to Madrid",
+      "summary": "Formula 1 returned to Madrid for the first time in 45 years as Kimi Antonelli won the 2026 Spanish Grand Prix and hoisted the churro-shaped trophy. The result added to Mercedes' strong run as the season's championship picture tightens.",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/motor/formula1/2026/09/13/kimi-antonelli-wins-formula-1-spanish-grand-prix-madrid/91746132007/",
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "tags": [
+        "F1",
+        "Madrid",
+        "Antonelli",
+        "Mercedes"
+      ]
+    },
+    {
+      "id": "local-wrongway-i71-0914",
+      "category": "local",
+      "title": "One dead after fiery wrong-way crash closes I-71 in downtown Columbus",
+      "summary": "One person died after a fiery, wrong-way, four-vehicle collision shut down I-71 north in downtown Columbus. At least one other person was hospitalized and police were investigating.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/one-hospitalized-after-fiery-wrong-way-four-vehicle-collision-in-downtown-columbus/",
+      "publishedAt": "2026-09-14T10:30:00Z",
+      "tags": [
+        "Columbus",
+        "crash",
+        "I-71",
+        "traffic"
+      ]
+    },
+    {
+      "id": "local-gahanna-flock-0914",
+      "category": "local",
+      "title": "Gahanna sees multiple acts of vandalism against Flock cameras amid controversy",
+      "summary": "Gahanna was the target of multiple acts of vandalism against Flock license-plate cameras, part of a string of similar incidents across central Ohio. The cameras, used by police to track suspects and missing people, have drawn national privacy scrutiny this year.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/gahanna/gahanna-sees-multiple-acts-of-vandalism-against-flock-cameras-amid-controversy/",
+      "publishedAt": "2026-09-14T08:00:00Z",
+      "tags": [
+        "Gahanna",
+        "police",
+        "privacy",
+        "Flock"
+      ]
+    },
+    {
+      "id": "local-columbus-person-0914",
+      "category": "local",
+      "title": "Columbus police release video of person of interest near home where couple was killed",
+      "summary": "Columbus police released video of a person of interest spotted near the home where a couple was killed, asking the public for help identifying them. The footage is central to the ongoing homicide investigation.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-police-release-video-of-person-of-interest-near-home-where-couple-was-killed/",
+      "publishedAt": "2026-09-14T02:00:00Z",
+      "tags": [
+        "Columbus",
+        "police",
+        "homicide",
+        "investigation"
       ]
     }
   ]
