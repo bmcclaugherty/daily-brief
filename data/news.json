@@ -1,251 +1,121 @@
 {
   "meta": {
-    "updatedAt": "2026-09-14T19:30:00Z",
+    "updatedAt": "2026-09-15T11:01:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 11
   },
   "stories": [
     {
-      "id": "top-20260914-hormuz-talks",
+      "id": "top-space-weapon-us",
       "category": "top",
-      "title": "Gulf states postpone Strait of Hormuz talks with Iran",
-      "summary": "Gulf nations called off a planned meeting with Iran over a temporary shipping lane through the Strait of Hormuz, citing a lack of Arab consensus and Saudi anger over Tehran's backing of the Houthis. The delay keeps global oil-transit risk elevated after attacks disrupted Red Sea and Gulf shipping.",
+      "title": "US confirms for first time it has deployed a space weapon",
+      "summary": "Air Force Secretary Troy Meink said the US has placed an offensive-capable weapon in Earth orbit, the first time Washington has acknowledged deploying such capabilities, describing it as needed to safeguard US forces against evolving threats.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "publishedAt": "2026-09-15T10:45:00Z",
+      "tags": ["space", "defense", "military"]
+    },
+    {
+      "id": "top-iran-houthi-strikes",
+      "category": "top",
+      "title": "54 Saudi air strikes target Houthis as Yemen fighting rages",
+      "summary": "Yemen's internationally recognized government says Saudi Arabia launched dozens of air strikes on Houthi forces during their rapid advance, as oil prices rise on Gulf supply disruption fears.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines",
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "tags": ["middle-east", "yemen", "oil"]
+    },
+    {
+      "id": "top-scotus-mail-ballots",
+      "category": "top",
+      "title": "US Supreme Court rejects Trump mail ballot restrictions",
+      "summary": "The Supreme Court turned down President Trump's bid to restrict mail balloting for the midterms, letting states keep the long-standing processes that have accounted for nearly a third of votes cast.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms",
+      "publishedAt": "2026-09-15T04:05:00Z",
+      "tags": ["scotus", "elections", "voting"]
+    },
+    {
+      "id": "top-nato-lithuania-drone",
+      "category": "top",
+      "title": "Nato jets shoot down drone violating Lithuania's airspace",
+      "summary": "Nato fighter jets shot down a drone near Kaunas that entered Lithuanian airspace from Belarus, while Poland scrambled its own jets after recovering a suspected Russian drone adrift in its waters.",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/14/gulf-states-postpone-strait-of-hormuz-talks-iran-yemen-houthi-saudi-arabia-airbase-pipeline",
-      "publishedAt": "2026-09-14T19:00:00Z",
-      "tags": [
-        "hormuz",
-        "iran",
-        "gulf",
-        "oil"
-      ]
+      "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "publishedAt": "2026-09-15T03:36:00Z",
+      "tags": ["nato", "lithuania", "drone", "russia"]
     },
     {
-      "id": "top-20260914-iran-drone",
-      "category": "top",
-      "title": "Iran says it destroyed a US drone over the Strait of Hormuz",
-      "summary": "Iran's Revolutionary Guards said a new air-defense system intercepted and destroyed a US MQ-1 drone over the strategic waterway as Washington and Tehran keep trading strikes. The escalation adds to concerns about shipping and energy flows through Hormuz.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
-      "publishedAt": "2026-09-14T12:30:00Z",
-      "tags": [
-        "iran",
-        "us",
-        "hormuz",
-        "drone"
-      ]
-    },
-    {
-      "id": "top-20260914-syria-protests",
-      "category": "top",
-      "title": "Fuel price hikes trigger widest protests in Syria since Assad fell",
-      "summary": "A sharp rise in fuel prices at the weekend set off demonstrations across Syria, the most widespread since Bashar al-Assad's overthrow nearly two years ago, with protesters blocking roads and burning tires. The unrest underscores how fragile public support for the post-Assad government is amid deep economic pain.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/syria-fuel-price-hikes-trigger-widest-protests-since-assad-fall-2026-09-14/",
-      "publishedAt": "2026-09-14T08:30:00Z",
-      "tags": [
-        "syria",
-        "fuel",
-        "protests",
-        "assad"
-      ]
-    },
-    {
-      "id": "tech-20260914-microsoft-ai",
+      "id": "tech-trump-ai-hoax",
       "category": "tech",
-      "title": "Microsoft drafts code of conduct to keep its AI under human control",
-      "summary": "Microsoft unveiled a draft code of conduct for its in-house AI requiring models to never resist correction or shutdown, communicate understandably, and treat violations as failures. It reflects growing industry concern about keeping future powerful AI controlled by humans.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/microsoft-drafts-code-conduct-keep-its-ai-under-human-control-2026-09-14/",
-      "publishedAt": "2026-09-14T13:30:00Z",
-      "tags": [
-        "microsoft",
-        "ai",
-        "safety",
-        "regulation"
-      ]
+      "title": "Trump says AI safety fears are a 'hoax' as he rejects safeguards",
+      "summary": "President Trump dismissed concerns about AI risks as a 'hoax', rejecting calls to slow development even as Anthropic's Dario Amodei and rivals Sam Altman and Elon Musk backed industry-wide deceleration and regulation.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cw980n0nd0qjo",
+      "publishedAt": "2026-09-15T07:00:00Z",
+      "tags": ["ai", "policy", "trump"]
     },
     {
-      "id": "tech-20260914-nuance",
+      "id": "tech-anthropic-kill-switch",
       "category": "tech",
-      "title": "Ex-Apple researchers raise $50M to make AI conversation less awkward",
-      "summary": "Seattle startup Nuance raised a $50 million Series A led by Lightspeed to build AI foundation models for face-to-face, audio-plus-video conversation. It is collecting specialized training data rather than relying only on internet-scraped content.",
-      "source": "Dealroom",
-      "url": "https://dealroom.co/news/150593-ex-apple-researchers-raise-50m-to-make-ai-conversations-less-awkward/",
-      "publishedAt": "2026-09-14T12:30:00Z",
-      "tags": [
-        "nuance",
-        "ai",
-        "funding",
-        "startup"
-      ]
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "summary": "Anthropic co-founder Jack Clark said a third-party-verifiable 'kill switch' may need to be mandatory for AI firms as systems become more powerful, adding to calls for safeguards from executives and staff at leading labs.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o",
+      "publishedAt": "2026-09-15T01:00:00Z",
+      "tags": ["ai", "ai-safety", "anthropic"]
     },
     {
-      "id": "tech-20260914-ai-stocks",
-      "category": "tech",
-      "title": "AI stocks slide after industry CEOs call for a development slowdown",
-      "summary": "AI-linked stocks tumbled Monday after CEOs at top labs urged a slowdown in developing the technology following days of safety warnings. The selloff signals investors are pricing in the risk that faster AI progress could now be seen as a liability.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-slide-top-industry-101949821.html",
-      "publishedAt": "2026-09-14T10:30:00Z",
-      "tags": [
-        "ai",
-        "stocks",
-        "slowdown",
-        "markets"
-      ]
-    },
-    {
-      "id": "browns-20260914-watson-week2",
-      "category": "browns",
-      "title": "Browns' Monken says he anticipates Deshaun Watson starting in Week 2",
-      "summary": "Coach Todd Monken said he anticipates Deshaun Watson starting at quarterback in Week 2 against the Tampa Bay Buccaneers after the opener. The decision is under scrutiny after Cleveland's rough season-opening loss.",
-      "source": "A to Z Sports",
-      "url": "https://atozsports.com/nfl/cleveland-browns-news/todd-monken-might-be-digging-a-hole-he-cant-get-out-of-after-latest-browns-decision-for-week-2/",
-      "publishedAt": "2026-09-14T18:30:00Z",
-      "tags": [
-        "browns",
-        "watson",
-        "week2",
-        "nfl"
-      ]
-    },
-    {
-      "id": "browns-20260914-week1-recap",
-      "category": "browns",
-      "title": "Browns fall in season opener to the Jaguars",
-      "summary": "Cleveland dropped its Week 1 opener in Jacksonville, trailing 24-0 at halftime. It was a sluggish debut for the Browns' revamped offense under a new-look quarterback arrangement.",
-      "source": "Beacon Journal",
-      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/09/13/cleveland-browns-score-jacksonville-jaguars-week-1-live-updates--live/91732904007/",
-      "publishedAt": "2026-09-14T13:23:00Z",
-      "tags": [
-        "browns",
-        "jaguars",
-        "week1",
-        "nfl"
-      ]
-    },
-    {
-      "id": "browns-20260914-news-roundup",
-      "category": "browns",
-      "title": "Week 1 failures aplenty for Browns; Monken unfazed",
-      "summary": "A roundup of national Browns coverage focuses on the many Week 1 failures against Jacksonville while noting Todd Monken shows little concern going forward. It's a sign of early scrutiny on the coaching staff after the opener.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132635/cleveland-browns-news-week-1-failures-aplenty-versus-jaguars-todd-monken-unfazed",
-      "publishedAt": "2026-09-14T10:30:00Z",
-      "tags": [
-        "browns",
-        "monken",
-        "week1",
-        "recap"
-      ]
-    },
-    {
-      "id": "buckeyes-20260914-reportcard",
-      "category": "buckeyes",
-      "title": "Report Card: Ohio State fails the second-half test vs. Texas",
-      "summary": "A position-by-position review grades Ohio State poorly for its second-half collapse at Texas, where the Buckeyes surrendered a 20-point lead to lose 24-23. The game exposed concerns about closing out big leads under Ryan Day.",
-      "source": "BucksInsider",
-      "url": "https://www.bucksinsider.com/2026/09/14/report-card-ohio-state-fails-the-second-half-test/",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "tags": [
-        "ohio-state",
-        "texas",
-        "report-card",
-        "college-football"
-      ]
-    },
-    {
-      "id": "buckeyes-20260914-kentstate-preview",
-      "category": "buckeyes",
-      "title": "Ohio State vs. Kent State preview, injury updates, storylines",
-      "summary": "Ohio State hosts Kent State looking to rebound from its 24-23 loss at Texas, with no reported injuries ahead of the game. It's a chance for the Buckeyes to reset after blowing a 20-point fourth-quarter lead.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/14/ohio-state-vs-texas-time-channel-injury-updates-osu-buckeyes-football/91755167007/",
-      "publishedAt": "2026-09-14T11:30:00Z",
-      "tags": [
-        "ohio-state",
-        "kent-state",
-        "college-football",
-        "preview"
-      ]
-    },
-    {
-      "id": "f1-20260914-mclaren-vsc",
-      "category": "f1",
-      "title": "Why McLaren won't blame race control for losing the Spanish GP win",
-      "summary": "McLaren downplayed any anger at F1 race control after an early virtual safety car cost Lando Norris what looked like a certain Spanish Grand Prix victory. Team boss Andrea Stella says the VSC's influence is outside the race director's control.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-mclaren-wont-blame-race-control-for-lost-spanish-gp-victory/10855804/",
-      "publishedAt": "2026-09-14T19:06:00Z",
-      "tags": [
-        "f1",
-        "mclaren",
-        "norris",
-        "spanish-gp"
-      ]
-    },
-    {
-      "id": "f1-20260914-honda-pu",
-      "category": "f1",
-      "title": "Honda replaces head of F1 power unit programme after poor Aston Martin start",
-      "summary": "Honda replaced Tetsushi Kakuda with Yoichiro Fukao as leader of its Formula 1 power unit development following a disappointing first season supplying Aston Martin. The move aims to help the team claw back into contention.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-partner-honda-replaces-f1-power-unit-boss/10855750/",
-      "publishedAt": "2026-09-14T13:30:00Z",
-      "tags": [
-        "f1",
-        "honda",
-        "aston-martin",
-        "power-unit"
-      ]
-    },
-    {
-      "id": "f1-20260914-grosjean-apology",
-      "category": "f1",
-      "title": "Romain Grosjean apologises to McLaren over controversial comments",
-      "summary": "Former F1 driver Romain Grosjean issued a public apology to McLaren CEO Zak Brown after misinterpreting his remarks about Oscar Piastri during the Spanish GP. The misunderstanding drew widespread attention in the paddock.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/grosjean-apologises-to-mclaren-over-controversial-unfounded-comments/10855806/",
-      "publishedAt": "2026-09-14T10:30:00Z",
-      "tags": [
-        "f1",
-        "grosjean",
-        "mclaren",
-        "spanish-gp"
-      ]
-    },
-    {
-      "id": "f1-20260914-verstappen-hamilton",
-      "category": "f1",
-      "title": "\"My race could have been over\" — Verstappen on Lap 1 clash with Hamilton",
-      "summary": "Max Verstappen said his race could have ended on the first lap of the Spanish GP after a wheel-to-wheel incident with Lewis Hamilton at the Madring. Verstappen recovered to finish P2 behind winner Kimi Antonelli.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/my-race-could-have-been-over-max-verstappens-take-on-first-lap-incident-with-lewis-hamilton/10855771/",
-      "publishedAt": "2026-09-14T09:30:00Z",
-      "tags": [
-        "f1",
-        "verstappen",
-        "hamilton",
-        "spanish-gp"
-      ]
-    },
-    {
-      "id": "local-20260914-noling",
+      "id": "local-ocharleys-closing",
       "category": "local",
-      "title": "Ohio Parole Board recommends commuting death-row inmate Tyrone Noling's sentence",
-      "summary": "The Ohio Parole Board recommended Gov. Mike DeWine commute the death sentence of Tyrone Noling, 54, of Alliance, who has been on death row for more than 30 years. The decision now rests with the governor.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/ohio-parole-board-recommends-commuting-sentence-of-death-row-inmate-tyrone-noling/",
-      "publishedAt": "2026-09-14T10:30:00Z",
-      "tags": [
-        "ohio",
-        "death-row",
-        "parole-board",
-        "justice"
-      ]
+      "title": "Reports: O'Charley's to abruptly close all locations",
+      "summary": "The casual-dining chain O'Charley's is reportedly shutting all of its locations, years after it closed at least six Columbus and Dayton restaurants in 2023 citing 'unprecedented disruptions'.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/reports-ocharleys-to-abruptly-close-all-locations/",
+      "publishedAt": "2026-09-15T10:00:00Z",
+      "tags": ["columbus", "business", "restaurants"]
+    },
+    {
+      "id": "local-cmh-tokyo-routes",
+      "category": "local",
+      "title": "New ways to reach Tokyo and Europe via Columbus airport in 2027",
+      "summary": "American Airlines is adding international routes from Columbus's John Glenn airport to Tokyo and Europe, giving central Ohio travelers new nonstop options starting in 2027.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/american-airlines-cmh-international/",
+      "publishedAt": "2026-09-15T06:00:00Z",
+      "tags": ["columbus", "airlines", "travel"]
+    },
+    {
+      "id": "local-bexley-lion-expansion",
+      "category": "local",
+      "title": "Bexley to add dog-friendly outdoor expansion to The Lion",
+      "summary": "The Lion restaurant in Bexley will add a dog-friendly outdoor expansion, expanding capacity in the Columbus-adjacent suburb.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
+      "publishedAt": "2026-09-15T05:00:00Z",
+      "tags": ["bexley", "dining", "columbus-area"]
+    },
+    {
+      "id": "f1-verstappen-red-bull-deal",
+      "category": "f1",
+      "title": "Jos Verstappen opens up on Max's decision to extend Red Bull deal to 2030",
+      "summary": "Max Verstappen's father said his son seriously weighed quitting F1 or joining another team before re-committing to Red Bull through 2030, deciding staying felt right because he is comfortable with the team.",
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/max-verstappen-red-bull-contract-extension-details-explained",
+      "publishedAt": "2026-09-15T06:20:00Z",
+      "tags": ["f1", "verstappen", "red-bull"]
+    },
+    {
+      "id": "tarkov-patch-1151",
+      "category": "tarkov",
+      "title": "Tarkov servers down for patch 1.1.5.1, adds League rank system",
+      "summary": "Battlestate Games took Escape from Tarkov offline on Sept 15 to install patch 1.1.5.1, which introduces a League system with weekly 50-player leaderboards, promotion/demotion and rank rewards, plus optic-aiming and Lighthouse fixes.",
+      "source": "yomimono.id",
+      "url": "https://www.yomimono.id/escape-from-tarkov-adds-league-rank-system-in-update-1-1-5-1",
+      "publishedAt": "2026-09-15T07:00:00Z",
+      "tags": ["tarkov", "patch", "battlestate"]
     }
   ]
 }
