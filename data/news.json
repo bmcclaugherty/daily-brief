@@ -1,121 +1,203 @@
 {
   "meta": {
-    "updatedAt": "2026-09-15T11:01:00Z",
+    "updatedAt": "2026-09-15T19:31:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 11
+    "count": 13
   },
   "stories": [
     {
-      "id": "top-space-weapon-us",
+      "id": "top-treasury-5pct",
       "category": "top",
-      "title": "US confirms for first time it has deployed a space weapon",
-      "summary": "Air Force Secretary Troy Meink said the US has placed an offensive-capable weapon in Earth orbit, the first time Washington has acknowledged deploying such capabilities, describing it as needed to safeguard US forces against evolving threats.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-      "publishedAt": "2026-09-15T10:45:00Z",
-      "tags": ["space", "defense", "military"]
-    },
-    {
-      "id": "top-iran-houthi-strikes",
-      "category": "top",
-      "title": "54 Saudi air strikes target Houthis as Yemen fighting rages",
-      "summary": "Yemen's internationally recognized government says Saudi Arabia launched dozens of air strikes on Houthi forces during their rapid advance, as oil prices rise on Gulf supply disruption fears.",
+      "title": "10-year Treasury yield tops 5% for first time since 2007 as oil prices surge",
+      "summary": "The benchmark 10-year US Treasury yield climbed above 5% for the first time since the 2007 financial crisis as surging oil prices and rate expectations pressured bonds. The move raises borrowing costs for the US economy ahead of this week's Federal Reserve decision.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines",
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "tags": ["middle-east", "yemen", "oil"]
+      "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge",
+      "publishedAt": "2026-09-15T13:00:00Z",
+      "tags": [
+        "economy",
+        "markets",
+        "interest-rates",
+        "oil"
+      ]
     },
     {
-      "id": "top-scotus-mail-ballots",
+      "id": "top-imran-khan-vendetta",
       "category": "top",
-      "title": "US Supreme Court rejects Trump mail ballot restrictions",
-      "summary": "The Supreme Court turned down President Trump's bid to restrict mail balloting for the midterms, letting states keep the long-standing processes that have accounted for nearly a third of votes cast.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/09/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms",
-      "publishedAt": "2026-09-15T04:05:00Z",
-      "tags": ["scotus", "elections", "voting"]
-    },
-    {
-      "id": "top-nato-lithuania-drone",
-      "category": "top",
-      "title": "Nato jets shoot down drone violating Lithuania's airspace",
-      "summary": "Nato fighter jets shot down a drone near Kaunas that entered Lithuanian airspace from Belarus, while Poland scrambled its own jets after recovering a suspected Russian drone adrift in its waters.",
+      "title": "Imran Khan's sons accuse Pakistan army chief of vendetta, fear ex-PM is being 'slowly killed' in prison",
+      "summary": "Kasim and Sulaiman Khan told the Guardian that military chief Asim Munir is pursuing a personal grudge against their imprisoned father, and allege his prison conditions amount to mistreatment. Pakistan's Supreme Court is due to rule this week on Khan's medical care and family-access case.",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-      "publishedAt": "2026-09-15T03:36:00Z",
-      "tags": ["nato", "lithuania", "drone", "russia"]
+      "url": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir",
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "tags": [
+        "pakistan",
+        "imran-khan",
+        "politics"
+      ]
     },
     {
-      "id": "tech-trump-ai-hoax",
+      "id": "tech-ai-safety-talks",
       "category": "tech",
-      "title": "Trump says AI safety fears are a 'hoax' as he rejects safeguards",
-      "summary": "President Trump dismissed concerns about AI risks as a 'hoax', rejecting calls to slow development even as Anthropic's Dario Amodei and rivals Sam Altman and Elon Musk backed industry-wide deceleration and regulation.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cw980n0nd0qjo",
-      "publishedAt": "2026-09-15T07:00:00Z",
-      "tags": ["ai", "policy", "trump"]
+      "title": "OpenAI, Anthropic and Google have been in talks on AI safety for weeks",
+      "summary": "TechCrunch reports the three leading AI labs have held weeks of discussions on AI safety, amid industry debate over whether the reported AI development slowdown amounts to a safety pact or a cartel. The talks come as frontier labs face mounting scrutiny over model risk.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "publishedAt": "2026-09-15T19:00:00Z",
+      "tags": [
+        "ai",
+        "openai",
+        "anthropic",
+        "safety"
+      ]
     },
     {
-      "id": "tech-anthropic-kill-switch",
+      "id": "tech-nitter-xcancel",
       "category": "tech",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "summary": "Anthropic co-founder Jack Clark said a third-party-verifiable 'kill switch' may need to be mandatory for AI firms as systems become more powerful, adding to calls for safeguards from executives and staff at leading labs.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o",
-      "publishedAt": "2026-09-15T01:00:00Z",
-      "tags": ["ai", "ai-safety", "anthropic"]
+      "title": "Nitter and XCancel are dead (again) after X's latest legal actions",
+      "summary": "X's latest legal actions appear to have taken down Nitter, the widely used Twitter mirror service, and XCancel, a tool for tracking users who canceled X premium subscriptions. Both services had previously resurfaced after earlier takedowns.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+      "publishedAt": "2026-09-15T18:30:00Z",
+      "tags": [
+        "x",
+        "twitter",
+        "apps",
+        "legal"
+      ]
     },
     {
-      "id": "local-ocharleys-closing",
+      "id": "tech-rogue-ai-agents",
+      "category": "tech",
+      "title": "Early Anthropic hire and former METR COO found a way to rein in rogue AI agents",
+      "summary": "A startup founded by an early Anthropic employee and the former COO of AI-safety evaluator METR claims to have built a system for constraining out-of-control autonomous AI agents. The announcement arrives as 'agentic' AI models draw growing safety scrutiny.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "publishedAt": "2026-09-15T16:30:00Z",
+      "tags": [
+        "ai",
+        "agents",
+        "safety",
+        "startup"
+      ]
+    },
+    {
+      "id": "tech-salesforce-nvidia-model",
+      "category": "tech",
+      "title": "Salesforce and Nvidia's new reasoning model is 'everything the AI labs should fear'",
+      "summary": "Salesforce and Nvidia have unveiled a new AI reasoning model they tout as an alternative to the frontier-lab approach. TechCrunch argues the model signals growing competition to the major AI labs from outside the research establishment.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "publishedAt": "2026-09-15T13:00:00Z",
+      "tags": [
+        "ai",
+        "nvidia",
+        "salesforce",
+        "models"
+      ]
+    },
+    {
+      "id": "browns-sampson-ir",
+      "category": "browns",
+      "title": "Browns place RB Dylan Sampson on injured reserve, sign Jaleel McLaughlin",
+      "summary": "Cleveland moved running back Dylan Sampson to injured reserve after the knee injury he suffered in the Week 1 loss to Jacksonville, sidelining him for at least four weeks. The team signed Jaleel McLaughlin from its practice squad in a corresponding move.",
+      "source": "Pro Football Rumors",
+      "url": "https://www.profootballrumors.com/2026/09",
+      "publishedAt": "2026-09-15T14:00:00Z",
+      "tags": [
+        "browns",
+        "injury",
+        "nfl",
+        "roster"
+      ]
+    },
+    {
+      "id": "browns-watson-week",
+      "category": "browns",
+      "title": "Browns RB Dylan Sampson expected on IR as Deshaun Watson's rough week continues",
+      "summary": "After a 34-10 season-opening loss to the Jaguars, the Browns may be without backup running back Dylan Sampson for an extended stretch after he hurt his left knee, with reports saying he is headed to injured reserve. Starter Deshaun Watson also drew scrutiny after a shaky Week 1 outing that included an interception.",
+      "source": "Yardbarker",
+      "url": "https://www.yardbarker.com/nfl/articles/deshaun_watsons_week_goes_from_bad_to_worse_as_browns_lose_major_weapon_for_extended_period/s1_17730_44305946",
+      "publishedAt": "2026-09-15T11:49:00Z",
+      "tags": [
+        "browns",
+        "deshaun-watson",
+        "injury",
+        "nfl"
+      ]
+    },
+    {
+      "id": "buckeyes-day-message",
+      "category": "buckeyes",
+      "title": "Ryan Day sends clear message to Buckeyes after stunning loss to Texas",
+      "summary": "Ohio State head coach Ryan Day stressed accountability and focus after the Buckeyes squandered a 20-point lead in a 24-23 loss at Texas. The defeat dropped Ohio State from No. 1 to No. 6 in both major polls, its first time outside the top five since 2024.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/sports/ncaa/ryan-day-sends-clear-message-on-ohio-state-after-stunning-loss-to-texas-12446584",
+      "publishedAt": "2026-09-15T19:00:00Z",
+      "tags": [
+        "ohio-state",
+        "buckeyes",
+        "ryan-day",
+        "college-football"
+      ]
+    },
+    {
+      "id": "buckeyes-reflect-texas",
+      "category": "buckeyes",
+      "title": "Ohio State's Ryan Day and players reflect on Texas loss",
+      "summary": "Buckeyes coach Ryan Day and players addressed the fourth-quarter collapse that cost them the game at Texas, which knocked Ohio State from No. 1 to No. 6 in the coaches' and AP polls. It is the first time since 2024 the Buckeyes are ranked outside the top five.",
+      "source": "WKBN",
+      "url": "https://www.wkbn.com/sports/watch-ohio-states-ryan-day-on-texas-loss-game-against-kent-state/",
+      "publishedAt": "2026-09-15T15:30:00Z",
+      "tags": [
+        "ohio-state",
+        "buckeyes",
+        "college-football"
+      ]
+    },
+    {
+      "id": "local-flock-cameras",
       "category": "local",
-      "title": "Reports: O'Charley's to abruptly close all locations",
-      "summary": "The casual-dining chain O'Charley's is reportedly shutting all of its locations, years after it closed at least six Columbus and Dayton restaurants in 2023 citing 'unprecedented disruptions'.",
+      "title": "Central Ohio cities debate Flock camera usage",
+      "summary": "NBC4 reports central Ohio municipalities are weighing how or whether to use Flock license-plate cameras, balancing crime-fighting benefits against privacy concerns. The debate touches communities including Columbus and suburbs such as Gahanna.",
       "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/reports-ocharleys-to-abruptly-close-all-locations/",
-      "publishedAt": "2026-09-15T10:00:00Z",
-      "tags": ["columbus", "business", "restaurants"]
+      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
+      "publishedAt": "2026-09-15T14:30:00Z",
+      "tags": [
+        "columbus",
+        "gahanna",
+        "police",
+        "privacy"
+      ]
     },
     {
-      "id": "local-cmh-tokyo-routes",
+      "id": "local-south-side-shooting",
       "category": "local",
-      "title": "New ways to reach Tokyo and Europe via Columbus airport in 2027",
-      "summary": "American Airlines is adding international routes from Columbus's John Glenn airport to Tokyo and Europe, giving central Ohio travelers new nonstop options starting in 2027.",
+      "title": "One killed in shooting on Columbus' South Side",
+      "summary": "Columbus police investigated a fatal shooting on the city's South Side where one person was found dead in an alley. No arrests were immediately reported.",
       "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/american-airlines-cmh-international/",
-      "publishedAt": "2026-09-15T06:00:00Z",
-      "tags": ["columbus", "airlines", "travel"]
+      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
+      "publishedAt": "2026-09-15T10:30:00Z",
+      "tags": [
+        "columbus",
+        "crime",
+        "local"
+      ]
     },
     {
-      "id": "local-bexley-lion-expansion",
+      "id": "local-gas-prices",
       "category": "local",
-      "title": "Bexley to add dog-friendly outdoor expansion to The Lion",
-      "summary": "The Lion restaurant in Bexley will add a dog-friendly outdoor expansion, expanding capacity in the Columbus-adjacent suburb.",
+      "title": "Dip in Columbus gas prices doesn't erase $4-per-gallon average",
+      "summary": "A recent slide in Columbus-area gas prices has yet to bring the local average below $4 a gallon. The modest decline follows a broader drop in oil prices, but pump costs remain elevated locally.",
       "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
-      "publishedAt": "2026-09-15T05:00:00Z",
-      "tags": ["bexley", "dining", "columbus-area"]
-    },
-    {
-      "id": "f1-verstappen-red-bull-deal",
-      "category": "f1",
-      "title": "Jos Verstappen opens up on Max's decision to extend Red Bull deal to 2030",
-      "summary": "Max Verstappen's father said his son seriously weighed quitting F1 or joining another team before re-committing to Red Bull through 2030, deciding staying felt right because he is comfortable with the team.",
-      "source": "RacingNews365",
-      "url": "https://racingnews365.com/max-verstappen-red-bull-contract-extension-details-explained",
-      "publishedAt": "2026-09-15T06:20:00Z",
-      "tags": ["f1", "verstappen", "red-bull"]
-    },
-    {
-      "id": "tarkov-patch-1151",
-      "category": "tarkov",
-      "title": "Tarkov servers down for patch 1.1.5.1, adds League rank system",
-      "summary": "Battlestate Games took Escape from Tarkov offline on Sept 15 to install patch 1.1.5.1, which introduces a League system with weekly 50-player leaderboards, promotion/demotion and rank rewards, plus optic-aiming and Lighthouse fixes.",
-      "source": "yomimono.id",
-      "url": "https://www.yomimono.id/escape-from-tarkov-adds-league-rank-system-in-update-1-1-5-1",
-      "publishedAt": "2026-09-15T07:00:00Z",
-      "tags": ["tarkov", "patch", "battlestate"]
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/recent-dip-in-columbus-gas-prices-doesnt-erase-4-per-gallon-average/",
+      "publishedAt": "2026-09-15T08:30:00Z",
+      "tags": [
+        "columbus",
+        "gas-prices",
+        "economy",
+        "local"
+      ]
     }
   ]
 }
