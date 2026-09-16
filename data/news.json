@@ -1,202 +1,183 @@
 {
   "meta": {
-    "updatedAt": "2026-09-15T19:31:00Z",
+    "updatedAt": "2026-09-16T11:00:37Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 13
+    "count": 12
   },
   "stories": [
     {
-      "id": "top-treasury-5pct",
+      "id": "top-nato-drone-lithuania",
       "category": "top",
-      "title": "10-year Treasury yield tops 5% for first time since 2007 as oil prices surge",
-      "summary": "The benchmark 10-year US Treasury yield climbed above 5% for the first time since the 2007 financial crisis as surging oil prices and rate expectations pressured bonds. The move raises borrowing costs for the US economy ahead of this week's Federal Reserve decision.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge",
-      "publishedAt": "2026-09-15T13:00:00Z",
+      "title": "NATO jets shoot down drone that entered Lithuanian airspace from Belarus",
+      "summary": "NATO scrambled Italian Eurofighter Typhoons to shoot down a drone that flew into Lithuanian airspace, likely from Belarus, near the capital Vilnius. It follows NATO chief Rutte's warning that nearby strikes will only strengthen alliance support for Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjx2zgk7edlzo",
+      "publishedAt": "2026-09-16T10:00:00Z",
       "tags": [
-        "economy",
-        "markets",
-        "interest-rates",
-        "oil"
+        "NATO",
+        "Lithuania",
+        "Ukraine",
+        "Russia"
       ]
     },
     {
-      "id": "top-imran-khan-vendetta",
+      "id": "top-iran-fm-beijing",
       "category": "top",
-      "title": "Imran Khan's sons accuse Pakistan army chief of vendetta, fear ex-PM is being 'slowly killed' in prison",
-      "summary": "Kasim and Sulaiman Khan told the Guardian that military chief Asim Munir is pursuing a personal grudge against their imprisoned father, and allege his prison conditions amount to mistreatment. Pakistan's Supreme Court is due to rule this week on Khan's medical care and family-access case.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir",
-      "publishedAt": "2026-09-15T08:00:00Z",
+      "title": "Iran's foreign minister Araghchi arrives in Beijing for talks with Wang Yi",
+      "summary": "Iranian Foreign Minister Abbas Araghchi arrived in Beijing on Wednesday at the head of a delegation and met his Chinese counterpart Wang Yi. The visit comes a week before Chinese President Xi Jinping's expected trip to Washington amid Iran-U.S. tensions.",
+      "source": "CNBC TV18",
+      "url": "https://www.cnbctv18.com/world/iranian-foreign-minister-abbas-araghchi-arrives-in-beijing-meets-chinese-counterpart-wang-yi-19991733.htm",
+      "publishedAt": "2026-09-16T08:00:00Z",
       "tags": [
-        "pakistan",
-        "imran-khan",
-        "politics"
+        "Iran",
+        "China",
+        "Diplomacy",
+        "Wang Yi"
       ]
     },
     {
-      "id": "tech-ai-safety-talks",
+      "id": "top-trinidad-police-disbanded",
+      "category": "top",
+      "title": "Texas town ordered to disband police after rezident's dirty-water post lead to arrest",
+      "summary": "Texas regulators ordered Trinidad's police department closed, ruling it failed minimum standards and could not prove a public benefit. The shutdown follows backlash over the arrest of a resident who posted about contaminated water on Facebook.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/16/us-news/texas-police-department-that-arrested-mom-over-dirty-water-facebook-post-ordered-to-disband-by-state/",
+      "publishedAt": "2026-09-16T05:15:00Z",
+      "tags": [
+        "Texas",
+        "Local Government",
+        "Civil Liberties",
+        "Police"
+      ]
+    },
+    {
+      "id": "tech-openarm",
       "category": "tech",
-      "title": "OpenAI, Anthropic and Google have been in talks on AI safety for weeks",
-      "summary": "TechCrunch reports the three leading AI labs have held weeks of discussions on AI safety, amid industry debate over whether the reported AI development slowdown amounts to a safety pact or a cartel. The talks come as frontier labs face mounting scrutiny over model risk.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "publishedAt": "2026-09-15T19:00:00Z",
+      "title": "Open-source project releases 7-degree-of-freedom humanoid robot arm",
+      "summary": "A new open-source design for a 7-DOF humanoid arm called OpenArm has been shared on GitHub and is drawing strong interest. It's a low-cost, accessible hardware project for researchers and hobbyists building humanoid robots.",
+      "source": "Hacker News",
+      "url": "https://github.com/enactic/OpenArm",
+      "publishedAt": "2026-09-16T02:00:00Z",
       "tags": [
-        "ai",
-        "openai",
-        "anthropic",
-        "safety"
+        "Robotics",
+        "Open Source",
+        "Hardware"
       ]
     },
     {
-      "id": "tech-nitter-xcancel",
+      "id": "tech-zhipu-5b",
       "category": "tech",
-      "title": "Nitter and XCancel are dead (again) after X's latest legal actions",
-      "summary": "X's latest legal actions appear to have taken down Nitter, the widely used Twitter mirror service, and XCancel, a tool for tracking users who canceled X premium subscriptions. Both services had previously resurfaced after earlier takedowns.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-      "publishedAt": "2026-09-15T18:30:00Z",
+      "title": "Chinese AI firm Zhipu completes ~$5B financing for next-gen GLM models",
+      "summary": "Zhipu AI finalized a roughly $5 billion raise combining a ~$2B share placement and ~$3B in convertible bonds, its second major financing in two months. Most of the funds go to next-generation GLM foundation model R&D and compute infrastructure.",
+      "source": "Gate News",
+      "url": "https://www.gate.com/news/detail/zhipu-completes-5-billion-financing-with-small-equity-large-debt-structure-24308781",
+      "publishedAt": "2026-09-16T06:41:26Z",
       "tags": [
-        "x",
-        "twitter",
-        "apps",
-        "legal"
+        "AI",
+        "Funding",
+        "China",
+        "Semiconductors"
       ]
     },
     {
-      "id": "tech-rogue-ai-agents",
-      "category": "tech",
-      "title": "Early Anthropic hire and former METR COO found a way to rein in rogue AI agents",
-      "summary": "A startup founded by an early Anthropic employee and the former COO of AI-safety evaluator METR claims to have built a system for constraining out-of-control autonomous AI agents. The announcement arrives as 'agentic' AI models draw growing safety scrutiny.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "publishedAt": "2026-09-15T16:30:00Z",
+      "id": "f1-hart-verstappen-engineer",
+      "category": "f1",
+      "title": "Tom Hart confirmed to replace 'GP' Lambiase as Verstappen's race engineer",
+      "summary": "Red Bull confirmed Tom Hart as Max Verstappen's new race engineer, succeeding Gianpiero Lambiase who is heading to McLaren. Hart will take over full-time for the U.S., Sao Paulo and Las Vegas rounds this season.",
+      "source": "GP Fans",
+      "url": "https://www.gpfans.com/en/f1-news/1090339/max-verstappen-red-bull-f1-race-engineer-tom-hart-debut-gianpiero-lambiase/",
+      "publishedAt": "2026-09-16T08:14:00Z",
       "tags": [
-        "ai",
-        "agents",
-        "safety",
-        "startup"
+        "Red Bull",
+        "Verstappen",
+        "Team News"
       ]
     },
     {
-      "id": "tech-salesforce-nvidia-model",
-      "category": "tech",
-      "title": "Salesforce and Nvidia's new reasoning model is 'everything the AI labs should fear'",
-      "summary": "Salesforce and Nvidia have unveiled a new AI reasoning model they tout as an alternative to the frontier-lab approach. TechCrunch argues the model signals growing competition to the major AI labs from outside the research establishment.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "publishedAt": "2026-09-15T13:00:00Z",
+      "id": "f1-alonso-plan-b",
+      "category": "f1",
+      "title": "Aston Martin admits to a 'Plan B' as Alonso weighs F1 retirement",
+      "summary": "Aston Martin says there is a contingency plan if 45-year-old Fernando Alonso decides to retire at the end of the season, though keeping him remains plan A. The team says it won't pressure the two-time champion on his future.",
+      "source": "GP Fans",
+      "url": "https://www.gpfans.com/en/f1-news/1090341/aston-martin-plan-b-pedro-de-la-rosa-fernando-alonso-future/",
+      "publishedAt": "2026-09-16T09:45:00Z",
       "tags": [
-        "ai",
-        "nvidia",
-        "salesforce",
-        "models"
+        "Aston Martin",
+        "Alonso",
+        "Driver Market"
       ]
     },
     {
-      "id": "browns-sampson-ir",
-      "category": "browns",
-      "title": "Browns place RB Dylan Sampson on injured reserve, sign Jaleel McLaughlin",
-      "summary": "Cleveland moved running back Dylan Sampson to injured reserve after the knee injury he suffered in the Week 1 loss to Jacksonville, sidelining him for at least four weeks. The team signed Jaleel McLaughlin from its practice squad in a corresponding move.",
-      "source": "Pro Football Rumors",
-      "url": "https://www.profootballrumors.com/2026/09",
-      "publishedAt": "2026-09-15T14:00:00Z",
+      "id": "f1-imola-pirelli-test",
+      "category": "f1",
+      "title": "Ferrari and Racing Bulls test Pirelli's 2027 tyres at Imola",
+      "summary": "Ferrari's Hamilton and Leclerc logged more than 60 laps each at Imola testing Pirelli's 2027 prototype tyres, with Racing Bulls on track Wednesday. Imola is also being floated as a possible venue for the season finale if the Middle East round can't be held.",
+      "source": "Speedweek",
+      "url": "https://www.speedweek.com/en/a/formula-1/hamilton-ferrari-tyre-test-imola",
+      "publishedAt": "2026-09-16T06:55:00Z",
       "tags": [
-        "browns",
-        "injury",
-        "nfl",
-        "roster"
+        "Testing",
+        "Pirelli",
+        "Ferrari"
       ]
     },
     {
-      "id": "browns-watson-week",
-      "category": "browns",
-      "title": "Browns RB Dylan Sampson expected on IR as Deshaun Watson's rough week continues",
-      "summary": "After a 34-10 season-opening loss to the Jaguars, the Browns may be without backup running back Dylan Sampson for an extended stretch after he hurt his left knee, with reports saying he is headed to injured reserve. Starter Deshaun Watson also drew scrutiny after a shaky Week 1 outing that included an interception.",
-      "source": "Yardbarker",
-      "url": "https://www.yardbarker.com/nfl/articles/deshaun_watsons_week_goes_from_bad_to_worse_as_browns_lose_major_weapon_for_extended_period/s1_17730_44305946",
-      "publishedAt": "2026-09-15T11:49:00Z",
-      "tags": [
-        "browns",
-        "deshaun-watson",
-        "injury",
-        "nfl"
-      ]
-    },
-    {
-      "id": "buckeyes-day-message",
-      "category": "buckeyes",
-      "title": "Ryan Day sends clear message to Buckeyes after stunning loss to Texas",
-      "summary": "Ohio State head coach Ryan Day stressed accountability and focus after the Buckeyes squandered a 20-point lead in a 24-23 loss at Texas. The defeat dropped Ohio State from No. 1 to No. 6 in both major polls, its first time outside the top five since 2024.",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/sports/ncaa/ryan-day-sends-clear-message-on-ohio-state-after-stunning-loss-to-texas-12446584",
-      "publishedAt": "2026-09-15T19:00:00Z",
-      "tags": [
-        "ohio-state",
-        "buckeyes",
-        "ryan-day",
-        "college-football"
-      ]
-    },
-    {
-      "id": "buckeyes-reflect-texas",
-      "category": "buckeyes",
-      "title": "Ohio State's Ryan Day and players reflect on Texas loss",
-      "summary": "Buckeyes coach Ryan Day and players addressed the fourth-quarter collapse that cost them the game at Texas, which knocked Ohio State from No. 1 to No. 6 in the coaches' and AP polls. It is the first time since 2024 the Buckeyes are ranked outside the top five.",
-      "source": "WKBN",
-      "url": "https://www.wkbn.com/sports/watch-ohio-states-ryan-day-on-texas-loss-game-against-kent-state/",
-      "publishedAt": "2026-09-15T15:30:00Z",
-      "tags": [
-        "ohio-state",
-        "buckeyes",
-        "college-football"
-      ]
-    },
-    {
-      "id": "local-flock-cameras",
+      "id": "local-bexley-lion",
       "category": "local",
-      "title": "Central Ohio cities debate Flock camera usage",
-      "summary": "NBC4 reports central Ohio municipalities are weighing how or whether to use Flock license-plate cameras, balancing crime-fighting benefits against privacy concerns. The debate touches communities including Columbus and suburbs such as Gahanna.",
+      "title": "Bexley's The Lion adding dog-friendly outdoor patio space",
+      "summary": "The owners of Bexley's The Lion, the neighborhood's first cocktail bar, are opening an alcohol- and dog-friendly outdoor gathering space. The expansion comes two years after the bar debuted.",
       "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-09-15T14:30:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
+      "publishedAt": "2026-09-16T05:00:00Z",
       "tags": [
-        "columbus",
-        "gahanna",
-        "police",
-        "privacy"
+        "Bexley",
+        "Food & Drink",
+        "Community"
       ]
     },
     {
-      "id": "local-south-side-shooting",
+      "id": "local-shirilla-appeal",
       "category": "local",
-      "title": "One killed in shooting on Columbus' South Side",
-      "summary": "Columbus police investigated a fatal shooting on the city's South Side where one person was found dead in an alley. No arrests were immediately reported.",
+      "title": "Ohio Supreme Court declines to reconsider Mackenzie Shirilla appeal",
+      "summary": "Ohio's Supreme Court declined to reconsider the appeal of Mackenzie Shirilla, convicted in a 2022 crash that killed two people. The move leaves her conviction intact.",
       "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
-      "publishedAt": "2026-09-15T10:30:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/ohio-supreme-court-declines-to-reconsider-appeal-from-mackenzie-shirilla-of-the-crash/",
+      "publishedAt": "2026-09-16T07:00:00Z",
       "tags": [
-        "columbus",
-        "crime",
-        "local"
+        "Columbus",
+        "Courts",
+        "Ohio"
       ]
     },
     {
-      "id": "local-gas-prices",
+      "id": "local-school-report-cards",
       "category": "local",
-      "title": "Dip in Columbus gas prices doesn't erase $4-per-gallon average",
-      "summary": "A recent slide in Columbus-area gas prices has yet to bring the local average below $4 a gallon. The modest decline follows a broader drop in oil prices, but pump costs remain elevated locally.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/recent-dip-in-columbus-gas-prices-doesnt-erase-4-per-gallon-average/",
-      "publishedAt": "2026-09-15T08:30:00Z",
+      "title": "2026 Ohio School Report Cards released; Gahanna-Jefferson scores 4 of 5",
+      "summary": "Ohio released its 2025-26 School Report Cards, showing statewide English language arts proficiency hit a five-year high. Columbus City Schools earned 2.5 stars while Gahanna-Jefferson and several central Ohio suburbs scored higher.",
+      "source": "10TV WBNS",
+      "url": "https://www.10tv.com/article/news/education/ohio-school-report-cards-2026/530-0c7026e0-7186-4672-8105-5cebe7f5ba08",
+      "publishedAt": "2026-09-16T09:00:00Z",
       "tags": [
-        "columbus",
-        "gas-prices",
-        "economy",
-        "local"
+        "Education",
+        "Gahanna",
+        "Columbus",
+        "Report Cards"
+      ]
+    },
+    {
+      "id": "local-cbus-overtime",
+      "category": "local",
+      "title": "Columbus police and fire overtime spending blowing past budget",
+      "summary": "Columbus police and fire overtime is exceeding budgeted amounts for the year, raising staffing and emergency-response concerns among union leaders. The city cut overtime budgets despite the overrun.",
+      "source": "10TV WBNS",
+      "url": "https://www.10tv.com/article/news/local/columbus-police-fire-overtime-spending-staffing-concerns/530-0ffa53be-958d-4d98-8f31-c7f31645b8c6",
+      "publishedAt": "2026-09-16T09:30:00Z",
+      "tags": [
+        "Columbus",
+        "Public Safety",
+        "Budget"
       ]
     }
   ]
