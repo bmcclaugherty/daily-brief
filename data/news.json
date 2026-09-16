@@ -1,183 +1,283 @@
 {
   "meta": {
-    "updatedAt": "2026-09-16T11:00:37Z",
+    "updatedAt": "2026-09-16T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 19
   },
   "stories": [
     {
-      "id": "top-nato-drone-lithuania",
+      "id": "top-ukraine-drone-bus",
       "category": "top",
-      "title": "NATO jets shoot down drone that entered Lithuanian airspace from Belarus",
-      "summary": "NATO scrambled Italian Eurofighter Typhoons to shoot down a drone that flew into Lithuanian airspace, likely from Belarus, near the capital Vilnius. It follows NATO chief Rutte's warning that nearby strikes will only strengthen alliance support for Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjx2zgk7edlzo",
+      "title": "Russian drones strike bus and train in southern Ukraine, killing 5",
+      "summary": "Russian drones hit a passenger bus and a train in Ukraine's Dnipropetrovsk region on Wednesday, killing five people, officials said. It is the latest in Moscow's ongoing strike campaign against civilian targets.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russian-drone-attack-bus-kills-five-ukraines-southeast-governor-says-2026-09-16/",
+      "publishedAt": "2026-09-16T18:00:00Z",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "War"
+      ]
+    },
+    {
+      "id": "top-thaci-verdict",
+      "category": "top",
+      "title": "Kosovo ex-president Hashim Thaci sentenced to 25 years for war crimes",
+      "summary": "The Kosovo war crimes tribunal in The Hague found former President Hashim Thaci guilty of offences including murder, torture and illegal detention and sentenced him to 25 years in prison. The verdict closes a long-running case over the 1990s conflict.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/kosovo-ex-president-thaci-faces-war-crimes-verdict-hague-2026-09-16/",
+      "publishedAt": "2026-09-16T14:30:00Z",
+      "tags": [
+        "Kosovo",
+        "War crimes",
+        "The Hague"
+      ]
+    },
+    {
+      "id": "top-space-weapons",
+      "category": "top",
+      "title": "US confirms for the first time it has weapons deployed in Earth's orbit",
+      "summary": "The US military has publicly acknowledged deploying offensive weapons in Earth's orbit, the first such confirmation, drawing warnings from Russia and China about a space arms race. Analysts say it accelerates risk in an increasingly militarized orbital domain.",
+      "source": "Sciencetimes",
+      "url": "https://www.sciencetimes.com/articles/62604/20260916/us-confirms-weapons-deployed-space-experts-warn-growing-orbital-arms-race.htm",
+      "publishedAt": "2026-09-16T08:30:00Z",
+      "tags": [
+        "Space",
+        "US military",
+        "Arms race"
+      ]
+    },
+    {
+      "id": "tech-anthropic-cowork",
+      "category": "tech",
+      "title": "Anthropic merges Claude chat and Cowork into one interface",
+      "summary": "Anthropic is combining its Claude chat experience with Cowork, its collaborative AI workspace product, into a single interface. The move consolidates its lineup as it prepares for an IPO.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "publishedAt": "2026-09-16T17:30:00Z",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "tech-openai-funding",
+      "category": "tech",
+      "title": "OpenAI weighs pre-IPO funding round at more than $1.2 trillion valuation",
+      "summary": "OpenAI is in early talks with investors about a new round valuing the ChatGPT maker at over $1.2 trillion, and reportedly aiming for $1.5 trillion, ahead of an IPO not expected until next year. The raise would let it push back its listing and support acquisitions.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/openai-funding-round-1-2-trillion-valuation-ipo",
+      "publishedAt": "2026-09-16T13:00:00Z",
+      "tags": [
+        "OpenAI",
+        "Funding",
+        "AI",
+        "IPO"
+      ]
+    },
+    {
+      "id": "tech-eu-kids-act",
+      "category": "tech",
+      "title": "EU proposes under-13 ban on social media and AI chatbots in 'Kids Act'",
+      "summary": "European Commission President Ursula von der Leyen unveiled a proposal to ban children under 13 from social media, games and AI chatbots, and to give 13-to-15-year-olds only supervised 'mini accounts'. It targets addictive design like infinite scrolling and would apply bloc-wide if adopted.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Technology/wireStory/eu-chief-proposes-bloc-wide-social-media-ban-136486395",
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "tags": [
+        "EU",
+        "Kids Act",
+        "Social media",
+        "AI"
+      ]
+    },
+    {
+      "id": "browns-watson-media",
+      "category": "browns",
+      "title": "Deshaun Watson: 'Media thinks I'm supposed to throw for 400 yards, 5 TDs each week'",
+      "summary": "Deshaun Watson pushed back on expectations ahead of Sunday's game at Tampa Bay, after a rough Week 1 loss to the Jaguars. Coach Todd Monken says Watson will remain the starter against Baker Mayfield and the Buccaneers.",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-the-media-thinks-im-supposed-to-throw-for-400-yards-5-tds-each-week",
+      "publishedAt": "2026-09-16T16:30:00Z",
+      "tags": [
+        "Browns",
+        "Deshaun Watson",
+        "NFL"
+      ]
+    },
+    {
+      "id": "browns-qb-plan-week2",
+      "category": "browns",
+      "title": "Buccaneers learn Browns' QB plan: Deshaun Watson to start in Week 2",
+      "summary": "Cleveland coach Todd Monken said he 'anticipates' Deshaun Watson will start Sunday at Tampa Bay despite a poor opener. The road game pits Watson against Baker Mayfield in a reunion matchup.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/nfl/buccaneers/onsi/buccaneers-find-out-browns-quarterback-plan-for-week-2-2026",
+      "publishedAt": "2026-09-16T13:30:00Z",
+      "tags": [
+        "Browns",
+        "Buccaneers",
+        "NFL"
+      ]
+    },
+    {
+      "id": "browns-roster-week2",
+      "category": "browns",
+      "title": "Browns cycle 8 roster moves as Dylan Sampson goes to IR ahead of Week 2",
+      "summary": "Cleveland made eight roster moves Tuesday, including placekicker Dylan Sampson to injured reserve, as it pivots from the Week 1 loss to Tampa Bay prep. Most moves were practice-squad-related.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132761/cleveland-browns-news-roster-todd-monken-injuries-week-2",
       "publishedAt": "2026-09-16T10:00:00Z",
       "tags": [
-        "NATO",
-        "Lithuania",
-        "Ukraine",
-        "Russia"
+        "Browns",
+        "Roster",
+        "NFL"
       ]
     },
     {
-      "id": "top-iran-fm-beijing",
-      "category": "top",
-      "title": "Iran's foreign minister Araghchi arrives in Beijing for talks with Wang Yi",
-      "summary": "Iranian Foreign Minister Abbas Araghchi arrived in Beijing on Wednesday at the head of a delegation and met his Chinese counterpart Wang Yi. The visit comes a week before Chinese President Xi Jinping's expected trip to Washington amid Iran-U.S. tensions.",
-      "source": "CNBC TV18",
-      "url": "https://www.cnbctv18.com/world/iranian-foreign-minister-abbas-araghchi-arrives-in-beijing-meets-chinese-counterpart-wang-yi-19991733.htm",
+      "id": "buckeyes-day-player",
+      "category": "buckeyes",
+      "title": "Ryan Day hints a Buckeye is set to take on a bigger role",
+      "summary": "Ryan Day hinted during his weekly remarks that an Ohio State player is poised to become a larger part of the offense. The comment comes as the Buckeyes look to regroup after the road loss to Texas.",
+      "source": "A to Z Sports",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ryan-day-all-but-spilled-the-beans-on-an-ohio-state-football-player-thats-going-to-become-a-bigger-part-of-what-the-buckeyes-do/",
+      "publishedAt": "2026-09-16T18:00:00Z",
+      "tags": [
+        "Ohio State",
+        "Ryan Day",
+        "Buckeyes"
+      ]
+    },
+    {
+      "id": "buckeyes-sayin-texas",
+      "category": "buckeyes",
+      "title": "Julian Sayin candid on Ohio State's loss to Texas",
+      "summary": "Quarterback Julian Sayin made an admission about Ohio State's loss to Texas that track what fans saw on the field. The Buckeyes are preparing for Kent State on Sept. 19.",
+      "source": "A to Z Sports",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-qb-julian-sayin-made-an-admission-after-losing-to-texas-that-fits-exactly-what-buckeye-nation-watched-play-out/",
+      "publishedAt": "2026-09-16T16:00:00Z",
+      "tags": [
+        "Ohio State",
+        "Julian Sayin",
+        "Texas"
+      ]
+    },
+    {
+      "id": "f1-monaco-sprint",
+      "category": "f1",
+      "title": "Monaco to host its first-ever Sprint as F1 2027 calendar confirms 10 Sprints",
+      "summary": "Formula 1 confirmed the 2027 calendar with Monaco staging a Sprint for the first time, one of ten Sprint weekends next season. Bahrain, Australia, Japan and Abu Dhabi also become first-time Sprint hosts.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/f1-2027-calendar-monaco-first-sprint",
+      "publishedAt": "2026-09-16T15:00:00Z",
+      "tags": [
+        "F1",
+        "Monaco Grand Prix",
+        "Sprint",
+        "2027 calendar"
+      ]
+    },
+    {
+      "id": "f1-ferrari-imola-test",
+      "category": "f1",
+      "title": "Hamilton and Leclerc set for Ferrari Pirelli test at Imola",
+      "summary": "Lewis Hamilton and Charles Leclerc will take part in a Pirelli tyre test at Imola this week, with Ferrari also running a previous-car test there. Imola has emerged as a candidate to host the final round of the 2026 season.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/lewis-hamilton-ferrari-imola-2026-f1-finale-option",
+      "publishedAt": "2026-09-16T14:00:00Z",
+      "tags": [
+        "F1",
+        "Ferrari",
+        "Lewis Hamilton",
+        "Imola"
+      ]
+    },
+    {
+      "id": "f1-honda-leadership",
+      "category": "f1",
+      "title": "Honda promotes Yoichiro Fukao to lead F1 power unit project after Spanish GP",
+      "summary": "Honda promoted Yoichiro Fukao to lead its Formula 1 power unit project with Aston Martin, replacing Tetsushi Kakuda in a planned transition. The change comes as Honda works to improve under the new 2026 regulations.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/honda-f1-2026-spanish-grand-prix-fia-investigation",
+      "publishedAt": "2026-09-16T13:00:00Z",
+      "tags": [
+        "F1",
+        "Honda",
+        "Aston Martin",
+        "Power unit"
+      ]
+    },
+    {
+      "id": "f1-newey-alpine",
+      "category": "f1",
+      "title": "Adrian Newey inspects Alpine A526 at Spanish Grand Prix",
+      "summary": "Adrian Newey was on the Spanish Grand Prix grid inspecting Alpine's A526, his attention turning to the French squad. The visit adds to speculation around the design legend's next involvement.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/adrian-newey-alpine-spanish-grand-prix-2026-investigation",
+      "publishedAt": "2026-09-16T11:00:00Z",
+      "tags": [
+        "F1",
+        "Adrian Newey",
+        "Alpine",
+        "Spanish Grand Prix"
+      ]
+    },
+    {
+      "id": "tarkov-weekly-leagues",
+      "category": "tarkov",
+      "title": "Escape from Tarkov adds weekly Leagues system in patch 1.1.5.1",
+      "summary": "Battlestate Games shipped patch 1.1.5.1 adding a weekly Leagues system on top of the Lighthouse rework. A later 1.2.0.0 update, due late September or early October, targets PvE improvements.",
+      "source": "samlover.com",
+      "url": "https://samlover.com/2026/09/16/escape-from-tarkov-leagues-lighthouse-update/",
       "publishedAt": "2026-09-16T08:00:00Z",
       "tags": [
-        "Iran",
-        "China",
-        "Diplomacy",
-        "Wang Yi"
+        "Escape from Tarkov",
+        "Patch 1.1.5.1",
+        "Battlestate",
+        "Leagues"
       ]
     },
     {
-      "id": "top-trinidad-police-disbanded",
-      "category": "top",
-      "title": "Texas town ordered to disband police after rezident's dirty-water post lead to arrest",
-      "summary": "Texas regulators ordered Trinidad's police department closed, ruling it failed minimum standards and could not prove a public benefit. The shutdown follows backlash over the arrest of a resident who posted about contaminated water on Facebook.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/16/us-news/texas-police-department-that-arrested-mom-over-dirty-water-facebook-post-ordered-to-disband-by-state/",
-      "publishedAt": "2026-09-16T05:15:00Z",
-      "tags": [
-        "Texas",
-        "Local Government",
-        "Civil Liberties",
-        "Police"
-      ]
-    },
-    {
-      "id": "tech-openarm",
-      "category": "tech",
-      "title": "Open-source project releases 7-degree-of-freedom humanoid robot arm",
-      "summary": "A new open-source design for a 7-DOF humanoid arm called OpenArm has been shared on GitHub and is drawing strong interest. It's a low-cost, accessible hardware project for researchers and hobbyists building humanoid robots.",
-      "source": "Hacker News",
-      "url": "https://github.com/enactic/OpenArm",
-      "publishedAt": "2026-09-16T02:00:00Z",
-      "tags": [
-        "Robotics",
-        "Open Source",
-        "Hardware"
-      ]
-    },
-    {
-      "id": "tech-zhipu-5b",
-      "category": "tech",
-      "title": "Chinese AI firm Zhipu completes ~$5B financing for next-gen GLM models",
-      "summary": "Zhipu AI finalized a roughly $5 billion raise combining a ~$2B share placement and ~$3B in convertible bonds, its second major financing in two months. Most of the funds go to next-generation GLM foundation model R&D and compute infrastructure.",
-      "source": "Gate News",
-      "url": "https://www.gate.com/news/detail/zhipu-completes-5-billion-financing-with-small-equity-large-debt-structure-24308781",
-      "publishedAt": "2026-09-16T06:41:26Z",
-      "tags": [
-        "AI",
-        "Funding",
-        "China",
-        "Semiconductors"
-      ]
-    },
-    {
-      "id": "f1-hart-verstappen-engineer",
-      "category": "f1",
-      "title": "Tom Hart confirmed to replace 'GP' Lambiase as Verstappen's race engineer",
-      "summary": "Red Bull confirmed Tom Hart as Max Verstappen's new race engineer, succeeding Gianpiero Lambiase who is heading to McLaren. Hart will take over full-time for the U.S., Sao Paulo and Las Vegas rounds this season.",
-      "source": "GP Fans",
-      "url": "https://www.gpfans.com/en/f1-news/1090339/max-verstappen-red-bull-f1-race-engineer-tom-hart-debut-gianpiero-lambiase/",
-      "publishedAt": "2026-09-16T08:14:00Z",
-      "tags": [
-        "Red Bull",
-        "Verstappen",
-        "Team News"
-      ]
-    },
-    {
-      "id": "f1-alonso-plan-b",
-      "category": "f1",
-      "title": "Aston Martin admits to a 'Plan B' as Alonso weighs F1 retirement",
-      "summary": "Aston Martin says there is a contingency plan if 45-year-old Fernando Alonso decides to retire at the end of the season, though keeping him remains plan A. The team says it won't pressure the two-time champion on his future.",
-      "source": "GP Fans",
-      "url": "https://www.gpfans.com/en/f1-news/1090341/aston-martin-plan-b-pedro-de-la-rosa-fernando-alonso-future/",
-      "publishedAt": "2026-09-16T09:45:00Z",
-      "tags": [
-        "Aston Martin",
-        "Alonso",
-        "Driver Market"
-      ]
-    },
-    {
-      "id": "f1-imola-pirelli-test",
-      "category": "f1",
-      "title": "Ferrari and Racing Bulls test Pirelli's 2027 tyres at Imola",
-      "summary": "Ferrari's Hamilton and Leclerc logged more than 60 laps each at Imola testing Pirelli's 2027 prototype tyres, with Racing Bulls on track Wednesday. Imola is also being floated as a possible venue for the season finale if the Middle East round can't be held.",
-      "source": "Speedweek",
-      "url": "https://www.speedweek.com/en/a/formula-1/hamilton-ferrari-tyre-test-imola",
-      "publishedAt": "2026-09-16T06:55:00Z",
-      "tags": [
-        "Testing",
-        "Pirelli",
-        "Ferrari"
-      ]
-    },
-    {
-      "id": "local-bexley-lion",
+      "id": "local-dublin-plea",
       "category": "local",
-      "title": "Bexley's The Lion adding dog-friendly outdoor patio space",
-      "summary": "The owners of Bexley's The Lion, the neighborhood's first cocktail bar, are opening an alcohol- and dog-friendly outdoor gathering space. The expansion comes two years after the bar debuted.",
+      "title": "Dublin, Ohio man pleads guilty to sexual assault in Utah",
+      "summary": "A Dublin man pleaded guilty to sexual assault charges stemming from conduct in Utah, court records show. The case has drawn attention to cross-state prosecution of a central Ohio resident.",
       "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
-      "publishedAt": "2026-09-16T05:00:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/ohio-man-who-searched-defense-attorneys-sex-crimes-columbus-pleads-guilty-to-sex-crimes/",
+      "publishedAt": "2026-09-16T18:30:00Z",
       "tags": [
-        "Bexley",
-        "Food & Drink",
-        "Community"
+        "Columbus",
+        "Dublin",
+        "Courts"
       ]
     },
     {
-      "id": "local-shirilla-appeal",
+      "id": "local-flock-cameras",
       "category": "local",
-      "title": "Ohio Supreme Court declines to reconsider Mackenzie Shirilla appeal",
-      "summary": "Ohio's Supreme Court declined to reconsider the appeal of Mackenzie Shirilla, convicted in a 2022 crash that killed two people. The move leaves her conviction intact.",
+      "title": "Central Ohio cities debate Flock camera usage",
+      "summary": "Several central Ohio cities are weighing how to use Flock automatic license-plate-reader cameras as Columbus council reviews the program amid a planned protest. Supporters cite crime-solving; critics raise privacy concerns.",
       "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/ohio-supreme-court-declines-to-reconsider-appeal-from-mackenzie-shirilla-of-the-crash/",
-      "publishedAt": "2026-09-16T07:00:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
+      "publishedAt": "2026-09-16T14:30:00Z",
       "tags": [
         "Columbus",
-        "Courts",
-        "Ohio"
+        "Flock cameras",
+        "Privacy"
       ]
     },
     {
-      "id": "local-school-report-cards",
+      "id": "local-weather",
       "category": "local",
-      "title": "2026 Ohio School Report Cards released; Gahanna-Jefferson scores 4 of 5",
-      "summary": "Ohio released its 2025-26 School Report Cards, showing statewide English language arts proficiency hit a five-year high. Columbus City Schools earned 2.5 stars while Gahanna-Jefferson and several central Ohio suburbs scored higher.",
-      "source": "10TV WBNS",
-      "url": "https://www.10tv.com/article/news/education/ohio-school-report-cards-2026/530-0c7026e0-7186-4672-8105-5cebe7f5ba08",
-      "publishedAt": "2026-09-16T09:00:00Z",
-      "tags": [
-        "Education",
-        "Gahanna",
-        "Columbus",
-        "Report Cards"
-      ]
-    },
-    {
-      "id": "local-cbus-overtime",
-      "category": "local",
-      "title": "Columbus police and fire overtime spending blowing past budget",
-      "summary": "Columbus police and fire overtime is exceeding budgeted amounts for the year, raising staffing and emergency-response concerns among union leaders. The city cut overtime budgets despite the overrun.",
-      "source": "10TV WBNS",
-      "url": "https://www.10tv.com/article/news/local/columbus-police-fire-overtime-spending-staffing-concerns/530-0ffa53be-958d-4d98-8f31-c7f31645b8c6",
-      "publishedAt": "2026-09-16T09:30:00Z",
+      "title": "Scattered storms and muggy heat arrive in central Ohio",
+      "summary": "Hot and humid conditions with scattered rain and storms are expected across Columbus on Wednesday and Thursday, with a few gusty cells possible. Drier weather and cooler temperatures are expected over the weekend.",
+      "source": "ABC6 WSYX",
+      "url": "https://abc6onyourside.com/news/local/columbus-weather-scattered-storms-and-muggy-heat-arrive-in-central-ohio",
+      "publishedAt": "2026-09-16T09:25:00Z",
       "tags": [
         "Columbus",
-        "Public Safety",
-        "Budget"
+        "Weather",
+        "Forecast"
       ]
     }
   ]
