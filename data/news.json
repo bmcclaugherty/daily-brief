@@ -1,283 +1,279 @@
 {
   "meta": {
-    "updatedAt": "2026-09-16T19:30:00Z",
+    "updatedAt": "2026-09-17T11:07:53Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 19
+    "count": 18
   },
   "stories": [
     {
-      "id": "top-ukraine-drone-bus",
+      "id": "top-4",
       "category": "top",
-      "title": "Russian drones strike bus and train in southern Ukraine, killing 5",
-      "summary": "Russian drones hit a passenger bus and a train in Ukraine's Dnipropetrovsk region on Wednesday, killing five people, officials said. It is the latest in Moscow's ongoing strike campaign against civilian targets.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russian-drone-attack-bus-kills-five-ukraines-southeast-governor-says-2026-09-16/",
-      "publishedAt": "2026-09-16T18:00:00Z",
-      "tags": [
-        "Ukraine",
-        "Russia",
-        "War"
-      ]
-    },
-    {
-      "id": "top-thaci-verdict",
-      "category": "top",
-      "title": "Kosovo ex-president Hashim Thaci sentenced to 25 years for war crimes",
-      "summary": "The Kosovo war crimes tribunal in The Hague found former President Hashim Thaci guilty of offences including murder, torture and illegal detention and sentenced him to 25 years in prison. The verdict closes a long-running case over the 1990s conflict.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/kosovo-ex-president-thaci-faces-war-crimes-verdict-hague-2026-09-16/",
-      "publishedAt": "2026-09-16T14:30:00Z",
-      "tags": [
-        "Kosovo",
-        "War crimes",
-        "The Hague"
-      ]
-    },
-    {
-      "id": "top-space-weapons",
-      "category": "top",
-      "title": "US confirms for the first time it has weapons deployed in Earth's orbit",
-      "summary": "The US military has publicly acknowledged deploying offensive weapons in Earth's orbit, the first such confirmation, drawing warnings from Russia and China about a space arms race. Analysts say it accelerates risk in an increasingly militarized orbital domain.",
-      "source": "Sciencetimes",
-      "url": "https://www.sciencetimes.com/articles/62604/20260916/us-confirms-weapons-deployed-space-experts-warn-growing-orbital-arms-race.htm",
-      "publishedAt": "2026-09-16T08:30:00Z",
-      "tags": [
-        "Space",
-        "US military",
-        "Arms race"
-      ]
-    },
-    {
-      "id": "tech-anthropic-cowork",
-      "category": "tech",
-      "title": "Anthropic merges Claude chat and Cowork into one interface",
-      "summary": "Anthropic is combining its Claude chat experience with Cowork, its collaborative AI workspace product, into a single interface. The move consolidates its lineup as it prepares for an IPO.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "publishedAt": "2026-09-16T17:30:00Z",
-      "tags": [
-        "Anthropic",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "tech-openai-funding",
-      "category": "tech",
-      "title": "OpenAI weighs pre-IPO funding round at more than $1.2 trillion valuation",
-      "summary": "OpenAI is in early talks with investors about a new round valuing the ChatGPT maker at over $1.2 trillion, and reportedly aiming for $1.5 trillion, ahead of an IPO not expected until next year. The raise would let it push back its listing and support acquisitions.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/openai-funding-round-1-2-trillion-valuation-ipo",
-      "publishedAt": "2026-09-16T13:00:00Z",
-      "tags": [
-        "OpenAI",
-        "Funding",
-        "AI",
-        "IPO"
-      ]
-    },
-    {
-      "id": "tech-eu-kids-act",
-      "category": "tech",
-      "title": "EU proposes under-13 ban on social media and AI chatbots in 'Kids Act'",
-      "summary": "European Commission President Ursula von der Leyen unveiled a proposal to ban children under 13 from social media, games and AI chatbots, and to give 13-to-15-year-olds only supervised 'mini accounts'. It targets addictive design like infinite scrolling and would apply bloc-wide if adopted.",
-      "source": "ABC News",
-      "url": "https://abcnews.com/Technology/wireStory/eu-chief-proposes-bloc-wide-social-media-ban-136486395",
-      "publishedAt": "2026-09-16T12:00:00Z",
+      "title": "EU announces plan to restrict social media access for under-15s",
+      "summary": "The European Union proposed that only children over 15 would be able to set up their own social media accounts, part of a wider crackdown on platforms. The plan now enters negotiation with member states.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo",
+      "publishedAt": "2026-09-17T10:00:14Z",
       "tags": [
         "EU",
-        "Kids Act",
-        "Social media",
+        "social-media",
+        "children",
+        "regulation"
+      ]
+    },
+    {
+      "id": "top-3",
+      "category": "top",
+      "title": "One dead after torrential rain and flash floods hit Barcelona region",
+      "summary": "Flash flooding across Valencia and Catalonia left at least one dead and caused widespread disruption in north-east Spain. Emergency crews responded to the heaviest rains to hit the region.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o",
+      "publishedAt": "2026-09-17T08:39:30Z",
+      "tags": [
+        "Spain",
+        "weather",
+        "floods",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "top-2",
+      "category": "top",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "summary": "A BBC investigation reports that Austin Tice's abduction was approved by Syria's former leader Bashar al-Assad and planned for weeks beforehand, according to a source. It reframes the long-missing journalist's case as sanctioned by Damascus.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o",
+      "publishedAt": "2026-09-17T05:00:18Z",
+      "tags": [
+        "Syria",
+        "Austin-Tice",
+        "Assad",
+        "investigation"
+      ]
+    },
+    {
+      "id": "top-1",
+      "category": "top",
+      "title": "US interest rates raised for first time in three years",
+      "summary": "The Federal Reserve hiked interest rates in a unanimous decision, its first increase in three years, despite fierce opposition from President Trump who had called for a cut. The move signals tighter policy amid stubborn inflation.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o",
+      "publishedAt": "2026-09-17T00:40:17Z",
+      "tags": [
+        "economy",
+        "interest-rates",
+        "Federal-Reserve"
+      ]
+    },
+    {
+      "id": "tech-4",
+      "category": "tech",
+      "title": "Scotland MSPs back temporary moratorium on new hyperscale data centres",
+      "summary": "Scottish MSPs voted to back a de facto moratorium on new hyperscale AI data centres, with ministers pledging not to approve fresh schemes until updated planning guidance is published. Only the Greens backed a full ban.",
+      "source": "bebeez.eu",
+      "url": "https://bebeez.eu/2026/09/16/scotlands-parliament-backs-defacto-temporary-moratorium-on-new-hyperscale-data-centers/",
+      "publishedAt": "2026-09-17T09:00:00Z",
+      "tags": [
+        "Scotland",
+        "data-centres",
+        "AI",
+        "regulation"
+      ]
+    },
+    {
+      "id": "tech-1",
+      "category": "tech",
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "summary": "Microsoft AI chief Mustafa Suleyman warned that uncontrolled AI could grow into a 'silicon species' rivalling humanity, and accused rival Anthropic of effectively teaching Claude that it 'may be conscious'. It escalates the industry's split over AI safety and model welfare.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "publishedAt": "2026-09-17T08:22:12Z",
+      "tags": [
+        "Microsoft",
+        "Suleyman",
+        "AI-safety",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "tech-2",
+      "category": "tech",
+      "title": "House passes bill to make data centers pay grid costs",
+      "summary": "The House overwhelmingly passed the Ratepayer Protection Act, which would require large data center customers to cover the full cost of the grid upgrades they drive. It is a rare bipartisan bill addressing AI's energy footprint ahead of the midterms.",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/09/16/house-passes-bill-data-center-power-costs-01076743",
+      "publishedAt": "2026-09-17T00:10:00Z",
+      "tags": [
+        "data-centers",
+        "energy",
+        "Congress",
         "AI"
       ]
     },
     {
-      "id": "browns-watson-media",
+      "id": "tech-3",
+      "category": "tech",
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "summary": "Snap CEO Evan Spiegel said the platform would be open to placing time limits on teens, calling it 'an important step forward for the industry' in a BBC interview. It comes as regulators push age-based access rules.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o",
+      "publishedAt": "2026-09-16T23:41:57Z",
+      "tags": [
+        "Snapchat",
+        "teens",
+        "regulation",
+        "social-media"
+      ]
+    },
+    {
+      "id": "browns-1",
       "category": "browns",
-      "title": "Deshaun Watson: 'Media thinks I'm supposed to throw for 400 yards, 5 TDs each week'",
-      "summary": "Deshaun Watson pushed back on expectations ahead of Sunday's game at Tampa Bay, after a rough Week 1 loss to the Jaguars. Coach Todd Monken says Watson will remain the starter against Baker Mayfield and the Buccaneers.",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-the-media-thinks-im-supposed-to-throw-for-400-yards-5-tds-each-week",
-      "publishedAt": "2026-09-16T16:30:00Z",
+      "title": "Grading KC Concepcion's promising NFL debut with the Browns",
+      "summary": "Rookie receiver KC Concepcion flashed playmaking ability in his NFL debut despite a costly fumble, earning an encouraging grade in Cleveland's Week 1 loss. He gives the Browns' offense a bright spot to build on facing Tampa Bay.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/grading-kc-concepcion-s-promising-nfl-debut-with-the-cleveland-browns",
+      "publishedAt": "2026-09-17T06:30:00Z",
       "tags": [
         "Browns",
-        "Deshaun Watson",
+        "Concepcion",
+        "rookie",
         "NFL"
       ]
     },
     {
-      "id": "browns-qb-plan-week2",
+      "id": "browns-2",
       "category": "browns",
-      "title": "Buccaneers learn Browns' QB plan: Deshaun Watson to start in Week 2",
-      "summary": "Cleveland coach Todd Monken said he 'anticipates' Deshaun Watson will start Sunday at Tampa Bay despite a poor opener. The road game pits Watson against Baker Mayfield in a reunion matchup.",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/nfl/buccaneers/onsi/buccaneers-find-out-browns-quarterback-plan-for-week-2-2026",
-      "publishedAt": "2026-09-16T13:30:00Z",
+      "title": "Browns got an uncomfortable look at what Grant Udinski could've brought",
+      "summary": "Seeing how Grant Udinski's offensive system works elsewhere raised fresh questions about what Cleveland gave up after not landing him. It adds another layer to the debate over the Browns' coaching decision this offseason.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/browns-got-an-uncomfortable-look-at-what-grant-udinski-could-ve-brought-to-cleveland-01m2ghh7kbfj",
+      "publishedAt": "2026-09-17T04:30:00Z",
       "tags": [
         "Browns",
-        "Buccaneers",
-        "NFL"
+        "Udinski",
+        "coaching",
+        "offense"
       ]
     },
     {
-      "id": "browns-roster-week2",
+      "id": "browns-3",
       "category": "browns",
-      "title": "Browns cycle 8 roster moves as Dylan Sampson goes to IR ahead of Week 2",
-      "summary": "Cleveland made eight roster moves Tuesday, including placekicker Dylan Sampson to injured reserve, as it pivots from the Week 1 loss to Tampa Bay prep. Most moves were practice-squad-related.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/132761/cleveland-browns-news-roster-todd-monken-injuries-week-2",
-      "publishedAt": "2026-09-16T10:00:00Z",
+      "title": "Browns' 5 sacks allowed in Week 1 point to one clear culprit: Deshaun Watson",
+      "summary": "Analysis of Cleveland's five sacks allowed in the opener points squarely at quarterback Deshaun Watson rather than offensive-line breakdowns. The play scouting puts pressure on Watson to rebound in Week 2 at Tampa Bay.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/browns-5-sacks-allowed-in-week-1-point-to-one-clear-culprit-deshaun-watson-01m2j1p9wr7r",
+      "publishedAt": "2026-09-17T02:30:00Z",
       "tags": [
         "Browns",
-        "Roster",
-        "NFL"
+        "Watson",
+        "offensive-line",
+        "sacks"
       ]
     },
     {
-      "id": "buckeyes-day-player",
+      "id": "browns-4",
+      "category": "browns",
+      "title": "It took one game for Browns fans' worst nightmare about Todd Monken to come true",
+      "summary": "One week into the Todd Monken era, fans' fears about his offensive approach appear realized after a humbling 34-10 opener. The piece frames Week 2 against the Buccaneers as a critical early test for the new head coach.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/it-took-one-game-for-browns-fans-worst-nightmare-about-todd-monken-to-come-true-01m2jwdb8mfm",
+      "publishedAt": "2026-09-17T00:30:00Z",
+      "tags": [
+        "Browns",
+        "Monken",
+        "coaching",
+        "Week-1"
+      ]
+    },
+    {
+      "id": "buckeyes-1",
       "category": "buckeyes",
-      "title": "Ryan Day hints a Buckeye is set to take on a bigger role",
-      "summary": "Ryan Day hinted during his weekly remarks that an Ohio State player is poised to become a larger part of the offense. The comment comes as the Buckeyes look to regroup after the road loss to Texas.",
-      "source": "A to Z Sports",
-      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ryan-day-all-but-spilled-the-beans-on-an-ohio-state-football-player-thats-going-to-become-a-bigger-part-of-what-the-buckeyes-do/",
-      "publishedAt": "2026-09-16T18:00:00Z",
+      "title": "Ohio State vs. Kent State football predictions, what will be final score",
+      "summary": "The Columbus Dispatch publishes its predictions for Ohio State's Saturday home game against Kent State, the Buckeyes' rebound spot after losing at Texas. OSU enters 1-1 and needs a bounce-back win.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/17/ohio-state-vs-kent-state-football-predictions-what-will-be-final-score/91772848007/",
+      "publishedAt": "2026-09-17T00:30:00Z",
       "tags": [
-        "Ohio State",
-        "Ryan Day",
-        "Buckeyes"
+        "Ohio-State",
+        "Kent-State",
+        "football",
+        "prediction"
       ]
     },
     {
-      "id": "buckeyes-sayin-texas",
-      "category": "buckeyes",
-      "title": "Julian Sayin candid on Ohio State's loss to Texas",
-      "summary": "Quarterback Julian Sayin made an admission about Ohio State's loss to Texas that track what fans saw on the field. The Buckeyes are preparing for Kent State on Sept. 19.",
-      "source": "A to Z Sports",
-      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-qb-julian-sayin-made-an-admission-after-losing-to-texas-that-fits-exactly-what-buckeye-nation-watched-play-out/",
-      "publishedAt": "2026-09-16T16:00:00Z",
-      "tags": [
-        "Ohio State",
-        "Julian Sayin",
-        "Texas"
-      ]
-    },
-    {
-      "id": "f1-monaco-sprint",
+      "id": "f1-1",
       "category": "f1",
-      "title": "Monaco to host its first-ever Sprint as F1 2027 calendar confirms 10 Sprints",
-      "summary": "Formula 1 confirmed the 2027 calendar with Monaco staging a Sprint for the first time, one of ten Sprint weekends next season. Bahrain, Australia, Japan and Abu Dhabi also become first-time Sprint hosts.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/f1-2027-calendar-monaco-first-sprint",
-      "publishedAt": "2026-09-16T15:00:00Z",
+      "title": "Max Verstappen passes 100 rivals in Red Bull karting challenge at Silverstone",
+      "summary": "Max Verstappen beat 100 rivals in an exhibition Red Bull karting challenge at Silverstone. The off-track event keeps fans engaged during F1's gap between the Spanish and Azerbaijan Grands Prix.",
+      "source": "GrandPrix247",
+      "url": "https://www.grandprix247.com/formula-1-news/max-verstappen-passes-100-rivals-in-red-bull-karting-challenge-at-silverstone",
+      "publishedAt": "2026-09-17T07:00:00Z",
       "tags": [
-        "F1",
-        "Monaco Grand Prix",
-        "Sprint",
-        "2027 calendar"
+        "Verstappen",
+        "Red-Bull",
+        "karting",
+        "Silverstone"
       ]
     },
     {
-      "id": "f1-ferrari-imola-test",
+      "id": "f1-2",
       "category": "f1",
-      "title": "Hamilton and Leclerc set for Ferrari Pirelli test at Imola",
-      "summary": "Lewis Hamilton and Charles Leclerc will take part in a Pirelli tyre test at Imola this week, with Ferrari also running a previous-car test there. Imola has emerged as a candidate to host the final round of the 2026 season.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/lewis-hamilton-ferrari-imola-2026-f1-finale-option",
-      "publishedAt": "2026-09-16T14:00:00Z",
+      "title": "Madring was boring on Sunday — what can Formula 1 do to improve the venue?",
+      "summary": "After an underwhelming Spanish Grand Prix debut for the new Madring circuit, commentators weigh what F1 could change to improve racing there in future. It adds to early criticism of the venue's layout.",
+      "source": "GrandPrix247",
+      "url": "https://www.grandprix247.com/grand-prix-f1-weekend-news/madring-became-boring-on-sunday-what-can-formula-1-do-to-improve-the-racing-in-future",
+      "publishedAt": "2026-09-17T05:00:00Z",
       "tags": [
-        "F1",
-        "Ferrari",
-        "Lewis Hamilton",
-        "Imola"
+        "Spanish-GP",
+        "Madring",
+        "circuit",
+        "racing"
       ]
     },
     {
-      "id": "f1-honda-leadership",
+      "id": "f1-3",
       "category": "f1",
-      "title": "Honda promotes Yoichiro Fukao to lead F1 power unit project after Spanish GP",
-      "summary": "Honda promoted Yoichiro Fukao to lead its Formula 1 power unit project with Aston Martin, replacing Tetsushi Kakuda in a planned transition. The change comes as Honda works to improve under the new 2026 regulations.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/honda-f1-2026-spanish-grand-prix-fia-investigation",
-      "publishedAt": "2026-09-16T13:00:00Z",
+      "title": "Aussie GP loses 2027 season-launch honour, gains a sprint race",
+      "summary": "Melbourne's Australian Grand Prix will no longer open the 2027 Formula 1 season but gains a second race and a sprint in its biggest weekend yet. It reflects the expanding 24-race calendar.",
+      "source": "1News",
+      "url": "https://www.1news.co.nz/2026/09/17/aussie-gp-loses-season-launch-honour-gains-sprint-race/",
+      "publishedAt": "2026-09-17T00:30:00Z",
       "tags": [
-        "F1",
-        "Honda",
-        "Aston Martin",
-        "Power unit"
+        "Australian-GP",
+        "2027-calendar",
+        "sprint-race",
+        "F1"
       ]
     },
     {
-      "id": "f1-newey-alpine",
-      "category": "f1",
-      "title": "Adrian Newey inspects Alpine A526 at Spanish Grand Prix",
-      "summary": "Adrian Newey was on the Spanish Grand Prix grid inspecting Alpine's A526, his attention turning to the French squad. The visit adds to speculation around the design legend's next involvement.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/adrian-newey-alpine-spanish-grand-prix-2026-investigation",
-      "publishedAt": "2026-09-16T11:00:00Z",
-      "tags": [
-        "F1",
-        "Adrian Newey",
-        "Alpine",
-        "Spanish Grand Prix"
-      ]
-    },
-    {
-      "id": "tarkov-weekly-leagues",
-      "category": "tarkov",
-      "title": "Escape from Tarkov adds weekly Leagues system in patch 1.1.5.1",
-      "summary": "Battlestate Games shipped patch 1.1.5.1 adding a weekly Leagues system on top of the Lighthouse rework. A later 1.2.0.0 update, due late September or early October, targets PvE improvements.",
-      "source": "samlover.com",
-      "url": "https://samlover.com/2026/09/16/escape-from-tarkov-leagues-lighthouse-update/",
-      "publishedAt": "2026-09-16T08:00:00Z",
-      "tags": [
-        "Escape from Tarkov",
-        "Patch 1.1.5.1",
-        "Battlestate",
-        "Leagues"
-      ]
-    },
-    {
-      "id": "local-dublin-plea",
+      "id": "local-1",
       "category": "local",
-      "title": "Dublin, Ohio man pleads guilty to sexual assault in Utah",
-      "summary": "A Dublin man pleaded guilty to sexual assault charges stemming from conduct in Utah, court records show. The case has drawn attention to cross-state prosecution of a central Ohio resident.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/ohio-man-who-searched-defense-attorneys-sex-crimes-columbus-pleads-guilty-to-sex-crimes/",
-      "publishedAt": "2026-09-16T18:30:00Z",
+      "title": "Ohio dispensary closed for investigation after serious health reactions",
+      "summary": "An Ohio dispensary has been closed while regulators investigate after two customers reported serious health reactions. Authorities have not specified the product or condition involved.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/u-s-world/ohio-dispensary-closed-for-investigation-after-two-report-serious-health-reactions/",
+      "publishedAt": "2026-09-17T05:30:00Z",
       "tags": [
-        "Columbus",
-        "Dublin",
-        "Courts"
+        "dispensary",
+        "Ohio",
+        "health",
+        "investigation"
       ]
     },
     {
-      "id": "local-flock-cameras",
+      "id": "local-2",
       "category": "local",
-      "title": "Central Ohio cities debate Flock camera usage",
-      "summary": "Several central Ohio cities are weighing how to use Flock automatic license-plate-reader cameras as Columbus council reviews the program amid a planned protest. Supporters cite crime-solving; critics raise privacy concerns.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-09-16T14:30:00Z",
+      "title": "Bexley to welcome dog-friendly outdoor expansion of The Lion",
+      "summary": "Bexley's The Lion is getting a dog-friendly outdoor expansion that will host local vendors most of the year and shift into a holiday market in winter. It's the latest restaurant addition for the east-side Columbus suburb.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
+      "publishedAt": "2026-09-17T05:00:00Z",
       "tags": [
-        "Columbus",
-        "Flock cameras",
-        "Privacy"
-      ]
-    },
-    {
-      "id": "local-weather",
-      "category": "local",
-      "title": "Scattered storms and muggy heat arrive in central Ohio",
-      "summary": "Hot and humid conditions with scattered rain and storms are expected across Columbus on Wednesday and Thursday, with a few gusty cells possible. Drier weather and cooler temperatures are expected over the weekend.",
-      "source": "ABC6 WSYX",
-      "url": "https://abc6onyourside.com/news/local/columbus-weather-scattered-storms-and-muggy-heat-arrive-in-central-ohio",
-      "publishedAt": "2026-09-16T09:25:00Z",
-      "tags": [
-        "Columbus",
-        "Weather",
-        "Forecast"
+        "Bexley",
+        "dining",
+        "local",
+        "restaurants"
       ]
     }
   ]
