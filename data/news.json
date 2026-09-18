@@ -1,207 +1,178 @@
 {
   "meta": {
-    "updatedAt": "2026-09-17T19:30:13Z",
+    "updatedAt": "2026-09-18T19:31:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 14
+    "count": 12
   },
   "stories": [
     {
-      "id": "top-fed-hike-20260917",
+      "id": "top-iran-sanctions",
       "category": "top",
-      "title": "Federal Reserve raises key rate for first time since 2023",
-      "summary": "The Fed hiked its benchmark rate a quarter point to about 3.9% to fight stubborn inflation, its first increase in three years. President Trump blasted the board, while higher borrowing costs pressure mortgages, auto loans and credit cards ahead of the midterms.",
-      "source": "AP",
-      "url": "https://www.newser.com/article/f0ea070bd8d0d6bfa88203b62c33fed7/the-latest-federal-reserve-defies-trump-hikes-key-interest-rate-for-first-time-in-3-years.html",
-      "publishedAt": "2026-09-17T12:00:00Z",
+      "title": "Iran vows to retaliate after US widens sanctions",
+      "summary": "Iran promised to retaliate against expanded US economic sanctions aimed at cutting off its financial lifeline, saying it expects major trading partners to resist Washington's pressure campaign.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/iran/",
+      "publishedAt": "2026-09-18T18:39:00Z",
       "tags": [
-        "federal-reserve",
-        "inflation",
-        "economy"
+        "Iran",
+        "sanctions",
+        "Middle East"
       ]
     },
     {
-      "id": "top-war-crimes-iran-20260917",
+      "id": "top-netanyahu-son",
       "category": "top",
-      "title": "UN experts cite possible US war crimes in Iran strikes",
-      "summary": "UN-commissioned human rights investigators found 'reasonable grounds' that US airstrikes in Iran, including one on a school in Minab, killed at least 178 civilians. The report said civilians are caught between grave rights violations by their own government and the conflict with the US and Israel.",
-      "source": "AP",
-      "url": "https://www.guardonline.com/news/national/ap-news-summary-at-5-21-a-m-edt/article_e7ff3f26-c1fd-59ee-88ce-7fe1d47711d2.html",
-      "publishedAt": "2026-09-17T09:21:00Z",
+      "title": "Netanyahu says Iran tried to kill one of his sons",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said Iran attempted to assassinate one of his sons, the latest escalation in the ongoing US-Israel war with Iran.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/iran/",
+      "publishedAt": "2026-09-18T12:31:00Z",
       "tags": [
-        "iran",
-        "war-crimes",
-        "un"
+        "Iran",
+        "Israel",
+        "security"
       ]
     },
     {
-      "id": "top-ukraine-strikes-20260917",
+      "id": "top-hormuz-escort",
       "category": "top",
-      "title": "Russian attack on Kyiv region injures at least 19",
-      "summary": "A Russian missile and drone barrage on Ukraine's capital and surrounding areas injured at least 19 people and damaged dozens of sites. President Zelenskyy said Ukrainian forces struck an oil refinery and a military airfield inside Russia overnight.",
-      "source": "AP",
-      "url": "https://apnews.com/video/ap-top-stories-september-17-6e78c354d6444139bc41cecdb4bc8a41",
-      "publishedAt": "2026-09-17T09:21:00Z",
+      "title": "UN halts Strait of Hormuz escort operations after vessel attack",
+      "summary": "The UN International Maritime Organization paused its operation escorting ships through the Strait of Hormuz after a vessel reported an attack, reigniting doubts about whether the preliminary deal to end the Iran war will hold.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/iran/",
+      "publishedAt": "2026-09-18T09:31:00Z",
       "tags": [
-        "ukraine",
-        "russia",
-        "war"
+        "Iran",
+        "shipping",
+        "Hormuz"
       ]
     },
     {
-      "id": "top-carney-eu-20260917",
-      "category": "top",
-      "title": "Carney welcomes proposal for Canada to join EU as associate member",
-      "summary": "Canadian PM Mark Carney told the European Parliament he welcomes the EU's first-ever associate membership proposal, resisting President Trump's portrayal of it as a 'hostile act'. The push draws Ottawa closer to Europe amid deepening trade friction with Washington.",
-      "source": "AP",
-      "url": "https://www.mykxlg.com/news/national/ap-news-summary-at-6-12-a-m-edt/article_3da96c2c-75b3-5fc5-82d3-3e348cd3f39c.html",
-      "publishedAt": "2026-09-17T10:12:00Z",
-      "tags": [
-        "canada",
-        "eu",
-        "trade"
-      ]
-    },
-    {
-      "id": "tech-huawei-chip-20260917",
+      "id": "tech-anthropic-claude",
       "category": "tech",
-      "title": "Huawei plans Q1 2027 launch of new AI chip to take on Nvidia",
-      "summary": "Huawei is targeting a Q1 2027 release for its next AI chip, intensifying its challenge to Nvidia amid export restrictions. The move underscores China's push to build a domestic AI computing stack.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "publishedAt": "2026-09-17T15:00:00Z",
+      "title": "Anthropic says Claude is helping build the next version of itself",
+      "summary": "Anthropic disclosed that its Claude model now leads 26% of the company's own AI research and development, up from under 1% earlier in the year, moving toward recursive self-improvement under human supervision.",
+      "source": "The Mercury News (AP)",
+      "url": "https://www.mercurynews.com/2026/09/18/anthropic-claude-building-next-version/",
+      "publishedAt": "2026-09-18T15:31:00Z",
       "tags": [
-        "huawei",
-        "ai-chips",
-        "nvidia",
-        "china"
+        "AI",
+        "Anthropic",
+        "Claude"
       ]
     },
     {
-      "id": "tech-base-labs-safety-20260917",
-      "category": "tech",
-      "title": "Base Labs launches open-weight AI safety partnership with Hugging Face and Goodfire",
-      "summary": "AI startup Base Labs announced an open-weight safety partnership with Hugging Face and Goodfire, aiming to bring interpretability research to open models. The collaboration targets transparency and safer deployment of frontier open-source AI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "publishedAt": "2026-09-17T17:30:00Z",
+      "id": "browns-concepcion",
+      "category": "browns",
+      "title": "Grading KC Concepcion's promising Browns debut",
+      "summary": "Rookie KC Concepcion flashed his playmaking ability in his first NFL game despite a costly fumble, earning an encouraging grade in the Browns' Week 1 loss.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/grading-kc-concepcion-s-promising-nfl-debut-with-the-cleveland-browns",
+      "publishedAt": "2026-09-18T14:31:00Z",
       "tags": [
-        "ai-safety",
-        "hugging-face",
-        "open-source"
+        "Browns",
+        "NFL",
+        "rookie"
       ]
     },
     {
-      "id": "tech-pinterest-restyle-20260917",
-      "category": "tech",
-      "title": "Pinterest teases 'Restyle' feature that redesigns your room with AI",
-      "summary": "Pinterest previewed 'Restyle', an AI feature that lets users reimagine a room by swapping in different furniture and decor styles. The tool uses the platform's home-decor data to generate variations from a photo.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "publishedAt": "2026-09-17T17:15:00Z",
+      "id": "browns-udinski",
+      "category": "browns",
+      "title": "Browns got an uncomfortable look at what Grant Udinski could've brought",
+      "summary": "A look at the team coached by Grant Udinski offered an uncomfortable reminder of what the Browns might have landed when they sought a head coach of their own.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/browns-got-an-uncomfortable-look-at-what-grant-udinski-could-ve-brought-to-cleveland-01m2ghh7kbfj",
+      "publishedAt": "2026-09-18T12:31:00Z",
       "tags": [
-        "pinterest",
-        "generative-ai",
-        "consumer-apps"
+        "Browns",
+        "NFL",
+        "coaching"
       ]
     },
     {
-      "id": "tech-emerald-ai-grid-20260917",
-      "category": "tech",
-      "title": "Google, Nvidia and Anthropic back Emerald AI to find grid space for data centers",
-      "summary": "Google, Nvidia and Anthropic are backing Emerald AI, a startup that helps locate grid capacity for data centers. The effort addresses the power crunch limiting AI infrastructure buildout across the US.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "publishedAt": "2026-09-17T14:00:00Z",
+      "id": "browns-watson-sacks",
+      "category": "browns",
+      "title": "Browns' 5 sacks allowed in Week 1 point to Deshaun Watson",
+      "summary": "The Browns surrendered five sacks in their season opener, and analysis points to Deshaun Watson as the main culprit behind the line's breakdowns.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/browns-5-sacks-allowed-in-week-1-point-to-one-clear-culprit-deshaun-watson-01m2j1p9wr7r",
+      "publishedAt": "2026-09-18T10:31:00Z",
       "tags": [
-        "data-centers",
-        "energy",
-        "ai-infrastructure"
+        "Browns",
+        "Watson",
+        "offensive line"
       ]
     },
     {
-      "id": "buckeyes-b1g-rankings-20260917",
+      "id": "browns-monken-nightmare",
+      "category": "browns",
+      "title": "One game in, Todd Monken era confirms Browns fans' worst fears",
+      "summary": "A rough Week 1 already appears to be validating Browns fans' worst-case scenarios about new head coach Todd Monken's start in Cleveland.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/it-took-one-game-for-browns-fans-worst-nightmare-about-todd-monken-to-come-true-01m2jwdb8mfm",
+      "publishedAt": "2026-09-18T08:31:00Z",
+      "tags": [
+        "Browns",
+        "Monken",
+        "Week 1"
+      ]
+    },
+    {
+      "id": "buckeyes-mailbag",
       "category": "buckeyes",
-      "title": "B1G Rankings: OSU's standing unclear after messy Week 2",
-      "summary": "With Ohio State coming off a loss to Texas, Eleven Warriors sorts a muddled Big Ten after Week 2 with little clarity on the conference's best teams. The Buckeyes next host Kent State on September 19.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football",
-      "publishedAt": "2026-09-17T12:30:00Z",
+      "title": "Ohio State mailbag: Why does Ryan Day coach 'tight'? Was the defense exposed?",
+      "summary": "The Athletic's Buckeyes mailbag examines why Ryan Day coaches so conservatively and whether the defense was exposed in Ohio State's 24-23 loss at Texas, as the sixth-ranked Buckeyes regroup before facing Kent State.",
+      "source": "The Athletic",
+      "url": "https://www.nytimes.com/athletic/7604038/2026/09/18/ohio-state-texas-ryan-day-defense/",
+      "publishedAt": "2026-09-18T14:00:00Z",
       "tags": [
-        "ohio-state",
-        "big-ten",
-        "college-football"
+        "Ohio State",
+        "Ryan Day",
+        "Texas"
       ]
     },
     {
-      "id": "f1-hamilton-ferrari-20260917",
-      "category": "f1",
-      "title": "Hamilton denies asking Ferrari to replace staff, concedes title bid is over",
-      "summary": "Lewis Hamilton said he 'never asked for anyone on my team to be replaced' after an Italian report claimed he challenged team principal Fred Vasseur over trackside staff. The Brit admitted his record eighth-title push is finished after retiring from the Spanish GP, trailing Kimi Antonelli by 101 points.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/49867154/lewis-hamilton-shuts-asking-ferrari-make-changes-never-asked-anyone-replaced-formula-1",
-      "publishedAt": "2026-09-17T16:20:00Z",
-      "tags": [
-        "lewis-hamilton",
-        "ferrari",
-        "f1"
-      ]
-    },
-    {
-      "id": "f1-russell-mercedes-20260917",
-      "category": "f1",
-      "title": "Wolff confirms Russell's Mercedes extension is 'already done'",
-      "summary": "Toto Wolff told Austrian newspaper Oesterreich that George Russell's Mercedes contract renewal is complete despite no formal announcement. Russell sits 81 points behind teammate Kimi Antonelli in the standings after finishing fifth at the Spanish GP.",
-      "source": "GPBlog",
-      "url": "https://www.gpblog.com/en/news/wolff-confirms-russells-mercedes-extension-is-already-done-as-team-skips-formal-announcement",
-      "publishedAt": "2026-09-17T12:00:00Z",
-      "tags": [
-        "mercedes",
-        "george-russell",
-        "f1"
-      ]
-    },
-    {
-      "id": "f1-leclerc-powerunit-20260917",
-      "category": "f1",
-      "title": "Leclerc hopeful Monza-damaged Ferrari power unit can be saved",
-      "summary": "Charles Leclerc said Ferrari is still evaluating whether the upgraded power unit damaged in his Italian Grand Prix crash can be reused; if not, he faces a grid penalty. He also flagged a structural one-lap pace deficit in qualifying versus race pace.",
-      "source": "Motorsport Week",
-      "url": "https://www.motorsportweek.com/2026/09/17/leclerc-hopeful-ferrari-power-unit-can-be-saved/",
-      "publishedAt": "2026-09-17T19:00:00Z",
-      "tags": [
-        "charles-leclerc",
-        "ferrari",
-        "power-unit"
-      ]
-    },
-    {
-      "id": "local-havas-acton-20260917",
+      "id": "local-havas",
       "category": "local",
-      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event",
-      "summary": "Ohio governor candidate Amy Acton said she is grateful police protected her after Patrick Havas allegedly pushed through a crowd at her Canfield Fair event, injuring people including a trooper. Acton also criticized her opponent for accepting a donation from the suspect's brother.",
-      "source": "NBC4",
+      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event?",
+      "summary": "NBC4 identifies Patrick Havas, the man alleged to have attacked a bystander at a campaign event for Columbus-area political figure (and former Ohio health director) Dr. Amy Acton.",
+      "source": "NBC4 WCMH",
       "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
-      "publishedAt": "2026-09-17T18:30:00Z",
+      "publishedAt": "2026-09-18T18:31:00Z",
       "tags": [
-        "ohio-politics",
-        "columbus",
-        "campaign"
+        "Columbus",
+        "politics",
+        "crime"
       ]
     },
     {
-      "id": "local-bexley-lion-20260917",
+      "id": "local-memorials",
+      "category": "local",
+      "title": "List: Central Ohio events marking anniversary of Sept. 11",
+      "summary": "NBC4 rounded up a list of memorial ceremonies and events scheduled in central Ohio, including the Columbus area, for reference ahead of the occasion.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-memorial-ceremonies-upcoming/",
+      "publishedAt": "2026-09-18T14:31:00Z",
+      "tags": [
+        "Columbus",
+        "memorial",
+        "events"
+      ]
+    },
+    {
+      "id": "local-lion-bexley",
       "category": "local",
       "title": "Bexley to welcome dog-friendly outdoor expansion of The Lion",
-      "summary": "The Bexley restaurant district is set to add an outdoor, dog-friendly expansion of The Lion. The project adds outdoor seating to one of Columbus's well-known dining spots.",
-      "source": "NBC4",
+      "summary": "A planned outdoor, dog-friendly expansion of The Lion is set to come to Bexley, just east of Columbus, expanding the popular spot's footprint.",
+      "source": "NBC4 WCMH",
       "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
-      "publishedAt": "2026-09-17T13:30:00Z",
+      "publishedAt": "2026-09-18T13:31:00Z",
       "tags": [
-        "bexley",
-        "columbus",
-        "dining"
+        "Bexley",
+        "restaurant",
+        "local"
       ]
     }
   ]
