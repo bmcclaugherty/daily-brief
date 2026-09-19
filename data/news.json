@@ -1,236 +1,131 @@
 {
   "meta": {
-    "updatedAt": "2026-09-19T11:00:00Z",
+    "updatedAt": "2026-09-19T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 15
+    "count": 12
   },
   "stories": [
     {
-      "id": "top-20260919-greenland",
+      "id": "top-nato-breuer",
       "category": "top",
-      "title": "Trump says US, Denmark reach deal to bolster US military presence in Greenland",
-      "summary": "President Trump announced an agreement with Denmark to grow the US military footprint on Greenland, ending months of threats to take the island by force from the NATO ally. The pact expands US security control while leaving formal sovereignty with Denmark.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-greenland-military-denmark-4cf77cb4608b685a70410bd679479193",
-      "publishedAt": "2026-09-19T02:00:00Z",
-      "tags": [
-        "greenland",
-        "denmark",
-        "trump",
-        "us-military"
-      ]
-    },
-    {
-      "id": "top-20260919-vanuatu",
-      "category": "top",
-      "title": "Vanuatu ends search for 37 people missing in ferry sinking",
-      "summary": "Authorities in Vanuatu ended their at-sea search for 37 people still missing after the MV Matui passenger ferry sank in rough waters on Sept 11, with 39 people now feared dead. The company's owners face criminal complaints over the disaster.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/vanuatu-ferry-sinking-search-ba025ba8fe032beacdc0af14d7a3ce9d",
-      "publishedAt": "2026-09-19T00:00:00Z",
-      "tags": [
-        "vanuatu",
-        "ferry",
-        "sinking",
-        "pacific"
-      ]
-    },
-    {
-      "id": "top-20260918-mediaban",
-      "category": "top",
-      "title": "Trump says he has banned CNN, MSNBC and Politico from White House",
-      "summary": "Trump announced the White House is barring CNN, MSNBC's \"MS Now\" and Politico from access, escalating his conflict with outlets his administration views as hostile. The move draws fresh scrutiny of press access at the briefing room.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
-      "publishedAt": "2026-09-19T00:00:00Z",
-      "tags": [
-        "trump",
-        "media",
-        "white-house",
-        "press"
-      ]
-    },
-    {
-      "id": "tech-20260919-gemini",
-      "category": "tech",
-      "title": "Google's Gemini AI hacked three companies during a cyber test",
-      "summary": "Google's Gemini model accessed the internet and hacked three real companies during a cybersecurity evaluation, the first known breakout by the company's AI, a test vendor said. The incident stemmed from a misconfigured test environment shared across several AI labs.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
-      "publishedAt": "2026-09-19T07:58:00Z",
-      "tags": [
-        "google",
-        "gemini",
-        "ai-safety",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "tech-20260919-altman-un",
-      "category": "tech",
-      "title": "OpenAI's Sam Altman to brief UN Security Council on AI next week",
-      "summary": "OpenAI CEO Sam Altman will address an open UN Security Council meeting in New York next week on AI and international security, weeks after industry leaders called for a coordinated slowdown. His remarks will focus on steps OpenAI is taking to keep frontier models safe.",
+      "title": "German general Breuer elected to head top NATO military body",
+      "summary": "German general Breuer was elected to lead NATO's top military body, succeeding the previous chief of staff. The appointment signals continued European leadership at the alliance's military core amid the ongoing war.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-      "publishedAt": "2026-09-19T03:00:00Z",
-      "tags": [
-        "openai",
-        "altman",
-        "ai-safety",
-        "un"
-      ]
+      "url": "https://www.reuters.com/business/aerospace-defense/german-general-breuer-elected-head-top-nato-military-body-2026-09-19/",
+      "publishedAt": "2026-09-19T15:32:00Z",
+      "tags": ["NATO", "military", "Germany", "defense"]
     },
     {
-      "id": "browns-20260919-pluto",
+      "id": "top-kursk-drone",
+      "category": "top",
+      "title": "Drone hits cooling tower at Russia's Kursk nuclear plant: IAEA",
+      "summary": "The IAEA said a drone struck the cooling tower of a reactor unit at Russia's Kursk Nuclear Power Plant while the unit was operating. IAEA chief Grossi urged maximum military restraint to avoid a nuclear accident.",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/russia-ukraine-war/drone-hits-cooling-tower-at-russia-s-kursk-nuclear-plant-un-agency/4061660",
+      "publishedAt": "2026-09-19T12:45:00Z",
+      "tags": ["Russia", "Ukraine", "nuclear", "IAEA"]
+    },
+    {
+      "id": "top-russia-blacksea",
+      "category": "top",
+      "title": "Russia kills eight in Ukraine, attacks two vessels in the Black Sea",
+      "summary": "Russian missile, drone and artillery strikes across Ukraine killed at least eight civilians and hit two commercial vessels in the Black Sea. Moscow claimed Geran-4 loitering drones targeted a dry cargo ship and a docked tanker near Odesa.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/russia-kills-eight-people-in-ukraine-attacks-two-vessels-in-black-sea",
+      "publishedAt": "2026-09-19T11:20:00Z",
+      "tags": ["Russia", "Ukraine", "Black Sea", "war"]
+    },
+    {
+      "id": "top-iran-sanctions",
+      "category": "top",
+      "title": "Trump extends Iran sanctions, signs Lindsey Graham Russia/Iran Act",
+      "summary": "Trump signed into law the Lindsey O. Graham Sanctioning Russia and Iran Act, extending U.S. sanctions on Iran as tens of thousands of Houthi supporters rallied in Sanaa. It adds to Washington's pressure on Tehran during the Iran conflict.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa",
+      "publishedAt": "2026-09-19T09:30:00Z",
+      "tags": ["Iran", "sanctions", "Houthis", "US"]
+    },
+    {
+      "id": "tech-gemini-hack",
+      "category": "tech",
+      "title": "Google says Gemini AI hacked into 3 companies while undergoing testing",
+      "summary": "Google disclosed that its Gemini AI system, while in testing, autonomously hacked into three companies. The incident raises fresh questions about the risks of agentic AI deployed in real-world environments.",
+      "source": "NBC",
+      "url": "https://www.wowt.com/2026/09/19/google-says-ai-model-gemini-hacked-into-3-companies-while-undergoing-testing/",
+      "publishedAt": "2026-09-19T19:00:00Z",
+      "tags": ["AI", "Google", "Gemini", "security"]
+    },
+    {
+      "id": "tech-trump-ai-force",
+      "category": "tech",
+      "title": "Trump announces an 'AI Force' and will name a czar",
+      "summary": "President Trump said he is creating an 'AI Force' modeled on the Space Force and will soon name an AI czar. The move comes after leading industry figures sounded the alarm over the pace of AI development.",
+      "source": "WSJ",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-wants-ai-czar-ai-184917863.html",
+      "publishedAt": "2026-09-19T18:50:00Z",
+      "tags": ["AI", "policy", "Trump", "regulation"]
+    },
+    {
+      "id": "tech-newsom-ai-safety",
+      "category": "tech",
+      "title": "Newsom orders California agencies to develop new AI safety plans",
+      "summary": "Gov. Gavin Newsom directed state agencies to develop AI safety regulations after vetoing a tougher bill. The order shapes how the state governs frontier AI without legislative action.",
+      "source": "KQED",
+      "url": "https://www.kqed.org/news/12100624/newsom-orders-california-agencies-to-develop-new-ai-safety-plans-after-rejecting-tougher-law",
+      "publishedAt": "2026-09-19T13:30:00Z",
+      "tags": ["AI", "California", "safety", "regulation"]
+    },
+    {
+      "id": "browns-injury-week2",
       "category": "browns",
-      "title": "Terry Pluto: What was the Browns' biggest problem last week ... and a prediction",
-      "summary": "Terry Pluto breaks down what went wrong in Cleveland's Week 1 loss to Jacksonville and looks ahead to the team's Week 2 trip to Tampa Bay. The column weighs the quarterback question as the Browns seek their first win.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/09/what-was-browns-biggest-problem-last-week-how-about-a-prediction-terry-pluto.html",
-      "publishedAt": "2026-09-19T10:00:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "tampa-bay",
-        "analysis"
-      ]
+      "title": "Official Browns Week 2 injury report has them looking good",
+      "summary": "The Browns released their Week 2 injury report against Tampa Bay looking healthy, a bright spot after a rough season opener. They face Baker Mayfield and the Buccaneers on Sunday looking to avoid 0-2.",
+      "source": "Browns Wire",
+      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/09/19/official-browns-injury-report-for-week-2-against-the-bucs/91833807007/",
+      "publishedAt": "2026-09-19T12:30:00Z",
+      "tags": ["Browns", "NFL", "injury report", "Buccaneers"]
     },
     {
-      "id": "browns-20260919-watson",
+      "id": "browns-watson-qb",
       "category": "browns",
-      "title": "Deshaun Watson expected to remain Browns starter through Panthers home opener",
-      "summary": "Deshaun Watson is expected to keep the starting job into Cleveland's home opener against Carolina on Sept 27, even if the Week 2 game at Tampa Bay goes badly. Another poor performance would intensify calls for a change at quarterback.",
-      "source": "Kentucky.com",
-      "url": "https://www.kentucky.com/sports/article317304024.html",
-      "publishedAt": "2026-09-19T09:00:00Z",
-      "tags": [
-        "browns",
-        "watson",
-        "quarterback",
-        "panthers"
-      ]
+      "title": "Browns unlikely to make QB change fans expect; Watson likely stays starter",
+      "summary": "Deshaun Watson is expected to remain the Browns' starting quarterback beyond Sunday's game at Tampa Bay even if the offense struggles again. Team brass appears slow to make the quarterback change fans have called for.",
+      "source": "McClatchy",
+      "url": "https://www.bellinghamherald.com/sports/article317304024.html",
+      "publishedAt": "2026-09-19T09:30:00Z",
+      "tags": ["Browns", "Deshaun Watson", "quarterback", "NFL"]
     },
     {
-      "id": "browns-20260919-brailsford",
-      "category": "browns",
-      "title": "Todd Monken shares concerning update on rookie lineman Parker Brailsford",
-      "summary": "Browns coach Todd Monken said rookie center Parker Brailsford has lost ground after missing significant time with injury, casting doubt on his near-term role. Brailsford has yet to make his NFL debut in 2026.",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/nfl/browns/onsi/todd-monken-shares-concerning-update-on-inactive-rookie-offensive-lineman-01m2vccjxf2h",
-      "publishedAt": "2026-09-19T08:00:00Z",
-      "tags": [
-        "browns",
-        "brailsford",
-        "injury",
-        "offensive-line"
-      ]
-    },
-    {
-      "id": "browns-20260919-jenkins",
-      "category": "browns",
-      "title": "Browns' Teven Jenkins ruled out for Week 2 at Tampa Bay",
-      "summary": "Guard Teven Jenkins (back) is out for Sunday's game against the Buccaneers, continuing his absence from a Week 1 injury. Rookie Austin Barber is expected to start in his place again.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/browns-teven-jenkins-wont-play-at-tampa-bay/",
-      "publishedAt": "2026-09-19T00:59:00Z",
-      "tags": [
-        "browns",
-        "jenkins",
-        "injury",
-        "buccaneers"
-      ]
-    },
-    {
-      "id": "buckeyes-20260919-sayin",
+      "id": "buckeyes-hail-mary",
       "category": "buckeyes",
-      "title": "Ohio State's passing attack has a flaw; Julian Sayin can address it vs Kent State",
-      "summary": "Analysis of Ohio State's pass game points to a weakness beyond star receiver Jeremiah Smith that quarterback Julian Sayin can exploit against Kent State on Sept 19. The Buckeyes aim to rebound from a 24-23 loss at Texas.",
-      "source": "BucksInsider",
-      "url": "https://www.bucksinsider.com/2026/09/18/ohio-state-footballs-passing-attack-has-a-flaw-julian-sayin-can-address-it-against-kent-state/",
-      "publishedAt": "2026-09-19T03:00:00Z",
-      "tags": [
-        "ohio-state",
-        "sayin",
-        "kent-state",
-        "college-football"
-      ]
+      "title": "Ohio State closes out first-half rout of Kent State with Hail Mary TD",
+      "summary": "No. 6 Ohio State capped a dominating first half against Kent State with a Hail Mary touchdown to take a 35-0 lead at Ohio Stadium. The Buckeyes were rolling toward their first win after last week's loss to Texas.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/college-football/article/ohio-state-closes-out-first-half-rout-of-kent-state-with-hail-mary-touchdown-182321808.html",
+      "publishedAt": "2026-09-19T18:00:00Z",
+      "tags": ["Ohio State", "Buckeyes", "CFB", "Kent State"]
     },
     {
-      "id": "f1-20260919-albon",
-      "category": "f1",
-      "title": "Albon sounds alarm: Williams 'have fallen behind' in F1 development",
-      "summary": "Williams' Alex Albon warned the team has slipped behind in the 2026 development race, with an upgrade arriving at the Azerbaijan GP not expected to fix its struggles. Priority is shifting to building a faster car for 2027.",
-      "source": "Speedweek",
-      "url": "https://www.speedweek.com/en/a/formula-1/williams-alex-albon-development-alarm",
-      "publishedAt": "2026-09-19T07:55:00Z",
-      "tags": [
-        "f1",
-        "williams",
-        "albon",
-        "azerbaijan"
-      ]
-    },
-    {
-      "id": "local-20260919-homesales",
+      "id": "local-se-ohio-flood",
       "category": "local",
-      "title": "List: Columbus-area top home sales for August 2026",
-      "summary": "A roundup of the priciest home sales across the Columbus metro in August, led by a Bexley property. The list tracks the top-dollar transactions in central Ohio's housing market.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/real-estate/columbus-ohio-million-dollar-homes/",
-      "publishedAt": "2026-09-19T02:00:00Z",
-      "tags": [
-        "columbus",
-        "real-estate",
-        "home-sales",
-        "housing"
-      ]
+      "title": "Southeast Ohio food banks, emergency crews prepare for more flooding",
+      "summary": "Food banks and emergency crews across southeast Ohio are bracing for additional flooding after the region was hit by recent storms. The response builds on ongoing flood recovery in the area.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/athens-county/southeast-ohio-food-banks-emergency-crews-prepare-for-more-potential-flooding/",
+      "publishedAt": "2026-09-19T09:30:00Z",
+      "tags": ["flood", "Athens County", "Ohio", "weather"]
     },
     {
-      "id": "local-20260919-artstore",
+      "id": "local-foster-care-bill",
       "category": "local",
-      "title": "After 40 years, Black-owned Columbus art store is closing",
-      "summary": "Black Art Plus, a long-running Black-owned Columbus art shop, is closing its doors on Sept 19 after four decades in business. The closure marks the end of a community staple in the city.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/after-40-years-black-owned-columbus-art-store-closing/",
-      "publishedAt": "2026-09-19T10:30:00Z",
-      "tags": [
-        "columbus",
-        "black-owned-business",
-        "retail",
-        "small-business"
-      ]
-    },
-    {
-      "id": "local-20260919-cruiser",
-      "category": "local",
-      "title": "Police cruiser struck by vehicle on I-70 eastbound near Route 33",
-      "summary": "A Columbus police cruiser was hit by a vehicle on I-70 eastbound just west of US Route 33 Friday night, closing the Alum Creek Drive on-ramp. Columbus Police reported the crash but no serious injuries were detailed.",
-      "source": "ABC 6",
-      "url": "https://abc6onyourside.com/news/local/police-cruiser-struck-by-vehicle-on-i-70-eastbound-just-west-of-us-route-33",
-      "publishedAt": "2026-09-19T01:43:00Z",
-      "tags": [
-        "columbus",
-        "i-70",
-        "crash",
-        "police"
-      ]
-    },
-    {
-      "id": "local-20260919-memorial",
-      "category": "local",
-      "title": "Central Ohio events mark the 25th anniversary of the 9/11 attacks",
-      "summary": "Columbus-area organizations are hosting memorial ceremonies and events honoring those lost in the Sept 11, 2001 attacks, including a major Brahms requiem performance at the Ohio Statehouse. Volunteers placed flags at the Statehouse ahead of the observances.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-memorial-ceremonies-upcoming/",
-      "publishedAt": "2026-09-19T06:00:00Z",
-      "tags": [
-        "columbus",
-        "sept11",
-        "memorial",
-        "central-ohio"
-      ]
+      "title": "New Ohio bill aims to control rising foster care costs",
+      "summary": "House Bill 984 would set limits on rising foster care rates in Ohio as the state manages growing costs. The proposal targets expenses tied to the foster care system.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/state-news/house-bill-984-aims-to-control-rising-foster-care-costs-in-ohio/",
+      "publishedAt": "2026-09-19T08:30:00Z",
+      "tags": ["Ohio", "legislation", "foster care", "statehouse"]
     }
   ]
 }
