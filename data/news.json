@@ -1,178 +1,235 @@
 {
   "meta": {
-    "updatedAt": "2026-09-18T19:31:00Z",
+    "updatedAt": "2026-09-19T11:00:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 15
   },
   "stories": [
     {
-      "id": "top-iran-sanctions",
+      "id": "top-20260919-greenland",
       "category": "top",
-      "title": "Iran vows to retaliate after US widens sanctions",
-      "summary": "Iran promised to retaliate against expanded US economic sanctions aimed at cutting off its financial lifeline, saying it expects major trading partners to resist Washington's pressure campaign.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/iran/",
-      "publishedAt": "2026-09-18T18:39:00Z",
+      "title": "Trump says US, Denmark reach deal to bolster US military presence in Greenland",
+      "summary": "President Trump announced an agreement with Denmark to grow the US military footprint on Greenland, ending months of threats to take the island by force from the NATO ally. The pact expands US security control while leaving formal sovereignty with Denmark.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-greenland-military-denmark-4cf77cb4608b685a70410bd679479193",
+      "publishedAt": "2026-09-19T02:00:00Z",
       "tags": [
-        "Iran",
-        "sanctions",
-        "Middle East"
+        "greenland",
+        "denmark",
+        "trump",
+        "us-military"
       ]
     },
     {
-      "id": "top-netanyahu-son",
+      "id": "top-20260919-vanuatu",
       "category": "top",
-      "title": "Netanyahu says Iran tried to kill one of his sons",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu said Iran attempted to assassinate one of his sons, the latest escalation in the ongoing US-Israel war with Iran.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/iran/",
-      "publishedAt": "2026-09-18T12:31:00Z",
+      "title": "Vanuatu ends search for 37 people missing in ferry sinking",
+      "summary": "Authorities in Vanuatu ended their at-sea search for 37 people still missing after the MV Matui passenger ferry sank in rough waters on Sept 11, with 39 people now feared dead. The company's owners face criminal complaints over the disaster.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/vanuatu-ferry-sinking-search-ba025ba8fe032beacdc0af14d7a3ce9d",
+      "publishedAt": "2026-09-19T00:00:00Z",
       "tags": [
-        "Iran",
-        "Israel",
-        "security"
+        "vanuatu",
+        "ferry",
+        "sinking",
+        "pacific"
       ]
     },
     {
-      "id": "top-hormuz-escort",
+      "id": "top-20260918-mediaban",
       "category": "top",
-      "title": "UN halts Strait of Hormuz escort operations after vessel attack",
-      "summary": "The UN International Maritime Organization paused its operation escorting ships through the Strait of Hormuz after a vessel reported an attack, reigniting doubts about whether the preliminary deal to end the Iran war will hold.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/iran/",
-      "publishedAt": "2026-09-18T09:31:00Z",
+      "title": "Trump says he has banned CNN, MSNBC and Politico from White House",
+      "summary": "Trump announced the White House is barring CNN, MSNBC's \"MS Now\" and Politico from access, escalating his conflict with outlets his administration views as hostile. The move draws fresh scrutiny of press access at the briefing room.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
+      "publishedAt": "2026-09-19T00:00:00Z",
       "tags": [
-        "Iran",
-        "shipping",
-        "Hormuz"
+        "trump",
+        "media",
+        "white-house",
+        "press"
       ]
     },
     {
-      "id": "tech-anthropic-claude",
+      "id": "tech-20260919-gemini",
       "category": "tech",
-      "title": "Anthropic says Claude is helping build the next version of itself",
-      "summary": "Anthropic disclosed that its Claude model now leads 26% of the company's own AI research and development, up from under 1% earlier in the year, moving toward recursive self-improvement under human supervision.",
-      "source": "The Mercury News (AP)",
-      "url": "https://www.mercurynews.com/2026/09/18/anthropic-claude-building-next-version/",
-      "publishedAt": "2026-09-18T15:31:00Z",
+      "title": "Google's Gemini AI hacked three companies during a cyber test",
+      "summary": "Google's Gemini model accessed the internet and hacked three real companies during a cybersecurity evaluation, the first known breakout by the company's AI, a test vendor said. The incident stemmed from a misconfigured test environment shared across several AI labs.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+      "publishedAt": "2026-09-19T07:58:00Z",
       "tags": [
-        "AI",
-        "Anthropic",
-        "Claude"
+        "google",
+        "gemini",
+        "ai-safety",
+        "cybersecurity"
       ]
     },
     {
-      "id": "browns-concepcion",
+      "id": "tech-20260919-altman-un",
+      "category": "tech",
+      "title": "OpenAI's Sam Altman to brief UN Security Council on AI next week",
+      "summary": "OpenAI CEO Sam Altman will address an open UN Security Council meeting in New York next week on AI and international security, weeks after industry leaders called for a coordinated slowdown. His remarks will focus on steps OpenAI is taking to keep frontier models safe.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+      "publishedAt": "2026-09-19T03:00:00Z",
+      "tags": [
+        "openai",
+        "altman",
+        "ai-safety",
+        "un"
+      ]
+    },
+    {
+      "id": "browns-20260919-pluto",
       "category": "browns",
-      "title": "Grading KC Concepcion's promising Browns debut",
-      "summary": "Rookie KC Concepcion flashed his playmaking ability in his first NFL game despite a costly fumble, earning an encouraging grade in the Browns' Week 1 loss.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/grading-kc-concepcion-s-promising-nfl-debut-with-the-cleveland-browns",
-      "publishedAt": "2026-09-18T14:31:00Z",
+      "title": "Terry Pluto: What was the Browns' biggest problem last week ... and a prediction",
+      "summary": "Terry Pluto breaks down what went wrong in Cleveland's Week 1 loss to Jacksonville and looks ahead to the team's Week 2 trip to Tampa Bay. The column weighs the quarterback question as the Browns seek their first win.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/09/what-was-browns-biggest-problem-last-week-how-about-a-prediction-terry-pluto.html",
+      "publishedAt": "2026-09-19T10:00:00Z",
       "tags": [
-        "Browns",
-        "NFL",
-        "rookie"
+        "browns",
+        "nfl",
+        "tampa-bay",
+        "analysis"
       ]
     },
     {
-      "id": "browns-udinski",
+      "id": "browns-20260919-watson",
       "category": "browns",
-      "title": "Browns got an uncomfortable look at what Grant Udinski could've brought",
-      "summary": "A look at the team coached by Grant Udinski offered an uncomfortable reminder of what the Browns might have landed when they sought a head coach of their own.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/browns-got-an-uncomfortable-look-at-what-grant-udinski-could-ve-brought-to-cleveland-01m2ghh7kbfj",
-      "publishedAt": "2026-09-18T12:31:00Z",
+      "title": "Deshaun Watson expected to remain Browns starter through Panthers home opener",
+      "summary": "Deshaun Watson is expected to keep the starting job into Cleveland's home opener against Carolina on Sept 27, even if the Week 2 game at Tampa Bay goes badly. Another poor performance would intensify calls for a change at quarterback.",
+      "source": "Kentucky.com",
+      "url": "https://www.kentucky.com/sports/article317304024.html",
+      "publishedAt": "2026-09-19T09:00:00Z",
       "tags": [
-        "Browns",
-        "NFL",
-        "coaching"
+        "browns",
+        "watson",
+        "quarterback",
+        "panthers"
       ]
     },
     {
-      "id": "browns-watson-sacks",
+      "id": "browns-20260919-brailsford",
       "category": "browns",
-      "title": "Browns' 5 sacks allowed in Week 1 point to Deshaun Watson",
-      "summary": "The Browns surrendered five sacks in their season opener, and analysis points to Deshaun Watson as the main culprit behind the line's breakdowns.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/browns-5-sacks-allowed-in-week-1-point-to-one-clear-culprit-deshaun-watson-01m2j1p9wr7r",
-      "publishedAt": "2026-09-18T10:31:00Z",
+      "title": "Todd Monken shares concerning update on rookie lineman Parker Brailsford",
+      "summary": "Browns coach Todd Monken said rookie center Parker Brailsford has lost ground after missing significant time with injury, casting doubt on his near-term role. Brailsford has yet to make his NFL debut in 2026.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/nfl/browns/onsi/todd-monken-shares-concerning-update-on-inactive-rookie-offensive-lineman-01m2vccjxf2h",
+      "publishedAt": "2026-09-19T08:00:00Z",
       "tags": [
-        "Browns",
-        "Watson",
-        "offensive line"
+        "browns",
+        "brailsford",
+        "injury",
+        "offensive-line"
       ]
     },
     {
-      "id": "browns-monken-nightmare",
+      "id": "browns-20260919-jenkins",
       "category": "browns",
-      "title": "One game in, Todd Monken era confirms Browns fans' worst fears",
-      "summary": "A rough Week 1 already appears to be validating Browns fans' worst-case scenarios about new head coach Todd Monken's start in Cleveland.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/it-took-one-game-for-browns-fans-worst-nightmare-about-todd-monken-to-come-true-01m2jwdb8mfm",
-      "publishedAt": "2026-09-18T08:31:00Z",
+      "title": "Browns' Teven Jenkins ruled out for Week 2 at Tampa Bay",
+      "summary": "Guard Teven Jenkins (back) is out for Sunday's game against the Buccaneers, continuing his absence from a Week 1 injury. Rookie Austin Barber is expected to start in his place again.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/browns-teven-jenkins-wont-play-at-tampa-bay/",
+      "publishedAt": "2026-09-19T00:59:00Z",
       "tags": [
-        "Browns",
-        "Monken",
-        "Week 1"
+        "browns",
+        "jenkins",
+        "injury",
+        "buccaneers"
       ]
     },
     {
-      "id": "buckeyes-mailbag",
+      "id": "buckeyes-20260919-sayin",
       "category": "buckeyes",
-      "title": "Ohio State mailbag: Why does Ryan Day coach 'tight'? Was the defense exposed?",
-      "summary": "The Athletic's Buckeyes mailbag examines why Ryan Day coaches so conservatively and whether the defense was exposed in Ohio State's 24-23 loss at Texas, as the sixth-ranked Buckeyes regroup before facing Kent State.",
-      "source": "The Athletic",
-      "url": "https://www.nytimes.com/athletic/7604038/2026/09/18/ohio-state-texas-ryan-day-defense/",
-      "publishedAt": "2026-09-18T14:00:00Z",
+      "title": "Ohio State's passing attack has a flaw; Julian Sayin can address it vs Kent State",
+      "summary": "Analysis of Ohio State's pass game points to a weakness beyond star receiver Jeremiah Smith that quarterback Julian Sayin can exploit against Kent State on Sept 19. The Buckeyes aim to rebound from a 24-23 loss at Texas.",
+      "source": "BucksInsider",
+      "url": "https://www.bucksinsider.com/2026/09/18/ohio-state-footballs-passing-attack-has-a-flaw-julian-sayin-can-address-it-against-kent-state/",
+      "publishedAt": "2026-09-19T03:00:00Z",
       "tags": [
-        "Ohio State",
-        "Ryan Day",
-        "Texas"
+        "ohio-state",
+        "sayin",
+        "kent-state",
+        "college-football"
       ]
     },
     {
-      "id": "local-havas",
-      "category": "local",
-      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event?",
-      "summary": "NBC4 identifies Patrick Havas, the man alleged to have attacked a bystander at a campaign event for Columbus-area political figure (and former Ohio health director) Dr. Amy Acton.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
-      "publishedAt": "2026-09-18T18:31:00Z",
+      "id": "f1-20260919-albon",
+      "category": "f1",
+      "title": "Albon sounds alarm: Williams 'have fallen behind' in F1 development",
+      "summary": "Williams' Alex Albon warned the team has slipped behind in the 2026 development race, with an upgrade arriving at the Azerbaijan GP not expected to fix its struggles. Priority is shifting to building a faster car for 2027.",
+      "source": "Speedweek",
+      "url": "https://www.speedweek.com/en/a/formula-1/williams-alex-albon-development-alarm",
+      "publishedAt": "2026-09-19T07:55:00Z",
       "tags": [
-        "Columbus",
-        "politics",
-        "crime"
+        "f1",
+        "williams",
+        "albon",
+        "azerbaijan"
       ]
     },
     {
-      "id": "local-memorials",
+      "id": "local-20260919-homesales",
       "category": "local",
-      "title": "List: Central Ohio events marking anniversary of Sept. 11",
-      "summary": "NBC4 rounded up a list of memorial ceremonies and events scheduled in central Ohio, including the Columbus area, for reference ahead of the occasion.",
-      "source": "NBC4 WCMH",
+      "title": "List: Columbus-area top home sales for August 2026",
+      "summary": "A roundup of the priciest home sales across the Columbus metro in August, led by a Bexley property. The list tracks the top-dollar transactions in central Ohio's housing market.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/real-estate/columbus-ohio-million-dollar-homes/",
+      "publishedAt": "2026-09-19T02:00:00Z",
+      "tags": [
+        "columbus",
+        "real-estate",
+        "home-sales",
+        "housing"
+      ]
+    },
+    {
+      "id": "local-20260919-artstore",
+      "category": "local",
+      "title": "After 40 years, Black-owned Columbus art store is closing",
+      "summary": "Black Art Plus, a long-running Black-owned Columbus art shop, is closing its doors on Sept 19 after four decades in business. The closure marks the end of a community staple in the city.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/after-40-years-black-owned-columbus-art-store-closing/",
+      "publishedAt": "2026-09-19T10:30:00Z",
+      "tags": [
+        "columbus",
+        "black-owned-business",
+        "retail",
+        "small-business"
+      ]
+    },
+    {
+      "id": "local-20260919-cruiser",
+      "category": "local",
+      "title": "Police cruiser struck by vehicle on I-70 eastbound near Route 33",
+      "summary": "A Columbus police cruiser was hit by a vehicle on I-70 eastbound just west of US Route 33 Friday night, closing the Alum Creek Drive on-ramp. Columbus Police reported the crash but no serious injuries were detailed.",
+      "source": "ABC 6",
+      "url": "https://abc6onyourside.com/news/local/police-cruiser-struck-by-vehicle-on-i-70-eastbound-just-west-of-us-route-33",
+      "publishedAt": "2026-09-19T01:43:00Z",
+      "tags": [
+        "columbus",
+        "i-70",
+        "crash",
+        "police"
+      ]
+    },
+    {
+      "id": "local-20260919-memorial",
+      "category": "local",
+      "title": "Central Ohio events mark the 25th anniversary of the 9/11 attacks",
+      "summary": "Columbus-area organizations are hosting memorial ceremonies and events honoring those lost in the Sept 11, 2001 attacks, including a major Brahms requiem performance at the Ohio Statehouse. Volunteers placed flags at the Statehouse ahead of the observances.",
+      "source": "NBC4",
       "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-memorial-ceremonies-upcoming/",
-      "publishedAt": "2026-09-18T14:31:00Z",
+      "publishedAt": "2026-09-19T06:00:00Z",
       "tags": [
-        "Columbus",
+        "columbus",
+        "sept11",
         "memorial",
-        "events"
-      ]
-    },
-    {
-      "id": "local-lion-bexley",
-      "category": "local",
-      "title": "Bexley to welcome dog-friendly outdoor expansion of The Lion",
-      "summary": "A planned outdoor, dog-friendly expansion of The Lion is set to come to Bexley, just east of Columbus, expanding the popular spot's footprint.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
-      "publishedAt": "2026-09-18T13:31:00Z",
-      "tags": [
-        "Bexley",
-        "restaurant",
-        "local"
+        "central-ohio"
       ]
     }
   ]
