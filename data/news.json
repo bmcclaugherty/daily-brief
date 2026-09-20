@@ -1,91 +1,161 @@
 {
   "meta": {
-    "updatedAt": "2026-09-20T11:20:00Z",
+    "updatedAt": "2026-09-20T19:45:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 8
+    "count": 10
   },
   "stories": [
     {
-      "id": "top-ukraine-drones-moscow-20260920",
+      "id": "nk-missiles-20260920",
       "category": "top",
-      "title": "Ukraine launches over 1,000 drones at Russia in largest-ever attack on Moscow",
-      "summary": "Ukraine fired more than 1,000 drones at Russia overnight, including what Moscow called its largest attack on the capital, targeting an oil refinery and killing two people. The massed strike marks an escalation of long-range strikes deep into Russian territory.",
-      "source": "AP | Al Jazeera",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-20/ukraine-fires-over-1-000-drones-at-russia-including-largest-attack-on-moscow",
-      "publishedAt": "2026-09-20T07:23:00Z",
-      "tags": ["Ukraine", "Russia", "drones", "war"]
+      "title": "North Korea fires two ballistic missiles hours apart ahead of Trump-Xi summit",
+      "summary": "North Korea launched two short-range ballistic missiles from its Wonsan area toward the East Sea on Sunday, about three hours apart, with one flying roughly 450 km and the other more than 600 km. The tests, days before the Trump-Xi summit in Washington, are seen as Pyongyang signaling it won't back down on its weapons buildup.",
+      "source": "AP / PBS News",
+      "url": "https://www.pbs.org/newshour/world/north-korea-launches-2-ballistic-missiles-toward-the-sea-and-dials-up-pressure-on-the-u-s",
+      "publishedAt": "2026-09-20T15:39:00Z",
+      "tags": [
+        "North Korea",
+        "missiles",
+        "Trump-Xi summit",
+        "Korea"
+      ]
     },
     {
-      "id": "top-bessent-he-talks-20260920",
+      "id": "iran-war-liveblog-20260920",
       "category": "top",
-      "title": "US and China trade teams open New York talks on AI, tariffs and Iran",
-      "summary": "Treasury Secretary Scott Bessent and China's Vice Premier He Lifeng are meeting in New York to tee up potential agreements on AI, trade and critical minerals ahead of this week's Trump-Xi summit in Washington. A US-China trade truce expires on November 10.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20/",
-      "publishedAt": "2026-09-20T08:30:00Z",
-      "tags": ["US-China", "trade", "AI", "tariffs"]
+      "title": "Iran war: Tehran warns of 'painful' response if US launches new attack",
+      "summary": "In its live coverage, Al Jazeera reports Tehran is calling for an end to the war and the lifting of the US naval blockade while warning of a 'painful' response to any new American strike. The warning comes as the US-Iran conflict widens and Iran-backed Houthi attacks draw Saudi Arabia deeper into the regional war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade",
+      "publishedAt": "2026-09-20T10:00:00Z",
+      "tags": [
+        "Iran",
+        "US",
+        "Middle East",
+        "war"
+      ]
     },
     {
-      "id": "top-trump-xi-summit-20260920",
-      "category": "top",
-      "title": "Trump to host Xi in Washington on Sept 24 amid AI, Iran and trade tensions",
-      "summary": "President Trump will welcome Chinese leader Xi Jinping for his first White House visit in a decade next week, with AI regulation, the Iran war and tariff truce on the agenda. Analysts expect an extension of a diplomatic truce rather than concrete breakthroughs.",
-      "source": "Arab News",
-      "url": "https://www.arabnews.com/world/trump-to-host-xi-amid-pomp-low-expectations-3002027",
-      "publishedAt": "2026-09-20T00:45:00Z",
-      "tags": ["Trump", "Xi Jinping", "summit", "international"]
-    },
-    {
-      "id": "tech-trump-ai-force-20260920",
+      "id": "typesafe-jev-20260920",
       "category": "tech",
-      "title": "Trump says US will form an 'AI Force' and appoint an AI tsar",
-      "summary": "President Trump said his administration will form an 'AI Force' and appoint an AI tsar, pledging not to hinder the growth of the technology. The announcement comes amid intensifying warnings about frontier AI risks.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
-      "publishedAt": "2026-09-20T00:15:00Z",
-      "tags": ["AI", "policy", "Trump", "regulation"]
+      "title": "TypeSafe AI's 'Jev' decision model puts frontier AI price premium under pressure",
+      "summary": "TypeSafe AI, co-founded by ex-OpenAI researcher Diogo Almeida, launched Jev, a model that returns structured decisions instead of chat text and claims to be hundreds of times cheaper and faster than frontier models. The debut adds pricing pressure on OpenAI and Anthropic ahead of their expected public listings.",
+      "source": "The Deep View",
+      "url": "https://www.thedeepview.com/articles/jev-puts-frontier-ai-price-premium-under-pressure",
+      "publishedAt": "2026-09-20T17:53:00Z",
+      "tags": [
+        "AI",
+        "startups",
+        "efficiency",
+        "TypeSafe"
+      ]
     },
     {
-      "id": "tech-claude-chief-of-staff-20260920",
+      "id": "ai-antitrust-suit-20260920",
       "category": "tech",
-      "title": "The 'Chief of Staff' pattern for orchestrating Claude Code agents gains traction on Hacker News",
-      "summary": "A widely-shared write-up on Hacker News argues long-horizon AI coding fails less from agent skill than from ephemeral context, proposing one long-lived coordinator session to assign work and verify claims while short-lived sessions execute. It's resonating as teams scale agent orchestration.",
-      "source": "Hacker News | asyncdot.com",
-      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
-      "publishedAt": "2026-09-20T05:46:00Z",
-      "tags": ["AI", "agents", "Anthropic", "Claude Code"]
+      "title": "Anthropic, OpenAI, SpaceXAI and Google face antitrust lawsuit over AI slowdown 'agreement'",
+      "summary": "Four AI subscribers filed a proposed class-action in California accusing Anthropic, OpenAI, SpaceXAI and Google of violating antitrust law by agreeing to slow AI development. The suit points to Dario Amodei's cooperation proposal and the embedded-evaluator push as a 'self-serving' arrangement that lowers the value of paid AI subscriptions.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "publishedAt": "2026-09-20T16:00:00Z",
+      "tags": [
+        "AI",
+        "antitrust",
+        "OpenAI",
+        "Anthropic"
+      ]
     },
     {
-      "id": "browns-bucs-picks-20260920",
+      "id": "anthropic-new-model-20260920",
+      "category": "tech",
+      "title": "Anthropic reportedly weighing a new model as OpenAI's GPT-6 Astra gains momentum",
+      "summary": "Reuters reports Anthropic is considering releasing a new model to counter the traction of OpenAI's GPT-6 Astra, a move that would undercut CEO Dario Amodei's recent call to slow AI development. Any release is reportedly being weighed ahead of a potential Anthropic IPO.",
+      "source": "Reuters / IBTimes",
+      "url": "https://www.ibtimes.sg/anthropic-told-ai-labs-slow-down-now-its-weighing-another-model-openai-pulls-ahead-94014",
+      "publishedAt": "2026-09-20T12:40:00Z",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "OpenAI",
+        "GPT-6"
+      ]
+    },
+    {
+      "id": "browns-qb-eval-20260920",
       "category": "browns",
-      "title": "Browns face Buccaneers in Week 2 as both 0-1 teams look to avoid a slow start",
-      "summary": "The Cleveland Browns visit the Tampa Bay Buccaneers on Sunday as both teams try to even their record at 1-1 after rough Week 1 losses. USA TODAY's experts have locked in their picks and predictions against the spread for the matchup.",
-      "source": "USA TODAY",
-      "url": "https://www.usatoday.com/story/sports/nfl/2026/09/20/buccaneers-browns-expert-picks-predictions-week-2/91836764007/",
-      "publishedAt": "2026-09-20T10:06:00Z",
-      "tags": ["Browns", "NFL", "Buccaneers", "Week 2"]
+      "title": "Browns expected to re-evaluate Deshaun Watson, with Shedeur Sanders in line for a shot",
+      "summary": "ESPN and NFL Network report the Browns will re-examine their quarterback situation after Week 2 against Tampa Bay, with Shedeur Sanders positioned to get a chance if Deshaun Watson struggles. The game pairs Watson against Baker Mayfield, the ex-Browns QB who was traded away when Cleveland signed Watson.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/browns-qb-deshaun-watson-shedeur-sanders/",
+      "publishedAt": "2026-09-20T14:30:00Z",
+      "tags": [
+        "Browns",
+        "Deshaun Watson",
+        "Shedeur Sanders",
+        "NFL"
+      ]
     },
     {
-      "id": "buckeyes-kent-state-reaction-20260920",
+      "id": "osu-ap-poll-20260920",
       "category": "buckeyes",
-      "title": "Buckeyes postgame reaction: Ohio State blows out Kent State 59-3",
-      "summary": "The sixth-ranked Buckeyes rolled to a 59-3 win over Kent State, with Jeremiah Smith becoming Ohio State's career receiving yardage leader. Analysts unpacked what the dominant bounce-back after last week's Texas loss means going forward.",
-      "source": "BucksInsider",
-      "url": "https://www.bucksinsider.com/2026/09/19/what-we-learned-live-reactions-following-ohio-states-59-3-win-over-kent-state/",
-      "publishedAt": "2026-09-20T04:20:00Z",
-      "tags": ["Ohio State", "Buckeyes", "Kent State", "recap"]
+      "title": "Ohio State slips a spot in new AP Top 25 despite 59-3 victory",
+      "summary": "Even after a 59-3 win over Kent State, Ohio State dropped one spot in the new AP Top 25 poll, partly because Ole Miss beat LSU. Buckeyes coverage highlights a dominant defensive performance wrapping up the non-conference slate heading into Big Ten play.",
+      "source": "Scarlet and Game",
+      "url": "https://scarletandgame.com/ohio-state-buckeyes-falling-one-spot-in-new-ap-top-25-poll-misses-bigger-picture",
+      "publishedAt": "2026-09-20T16:30:00Z",
+      "tags": [
+        "Ohio State",
+        "Buckeyes",
+        "AP Top 25",
+        "Big Ten"
+      ]
     },
     {
-      "id": "local-second-man-charged-20260920",
+      "id": "osu-coaches-poll-20260920",
+      "category": "buckeyes",
+      "title": "Ohio State drops to No. 7 in coaches poll despite 59-3 win over Kent State",
+      "summary": "Ohio State fell to No. 7 in the latest US LBM Coaches Poll even after routing Kent State 59-3, slipping for a second straight week following its earlier loss at Texas. The Buckeyes now turn to the start of Big Ten play.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-drops-to-no-7-in-coaches-poll-despite-week-3-win/",
+      "publishedAt": "2026-09-20T15:00:00Z",
+      "tags": [
+        "Ohio State",
+        "Buckeyes",
+        "rankings",
+        "college football"
+      ]
+    },
+    {
+      "id": "i670-fatal-crash-20260920",
       "category": "local",
-      "title": "Second man charged in shooting involving Columbus police near Gibbard Avenue",
-      "summary": "Daniel Wagner, 22, was charged with five counts of felonious assault and four counts of felonious assault on a peace officer after an August shooting near a Northeast Columbus church where officers were investigating a drive-by and shots were fired at police. He was arraigned on a $5 million bond.",
-      "source": "10TV WBNS",
-      "url": "https://www.10tv.com/article/news/crime/second-man-charged-shooting-involving-officers-northeast-columbus-gibbard-avenue/530-893a4493-e241-4f22-ba90-bfec45dca926",
-      "publishedAt": "2026-09-19T23:25:00Z",
-      "tags": ["Columbus", "crime", "police shooting", "courts"]
+      "title": "Woman killed in multi-vehicle crash on I-670 westbound in Columbus",
+      "summary": "A 22-year-old Columbus woman, Jordan Decker, died early Sunday in a multi-vehicle crash on westbound I-670 near the State Route 315 ramp, and police say another vehicle involved may have fled the scene. Authorities are investigating the wreck.",
+      "source": "ABC6 / WSYX",
+      "url": "https://abc6onyourside.com/good-day-columbus/fatal-deadly-crash-car-accident-interstate-670-grandview-avenue-columbus-ohio-jordan-decker",
+      "publishedAt": "2026-09-20T18:00:00Z",
+      "tags": [
+        "Columbus",
+        "I-670",
+        "crash",
+        "traffic"
+      ]
+    },
+    {
+      "id": "pickaway-flood-20260920",
+      "category": "local",
+      "title": "Evacuations lifted in Pickaway County after overnight flooding",
+      "summary": "Pickaway County emergency officials lifted evacuations after heavy overnight rain caused major flooding early Sunday, with residents in the Laurelville area allowed to return once roadways reopened. Multiple central Ohio counties saw water rescues during the storms.",
+      "source": "ABC6 / WSYX",
+      "url": "https://abc6onyourside.com/news/local/flash-flooding-heavy-rain-storms-pickaway-county-ohio-evacuations-rescues-emergency-management-agency",
+      "publishedAt": "2026-09-20T14:30:00Z",
+      "tags": [
+        "Pickaway County",
+        "flooding",
+        "weather",
+        "Columbus"
+      ]
     }
   ]
 }
