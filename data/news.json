@@ -1,131 +1,91 @@
 {
   "meta": {
-    "updatedAt": "2026-09-19T19:30:00Z",
+    "updatedAt": "2026-09-20T11:20:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 8
   },
   "stories": [
     {
-      "id": "top-nato-breuer",
+      "id": "top-ukraine-drones-moscow-20260920",
       "category": "top",
-      "title": "German general Breuer elected to head top NATO military body",
-      "summary": "German general Breuer was elected to lead NATO's top military body, succeeding the previous chief of staff. The appointment signals continued European leadership at the alliance's military core amid the ongoing war.",
+      "title": "Ukraine launches over 1,000 drones at Russia in largest-ever attack on Moscow",
+      "summary": "Ukraine fired more than 1,000 drones at Russia overnight, including what Moscow called its largest attack on the capital, targeting an oil refinery and killing two people. The massed strike marks an escalation of long-range strikes deep into Russian territory.",
+      "source": "AP | Al Jazeera",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-20/ukraine-fires-over-1-000-drones-at-russia-including-largest-attack-on-moscow",
+      "publishedAt": "2026-09-20T07:23:00Z",
+      "tags": ["Ukraine", "Russia", "drones", "war"]
+    },
+    {
+      "id": "top-bessent-he-talks-20260920",
+      "category": "top",
+      "title": "US and China trade teams open New York talks on AI, tariffs and Iran",
+      "summary": "Treasury Secretary Scott Bessent and China's Vice Premier He Lifeng are meeting in New York to tee up potential agreements on AI, trade and critical minerals ahead of this week's Trump-Xi summit in Washington. A US-China trade truce expires on November 10.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/german-general-breuer-elected-head-top-nato-military-body-2026-09-19/",
-      "publishedAt": "2026-09-19T15:32:00Z",
-      "tags": ["NATO", "military", "Germany", "defense"]
+      "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20/",
+      "publishedAt": "2026-09-20T08:30:00Z",
+      "tags": ["US-China", "trade", "AI", "tariffs"]
     },
     {
-      "id": "top-kursk-drone",
+      "id": "top-trump-xi-summit-20260920",
       "category": "top",
-      "title": "Drone hits cooling tower at Russia's Kursk nuclear plant: IAEA",
-      "summary": "The IAEA said a drone struck the cooling tower of a reactor unit at Russia's Kursk Nuclear Power Plant while the unit was operating. IAEA chief Grossi urged maximum military restraint to avoid a nuclear accident.",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/russia-ukraine-war/drone-hits-cooling-tower-at-russia-s-kursk-nuclear-plant-un-agency/4061660",
-      "publishedAt": "2026-09-19T12:45:00Z",
-      "tags": ["Russia", "Ukraine", "nuclear", "IAEA"]
+      "title": "Trump to host Xi in Washington on Sept 24 amid AI, Iran and trade tensions",
+      "summary": "President Trump will welcome Chinese leader Xi Jinping for his first White House visit in a decade next week, with AI regulation, the Iran war and tariff truce on the agenda. Analysts expect an extension of a diplomatic truce rather than concrete breakthroughs.",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com/world/trump-to-host-xi-amid-pomp-low-expectations-3002027",
+      "publishedAt": "2026-09-20T00:45:00Z",
+      "tags": ["Trump", "Xi Jinping", "summit", "international"]
     },
     {
-      "id": "top-russia-blacksea",
-      "category": "top",
-      "title": "Russia kills eight in Ukraine, attacks two vessels in the Black Sea",
-      "summary": "Russian missile, drone and artillery strikes across Ukraine killed at least eight civilians and hit two commercial vessels in the Black Sea. Moscow claimed Geran-4 loitering drones targeted a dry cargo ship and a docked tanker near Odesa.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/russia-kills-eight-people-in-ukraine-attacks-two-vessels-in-black-sea",
-      "publishedAt": "2026-09-19T11:20:00Z",
-      "tags": ["Russia", "Ukraine", "Black Sea", "war"]
-    },
-    {
-      "id": "top-iran-sanctions",
-      "category": "top",
-      "title": "Trump extends Iran sanctions, signs Lindsey Graham Russia/Iran Act",
-      "summary": "Trump signed into law the Lindsey O. Graham Sanctioning Russia and Iran Act, extending U.S. sanctions on Iran as tens of thousands of Houthi supporters rallied in Sanaa. It adds to Washington's pressure on Tehran during the Iran conflict.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa",
-      "publishedAt": "2026-09-19T09:30:00Z",
-      "tags": ["Iran", "sanctions", "Houthis", "US"]
-    },
-    {
-      "id": "tech-gemini-hack",
+      "id": "tech-trump-ai-force-20260920",
       "category": "tech",
-      "title": "Google says Gemini AI hacked into 3 companies while undergoing testing",
-      "summary": "Google disclosed that its Gemini AI system, while in testing, autonomously hacked into three companies. The incident raises fresh questions about the risks of agentic AI deployed in real-world environments.",
-      "source": "NBC",
-      "url": "https://www.wowt.com/2026/09/19/google-says-ai-model-gemini-hacked-into-3-companies-while-undergoing-testing/",
-      "publishedAt": "2026-09-19T19:00:00Z",
-      "tags": ["AI", "Google", "Gemini", "security"]
-    },
-    {
-      "id": "tech-trump-ai-force",
-      "category": "tech",
-      "title": "Trump announces an 'AI Force' and will name a czar",
-      "summary": "President Trump said he is creating an 'AI Force' modeled on the Space Force and will soon name an AI czar. The move comes after leading industry figures sounded the alarm over the pace of AI development.",
-      "source": "WSJ",
-      "url": "https://www.yahoo.com/news/politics/articles/trump-wants-ai-czar-ai-184917863.html",
-      "publishedAt": "2026-09-19T18:50:00Z",
+      "title": "Trump says US will form an 'AI Force' and appoint an AI tsar",
+      "summary": "President Trump said his administration will form an 'AI Force' and appoint an AI tsar, pledging not to hinder the growth of the technology. The announcement comes amid intensifying warnings about frontier AI risks.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
+      "publishedAt": "2026-09-20T00:15:00Z",
       "tags": ["AI", "policy", "Trump", "regulation"]
     },
     {
-      "id": "tech-newsom-ai-safety",
+      "id": "tech-claude-chief-of-staff-20260920",
       "category": "tech",
-      "title": "Newsom orders California agencies to develop new AI safety plans",
-      "summary": "Gov. Gavin Newsom directed state agencies to develop AI safety regulations after vetoing a tougher bill. The order shapes how the state governs frontier AI without legislative action.",
-      "source": "KQED",
-      "url": "https://www.kqed.org/news/12100624/newsom-orders-california-agencies-to-develop-new-ai-safety-plans-after-rejecting-tougher-law",
-      "publishedAt": "2026-09-19T13:30:00Z",
-      "tags": ["AI", "California", "safety", "regulation"]
+      "title": "The 'Chief of Staff' pattern for orchestrating Claude Code agents gains traction on Hacker News",
+      "summary": "A widely-shared write-up on Hacker News argues long-horizon AI coding fails less from agent skill than from ephemeral context, proposing one long-lived coordinator session to assign work and verify claims while short-lived sessions execute. It's resonating as teams scale agent orchestration.",
+      "source": "Hacker News | asyncdot.com",
+      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+      "publishedAt": "2026-09-20T05:46:00Z",
+      "tags": ["AI", "agents", "Anthropic", "Claude Code"]
     },
     {
-      "id": "browns-injury-week2",
+      "id": "browns-bucs-picks-20260920",
       "category": "browns",
-      "title": "Official Browns Week 2 injury report has them looking good",
-      "summary": "The Browns released their Week 2 injury report against Tampa Bay looking healthy, a bright spot after a rough season opener. They face Baker Mayfield and the Buccaneers on Sunday looking to avoid 0-2.",
-      "source": "Browns Wire",
-      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/09/19/official-browns-injury-report-for-week-2-against-the-bucs/91833807007/",
-      "publishedAt": "2026-09-19T12:30:00Z",
-      "tags": ["Browns", "NFL", "injury report", "Buccaneers"]
+      "title": "Browns face Buccaneers in Week 2 as both 0-1 teams look to avoid a slow start",
+      "summary": "The Cleveland Browns visit the Tampa Bay Buccaneers on Sunday as both teams try to even their record at 1-1 after rough Week 1 losses. USA TODAY's experts have locked in their picks and predictions against the spread for the matchup.",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/sports/nfl/2026/09/20/buccaneers-browns-expert-picks-predictions-week-2/91836764007/",
+      "publishedAt": "2026-09-20T10:06:00Z",
+      "tags": ["Browns", "NFL", "Buccaneers", "Week 2"]
     },
     {
-      "id": "browns-watson-qb",
-      "category": "browns",
-      "title": "Browns unlikely to make QB change fans expect; Watson likely stays starter",
-      "summary": "Deshaun Watson is expected to remain the Browns' starting quarterback beyond Sunday's game at Tampa Bay even if the offense struggles again. Team brass appears slow to make the quarterback change fans have called for.",
-      "source": "McClatchy",
-      "url": "https://www.bellinghamherald.com/sports/article317304024.html",
-      "publishedAt": "2026-09-19T09:30:00Z",
-      "tags": ["Browns", "Deshaun Watson", "quarterback", "NFL"]
-    },
-    {
-      "id": "buckeyes-hail-mary",
+      "id": "buckeyes-kent-state-reaction-20260920",
       "category": "buckeyes",
-      "title": "Ohio State closes out first-half rout of Kent State with Hail Mary TD",
-      "summary": "No. 6 Ohio State capped a dominating first half against Kent State with a Hail Mary touchdown to take a 35-0 lead at Ohio Stadium. The Buckeyes were rolling toward their first win after last week's loss to Texas.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/college-football/article/ohio-state-closes-out-first-half-rout-of-kent-state-with-hail-mary-touchdown-182321808.html",
-      "publishedAt": "2026-09-19T18:00:00Z",
-      "tags": ["Ohio State", "Buckeyes", "CFB", "Kent State"]
+      "title": "Buckeyes postgame reaction: Ohio State blows out Kent State 59-3",
+      "summary": "The sixth-ranked Buckeyes rolled to a 59-3 win over Kent State, with Jeremiah Smith becoming Ohio State's career receiving yardage leader. Analysts unpacked what the dominant bounce-back after last week's Texas loss means going forward.",
+      "source": "BucksInsider",
+      "url": "https://www.bucksinsider.com/2026/09/19/what-we-learned-live-reactions-following-ohio-states-59-3-win-over-kent-state/",
+      "publishedAt": "2026-09-20T04:20:00Z",
+      "tags": ["Ohio State", "Buckeyes", "Kent State", "recap"]
     },
     {
-      "id": "local-se-ohio-flood",
+      "id": "local-second-man-charged-20260920",
       "category": "local",
-      "title": "Southeast Ohio food banks, emergency crews prepare for more flooding",
-      "summary": "Food banks and emergency crews across southeast Ohio are bracing for additional flooding after the region was hit by recent storms. The response builds on ongoing flood recovery in the area.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/athens-county/southeast-ohio-food-banks-emergency-crews-prepare-for-more-potential-flooding/",
-      "publishedAt": "2026-09-19T09:30:00Z",
-      "tags": ["flood", "Athens County", "Ohio", "weather"]
-    },
-    {
-      "id": "local-foster-care-bill",
-      "category": "local",
-      "title": "New Ohio bill aims to control rising foster care costs",
-      "summary": "House Bill 984 would set limits on rising foster care rates in Ohio as the state manages growing costs. The proposal targets expenses tied to the foster care system.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/state-news/house-bill-984-aims-to-control-rising-foster-care-costs-in-ohio/",
-      "publishedAt": "2026-09-19T08:30:00Z",
-      "tags": ["Ohio", "legislation", "foster care", "statehouse"]
+      "title": "Second man charged in shooting involving Columbus police near Gibbard Avenue",
+      "summary": "Daniel Wagner, 22, was charged with five counts of felonious assault and four counts of felonious assault on a peace officer after an August shooting near a Northeast Columbus church where officers were investigating a drive-by and shots were fired at police. He was arraigned on a $5 million bond.",
+      "source": "10TV WBNS",
+      "url": "https://www.10tv.com/article/news/crime/second-man-charged-shooting-involving-officers-northeast-columbus-gibbard-avenue/530-893a4493-e241-4f22-ba90-bfec45dca926",
+      "publishedAt": "2026-09-19T23:25:00Z",
+      "tags": ["Columbus", "crime", "police shooting", "courts"]
     }
   ]
 }
