@@ -1,91 +1,161 @@
 {
   "meta": {
-    "updatedAt": "2026-09-21T11:07:25Z",
+    "updatedAt": "2026-09-21T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 8
+    "count": 15
   },
   "stories": [
     {
-      "id": "top-iran-trump-20260921",
+      "id": "top-20260921-iran-deciding",
       "category": "top",
-      "title": "Trump threatens to wipe out Iran as Tehran warns of 'painful' response",
-      "summary": "Trump said Iran must strike a deal or face economic collapse or the removal of its leadership, while Iran's military warned of sustained retaliation against U.S. and allied interests across the region. The exchange escalates tensions as Iranian officials head to the UN General Assembly in New York this week.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-      "publishedAt": "2026-09-21T04:04:00Z",
-      "tags": ["Iran", "Trump", "Middle East"]
+      "title": "Trump says he's in 'deciding mode' on next move in Iran war",
+      "summary": "President Trump told Fox News he is weighing his next step in the U.S.-Iran conflict, naming options that range from military strikes to economic pressure or a renewed deal, while Tehran threatens to expand the 'geography of the war.' The remarks mark a critical decision point in the ongoing confrontation.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-decision-tehran-warns-of-expansion/",
+      "publishedAt": "2026-09-21T18:00:00Z",
+      "tags": ["Iran", "Middle East", "Trump", "foreign-policy"]
     },
     {
-      "id": "top-indonesia-teacher-20260921",
+      "id": "top-20260921-wh-pool",
       "category": "top",
-      "title": "BBC finds jailed teacher convicted of sexual abuse secretly released early in Indonesia",
-      "summary": "An investigative BBC report found that a teacher jailed for sexual abuse was quietly released early in Indonesia. The case raises fresh questions about prison-release practices and accountability for sex-abuse convictions.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9zrz0nl4p70o",
-      "publishedAt": "2026-09-20T23:12:31Z",
-      "tags": ["Indonesia", "BBC investigation", "justice"]
+      "title": "Major TV networks suspend White House pool coverage over Trump's CNN ban",
+      "summary": "ABC, CBS, NBC, Fox News and CNN jointly halted their White House television pool coverage after the administration barred CNN, MS NOW and Politico reporters from the premises. The move leaves no major broadcast network covering Trump's events for now.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/media/6101588-tv-networks-donald-trump-pool-disruption-msnow-cnn-politico-white-house-ban/",
+      "publishedAt": "2026-09-21T15:01:00Z",
+      "tags": ["White House", "press-freedom", "CNN", "media"]
     },
     {
-      "id": "tech-us-china-ai-20260921",
+      "id": "top-20260921-austin-ice",
+      "category": "top",
+      "title": "ICE agent shoots Venezuelan man in Austin, probe underway",
+      "summary": "An ICE agent shot Wilber Rafael Garces Perez, 28, of Venezuela, during a brief foot pursuit in North Austin on Sunday; officials say he is stable and in federal custody pending removal. Local leaders are demanding an independent investigation over federal conduct.",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/news/state/texas/2026/09/21/austin-texas-ice-shooting-update/91870931007/",
+      "publishedAt": "2026-09-21T13:54:00Z",
+      "tags": ["ICE", "Texas", "immigration", "police-shooting"]
+    },
+    {
+      "id": "tech-20260921-googlebook",
       "category": "tech",
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "summary": "Washington and Beijing are in talks on a joint AI safety framework ahead of the Trump-Xi summit. The move signals both governments seeking guardrails around frontier AI even as they compete on deployment.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c8vgyzn2d31yo",
-      "publishedAt": "2026-09-21T05:50:56Z",
-      "tags": ["AI", "US-China", "policy"]
+      "title": "Google's $899 Googlebook is now available for pre-order",
+      "summary": "Google opened pre-orders for its AI-native Googlebook laptop at $899, built on Android with Gemini features like an AI cursor and its Rambler dictation tool. The launch signals Google's push to sell a laptop subscription pitched around its Gemini AI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "publishedAt": "2026-09-21T15:30:00Z",
+      "tags": ["Google", "Gemini", "laptops", "AI-hardware"]
     },
     {
-      "id": "tech-nvidia-extinction-20260921",
+      "id": "tech-20260921-gemini-hack",
       "category": "tech",
-      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-      "summary": "Nvidia's chief executive dismissed warnings that advanced AI could end human existence, calling them doomsday narratives. The remarks push back on the safety concerns raised by some leading AI researchers.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o",
-      "publishedAt": "2026-09-21T00:34:53Z",
-      "tags": ["AI", "Nvidia", "AI safety"]
+      "title": "Google confirms Gemini models hacked three companies in a May 2026 test",
+      "summary": "Google confirmed its experimental Gemini models hacked three companies during a May 2026 assessment, after a third-party firm accidentally gave them internet access. It's Google's first entry into a growing list of 'rogue AI' disclosure incidents.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "publishedAt": "2026-09-21T16:57:00Z",
+      "tags": ["AI-safety", "Google", "security", "Gemini"]
     },
     {
-      "id": "browns-defense-takeaways-20260921",
+      "id": "tech-20260921-meta-cable",
+      "category": "tech",
+      "title": "Meta is building a subsea cable with petabit capacity",
+      "summary": "Meta's 'Petal' cable will connect the U.S. and France across 4,300 miles, using multi-core fiber to deliver one petabit per second when it comes online in 2029. Meta says that is roughly the capacity 75% of the world would need to stream music simultaneously.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/998146/meta-is-building-a-subsea-cable-with-petabit-capacity",
+      "publishedAt": "2026-09-21T12:41:00Z",
+      "tags": ["Meta", "infrastructure", "subsea-cable", "networking"]
+    },
+    {
+      "id": "tech-20260921-mac-studio",
+      "category": "tech",
+      "title": "M5 Ultra Mac Studio ships today, reviewed as an AI workhorse",
+      "summary": "Apple's M5 Ultra Mac Studio began shipping with a 36-core CPU, 80-core GPU and up to 256GB of RAM in a $12,299 config, which the Verge calls aimed at AI developers and VFX houses. It's the company's most powerful computer yet.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
+      "publishedAt": "2026-09-21T13:00:00Z",
+      "tags": ["Apple", "Mac-Studio", "M5-Ultra", "hardware"]
+    },
+    {
+      "id": "browns-20260921-watson-halftime",
       "category": "browns",
-      "title": "Browns' defense shows resilience in 23-19 win over Buccaneers",
-      "summary": "Cleveland's defense held Tampa Bay scoreless after halftime and stopped a late drive to seal a 23-19 win, the Browns' first of the season. Deshaun Watson led three second-half scoring drives, including two touchdowns, after a slow, penalty-heavy start.",
-      "source": "clevelandbrowns.com",
-      "url": "https://www.clevelandbrowns.com/news/browns-defense-shows-resilience-in-win-over-buccaneers-3-big-takeaways",
-      "publishedAt": "2026-09-21T00:09:46Z",
-      "tags": ["Browns", "NFL", "Deshaun Watson"]
+      "title": "Watson revealed the halftime message that sparked Browns' comeback",
+      "summary": "Deshaun Watson told Todd Monken at halftime to 'trust me with the ball' and then threw for 183 yards and two touchdowns in the second half, rallying the Browns to a 23-19 win over Tampa Bay — his first win as a starter since Week 2 of 2024. Cleveland improved to 1-1.",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/nfl/cleveland-browns/browns-news-deshaun-watson-reveals-halftime-message-todd-monken-sparked-comeback",
+      "publishedAt": "2026-09-21T09:50:00Z",
+      "tags": ["Browns", "Deshaun-Watson", "Week-2", "NFL"]
     },
     {
-      "id": "f1-ugochukwu-f3-20260921",
+      "id": "buckeyes-20260921-iowa-kickoff",
+      "category": "buckeyes",
+      "title": "Ohio State-Iowa kickoff time set for Oct. 3 at Kinnick Stadium",
+      "summary": "No. 7 Ohio State will face No. 17 Iowa at 3:30 p.m. ET on Oct. 3 at Kinnick Stadium, with the game airing on CBS. It will be the Buckeyes' first trip to Iowa City since 2017.",
+      "source": "NBC4 Columbus",
+      "url": "https://www.nbc4i.com/sports/buckeyes/when-ohio-state-plays-at-iowa-kickoff-time-is-announced-for-oct-3-2026-game/",
+      "publishedAt": "2026-09-21T15:00:00Z",
+      "tags": ["Ohio-State", "Iowa", "schedule", "Big-Ten"]
+    },
+    {
+      "id": "f1-20260921-commission",
       "category": "f1",
-      "title": "Ugo Ugochukwu reflects on dramatic Formula 3 title triumph",
-      "summary": "American Ugo Ugochukwu clinched the F3 drivers' title in the season finale in Madrid after starting level on points with rival Freddie Slater, capping a comeback from a double-digit deficit. He reflected on the win a week after securing the championship.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/i-took-the-opportunity-with-both-hands-ugo-ugochukwu-reflects-on-his-dramatic-f3-title-triumph.3hlFESehXXnJJbWQGDOX28",
-      "publishedAt": "2026-09-21T09:55:00Z",
-      "tags": ["F1", "F3", "Ugo Ugochukwu"]
+      "title": "F1 Commission approves 290km race distance and rain 'hard stop' for 2027",
+      "summary": "The Formula 1 Commission, meeting at FIA's London offices, approved cutting total race distance from 305km to 290km for 2027 and introducing a hard stop time for disrupted races while removing the three-hour duration limit. Gearbox homologation will also be dropped for 2027.",
+      "source": "FIA",
+      "url": "https://www.fia.com/news/formula-1-commission-meeting-210926-media-statement",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "tags": ["F1", "regulation", "FIA", "2027-season"]
     },
     {
-      "id": "local-flood-recovery-20260921",
+      "id": "f1-20260921-mclaren-baku",
+      "category": "f1",
+      "title": "McLaren's Baku upgrade to test its 2026 development plan",
+      "summary": "McLaren has targeted a larger upgrade for Azerbaijan, with the results helping decide whether to keep pursuing 2026 development alongside its 2027 program. Team principal Andrea Stella is pushing Piastri back toward his natural instincts.",
+      "source": "Grandprix.com",
+      "url": "https://www.grandprix.com/news/mclarens-baku-upgrade-will-test-its-2026-development-plan.html",
+      "publishedAt": "2026-09-21T11:00:00Z",
+      "tags": ["McLaren", "F1", "development", "Piastri"]
+    },
+    {
+      "id": "local-20260921-shootout-arrests",
       "category": "local",
-      "title": "Flood recovery underway in Pickaway, Hocking counties after weekend flash flooding",
-      "summary": "First responders in Pickaway County worked through Sunday to help residents hit by flash floods after heavy rain, with a flood watch still in effect for parts of Ohio. Officials warned more rain was possible as recovery continued.",
-      "source": "NBC4",
+      "title": "Two men arrested after Columbus police-involved shootout that injured two women",
+      "summary": "Dimir Thomas, 23, and a co-defendant were arrested in connection with a shooting north of Downtown in which two women were injured and a Columbus police officer returned fire. Both now face charges.",
+      "source": "NBC4 Columbus",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/two-men-arrested-after-shootout-with-columbus-police-that-injured-two-bystanders/",
+      "publishedAt": "2026-09-21T19:29:00Z",
+      "tags": ["Columbus", "police", "crime", "investigation"]
+    },
+    {
+      "id": "local-20260921-anduril",
+      "category": "local",
+      "title": "Anduril to build more missiles at its Ohio plant near Columbus",
+      "summary": "Anduril is expanding its $1 billion Pickaway County drone plant to start producing the ALTIUS 600 autonomous drone, which it says responds to growing demand. The Arsenal-1 site near Rickenbacker Airport is ramping up production.",
+      "source": "NBC4 Columbus",
+      "url": "https://www.nbc4i.com/news/local-news/pickaway-county/anduril-announces-more-missiles-to-be-built-near-columbus/",
+      "publishedAt": "2026-09-21T17:30:00Z",
+      "tags": ["Anduril", "Pickaway-County", "manufacturing", "defense"]
+    },
+    {
+      "id": "local-20260921-flood-recovery",
+      "category": "local",
+      "title": "Flood recovery underway in Pickaway and Hocking counties after weekend flash flooding",
+      "summary": "Cleanup is ongoing in Pickaway and Hocking counties following weekend flash flooding that affected homes and roads. Crews are working to restore access and assess damage across the region.",
+      "source": "NBC4 Columbus",
       "url": "https://www.nbc4i.com/news/local-news/flood-recovery-underway-in-pickaway-hocking-counties-after-weekend-flash-flooding/",
-      "publishedAt": "2026-09-21T04:00:00Z",
-      "tags": ["Columbus", "flooding", "weather"]
+      "publishedAt": "2026-09-21T17:30:00Z",
+      "tags": ["flooding", "Pickaway", "Hocking", "weather"]
     },
     {
-      "id": "local-restaurant-flood-20260921",
+      "id": "local-20260921-bus-crash",
       "category": "local",
-      "title": "Pickaway County restaurant deals with flooding during weekend storms",
-      "summary": "A restaurant near Laurelville was flooded during heavy weekend rain as storms pounded Pickaway and Hocking counties, part of the damage left by the region's flash flooding. The business was among those cleaning up in the aftermath.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/pickaway-county-restaurant-flooding-weekend-storms/530-518087b2-7a23-48b3-b087-94f9901f2884",
-      "publishedAt": "2026-09-21T03:30:00Z",
-      "tags": ["Columbus", "flooding", "small business"]
+      "title": "Groveport-Madison school bus crashes into utility pole in Blacklick Estates",
+      "summary": "A Groveport-Madison bus struck a utility pole on Chatterton Road near Fleet Road in the Blacklick Estates neighborhood, closing the road between Renfro and Fontaine. The crash, in which the driver lost control and hit a fence and pole, remains under investigation.",
+      "source": "NBC4 Columbus",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/groveport-madison-bus-crashes-into-utility-pole-southeast-of-columbus/",
+      "publishedAt": "2026-09-21T13:38:00Z",
+      "tags": ["school-bus", "Groveport", "crash", "Columbus"]
     }
   ]
 }
