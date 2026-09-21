@@ -1,161 +1,91 @@
 {
   "meta": {
-    "updatedAt": "2026-09-20T19:45:00Z",
+    "updatedAt": "2026-09-21T11:07:25Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 10
+    "count": 8
   },
   "stories": [
     {
-      "id": "nk-missiles-20260920",
+      "id": "top-iran-trump-20260921",
       "category": "top",
-      "title": "North Korea fires two ballistic missiles hours apart ahead of Trump-Xi summit",
-      "summary": "North Korea launched two short-range ballistic missiles from its Wonsan area toward the East Sea on Sunday, about three hours apart, with one flying roughly 450 km and the other more than 600 km. The tests, days before the Trump-Xi summit in Washington, are seen as Pyongyang signaling it won't back down on its weapons buildup.",
-      "source": "AP / PBS News",
-      "url": "https://www.pbs.org/newshour/world/north-korea-launches-2-ballistic-missiles-toward-the-sea-and-dials-up-pressure-on-the-u-s",
-      "publishedAt": "2026-09-20T15:39:00Z",
-      "tags": [
-        "North Korea",
-        "missiles",
-        "Trump-Xi summit",
-        "Korea"
-      ]
+      "title": "Trump threatens to wipe out Iran as Tehran warns of 'painful' response",
+      "summary": "Trump said Iran must strike a deal or face economic collapse or the removal of its leadership, while Iran's military warned of sustained retaliation against U.S. and allied interests across the region. The exchange escalates tensions as Iranian officials head to the UN General Assembly in New York this week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+      "publishedAt": "2026-09-21T04:04:00Z",
+      "tags": ["Iran", "Trump", "Middle East"]
     },
     {
-      "id": "iran-war-liveblog-20260920",
+      "id": "top-indonesia-teacher-20260921",
       "category": "top",
-      "title": "Iran war: Tehran warns of 'painful' response if US launches new attack",
-      "summary": "In its live coverage, Al Jazeera reports Tehran is calling for an end to the war and the lifting of the US naval blockade while warning of a 'painful' response to any new American strike. The warning comes as the US-Iran conflict widens and Iran-backed Houthi attacks draw Saudi Arabia deeper into the regional war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade",
-      "publishedAt": "2026-09-20T10:00:00Z",
-      "tags": [
-        "Iran",
-        "US",
-        "Middle East",
-        "war"
-      ]
+      "title": "BBC finds jailed teacher convicted of sexual abuse secretly released early in Indonesia",
+      "summary": "An investigative BBC report found that a teacher jailed for sexual abuse was quietly released early in Indonesia. The case raises fresh questions about prison-release practices and accountability for sex-abuse convictions.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c9zrz0nl4p70o",
+      "publishedAt": "2026-09-20T23:12:31Z",
+      "tags": ["Indonesia", "BBC investigation", "justice"]
     },
     {
-      "id": "typesafe-jev-20260920",
+      "id": "tech-us-china-ai-20260921",
       "category": "tech",
-      "title": "TypeSafe AI's 'Jev' decision model puts frontier AI price premium under pressure",
-      "summary": "TypeSafe AI, co-founded by ex-OpenAI researcher Diogo Almeida, launched Jev, a model that returns structured decisions instead of chat text and claims to be hundreds of times cheaper and faster than frontier models. The debut adds pricing pressure on OpenAI and Anthropic ahead of their expected public listings.",
-      "source": "The Deep View",
-      "url": "https://www.thedeepview.com/articles/jev-puts-frontier-ai-price-premium-under-pressure",
-      "publishedAt": "2026-09-20T17:53:00Z",
-      "tags": [
-        "AI",
-        "startups",
-        "efficiency",
-        "TypeSafe"
-      ]
+      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "summary": "Washington and Beijing are in talks on a joint AI safety framework ahead of the Trump-Xi summit. The move signals both governments seeking guardrails around frontier AI even as they compete on deployment.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c8vgyzn2d31yo",
+      "publishedAt": "2026-09-21T05:50:56Z",
+      "tags": ["AI", "US-China", "policy"]
     },
     {
-      "id": "ai-antitrust-suit-20260920",
+      "id": "tech-nvidia-extinction-20260921",
       "category": "tech",
-      "title": "Anthropic, OpenAI, SpaceXAI and Google face antitrust lawsuit over AI slowdown 'agreement'",
-      "summary": "Four AI subscribers filed a proposed class-action in California accusing Anthropic, OpenAI, SpaceXAI and Google of violating antitrust law by agreeing to slow AI development. The suit points to Dario Amodei's cooperation proposal and the embedded-evaluator push as a 'self-serving' arrangement that lowers the value of paid AI subscriptions.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
-      "publishedAt": "2026-09-20T16:00:00Z",
-      "tags": [
-        "AI",
-        "antitrust",
-        "OpenAI",
-        "Anthropic"
-      ]
+      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+      "summary": "Nvidia's chief executive dismissed warnings that advanced AI could end human existence, calling them doomsday narratives. The remarks push back on the safety concerns raised by some leading AI researchers.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o",
+      "publishedAt": "2026-09-21T00:34:53Z",
+      "tags": ["AI", "Nvidia", "AI safety"]
     },
     {
-      "id": "anthropic-new-model-20260920",
-      "category": "tech",
-      "title": "Anthropic reportedly weighing a new model as OpenAI's GPT-6 Astra gains momentum",
-      "summary": "Reuters reports Anthropic is considering releasing a new model to counter the traction of OpenAI's GPT-6 Astra, a move that would undercut CEO Dario Amodei's recent call to slow AI development. Any release is reportedly being weighed ahead of a potential Anthropic IPO.",
-      "source": "Reuters / IBTimes",
-      "url": "https://www.ibtimes.sg/anthropic-told-ai-labs-slow-down-now-its-weighing-another-model-openai-pulls-ahead-94014",
-      "publishedAt": "2026-09-20T12:40:00Z",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "OpenAI",
-        "GPT-6"
-      ]
-    },
-    {
-      "id": "browns-qb-eval-20260920",
+      "id": "browns-defense-takeaways-20260921",
       "category": "browns",
-      "title": "Browns expected to re-evaluate Deshaun Watson, with Shedeur Sanders in line for a shot",
-      "summary": "ESPN and NFL Network report the Browns will re-examine their quarterback situation after Week 2 against Tampa Bay, with Shedeur Sanders positioned to get a chance if Deshaun Watson struggles. The game pairs Watson against Baker Mayfield, the ex-Browns QB who was traded away when Cleveland signed Watson.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/browns-qb-deshaun-watson-shedeur-sanders/",
-      "publishedAt": "2026-09-20T14:30:00Z",
-      "tags": [
-        "Browns",
-        "Deshaun Watson",
-        "Shedeur Sanders",
-        "NFL"
-      ]
+      "title": "Browns' defense shows resilience in 23-19 win over Buccaneers",
+      "summary": "Cleveland's defense held Tampa Bay scoreless after halftime and stopped a late drive to seal a 23-19 win, the Browns' first of the season. Deshaun Watson led three second-half scoring drives, including two touchdowns, after a slow, penalty-heavy start.",
+      "source": "clevelandbrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/browns-defense-shows-resilience-in-win-over-buccaneers-3-big-takeaways",
+      "publishedAt": "2026-09-21T00:09:46Z",
+      "tags": ["Browns", "NFL", "Deshaun Watson"]
     },
     {
-      "id": "osu-ap-poll-20260920",
-      "category": "buckeyes",
-      "title": "Ohio State slips a spot in new AP Top 25 despite 59-3 victory",
-      "summary": "Even after a 59-3 win over Kent State, Ohio State dropped one spot in the new AP Top 25 poll, partly because Ole Miss beat LSU. Buckeyes coverage highlights a dominant defensive performance wrapping up the non-conference slate heading into Big Ten play.",
-      "source": "Scarlet and Game",
-      "url": "https://scarletandgame.com/ohio-state-buckeyes-falling-one-spot-in-new-ap-top-25-poll-misses-bigger-picture",
-      "publishedAt": "2026-09-20T16:30:00Z",
-      "tags": [
-        "Ohio State",
-        "Buckeyes",
-        "AP Top 25",
-        "Big Ten"
-      ]
+      "id": "f1-ugochukwu-f3-20260921",
+      "category": "f1",
+      "title": "Ugo Ugochukwu reflects on dramatic Formula 3 title triumph",
+      "summary": "American Ugo Ugochukwu clinched the F3 drivers' title in the season finale in Madrid after starting level on points with rival Freddie Slater, capping a comeback from a double-digit deficit. He reflected on the win a week after securing the championship.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/i-took-the-opportunity-with-both-hands-ugo-ugochukwu-reflects-on-his-dramatic-f3-title-triumph.3hlFESehXXnJJbWQGDOX28",
+      "publishedAt": "2026-09-21T09:55:00Z",
+      "tags": ["F1", "F3", "Ugo Ugochukwu"]
     },
     {
-      "id": "osu-coaches-poll-20260920",
-      "category": "buckeyes",
-      "title": "Ohio State drops to No. 7 in coaches poll despite 59-3 win over Kent State",
-      "summary": "Ohio State fell to No. 7 in the latest US LBM Coaches Poll even after routing Kent State 59-3, slipping for a second straight week following its earlier loss at Texas. The Buckeyes now turn to the start of Big Ten play.",
+      "id": "local-flood-recovery-20260921",
+      "category": "local",
+      "title": "Flood recovery underway in Pickaway, Hocking counties after weekend flash flooding",
+      "summary": "First responders in Pickaway County worked through Sunday to help residents hit by flash floods after heavy rain, with a flood watch still in effect for parts of Ohio. Officials warned more rain was possible as recovery continued.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-drops-to-no-7-in-coaches-poll-despite-week-3-win/",
-      "publishedAt": "2026-09-20T15:00:00Z",
-      "tags": [
-        "Ohio State",
-        "Buckeyes",
-        "rankings",
-        "college football"
-      ]
+      "url": "https://www.nbc4i.com/news/local-news/flood-recovery-underway-in-pickaway-hocking-counties-after-weekend-flash-flooding/",
+      "publishedAt": "2026-09-21T04:00:00Z",
+      "tags": ["Columbus", "flooding", "weather"]
     },
     {
-      "id": "i670-fatal-crash-20260920",
+      "id": "local-restaurant-flood-20260921",
       "category": "local",
-      "title": "Woman killed in multi-vehicle crash on I-670 westbound in Columbus",
-      "summary": "A 22-year-old Columbus woman, Jordan Decker, died early Sunday in a multi-vehicle crash on westbound I-670 near the State Route 315 ramp, and police say another vehicle involved may have fled the scene. Authorities are investigating the wreck.",
-      "source": "ABC6 / WSYX",
-      "url": "https://abc6onyourside.com/good-day-columbus/fatal-deadly-crash-car-accident-interstate-670-grandview-avenue-columbus-ohio-jordan-decker",
-      "publishedAt": "2026-09-20T18:00:00Z",
-      "tags": [
-        "Columbus",
-        "I-670",
-        "crash",
-        "traffic"
-      ]
-    },
-    {
-      "id": "pickaway-flood-20260920",
-      "category": "local",
-      "title": "Evacuations lifted in Pickaway County after overnight flooding",
-      "summary": "Pickaway County emergency officials lifted evacuations after heavy overnight rain caused major flooding early Sunday, with residents in the Laurelville area allowed to return once roadways reopened. Multiple central Ohio counties saw water rescues during the storms.",
-      "source": "ABC6 / WSYX",
-      "url": "https://abc6onyourside.com/news/local/flash-flooding-heavy-rain-storms-pickaway-county-ohio-evacuations-rescues-emergency-management-agency",
-      "publishedAt": "2026-09-20T14:30:00Z",
-      "tags": [
-        "Pickaway County",
-        "flooding",
-        "weather",
-        "Columbus"
-      ]
+      "title": "Pickaway County restaurant deals with flooding during weekend storms",
+      "summary": "A restaurant near Laurelville was flooded during heavy weekend rain as storms pounded Pickaway and Hocking counties, part of the damage left by the region's flash flooding. The business was among those cleaning up in the aftermath.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/pickaway-county-restaurant-flooding-weekend-storms/530-518087b2-7a23-48b3-b087-94f9901f2884",
+      "publishedAt": "2026-09-21T03:30:00Z",
+      "tags": ["Columbus", "flooding", "small business"]
     }
   ]
 }
