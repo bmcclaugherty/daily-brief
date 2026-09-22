@@ -1,322 +1,171 @@
 {
   "meta": {
-    "updatedAt": "2026-09-22T11:05:00Z",
+    "updatedAt": "2026-09-22T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 21
+    "count": 11
   },
   "stories": [
     {
-      "id": "top-1-trumpsettoaddressungeneralassemblywi",
+      "id": "top-iran-hormuz-0922",
       "category": "top",
-      "title": "Trump set to address UN General Assembly with Middle East and Ukraine on the agenda",
-      "summary": "Donald Trump is set to address the UN General Assembly with the Middle East and Ukraine on the agenda. The speech comes amid heightened tensions over Iran and the Russia-Ukraine war.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
-      "publishedAt": "2026-09-22T10:54:00Z",
+      "title": "Tehran hints at Hormuz talks with US as leaders gather at UN",
+      "summary": "Iran signalled openness to dialogue with Washington over the Strait of Hormuz as world leaders gathered at the UN, according to Reuters. Any talks could ease tensions over the critical oil shipping lane.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/tehran-hints-hormuz-talks-with-us-leaders-gather-un-2026-09-22/",
+      "publishedAt": "2026-09-22T18:30:00Z",
       "tags": [
-        "trump",
-        "unga",
-        "middle-east",
-        "ukraine"
+        "Iran",
+        "US",
+        "Middle East",
+        "Hormuz"
       ]
     },
     {
-      "id": "top-2-iransrevolutionaryguardswarntheywill",
+      "id": "top-ship-collision-0922",
       "category": "top",
-      "title": "Iran's Revolutionary Guards warn they will 'change the geography of war' if US escalates",
-      "summary": "Iran's Revolutionary Guards warned they will \"change the geography of war\" if the US escalates the conflict, per Guardian live coverage. It follows reports Iran is ready to reopen the Strait of Hormuz within seven days if the US lifts its blockade.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
-      "publishedAt": "2026-09-22T10:50:00Z",
+      "title": "Cargo ship crashes into fishing boat near Singapore",
+      "summary": "Verified footage appears to show a cargo ship colliding with a fishing boat near Singapore, with investigators still working to establish when and how the crash happened.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/cq0lr24x3ep1o",
+      "publishedAt": "2026-09-22T17:00:00Z",
       "tags": [
-        "iran",
-        "irgc",
-        "strait-of-hormuz",
-        "us-iran"
+        "Singapore",
+        "shipping",
+        "maritime safety"
       ]
     },
     {
-      "id": "top-3-lithuaniahasevacuationplansbutwouldf",
+      "id": "top-trump-xi-0922",
       "category": "top",
-      "title": "Lithuania has evacuation plans but would 'fight back' if attacked, PM tells BBC",
-      "summary": "Lithuania's PM told the BBC the Nato member has evacuation plans and \"will not surrender\" if attacked, amid threats from Russia and recurring drone incursions near Kaliningrad. He said his country would \"fight back and engage\" if it came under attack.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo",
-      "publishedAt": "2026-09-22T10:45:00Z",
+      "title": "Trump and Xi meet as tensions flare over AI, trade and Iran",
+      "summary": "US President Donald Trump and China's Xi Jinping are meeting to try to manage rising tensions over AI competition, trade and Iran while both seek stability. The AI race is a flashpoint that could strain any cooperation.",
+      "source": "AP",
+      "url": "https://apnews.com/article/trump-xi-summit-tensions-ai-competition-e560910c897fedb0448eda4cdbfdbaea",
+      "publishedAt": "2026-09-22T14:00:00Z",
       "tags": [
-        "lithuania",
-        "nato",
-        "russia",
-        "defense"
+        "US-China",
+        "diplomacy",
+        "AI race",
+        "trade"
       ]
     },
     {
-      "id": "top-4-teenagercapturedafter11shotatturkish",
-      "category": "top",
-      "title": "Teenager captured after 11 shot at Turkish high school",
-      "summary": "Police captured a teenager after 11 people were shot at a high school in Manisa, Turkey. The attack follows two deadly school shootings in April that prompted stricter gun controls for the 2026-27 academic year.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o",
-      "publishedAt": "2026-09-22T09:00:00Z",
-      "tags": [
-        "turkey",
-        "school-shooting",
-        "manisa",
-        "security"
-      ]
-    },
-    {
-      "id": "tech-1-metadealhelpsplastics-recyclingstart",
+      "id": "tech-gpt6-sol-luna-0922",
       "category": "tech",
-      "title": "Meta deal helps plastics-recycling startup MacroCycle build its first factory",
-      "summary": "A Meta deal will help plastics-recycling startup MacroCycle build its first factory. The backing funds a commercial-scale chemical-recycling facility, a step toward scaling circular-plastics production.",
+      "title": "OpenAI launches GPT-6 Sol and Luna, touting lower cost and fewer mistakes",
+      "summary": "OpenAI expanded its GPT-6 generation with updated Sol and Luna models it says are more efficient and handle tasks better than Anthropic's top models. The release came about 90 minutes after Anthropic unveiled Opus 5.5, underscoring the fierce frontier-model rivalry.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "publishedAt": "2026-09-22T16:30:00Z",
+      "tags": [
+        "OpenAI",
+        "GPT-6",
+        "LLM",
+        "AI models"
+      ]
+    },
+    {
+      "id": "tech-opus-5-5-0922",
+      "category": "tech",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic's Opus 5.5 sets a new state of the art in coding and knowledge work at lower prices, according to the company. It is the second Opus update in about two months, and Anthropic says it is building infrastructure to support demand.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "publishedAt": "2026-09-22T15:00:00Z",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "LLM",
+        "AI models"
+      ]
+    },
+    {
+      "id": "browns-judkins-run-0922",
+      "category": "browns",
+      "title": "Quinshon Judkins not worried about the Browns' run game yet",
+      "summary": "Browns running back Quinshon Judkins downplayed concerns about the struggling ground game, saying the unit is still building familiarity together. Through two games Cleveland's leading rusher is Deshaun Watson with 60 yards and the team averages 2.9 yards per carry.",
+      "source": "Browns Wire",
+      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/09/22/quinshon-judkins-not-worried-about-the-browns-run-after-week-2/91883629007/",
+      "publishedAt": "2026-09-22T15:30:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "running game"
+      ]
+    },
+    {
+      "id": "buckeyes-sayin-day-0922",
+      "category": "buckeyes",
+      "title": "Ryan Day challenges Julian Sayin before Big Ten opener vs Illinois",
+      "summary": "Ohio State coach Ryan Day is pushing quarterback Julian Sayin for more consistency and a wider spread of targets ahead of Saturday's Big Ten opener against Illinois. Sayin has passed for 839 yards and six touchdowns, but nearly a third of his attempts have gone to Jeremiah Smith.",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/ohio-state-football-news-ryan-day-challenges-julian-sayin-before-big-ten-opener-vs-illinois",
+      "publishedAt": "2026-09-22T17:47:00Z",
+      "tags": [
+        "Ohio State",
+        "Big Ten",
+        "Illinois",
+        "Julian Sayin"
+      ]
+    },
+    {
+      "id": "f1-azerbaijan-raceweek-0922",
+      "category": "f1",
+      "title": "5 storylines ahead of the 2026 Azerbaijan Grand Prix",
+      "summary": "Formula 1 previews five storylines for this weekend's Azerbaijan Grand Prix in Baku, including a possible return for Red Bull's Isack Hadjar and a bumper Formula 2 supporting round. Red Bull says it will not rush Hadjar's recovery.",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-azerbaijan-grand-prix.6l5UWWsSVJdtKOpR8KDSzZ",
       "publishedAt": "2026-09-22T11:00:00Z",
       "tags": [
-        "meta",
-        "recycling",
-        "startup",
-        "plastics"
+        "F1",
+        "Azerbaijan GP",
+        "Red Bull",
+        "race week"
       ]
     },
     {
-      "id": "tech-2-newtooluncoversmalwarerunbyanaihivem",
-      "category": "tech",
-      "title": "New tool uncovers malware run by an AI 'hive mind' with no humans in sight",
-      "summary": "A new tool found malware directed by an autonomous AI command system, with no humans coordinating it. It highlights an emerging threat of AI-orchestrated attacks operating without a human operator.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
-      "publishedAt": "2026-09-22T10:00:00Z",
-      "tags": [
-        "malware",
-        "ai",
-        "security"
-      ]
-    },
-    {
-      "id": "tech-3-newaimodelaimstounlocksecretsintatte",
-      "category": "tech",
-      "title": "New AI model aims to unlock secrets in tattered ancient Greek records",
-      "summary": "A new AI model is being used to decipher damaged ancient Greek papyrus. The tool could unlock historical texts that have resisted traditional reading methods.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-      "publishedAt": "2026-09-22T09:30:00Z",
-      "tags": [
-        "ai",
-        "archaeology",
-        "papyrus",
-        "nlp"
-      ]
-    },
-    {
-      "id": "tech-4-studyyoungusersaged9-18areditchinggo",
-      "category": "tech",
-      "title": "Study: young users aged 9-18 are ditching Google for AI, with unknown consequences",
-      "summary": "A Norwegian study reports users aged 9-18 are giving up Google in favor of AI tools, with the consequences still unclear. It signals a shift in how the next generation seeks out information.",
-      "source": "Norwegian SciTech News",
-      "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
-      "publishedAt": "2026-09-22T09:18:00Z",
-      "tags": [
-        "ai",
-        "google",
-        "search",
-        "youth"
-      ]
-    },
-    {
-      "id": "browns-1-pffgradesbrownsrookieshighlyboston2n",
-      "category": "browns",
-      "title": "PFF grades Browns rookies highly: Boston 2nd, Concepcion 4th among rookie WRs",
-      "summary": "PFF grading ranks Browns rookie wide receivers Denzel Boston 2nd (74.3) and KC Concepcion 4th (67.7) in receiving grade, with rookie linemen Austin Barber 1st and Spencer Fano 3rd in pass blocking. The numbers point to a productive rookie class through the early season.",
-      "source": "r/Browns",
-      "url": "https://www.reddit.com/r/Browns/comments/1wmwiw9/pff_browns_notable_rookie_grade_ranks_receiving/",
-      "publishedAt": "2026-09-22T02:03:00Z",
-      "tags": [
-        "browns",
-        "pff",
-        "rookies",
-        "nfl"
-      ]
-    },
-    {
-      "id": "buckeyes-1-skullsessionohiostatebeatkentstateth",
-      "category": "buckeyes",
-      "title": "Skull Session: Ohio State beat Kent State that bad, John Mateer admits OU fans helped him",
-      "summary": "Eleven Warriors' morning roundup recaps Ohio State's dominant 59-3 win over Kent State, including standout performances and John Mateer acknowledging Oklahoma fans helped in his development. The segment also looks ahead in the Buckeyes' season.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/skull-sessions/2026/09/164078/skull-session-ohio-state-really-beat-kent-state-that-bad-john-mateer-admits-oklahoma-fans-helped-him-find-a-wide-open",
-      "publishedAt": "2026-09-22T04:55:00Z",
-      "tags": [
-        "ohio-state",
-        "buckeyes",
-        "football"
-      ]
-    },
-    {
-      "id": "buckeyes-2-on3oneobservationoneveryohiostatebas",
-      "category": "buckeyes",
-      "title": "On3: one observation on every Ohio State basketball player from first official practice",
-      "summary": "On3 offers a read on every Ohio State basketball player from the Buckeyes' first official practice of the season. It gives early impressions of the 2026-27 roster as the season approaches.",
-      "source": "On3",
-      "url": "https://www.on3.com/teams/ohio-state-buckeyes/news/ohio-state-basketball-first-official-practice-observations-thoughts-antho",
-      "publishedAt": "2026-09-21T23:42:00Z",
-      "tags": [
-        "ohio-state",
-        "buckeyes",
-        "basketball"
-      ]
-    },
-    {
-      "id": "f1-1-whereeveryredbulldriverstandsasisack",
-      "category": "f1",
-      "title": "Where every Red Bull driver stands as Isack Hadjar returns",
-      "summary": "With Isack Hadjar back from his wrist injury, analysis examines where each Red Bull driver stands after three races with stand-ins. Red Bull's first-choice 2026 line-up is back in place for this weekend's Azerbaijan Grand Prix.",
-      "source": "The Race",
-      "url": "https://www.the-race.com/formula-1/isack-hadjar-injury-return-where-every-red-bull-f1-driver-stands/",
-      "publishedAt": "2026-09-22T10:00:00Z",
-      "tags": [
-        "f1",
-        "red-bull",
-        "hadjar",
-        "azerbaijan-gp"
-      ]
-    },
-    {
-      "id": "f1-2-isackhadjarsettomakeredbullreturnata",
-      "category": "f1",
-      "title": "Isack Hadjar set to make Red Bull return at Azerbaijan GP after injury",
-      "summary": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a fractured wrist, with Liam Lawson understood to move back. It restores Red Bull's full-strength driver line-up.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/hadjar-to-make-red-bull-return-in-baku/10857880/",
-      "publishedAt": "2026-09-22T08:33:00Z",
-      "tags": [
-        "f1",
-        "red-bull",
-        "hadjar",
-        "lawson"
-      ]
-    },
-    {
-      "id": "f1-3-whyismonacostagingasprintracef1qa",
-      "category": "f1",
-      "title": "Why is Monaco staging a sprint race? F1 Q&A",
-      "summary": "F1 explains why Monaco is staging a sprint race as part of this season's schedule. The format change adds a sprint round at a circuit not known for overtaking.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do",
-      "publishedAt": "2026-09-22T06:38:00Z",
-      "tags": [
-        "f1",
-        "monaco",
-        "sprint",
-        "format"
-      ]
-    },
-    {
-      "id": "f1-4-azerbaijangrandprixtalkingpointssatu",
-      "category": "f1",
-      "title": "Azerbaijan Grand Prix talking points: Saturday race, Williams upgrade, fading title fight",
-      "summary": "Six talking points for the Azerbaijan Grand Prix, including the move to a Saturday race, Williams' big upgrade, and a fading title fight. F1 begins nine rounds in eleven weeks to close the season.",
-      "source": "RaceFans",
-      "url": "https://www.racefans.net/2026/09/22/saturday-race-title-fight-fades-williams-big-upgrade-and-more-azerbaijan-gp-talking-points/",
-      "publishedAt": "2026-09-22T06:15:00Z",
-      "tags": [
-        "f1",
-        "azerbaijan-gp",
-        "williams",
-        "season"
-      ]
-    },
-    {
-      "id": "tarkov-1-playersreportantiquehatchetsgonefrom",
+      "id": "tarkov-bsg-publisher-0922",
       "category": "tarkov",
-      "title": "Players report antique hatchets gone from scavs",
-      "summary": "Players are reporting that antique hatchets no longer appear on scavs in Escape from Tarkov, sparking discussion over a possible loot change. The thread gathers reports to figure out whether the drop was removed.",
-      "source": "r/EscapefromTarkov",
-      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1wn4czk/discussion_antique_hatchets_gone_from_scavs/",
-      "publishedAt": "2026-09-22T09:09:00Z",
+      "title": "Escape from Tarkov dev explains launch of a publishing house",
+      "summary": "Battlestate Games founder Nikita Buyanov explained why the studio opened a publishing house to back riskier projects, per ixbt.games. The move signals the developer is extending beyond Escape from Tarkov.",
+      "source": "IXBT Games",
+      "url": "https://ixbt.games/en/news/2026/09/22/nikita-buianov-obieiasnil-pocemu-sozdateli-escape-from-tarkov-otkryli-izdatelstvo-dlia-vypuska-riskovannyx-igr.html",
+      "publishedAt": "2026-09-22T14:20:00Z",
       "tags": [
-        "tarkov",
-        "loot",
-        "scavs",
-        "changes"
+        "Escape from Tarkov",
+        "Battlestate",
+        "gaming industry"
       ]
     },
     {
-      "id": "tarkov-2-playersaskwhylighthouseraidsarecomin",
-      "category": "tarkov",
-      "title": "Players ask why Lighthouse raids are coming up empty",
-      "summary": "Escape from Tarkov players are discussing why Lighthouse raids are turning up empty and questioning the experience. It highlights frustrations over raid population and matchmaking on less-used maps.",
-      "source": "r/EscapefromTarkov",
-      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1wmtoxi/discussion_is_this_why_all_of_my_lighthouse_raids/",
-      "publishedAt": "2026-09-21T23:56:00Z",
-      "tags": [
-        "tarkov",
-        "lighthouse",
-        "servers",
-        "matchmaking"
-      ]
-    },
-    {
-      "id": "local-1-jurytrialsettobeginforsemidriveraccu",
+      "id": "local-anduril-missiles-0922",
       "category": "local",
-      "title": "Jury trial set to begin for semi driver accused in I-71 crash that killed family of 3",
-      "summary": "Jury selection is set to begin in the trial of the semi driver accused in a Delaware County I-71 crash that killed a family of three. The case has drawn attention to highway safety in central Ohio.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/jury-trial-semi-driver-deadly-interstate-71-crash-modou-ngom-delaware-county/530-e3ea9eb5-e9d9-4666-bf23-7ed1eaa7f122",
-      "publishedAt": "2026-09-22T10:44:00Z",
-      "tags": [
-        "columbus",
-        "interstate-71",
-        "delaware-county",
-        "trial"
-      ]
-    },
-    {
-      "id": "local-2-ohiostatelabworkstohelpidentify13700",
-      "category": "local",
-      "title": "Ohio State lab works to help identify 137,000 missing people in Colombia",
-      "summary": "An Ohio State lab is working to help identify 137,000 people reported missing in Colombia. The effort applies forensic techniques to a long-running humanitarian crisis.",
+      "title": "Anduril to build more drones near Columbus",
+      "summary": "Anduril's $1 billion Pickaway County plant near Columbus will begin producing the ALTIUS 600 autonomous drone as a fourth product line. The expansion adds output at the Arsenal-1 site near Rickenbacker Airport.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-lab-works-to-help-identify-137000-missing-people-in-colombia/",
-      "publishedAt": "2026-09-22T10:30:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/pickaway-county/anduril-announces-more-missiles-to-be-built-near-columbus/",
+      "publishedAt": "2026-09-22T16:00:00Z",
       "tags": [
-        "ohio-state",
-        "colombia",
-        "forensics",
-        "missing"
+        "Columbus",
+        "Anduril",
+        "defense",
+        "jobs"
       ]
     },
     {
-      "id": "local-3-columbussemidriverindeadlyi-71crashi",
+      "id": "local-shotout-arrests-0922",
       "category": "local",
-      "title": "Columbus semi driver in deadly I-71 crash indicted on another charge",
-      "summary": "A Columbus semi driver already charged in the deadly Delaware County I-71 crash has been indicted on an additional charge. The new indictment adds to the case ahead of trial.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/crime/columbus-semi-driver-deadly-interstate-71-crash-delaware-county-indicted-again/530-e356e59a-4750-4c85-acef-71257d0b51a5",
-      "publishedAt": "2026-09-22T03:08:00Z",
+      "title": "Two men arrested after shootout with Columbus police that injured bystanders",
+      "summary": "Two men were arrested after an August shooting north of Downtown in which Columbus police returned fire and two bystanders were injured, NBC4 reported. The suspects are now facing charges in the case.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/two-men-arrested-after-shootout-with-columbus-police-that-injured-two-bystanders/",
+      "publishedAt": "2026-09-22T12:30:00Z",
       "tags": [
-        "columbus",
-        "interstate-71",
+        "Columbus",
         "crime",
-        "delaware-county"
-      ]
-    },
-    {
-      "id": "local-4-prosecutorswontpursuechargesagainstw",
-      "category": "local",
-      "title": "Prosecutors won't pursue charges against Whitehall councilman accused of sex crimes with minors",
-      "summary": "Franklin County prosecutors say they won't pursue charges against a Whitehall councilman accused of sex crimes involving minors. The decision ends a criminal review of the elected official.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/crime/whitehall-councilman-charges-franklin-county-prosecutors-office/530-342cc7d2-524e-4954-b761-3de52b37f9fc",
-      "publishedAt": "2026-09-22T03:07:00Z",
-      "tags": [
-        "whitehall",
-        "franklin-county",
-        "crime",
-        "local-government"
+        "police"
       ]
     }
   ]
