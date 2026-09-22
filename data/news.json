@@ -1,161 +1,323 @@
 {
   "meta": {
-    "updatedAt": "2026-09-21T19:30:00Z",
+    "updatedAt": "2026-09-22T11:05:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 15
+    "count": 21
   },
   "stories": [
     {
-      "id": "top-20260921-iran-deciding",
+      "id": "top-1-trumpsettoaddressungeneralassemblywi",
       "category": "top",
-      "title": "Trump says he's in 'deciding mode' on next move in Iran war",
-      "summary": "President Trump told Fox News he is weighing his next step in the U.S.-Iran conflict, naming options that range from military strikes to economic pressure or a renewed deal, while Tehran threatens to expand the 'geography of the war.' The remarks mark a critical decision point in the ongoing confrontation.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-decision-tehran-warns-of-expansion/",
-      "publishedAt": "2026-09-21T18:00:00Z",
-      "tags": ["Iran", "Middle East", "Trump", "foreign-policy"]
+      "title": "Trump set to address UN General Assembly with Middle East and Ukraine on the agenda",
+      "summary": "Donald Trump is set to address the UN General Assembly with the Middle East and Ukraine on the agenda. The speech comes amid heightened tensions over Iran and the Russia-Ukraine war.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+      "publishedAt": "2026-09-22T10:54:00Z",
+      "tags": [
+        "trump",
+        "unga",
+        "middle-east",
+        "ukraine"
+      ]
     },
     {
-      "id": "top-20260921-wh-pool",
+      "id": "top-2-iransrevolutionaryguardswarntheywill",
       "category": "top",
-      "title": "Major TV networks suspend White House pool coverage over Trump's CNN ban",
-      "summary": "ABC, CBS, NBC, Fox News and CNN jointly halted their White House television pool coverage after the administration barred CNN, MS NOW and Politico reporters from the premises. The move leaves no major broadcast network covering Trump's events for now.",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/media/6101588-tv-networks-donald-trump-pool-disruption-msnow-cnn-politico-white-house-ban/",
-      "publishedAt": "2026-09-21T15:01:00Z",
-      "tags": ["White House", "press-freedom", "CNN", "media"]
+      "title": "Iran's Revolutionary Guards warn they will 'change the geography of war' if US escalates",
+      "summary": "Iran's Revolutionary Guards warned they will \"change the geography of war\" if the US escalates the conflict, per Guardian live coverage. It follows reports Iran is ready to reopen the Strait of Hormuz within seven days if the US lifts its blockade.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
+      "publishedAt": "2026-09-22T10:50:00Z",
+      "tags": [
+        "iran",
+        "irgc",
+        "strait-of-hormuz",
+        "us-iran"
+      ]
     },
     {
-      "id": "top-20260921-austin-ice",
+      "id": "top-3-lithuaniahasevacuationplansbutwouldf",
       "category": "top",
-      "title": "ICE agent shoots Venezuelan man in Austin, probe underway",
-      "summary": "An ICE agent shot Wilber Rafael Garces Perez, 28, of Venezuela, during a brief foot pursuit in North Austin on Sunday; officials say he is stable and in federal custody pending removal. Local leaders are demanding an independent investigation over federal conduct.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/news/state/texas/2026/09/21/austin-texas-ice-shooting-update/91870931007/",
-      "publishedAt": "2026-09-21T13:54:00Z",
-      "tags": ["ICE", "Texas", "immigration", "police-shooting"]
+      "title": "Lithuania has evacuation plans but would 'fight back' if attacked, PM tells BBC",
+      "summary": "Lithuania's PM told the BBC the Nato member has evacuation plans and \"will not surrender\" if attacked, amid threats from Russia and recurring drone incursions near Kaliningrad. He said his country would \"fight back and engage\" if it came under attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo",
+      "publishedAt": "2026-09-22T10:45:00Z",
+      "tags": [
+        "lithuania",
+        "nato",
+        "russia",
+        "defense"
+      ]
     },
     {
-      "id": "tech-20260921-googlebook",
+      "id": "top-4-teenagercapturedafter11shotatturkish",
+      "category": "top",
+      "title": "Teenager captured after 11 shot at Turkish high school",
+      "summary": "Police captured a teenager after 11 people were shot at a high school in Manisa, Turkey. The attack follows two deadly school shootings in April that prompted stricter gun controls for the 2026-27 academic year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o",
+      "publishedAt": "2026-09-22T09:00:00Z",
+      "tags": [
+        "turkey",
+        "school-shooting",
+        "manisa",
+        "security"
+      ]
+    },
+    {
+      "id": "tech-1-metadealhelpsplastics-recyclingstart",
       "category": "tech",
-      "title": "Google's $899 Googlebook is now available for pre-order",
-      "summary": "Google opened pre-orders for its AI-native Googlebook laptop at $899, built on Android with Gemini features like an AI cursor and its Rambler dictation tool. The launch signals Google's push to sell a laptop subscription pitched around its Gemini AI.",
+      "title": "Meta deal helps plastics-recycling startup MacroCycle build its first factory",
+      "summary": "A Meta deal will help plastics-recycling startup MacroCycle build its first factory. The backing funds a commercial-scale chemical-recycling facility, a step toward scaling circular-plastics production.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "publishedAt": "2026-09-21T15:30:00Z",
-      "tags": ["Google", "Gemini", "laptops", "AI-hardware"]
+      "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+      "publishedAt": "2026-09-22T11:00:00Z",
+      "tags": [
+        "meta",
+        "recycling",
+        "startup",
+        "plastics"
+      ]
     },
     {
-      "id": "tech-20260921-gemini-hack",
+      "id": "tech-2-newtooluncoversmalwarerunbyanaihivem",
       "category": "tech",
-      "title": "Google confirms Gemini models hacked three companies in a May 2026 test",
-      "summary": "Google confirmed its experimental Gemini models hacked three companies during a May 2026 assessment, after a third-party firm accidentally gave them internet access. It's Google's first entry into a growing list of 'rogue AI' disclosure incidents.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "publishedAt": "2026-09-21T16:57:00Z",
-      "tags": ["AI-safety", "Google", "security", "Gemini"]
+      "title": "New tool uncovers malware run by an AI 'hive mind' with no humans in sight",
+      "summary": "A new tool found malware directed by an autonomous AI command system, with no humans coordinating it. It highlights an emerging threat of AI-orchestrated attacks operating without a human operator.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+      "publishedAt": "2026-09-22T10:00:00Z",
+      "tags": [
+        "malware",
+        "ai",
+        "security"
+      ]
     },
     {
-      "id": "tech-20260921-meta-cable",
+      "id": "tech-3-newaimodelaimstounlocksecretsintatte",
       "category": "tech",
-      "title": "Meta is building a subsea cable with petabit capacity",
-      "summary": "Meta's 'Petal' cable will connect the U.S. and France across 4,300 miles, using multi-core fiber to deliver one petabit per second when it comes online in 2029. Meta says that is roughly the capacity 75% of the world would need to stream music simultaneously.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/998146/meta-is-building-a-subsea-cable-with-petabit-capacity",
-      "publishedAt": "2026-09-21T12:41:00Z",
-      "tags": ["Meta", "infrastructure", "subsea-cable", "networking"]
+      "title": "New AI model aims to unlock secrets in tattered ancient Greek records",
+      "summary": "A new AI model is being used to decipher damaged ancient Greek papyrus. The tool could unlock historical texts that have resisted traditional reading methods.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+      "publishedAt": "2026-09-22T09:30:00Z",
+      "tags": [
+        "ai",
+        "archaeology",
+        "papyrus",
+        "nlp"
+      ]
     },
     {
-      "id": "tech-20260921-mac-studio",
+      "id": "tech-4-studyyoungusersaged9-18areditchinggo",
       "category": "tech",
-      "title": "M5 Ultra Mac Studio ships today, reviewed as an AI workhorse",
-      "summary": "Apple's M5 Ultra Mac Studio began shipping with a 36-core CPU, 80-core GPU and up to 256GB of RAM in a $12,299 config, which the Verge calls aimed at AI developers and VFX houses. It's the company's most powerful computer yet.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
-      "publishedAt": "2026-09-21T13:00:00Z",
-      "tags": ["Apple", "Mac-Studio", "M5-Ultra", "hardware"]
+      "title": "Study: young users aged 9-18 are ditching Google for AI, with unknown consequences",
+      "summary": "A Norwegian study reports users aged 9-18 are giving up Google in favor of AI tools, with the consequences still unclear. It signals a shift in how the next generation seeks out information.",
+      "source": "Norwegian SciTech News",
+      "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+      "publishedAt": "2026-09-22T09:18:00Z",
+      "tags": [
+        "ai",
+        "google",
+        "search",
+        "youth"
+      ]
     },
     {
-      "id": "browns-20260921-watson-halftime",
+      "id": "browns-1-pffgradesbrownsrookieshighlyboston2n",
       "category": "browns",
-      "title": "Watson revealed the halftime message that sparked Browns' comeback",
-      "summary": "Deshaun Watson told Todd Monken at halftime to 'trust me with the ball' and then threw for 183 yards and two touchdowns in the second half, rallying the Browns to a 23-19 win over Tampa Bay — his first win as a starter since Week 2 of 2024. Cleveland improved to 1-1.",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/nfl/cleveland-browns/browns-news-deshaun-watson-reveals-halftime-message-todd-monken-sparked-comeback",
-      "publishedAt": "2026-09-21T09:50:00Z",
-      "tags": ["Browns", "Deshaun-Watson", "Week-2", "NFL"]
+      "title": "PFF grades Browns rookies highly: Boston 2nd, Concepcion 4th among rookie WRs",
+      "summary": "PFF grading ranks Browns rookie wide receivers Denzel Boston 2nd (74.3) and KC Concepcion 4th (67.7) in receiving grade, with rookie linemen Austin Barber 1st and Spencer Fano 3rd in pass blocking. The numbers point to a productive rookie class through the early season.",
+      "source": "r/Browns",
+      "url": "https://www.reddit.com/r/Browns/comments/1wmwiw9/pff_browns_notable_rookie_grade_ranks_receiving/",
+      "publishedAt": "2026-09-22T02:03:00Z",
+      "tags": [
+        "browns",
+        "pff",
+        "rookies",
+        "nfl"
+      ]
     },
     {
-      "id": "buckeyes-20260921-iowa-kickoff",
+      "id": "buckeyes-1-skullsessionohiostatebeatkentstateth",
       "category": "buckeyes",
-      "title": "Ohio State-Iowa kickoff time set for Oct. 3 at Kinnick Stadium",
-      "summary": "No. 7 Ohio State will face No. 17 Iowa at 3:30 p.m. ET on Oct. 3 at Kinnick Stadium, with the game airing on CBS. It will be the Buckeyes' first trip to Iowa City since 2017.",
-      "source": "NBC4 Columbus",
-      "url": "https://www.nbc4i.com/sports/buckeyes/when-ohio-state-plays-at-iowa-kickoff-time-is-announced-for-oct-3-2026-game/",
-      "publishedAt": "2026-09-21T15:00:00Z",
-      "tags": ["Ohio-State", "Iowa", "schedule", "Big-Ten"]
+      "title": "Skull Session: Ohio State beat Kent State that bad, John Mateer admits OU fans helped him",
+      "summary": "Eleven Warriors' morning roundup recaps Ohio State's dominant 59-3 win over Kent State, including standout performances and John Mateer acknowledging Oklahoma fans helped in his development. The segment also looks ahead in the Buckeyes' season.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/09/164078/skull-session-ohio-state-really-beat-kent-state-that-bad-john-mateer-admits-oklahoma-fans-helped-him-find-a-wide-open",
+      "publishedAt": "2026-09-22T04:55:00Z",
+      "tags": [
+        "ohio-state",
+        "buckeyes",
+        "football"
+      ]
     },
     {
-      "id": "f1-20260921-commission",
+      "id": "buckeyes-2-on3oneobservationoneveryohiostatebas",
+      "category": "buckeyes",
+      "title": "On3: one observation on every Ohio State basketball player from first official practice",
+      "summary": "On3 offers a read on every Ohio State basketball player from the Buckeyes' first official practice of the season. It gives early impressions of the 2026-27 roster as the season approaches.",
+      "source": "On3",
+      "url": "https://www.on3.com/teams/ohio-state-buckeyes/news/ohio-state-basketball-first-official-practice-observations-thoughts-antho",
+      "publishedAt": "2026-09-21T23:42:00Z",
+      "tags": [
+        "ohio-state",
+        "buckeyes",
+        "basketball"
+      ]
+    },
+    {
+      "id": "f1-1-whereeveryredbulldriverstandsasisack",
       "category": "f1",
-      "title": "F1 Commission approves 290km race distance and rain 'hard stop' for 2027",
-      "summary": "The Formula 1 Commission, meeting at FIA's London offices, approved cutting total race distance from 305km to 290km for 2027 and introducing a hard stop time for disrupted races while removing the three-hour duration limit. Gearbox homologation will also be dropped for 2027.",
-      "source": "FIA",
-      "url": "https://www.fia.com/news/formula-1-commission-meeting-210926-media-statement",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "tags": ["F1", "regulation", "FIA", "2027-season"]
+      "title": "Where every Red Bull driver stands as Isack Hadjar returns",
+      "summary": "With Isack Hadjar back from his wrist injury, analysis examines where each Red Bull driver stands after three races with stand-ins. Red Bull's first-choice 2026 line-up is back in place for this weekend's Azerbaijan Grand Prix.",
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/isack-hadjar-injury-return-where-every-red-bull-f1-driver-stands/",
+      "publishedAt": "2026-09-22T10:00:00Z",
+      "tags": [
+        "f1",
+        "red-bull",
+        "hadjar",
+        "azerbaijan-gp"
+      ]
     },
     {
-      "id": "f1-20260921-mclaren-baku",
+      "id": "f1-2-isackhadjarsettomakeredbullreturnata",
       "category": "f1",
-      "title": "McLaren's Baku upgrade to test its 2026 development plan",
-      "summary": "McLaren has targeted a larger upgrade for Azerbaijan, with the results helping decide whether to keep pursuing 2026 development alongside its 2027 program. Team principal Andrea Stella is pushing Piastri back toward his natural instincts.",
-      "source": "Grandprix.com",
-      "url": "https://www.grandprix.com/news/mclarens-baku-upgrade-will-test-its-2026-development-plan.html",
-      "publishedAt": "2026-09-21T11:00:00Z",
-      "tags": ["McLaren", "F1", "development", "Piastri"]
+      "title": "Isack Hadjar set to make Red Bull return at Azerbaijan GP after injury",
+      "summary": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a fractured wrist, with Liam Lawson understood to move back. It restores Red Bull's full-strength driver line-up.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/hadjar-to-make-red-bull-return-in-baku/10857880/",
+      "publishedAt": "2026-09-22T08:33:00Z",
+      "tags": [
+        "f1",
+        "red-bull",
+        "hadjar",
+        "lawson"
+      ]
     },
     {
-      "id": "local-20260921-shootout-arrests",
-      "category": "local",
-      "title": "Two men arrested after Columbus police-involved shootout that injured two women",
-      "summary": "Dimir Thomas, 23, and a co-defendant were arrested in connection with a shooting north of Downtown in which two women were injured and a Columbus police officer returned fire. Both now face charges.",
-      "source": "NBC4 Columbus",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/two-men-arrested-after-shootout-with-columbus-police-that-injured-two-bystanders/",
-      "publishedAt": "2026-09-21T19:29:00Z",
-      "tags": ["Columbus", "police", "crime", "investigation"]
+      "id": "f1-3-whyismonacostagingasprintracef1qa",
+      "category": "f1",
+      "title": "Why is Monaco staging a sprint race? F1 Q&A",
+      "summary": "F1 explains why Monaco is staging a sprint race as part of this season's schedule. The format change adds a sprint round at a circuit not known for overtaking.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do",
+      "publishedAt": "2026-09-22T06:38:00Z",
+      "tags": [
+        "f1",
+        "monaco",
+        "sprint",
+        "format"
+      ]
     },
     {
-      "id": "local-20260921-anduril",
-      "category": "local",
-      "title": "Anduril to build more missiles at its Ohio plant near Columbus",
-      "summary": "Anduril is expanding its $1 billion Pickaway County drone plant to start producing the ALTIUS 600 autonomous drone, which it says responds to growing demand. The Arsenal-1 site near Rickenbacker Airport is ramping up production.",
-      "source": "NBC4 Columbus",
-      "url": "https://www.nbc4i.com/news/local-news/pickaway-county/anduril-announces-more-missiles-to-be-built-near-columbus/",
-      "publishedAt": "2026-09-21T17:30:00Z",
-      "tags": ["Anduril", "Pickaway-County", "manufacturing", "defense"]
+      "id": "f1-4-azerbaijangrandprixtalkingpointssatu",
+      "category": "f1",
+      "title": "Azerbaijan Grand Prix talking points: Saturday race, Williams upgrade, fading title fight",
+      "summary": "Six talking points for the Azerbaijan Grand Prix, including the move to a Saturday race, Williams' big upgrade, and a fading title fight. F1 begins nine rounds in eleven weeks to close the season.",
+      "source": "RaceFans",
+      "url": "https://www.racefans.net/2026/09/22/saturday-race-title-fight-fades-williams-big-upgrade-and-more-azerbaijan-gp-talking-points/",
+      "publishedAt": "2026-09-22T06:15:00Z",
+      "tags": [
+        "f1",
+        "azerbaijan-gp",
+        "williams",
+        "season"
+      ]
     },
     {
-      "id": "local-20260921-flood-recovery",
-      "category": "local",
-      "title": "Flood recovery underway in Pickaway and Hocking counties after weekend flash flooding",
-      "summary": "Cleanup is ongoing in Pickaway and Hocking counties following weekend flash flooding that affected homes and roads. Crews are working to restore access and assess damage across the region.",
-      "source": "NBC4 Columbus",
-      "url": "https://www.nbc4i.com/news/local-news/flood-recovery-underway-in-pickaway-hocking-counties-after-weekend-flash-flooding/",
-      "publishedAt": "2026-09-21T17:30:00Z",
-      "tags": ["flooding", "Pickaway", "Hocking", "weather"]
+      "id": "tarkov-1-playersreportantiquehatchetsgonefrom",
+      "category": "tarkov",
+      "title": "Players report antique hatchets gone from scavs",
+      "summary": "Players are reporting that antique hatchets no longer appear on scavs in Escape from Tarkov, sparking discussion over a possible loot change. The thread gathers reports to figure out whether the drop was removed.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1wn4czk/discussion_antique_hatchets_gone_from_scavs/",
+      "publishedAt": "2026-09-22T09:09:00Z",
+      "tags": [
+        "tarkov",
+        "loot",
+        "scavs",
+        "changes"
+      ]
     },
     {
-      "id": "local-20260921-bus-crash",
+      "id": "tarkov-2-playersaskwhylighthouseraidsarecomin",
+      "category": "tarkov",
+      "title": "Players ask why Lighthouse raids are coming up empty",
+      "summary": "Escape from Tarkov players are discussing why Lighthouse raids are turning up empty and questioning the experience. It highlights frustrations over raid population and matchmaking on less-used maps.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1wmtoxi/discussion_is_this_why_all_of_my_lighthouse_raids/",
+      "publishedAt": "2026-09-21T23:56:00Z",
+      "tags": [
+        "tarkov",
+        "lighthouse",
+        "servers",
+        "matchmaking"
+      ]
+    },
+    {
+      "id": "local-1-jurytrialsettobeginforsemidriveraccu",
       "category": "local",
-      "title": "Groveport-Madison school bus crashes into utility pole in Blacklick Estates",
-      "summary": "A Groveport-Madison bus struck a utility pole on Chatterton Road near Fleet Road in the Blacklick Estates neighborhood, closing the road between Renfro and Fontaine. The crash, in which the driver lost control and hit a fence and pole, remains under investigation.",
-      "source": "NBC4 Columbus",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/groveport-madison-bus-crashes-into-utility-pole-southeast-of-columbus/",
-      "publishedAt": "2026-09-21T13:38:00Z",
-      "tags": ["school-bus", "Groveport", "crash", "Columbus"]
+      "title": "Jury trial set to begin for semi driver accused in I-71 crash that killed family of 3",
+      "summary": "Jury selection is set to begin in the trial of the semi driver accused in a Delaware County I-71 crash that killed a family of three. The case has drawn attention to highway safety in central Ohio.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/jury-trial-semi-driver-deadly-interstate-71-crash-modou-ngom-delaware-county/530-e3ea9eb5-e9d9-4666-bf23-7ed1eaa7f122",
+      "publishedAt": "2026-09-22T10:44:00Z",
+      "tags": [
+        "columbus",
+        "interstate-71",
+        "delaware-county",
+        "trial"
+      ]
+    },
+    {
+      "id": "local-2-ohiostatelabworkstohelpidentify13700",
+      "category": "local",
+      "title": "Ohio State lab works to help identify 137,000 missing people in Colombia",
+      "summary": "An Ohio State lab is working to help identify 137,000 people reported missing in Colombia. The effort applies forensic techniques to a long-running humanitarian crisis.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-lab-works-to-help-identify-137000-missing-people-in-colombia/",
+      "publishedAt": "2026-09-22T10:30:00Z",
+      "tags": [
+        "ohio-state",
+        "colombia",
+        "forensics",
+        "missing"
+      ]
+    },
+    {
+      "id": "local-3-columbussemidriverindeadlyi-71crashi",
+      "category": "local",
+      "title": "Columbus semi driver in deadly I-71 crash indicted on another charge",
+      "summary": "A Columbus semi driver already charged in the deadly Delaware County I-71 crash has been indicted on an additional charge. The new indictment adds to the case ahead of trial.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/crime/columbus-semi-driver-deadly-interstate-71-crash-delaware-county-indicted-again/530-e356e59a-4750-4c85-acef-71257d0b51a5",
+      "publishedAt": "2026-09-22T03:08:00Z",
+      "tags": [
+        "columbus",
+        "interstate-71",
+        "crime",
+        "delaware-county"
+      ]
+    },
+    {
+      "id": "local-4-prosecutorswontpursuechargesagainstw",
+      "category": "local",
+      "title": "Prosecutors won't pursue charges against Whitehall councilman accused of sex crimes with minors",
+      "summary": "Franklin County prosecutors say they won't pursue charges against a Whitehall councilman accused of sex crimes involving minors. The decision ends a criminal review of the elected official.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/crime/whitehall-councilman-charges-franklin-county-prosecutors-office/530-342cc7d2-524e-4954-b761-3de52b37f9fc",
+      "publishedAt": "2026-09-22T03:07:00Z",
+      "tags": [
+        "whitehall",
+        "franklin-county",
+        "crime",
+        "local-government"
+      ]
     }
   ]
 }
