@@ -1,172 +1,151 @@
 {
   "meta": {
-    "updatedAt": "2026-09-22T19:30:00Z",
+    "updatedAt": "2026-09-23T11:00:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 11
+    "count": 14
   },
   "stories": [
     {
-      "id": "top-iran-hormuz-0922",
+      "id": "top-xi-trump-20260923",
       "category": "top",
-      "title": "Tehran hints at Hormuz talks with US as leaders gather at UN",
-      "summary": "Iran signalled openness to dialogue with Washington over the Strait of Hormuz as world leaders gathered at the UN, according to Reuters. Any talks could ease tensions over the critical oil shipping lane.",
+      "title": "Xi Jinping arrives in Washington for three-day talks with Trump",
+      "summary": "Chinese President Xi Jinping is making a three-day state visit to Washington starting Sept. 23 for high-stakes talks with Donald Trump. Trade, tariffs, rare earths, AI safety, Taiwan, Iran and fentanyl are topping the agenda.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/tehran-hints-hormuz-talks-with-us-leaders-gather-un-2026-09-22/",
-      "publishedAt": "2026-09-22T18:30:00Z",
-      "tags": [
-        "Iran",
-        "US",
-        "Middle East",
-        "Hormuz"
-      ]
+      "url": "https://www.reuters.com/world/china/trump-plans-grand-spectacle-potentially-tense-xi-talks-2026-09-23/",
+      "publishedAt": "2026-09-23T10:00:00Z",
+      "tags": ["US-China", "diplomacy", "Xi visit", "trade"]
     },
     {
-      "id": "top-ship-collision-0922",
+      "id": "top-us-iran-unga-20260923",
       "category": "top",
-      "title": "Cargo ship crashes into fishing boat near Singapore",
-      "summary": "Verified footage appears to show a cargo ship colliding with a fishing boat near Singapore, with investigators still working to establish when and how the crash happened.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/videos/cq0lr24x3ep1o",
-      "publishedAt": "2026-09-22T17:00:00Z",
-      "tags": [
-        "Singapore",
-        "shipping",
-        "maritime safety"
-      ]
+      "title": "US and Iran hold mediated UNGA talks on ending war and reopening Strait of Hormuz",
+      "summary": "US and Iranian delegations held hours of mediator-shuttled talks on the sidelines of the UN General Assembly, with special envoy Steve Witkoff confirming a completed round of discussions. Tehran tied diplomatic progress to lifting shipping blockades and unfreezing frozen assets.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz",
+      "publishedAt": "2026-09-23T01:00:00Z",
+      "tags": ["Iran", "UNGA", "Hormuz", "diplomacy"]
     },
     {
-      "id": "top-trump-xi-0922",
+      "id": "top-iran-hormuz-week-20260923",
       "category": "top",
-      "title": "Trump and Xi meet as tensions flare over AI, trade and Iran",
-      "summary": "US President Donald Trump and China's Xi Jinping are meeting to try to manage rising tensions over AI competition, trade and Iran while both seek stability. The AI race is a flashpoint that could strain any cooperation.",
-      "source": "AP",
-      "url": "https://apnews.com/article/trump-xi-summit-tensions-ai-competition-e560910c897fedb0448eda4cdbfdbaea",
-      "publishedAt": "2026-09-22T14:00:00Z",
-      "tags": [
-        "US-China",
-        "diplomacy",
-        "AI race",
-        "trade"
-      ]
+      "title": "Iran offers to reopen Strait of Hormuz within a week if US lifts blockade",
+      "summary": "A senior Iranian official said Tehran could reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its naval blockade of Iranian ports. The waterway carried roughly a fifth of global oil and gas shipments before the war.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+      "publishedAt": "2026-09-23T02:00:00Z",
+      "tags": ["Iran", "oil", "Hormuz", "economy"]
     },
     {
-      "id": "tech-gpt6-sol-luna-0922",
+      "id": "tech-frontier-models-20260923",
       "category": "tech",
-      "title": "OpenAI launches GPT-6 Sol and Luna, touting lower cost and fewer mistakes",
-      "summary": "OpenAI expanded its GPT-6 generation with updated Sol and Luna models it says are more efficient and handle tasks better than Anthropic's top models. The release came about 90 minutes after Anthropic unveiled Opus 5.5, underscoring the fierce frontier-model rivalry.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "publishedAt": "2026-09-22T16:30:00Z",
-      "tags": [
-        "OpenAI",
-        "GPT-6",
-        "LLM",
-        "AI models"
-      ]
+      "title": "Anthropic and OpenAI launch cheaper models despite calls to slow AI development",
+      "summary": "Anthropic debuted Claude Opus 5.5 and OpenAI released GPT-6 Sol and Luna, both emphasizing lower-cost, high-performance tiers — Opus 5.5 and Sol/Luna carry 50% API price cuts vs their predecessors. The launches come just days after both labs' CEOs urged a slowdown in frontier development.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
+      "publishedAt": "2026-09-23T01:02:00Z",
+      "tags": ["AI", "OpenAI", "Anthropic", "models"]
     },
     {
-      "id": "tech-opus-5-5-0922",
+      "id": "tech-palmaai-20260923",
       "category": "tech",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "summary": "Anthropic's Opus 5.5 sets a new state of the art in coding and knowledge work at lower prices, according to the company. It is the second Opus update in about two months, and Anthropic says it is building infrastructure to support demand.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "publishedAt": "2026-09-22T15:00:00Z",
-      "tags": [
-        "Anthropic",
-        "Claude",
-        "LLM",
-        "AI models"
-      ]
+      "title": "Palma.ai raises $1.8M to bring governed AI agents to more enterprises",
+      "summary": "Palma.ai, an enterprise platform that governs AI agents at runtime by controlling permissions, policies and audit trails, closed a $1.8 million pre-seed round led by D11Z. It will use the funding to expand go-to-market and engineering teams.",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/09/23/palmaai-raises-18m-to-bring-governed-ai-agents-to-more-enterprises/",
+      "publishedAt": "2026-09-23T10:17:00Z",
+      "tags": ["AI agents", "funding", "startup", "enterprise"]
     },
     {
-      "id": "browns-judkins-run-0922",
-      "category": "browns",
-      "title": "Quinshon Judkins not worried about the Browns' run game yet",
-      "summary": "Browns running back Quinshon Judkins downplayed concerns about the struggling ground game, saying the unit is still building familiarity together. Through two games Cleveland's leading rusher is Deshaun Watson with 60 yards and the team averages 2.9 yards per carry.",
-      "source": "Browns Wire",
-      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/09/22/quinshon-judkins-not-worried-about-the-browns-run-after-week-2/91883629007/",
-      "publishedAt": "2026-09-22T15:30:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "running game"
-      ]
+      "id": "tech-nokia-anyjev-20260923",
+      "category": "tech",
+      "title": "Nokia releases AnyJev to remove LLM bias without retraining",
+      "summary": "Nokia's applied research team published AnyJev, an Apache-2.0 Python library that turns an existing open LLM into a calibrated decision model without fine-tuning or labeled data. It targets prior and position bias that quietly degrade accuracy in production classification jobs.",
+      "source": "AI Daily Post",
+      "url": "https://aidailypost.com/news/nokias-anyjev-fixes-llm-biases-decision",
+      "publishedAt": "2026-09-23T05:00:00Z",
+      "tags": ["LLM", "bias", "Nokia", "open source"]
     },
     {
-      "id": "buckeyes-sayin-day-0922",
+      "id": "tech-c2c-kvcache-20260923",
+      "category": "tech",
+      "title": "C2C lets AI models communicate through KV caches instead of text",
+      "summary": "Tsinghua researchers presented C2C, a method for inter-model communication using internal KV caches rather than text tokens, showing 9.6–11.9 point accuracy gains and up to 14x lower latency in benchmarks. It requires access to model internals, so it fits those running their own inference stacks.",
+      "source": "AINave",
+      "url": "https://ainave.com/tech-news/c2c-lets-ai-models-communicate-through-kv-caches-instead-of-text",
+      "publishedAt": "2026-09-23T04:00:00Z",
+      "tags": ["AI", "research", "LLM", "performance"]
+    },
+    {
+      "id": "buckeyes-pjstar-preview-20260923",
       "category": "buckeyes",
-      "title": "Ryan Day challenges Julian Sayin before Big Ten opener vs Illinois",
-      "summary": "Ohio State coach Ryan Day is pushing quarterback Julian Sayin for more consistency and a wider spread of targets ahead of Saturday's Big Ten opener against Illinois. Sayin has passed for 839 yards and six touchdowns, but nearly a third of his attempts have gone to Jeremiah Smith.",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/ohio-state-football-news-ryan-day-challenges-julian-sayin-before-big-ten-opener-vs-illinois",
-      "publishedAt": "2026-09-22T17:47:00Z",
-      "tags": [
-        "Ohio State",
-        "Big Ten",
-        "Illinois",
-        "Julian Sayin"
-      ]
+      "title": "Illinois vs Ohio State: predictions and scouting ahead of Big Ten opener",
+      "summary": "An inside look at the Illinois vs Ohio State game — Ohio State's first Big Ten contest of 2026 — with predictions, betting odds, and scouting reports. No. 7 Ohio State hosts the Illini at Ohio Stadium seeking to open conference play with a win.",
+      "source": "PJStar",
+      "url": "https://www.pjstar.com/story/sports/college/football/2026/09/23/illinois-vs-ohio-state-college-football-predictions-betting-odds-scouting-report/91879370007/",
+      "publishedAt": "2026-09-23T00:30:00Z",
+      "tags": ["Ohio State", "Illinois", "Big Ten", "preview"]
     },
     {
-      "id": "f1-azerbaijan-raceweek-0922",
+      "id": "buckeyes-lantern-preview-20260923",
+      "category": "buckeyes",
+      "title": "Ryan Day previews Illinois matchup as Buckeyes begin Big Ten play",
+      "summary": "Ohio State coach Ryan Day previewed the Buckeyes' Big Ten opener against Illinois. The Lantern noted Ohio State ranks 10th in the Big Ten in rushing yards per game and converted just one of eight third downs in the 59-3 Kent State win.",
+      "source": "The Lantern",
+      "url": "https://www.thelantern.com/2026/09/updaytes-ryan-day-previews-matchup-with-illinois-as-buckeyes-begin-big-ten-competition/",
+      "publishedAt": "2026-09-23T07:00:00Z",
+      "tags": ["Ohio State", "Ryan Day", "Illinois", "Big Ten"]
+    },
+    {
+      "id": "f1-hadjar-2027-20260923",
       "category": "f1",
-      "title": "5 storylines ahead of the 2026 Azerbaijan Grand Prix",
-      "summary": "Formula 1 previews five storylines for this weekend's Azerbaijan Grand Prix in Baku, including a possible return for Red Bull's Isack Hadjar and a bumper Formula 2 supporting round. Red Bull says it will not rush Hadjar's recovery.",
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-azerbaijan-grand-prix.6l5UWWsSVJdtKOpR8KDSzZ",
-      "publishedAt": "2026-09-22T11:00:00Z",
-      "tags": [
-        "F1",
-        "Azerbaijan GP",
-        "Red Bull",
-        "race week"
-      ]
+      "title": "Red Bull retains Isack Hadjar alongside Max Verstappen for F1 2027",
+      "summary": "Red Bull confirmed an unchanged 2027 driver lineup, with Isack Hadjar staying alongside Max Verstappen after his debut season at the senior team. Racing Bulls is yet to confirm its own lineup for 2027.",
+      "source": "Motorsport",
+      "url": "https://www.motorsport.com/f1/news/red-bull-retains-isack-hadjar-alongside-max-verstappen-for-f1-2027/10858090/",
+      "publishedAt": "2026-09-23T07:30:00Z",
+      "tags": ["Red Bull", "Hadjar", "Verstappen", "lineup"]
     },
     {
-      "id": "tarkov-bsg-publisher-0922",
-      "category": "tarkov",
-      "title": "Escape from Tarkov dev explains launch of a publishing house",
-      "summary": "Battlestate Games founder Nikita Buyanov explained why the studio opened a publishing house to back riskier projects, per ixbt.games. The move signals the developer is extending beyond Escape from Tarkov.",
-      "source": "IXBT Games",
-      "url": "https://ixbt.games/en/news/2026/09/22/nikita-buianov-obieiasnil-pocemu-sozdateli-escape-from-tarkov-otkryli-izdatelstvo-dlia-vypuska-riskovannyx-igr.html",
-      "publishedAt": "2026-09-22T14:20:00Z",
-      "tags": [
-        "Escape from Tarkov",
-        "Battlestate",
-        "gaming industry"
-      ]
+      "id": "f1-azerbaijan-build-up-20260923",
+      "category": "f1",
+      "title": "F1 build-up to the Azerbaijan Grand Prix weekend begins in Baku",
+      "summary": "Formula 1's official Wednesday build-up for the Azerbaijan Grand Prix at Baku is underway as teams and drivers arrive for the weekend. Coverage tracks driver schedules, circuit details and weather outlooks ahead of practice.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/live-coverage-wednesday-build-up-in-azerbaijan-2026.6KFuXeqccqQxeR8jiiMKOa",
+      "publishedAt": "2026-09-23T09:00:00Z",
+      "tags": ["F1", "Azerbaijan GP", "Baku", "build-up"]
     },
     {
-      "id": "local-anduril-missiles-0922",
+      "id": "local-crew-higuain-20260923",
       "category": "local",
-      "title": "Anduril to build more drones near Columbus",
-      "summary": "Anduril's $1 billion Pickaway County plant near Columbus will begin producing the ALTIUS 600 autonomous drone as a fourth product line. The expansion adds output at the Arsenal-1 site near Rickenbacker Airport.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/pickaway-county/anduril-announces-more-missiles-to-be-built-near-columbus/",
-      "publishedAt": "2026-09-22T16:00:00Z",
-      "tags": [
-        "Columbus",
-        "Anduril",
-        "defense",
-        "jobs"
-      ]
+      "title": "Columbus Crew sack reserve coach Federico Higuaín over 'man's game' remark",
+      "summary": "The Columbus Crew dismissed reserve-team coach Federico Higuaín after he allegedly grabbed a female referee's hand and told her \"don't forget this is a man's game\" during an MLS Next Pro match. He had already been given a two-match ban.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/sep/23/columbus-crew-sack-coach-federico-higuain-for-mans-game-jibe-aimed-at-female-referee",
+      "publishedAt": "2026-09-23T09:49:00Z",
+      "tags": ["Columbus Crew", "MLS", "Higuaín", "sports"]
     },
     {
-      "id": "local-shotout-arrests-0922",
+      "id": "local-dewine-emergency-20260923",
       "category": "local",
-      "title": "Two men arrested after shootout with Columbus police that injured bystanders",
-      "summary": "Two men were arrested after an August shooting north of Downtown in which Columbus police returned fire and two bystanders were injured, NBC4 reported. The suspects are now facing charges in the case.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/two-men-arrested-after-shootout-with-columbus-police-that-injured-two-bystanders/",
-      "publishedAt": "2026-09-22T12:30:00Z",
-      "tags": [
-        "Columbus",
-        "crime",
-        "police"
-      ]
+      "title": "DeWine declares state of emergency for Ohio counties after flooding",
+      "summary": "Gov. Mike DeWine declared a state of emergency for five Miami Valley counties — Mercer, Montgomery, Logan, Preble and Greene — following significant recent flooding. The proclamation makes state department resources available to affected communities.",
+      "source": "WDTN",
+      "url": "https://www.wdtn.com/news/ohio/dewine-declares-state-of-emergency-for-ohio-counties/",
+      "publishedAt": "2026-09-23T09:30:00Z",
+      "tags": ["Ohio", "flooding", "emergency", "DeWine"]
+    },
+    {
+      "id": "local-columbus-housing-bonds-20260923",
+      "category": "local",
+      "title": "Columbus wants to use $500M housing bond to target uneven development",
+      "summary": "Columbus city officials are pitching a $500 million affordable housing bond to address what they call a \"fundamental economic challenge\" in the Midwest. The plan aims to counter uneven development and improve housing stability across the city.",
+      "source": "Columbus Business First",
+      "url": "https://www.bizjournals.com/columbus/news/2026/09/23/columbus-affordable-housing-bonds-2027.html",
+      "publishedAt": "2026-09-23T08:00:00Z",
+      "tags": ["Columbus", "housing", "bonds", "affordability"]
     }
   ]
 }
