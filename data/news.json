@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-23T11:00:00Z",
+    "updatedAt": "2026-09-23T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
@@ -8,144 +8,144 @@
   },
   "stories": [
     {
-      "id": "top-xi-trump-20260923",
+      "id": "top-uk-disinfo-unit",
       "category": "top",
-      "title": "Xi Jinping arrives in Washington for three-day talks with Trump",
-      "summary": "Chinese President Xi Jinping is making a three-day state visit to Washington starting Sept. 23 for high-stakes talks with Donald Trump. Trade, tariffs, rare earths, AI safety, Taiwan, Iran and fentanyl are topping the agenda.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-plans-grand-spectacle-potentially-tense-xi-talks-2026-09-23/",
-      "publishedAt": "2026-09-23T10:00:00Z",
-      "tags": ["US-China", "diplomacy", "Xi visit", "trade"]
+      "title": "UK sets up unit to combat disinformation from Russia and AI",
+      "summary": "Britain's defence minister said the UK will create an agency to fight disinformation spread by adversaries like Russia and amplified by artificial intelligence, aimed at helping citizens 'separate fact from fiction.' It signals growing government concern about AI-amplified information warfare.",
+      "source": "France24 / AFP",
+      "url": "https://www.france24.com/en/live-news/20260923-uk-sets-up-unit-to-combat-disinformation-from-russia-ai",
+      "publishedAt": "2026-09-23T10:45:00Z",
+      "tags": ["UK", "disinformation", "AI", "defence"]
     },
     {
-      "id": "top-us-iran-unga-20260923",
+      "id": "top-nk-weightlifter",
       "category": "top",
-      "title": "US and Iran hold mediated UNGA talks on ending war and reopening Strait of Hormuz",
-      "summary": "US and Iranian delegations held hours of mediator-shuttled talks on the sidelines of the UN General Assembly, with special envoy Steve Witkoff confirming a completed round of discussions. Tehran tied diplomatic progress to lifting shipping blockades and unfreezing frozen assets.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz",
-      "publishedAt": "2026-09-23T01:00:00Z",
-      "tags": ["Iran", "UNGA", "Hormuz", "diplomacy"]
+      "title": "North Korea weightlifter sets three world records for Asian Games gold",
+      "summary": "North Korea's Ri Song-gum won gold in the women's 49kg class at the 2026 Asian Games, setting world records in the snatch (94kg), clean and jerk (121kg) and 215kg overall. It is her third Asian Games gold after Jakarta and Hangzhou.",
+      "source": "France24 / AFP",
+      "url": "https://www.france24.com/en/live-news/20260923-north-korea-weightlifter-sets-three-world-records-for-asian-games-gold",
+      "publishedAt": "2026-09-23T08:31:00Z",
+      "tags": ["North Korea", "Asian Games", "weightlifting", "records"]
     },
     {
-      "id": "top-iran-hormuz-week-20260923",
-      "category": "top",
-      "title": "Iran offers to reopen Strait of Hormuz within a week if US lifts blockade",
-      "summary": "A senior Iranian official said Tehran could reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its naval blockade of Iranian ports. The waterway carried roughly a fifth of global oil and gas shipments before the war.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
-      "publishedAt": "2026-09-23T02:00:00Z",
-      "tags": ["Iran", "oil", "Hormuz", "economy"]
-    },
-    {
-      "id": "tech-frontier-models-20260923",
+      "id": "tech-sanders-superintelligence",
       "category": "tech",
-      "title": "Anthropic and OpenAI launch cheaper models despite calls to slow AI development",
-      "summary": "Anthropic debuted Claude Opus 5.5 and OpenAI released GPT-6 Sol and Luna, both emphasizing lower-cost, high-performance tiers — Opus 5.5 and Sol/Luna carry 50% API price cuts vs their predecessors. The launches come just days after both labs' CEOs urged a slowdown in frontier development.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
-      "publishedAt": "2026-09-23T01:02:00Z",
-      "tags": ["AI", "OpenAI", "Anthropic", "models"]
+      "title": "Bernie Sanders proposes banning 'superintelligence' with up to 20 years in prison",
+      "summary": "Sen. Bernie Sanders and Rep. Greg Casar introduced the Ban Artificial Superintelligence Act, which would criminalize developing AI superintelligence and pause frontier-model work until a scientist-led Department of AI is created. Violators could face up to 20 years in prison, similar to nuclear weapons penalties.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "publishedAt": "2026-09-23T16:23:00Z",
+      "tags": ["AI", "regulation", "superintelligence", "Congress"]
     },
     {
-      "id": "tech-palmaai-20260923",
+      "id": "tech-youtube-conversational",
       "category": "tech",
-      "title": "Palma.ai raises $1.8M to bring governed AI agents to more enterprises",
-      "summary": "Palma.ai, an enterprise platform that governs AI agents at runtime by controlling permissions, policies and audit trails, closed a $1.8 million pre-seed round led by D11Z. It will use the funding to expand go-to-market and engineering teams.",
-      "source": "Tech.eu",
-      "url": "https://tech.eu/2026/09/23/palmaai-raises-18m-to-bring-governed-ai-agents-to-more-enterprises/",
-      "publishedAt": "2026-09-23T10:17:00Z",
-      "tags": ["AI agents", "funding", "startup", "enterprise"]
+      "title": "YouTube adds conversational video editing in natural language",
+      "summary": "YouTube's Made On YouTube event introduced a conversational editing tool that lets creators refine long- and short-form footage with natural-language prompts, including removing pauses and adding text overlays. It rolls out to Shorts and the YouTube Create app in early 2027.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "publishedAt": "2026-09-23T15:46:00Z",
+      "tags": ["YouTube", "AI", "video editing", "creators"]
     },
     {
-      "id": "tech-nokia-anyjev-20260923",
+      "id": "tech-youtube-ai-tools",
       "category": "tech",
-      "title": "Nokia releases AnyJev to remove LLM bias without retraining",
-      "summary": "Nokia's applied research team published AnyJev, an Apache-2.0 Python library that turns an existing open LLM into a calibrated decision model without fine-tuning or labeled data. It targets prior and position bias that quietly degrade accuracy in production classification jobs.",
-      "source": "AI Daily Post",
-      "url": "https://aidailypost.com/news/nokias-anyjev-fixes-llm-biases-decision",
-      "publishedAt": "2026-09-23T05:00:00Z",
-      "tags": ["LLM", "bias", "Nokia", "open source"]
+      "title": "YouTube builds AI creator tools that automate thumbnails, titles and channel optimization",
+      "summary": "At its annual creator event, YouTube expanded its AI toolkit, adding a background 'agent' that analyzes a creator's back catalog to suggest title and thumbnail tweaks, plus tools to test multiple video versions across audience segments. The features aim to pull creators further into YouTube's own optimization stack.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "publishedAt": "2026-09-23T14:30:00Z",
+      "tags": ["YouTube", "AI", "creator tools", "thumbnails"]
     },
     {
-      "id": "tech-c2c-kvcache-20260923",
-      "category": "tech",
-      "title": "C2C lets AI models communicate through KV caches instead of text",
-      "summary": "Tsinghua researchers presented C2C, a method for inter-model communication using internal KV caches rather than text tokens, showing 9.6–11.9 point accuracy gains and up to 14x lower latency in benchmarks. It requires access to model internals, so it fits those running their own inference stacks.",
-      "source": "AINave",
-      "url": "https://ainave.com/tech-news/c2c-lets-ai-models-communicate-through-kv-caches-instead-of-text",
-      "publishedAt": "2026-09-23T04:00:00Z",
-      "tags": ["AI", "research", "LLM", "performance"]
+      "id": "browns-watson-fans",
+      "category": "browns",
+      "title": "Deshaun Watson shifts tone toward Browns fans ahead of home opener",
+      "summary": "After leading Cleveland to its first win of the season in Tampa Bay, Deshaun Watson struck a conciliatory note about facing Cleveland fans at Sunday's home opener against Carolina, a contrast to his earlier friction with the home crowd. Watson remains the starter per Cleveland media.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/sports/nfl/deshaun-watson-drastically-changes-attitude-toward-browns-fans-12479625",
+      "publishedAt": "2026-09-23T18:43:00Z",
+      "tags": ["Browns", "Deshaun Watson", "fans", "home opener"]
     },
     {
-      "id": "buckeyes-pjstar-preview-20260923",
+      "id": "browns-shedeur-trade",
+      "category": "browns",
+      "title": "Cleveland media speculate Browns could trade Shedeur Sanders",
+      "summary": "After Deshaun Watson's solid outing in a 23-19 win over Tampa Bay, local media figures such as Tony Rizzo suggested the Browns could trade backup Shedeur Sanders before the deadline and name Dillon Gabriel QB2. Rumors about Sanders have persisted despite Cleveland's early QB ambiguity.",
+      "source": "Yardbarker",
+      "url": "https://www.yardbarker.com/nfl/articles/are_the_browns_trading_shedeur_sanders_cleveland_media_thinks_so/s1_17769_44339589",
+      "publishedAt": "2026-09-23T17:37:00Z",
+      "tags": ["Browns", "Shedeur Sanders", "trade", "quarterback"]
+    },
+    {
+      "id": "buckeyes-tahj-gray",
       "category": "buckeyes",
-      "title": "Illinois vs Ohio State: predictions and scouting ahead of Big Ten opener",
-      "summary": "An inside look at the Illinois vs Ohio State game — Ohio State's first Big Ten contest of 2026 — with predictions, betting odds, and scouting reports. No. 7 Ohio State hosts the Illini at Ohio Stadium seeking to open conference play with a win.",
-      "source": "PJStar",
-      "url": "https://www.pjstar.com/story/sports/college/football/2026/09/23/illinois-vs-ohio-state-college-football-predictions-betting-odds-scouting-report/91879370007/",
-      "publishedAt": "2026-09-23T00:30:00Z",
+      "title": "Noon kickoff costs Ohio State a 5-star recruit visit for Illinois game",
+      "summary": "Because Saturday's Big Ten opener against Illinois is a noon Fox Big Noon Kickoff game, 5-star 2028 linebacker Tahj Gray reportedly won't travel to Columbus, and isn't expected back until the Michigan game. The early start is a recruiting setback for the Buckeyes.",
+      "source": "AtoZ Sports",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-dealt-unfortunate-news-for-big-ten-opener-against-illinois-and-its-an-issue-that-keeps-popping-up/",
+      "publishedAt": "2026-09-23T17:10:00Z",
+      "tags": ["Ohio State", "recruiting", "Tahj Gray", "Illinois"]
+    },
+    {
+      "id": "buckeyes-bielema",
+      "category": "buckeyes",
+      "title": "Illinois coach Bret Bielema previews Buckeyes and remembers OSU rivalries",
+      "summary": "With Illinois visiting Columbus to open Big Ten play, head coach Bret Bielema previewed the matchup and revisited his history against Ohio State. The No. 7 Buckeyes (2-1) host the Illini in their first conference game of the season.",
+      "source": "BucksInsider",
+      "url": "https://www.bucksinsider.com/2026/09/21/insider-updates-bret-bielema-previews-buckeyes-reminisces-about-osu-rivalries/",
+      "publishedAt": "2026-09-23T10:30:00Z",
       "tags": ["Ohio State", "Illinois", "Big Ten", "preview"]
     },
     {
-      "id": "buckeyes-lantern-preview-20260923",
-      "category": "buckeyes",
-      "title": "Ryan Day previews Illinois matchup as Buckeyes begin Big Ten play",
-      "summary": "Ohio State coach Ryan Day previewed the Buckeyes' Big Ten opener against Illinois. The Lantern noted Ohio State ranks 10th in the Big Ten in rushing yards per game and converted just one of eight third downs in the 59-3 Kent State win.",
-      "source": "The Lantern",
-      "url": "https://www.thelantern.com/2026/09/updaytes-ryan-day-previews-matchup-with-illinois-as-buckeyes-begin-big-ten-competition/",
-      "publishedAt": "2026-09-23T07:00:00Z",
-      "tags": ["Ohio State", "Ryan Day", "Illinois", "Big Ten"]
-    },
-    {
-      "id": "f1-hadjar-2027-20260923",
+      "id": "f1-antonelli-interview",
       "category": "f1",
-      "title": "Red Bull retains Isack Hadjar alongside Max Verstappen for F1 2027",
-      "summary": "Red Bull confirmed an unchanged 2027 driver lineup, with Isack Hadjar staying alongside Max Verstappen after his debut season at the senior team. Racing Bulls is yet to confirm its own lineup for 2027.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/red-bull-retains-isack-hadjar-alongside-max-verstappen-for-f1-2027/10858090/",
-      "publishedAt": "2026-09-23T07:30:00Z",
-      "tags": ["Red Bull", "Hadjar", "Verstappen", "lineup"]
+      "title": "Antonelli on his F1 transformation and why he's 'still finding my way'",
+      "summary": "Mercedes championship leader Kimi Antonelli, 81 points clear of teammate George Russell after 14 races, told BBC Sport he sensed a breakthrough the first time he drove this year's car and feels 'much better mentally,' though he says he's still learning. He becomes the title favourite entering the season's final stretch.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/formula1/articles/cmpq03x9x27ro",
+      "publishedAt": "2026-09-23T14:26:00Z",
+      "tags": ["F1", "Antonelli", "Mercedes", "championship"]
     },
     {
-      "id": "f1-azerbaijan-build-up-20260923",
-      "category": "f1",
-      "title": "F1 build-up to the Azerbaijan Grand Prix weekend begins in Baku",
-      "summary": "Formula 1's official Wednesday build-up for the Azerbaijan Grand Prix at Baku is underway as teams and drivers arrive for the weekend. Coverage tracks driver schedules, circuit details and weather outlooks ahead of practice.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/live-coverage-wednesday-build-up-in-azerbaijan-2026.6KFuXeqccqQxeR8jiiMKOa",
-      "publishedAt": "2026-09-23T09:00:00Z",
-      "tags": ["F1", "Azerbaijan GP", "Baku", "build-up"]
+      "id": "tarkov-pve-prestige",
+      "category": "tarkov",
+      "title": "Battlestate teases Escape from Tarkov PvE prestige rewards",
+      "summary": "Battlestate Games boss Nikita Buyanov shared a teaser of rewards for the upcoming PvE prestige system, including exclusive versions of the NKVD Finka knife, 'Shark' knife and Gamma secure container usable across all modes. PvE prestige is reported nearly complete.",
+      "source": "ixbt.games",
+      "url": "https://www.ixbt.games/en/news/2026/09/23/nikita-buianov-pokazal-nagrady-za-pve-prestiz-escape-from-tarkov-budut-ekskliuzivnye-bonusy.html",
+      "publishedAt": "2026-09-23T17:03:00Z",
+      "tags": ["Escape from Tarkov", "PvE", "prestige", "rewards"]
     },
     {
-      "id": "local-crew-higuain-20260923",
+      "id": "local-crew-higuain",
       "category": "local",
-      "title": "Columbus Crew sack reserve coach Federico Higuaín over 'man's game' remark",
-      "summary": "The Columbus Crew dismissed reserve-team coach Federico Higuaín after he allegedly grabbed a female referee's hand and told her \"don't forget this is a man's game\" during an MLS Next Pro match. He had already been given a two-match ban.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/sep/23/columbus-crew-sack-coach-federico-higuain-for-mans-game-jibe-aimed-at-female-referee",
-      "publishedAt": "2026-09-23T09:49:00Z",
-      "tags": ["Columbus Crew", "MLS", "Higuaín", "sports"]
+      "title": "Columbus Crew sack reserve coach over 'man's game' comment to female referee",
+      "summary": "Columbus Crew dismissed reserve-team coach Federico Higuaín after he allegedly called a female official's role a 'man's game' and grabbed her hand. The referees' union criticized MLS for issuing only a two-match ban to the club.",
+      "source": "Net News 1 / The Guardian",
+      "url": "https://www.netnews1.com/news/blogger/2026/09/23/columbus-crew-sack-coach-federico-higuain-for-mans-game-jibe-aimed-at-female-referee/",
+      "publishedAt": "2026-09-23T14:07:00Z",
+      "tags": ["Columbus Crew", "MLS", "Higuaín", "referee"]
     },
     {
-      "id": "local-dewine-emergency-20260923",
+      "id": "local-ohio-medicaid",
       "category": "local",
-      "title": "DeWine declares state of emergency for Ohio counties after flooding",
-      "summary": "Gov. Mike DeWine declared a state of emergency for five Miami Valley counties — Mercer, Montgomery, Logan, Preble and Greene — following significant recent flooding. The proclamation makes state department resources available to affected communities.",
-      "source": "WDTN",
-      "url": "https://www.wdtn.com/news/ohio/dewine-declares-state-of-emergency-for-ohio-counties/",
-      "publishedAt": "2026-09-23T09:30:00Z",
-      "tags": ["Ohio", "flooding", "emergency", "DeWine"]
+      "title": "Ohio releases details on new Medicaid work requirements taking effect 2027",
+      "summary": "Ohio Medicaid has published draft rules for new work requirements mandated by federal law, detailing how residents can prove employment or qualify for exemptions. The rules must be implemented by Jan. 1, 2027, and Ohio is not seeking a delay, affecting roughly a quarter of the state's residents.",
+      "source": "Signal Cleveland",
+      "url": "https://signalcleveland.org/bracing-for-new-medicaid-work-requirements-heres-the-latest-updates-ohio-cleveland/",
+      "publishedAt": "2026-09-23T13:00:00Z",
+      "tags": ["Ohio", "Medicaid", "work requirements", "healthcare"]
     },
     {
-      "id": "local-columbus-housing-bonds-20260923",
+      "id": "local-goblin-fest",
       "category": "local",
-      "title": "Columbus wants to use $500M housing bond to target uneven development",
-      "summary": "Columbus city officials are pitching a $500 million affordable housing bond to address what they call a \"fundamental economic challenge\" in the Midwest. The plan aims to counter uneven development and improve housing stability across the city.",
-      "source": "Columbus Business First",
-      "url": "https://www.bizjournals.com/columbus/news/2026/09/23/columbus-affordable-housing-bonds-2027.html",
-      "publishedAt": "2026-09-23T08:00:00Z",
-      "tags": ["Columbus", "housing", "bonds", "affordability"]
+      "title": "The Great Gahanna Goblin Fest is back",
+      "summary": "Gahanna's Parks and Recreation department announced the return of the Great Gahanna Goblin Fest, a fall community event. Details on the event were posted to the city's news flash as part of the autumn programming lineup.",
+      "source": "City of Gahanna",
+      "url": "https://gahanna.gov/m/newsflash/Archive/Item/223?arcId=411",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "tags": ["Gahanna", "events", "Goblin Fest", "community"]
     }
   ]
 }
