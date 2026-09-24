@@ -1,85 +1,325 @@
 {
   "meta": {
-    "updatedAt": "2026-09-24T11:05:00Z",
+    "updatedAt": "2026-09-24T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 5
+    "count": 21
   },
   "stories": [
     {
-      "id": "top-xi-trump-agenda-20260924",
+      "id": "top-houthis-yemen",
       "category": "top",
-      "title": "Trump-Xi summit: what's on the agenda, and why it matters",
-      "summary": "Xi Jinping's first US state visit in over a decade culminates Thursday in White House talks with Donald Trump on trade, AI, Taiwan and Iran. The two sides extended their trade truce until Jan. 10, setting up talks that top US tech executives will attend at a state dinner.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters",
-      "publishedAt": "2026-09-24T06:00:00Z",
+      "title": "Houthi advance down Yemen's Red Sea coast raises energy fears",
+      "summary": "A rapid Houthi military advance along Yemen's Red Sea coast is spotlighting the Iran-backed group as concerns grow about the global energy market. The move comes amid the ongoing wider Iran conflict.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqy7z228kee3o",
+      "publishedAt": "2026-09-24T17:30:00Z",
       "tags": [
-        "china",
-        "trade",
-        "diplomacy",
-        "summit"
+        "Yemen",
+        "Houthis",
+        "Iran",
+        "energy"
       ]
     },
     {
-      "id": "top-trump-xi-summit-preview-ap-20260924",
+      "id": "top-polymarket-ny",
       "category": "top",
-      "title": "Trump and Xi head into Washington summit with time on their side",
-      "summary": "The two leaders sit down Thursday with a long list of disagreements, from Taiwan arms sales to chip export controls. Both sides this week extended a one-year trade truce due Nov. 10 for two more months, deferring the harder deal-making.",
+      "title": "New York sues Polymarket as unlicensed gambling operation",
+      "summary": "New York state sued prediction market Polymarket, calling it an illegal gambling business that it says puts New Yorkers, especially minors, at risk. Gov. Hochul said the platform knowingly violated state law.",
       "source": "AP",
-      "url": "https://wtop.com/world/2026/09/trump-and-xi-jinping-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side/",
-      "publishedAt": "2026-09-24T04:05:00Z",
+      "url": "https://apnews.com/article/polymarket-new-york-lawsuit-gambling-b75b753e3c3cd069cdf8d6af175c9fbb",
+      "publishedAt": "2026-09-24T16:30:00Z",
       "tags": [
-        "china",
-        "trade",
-        "us-politics",
-        "summit"
+        "Polymarket",
+        "gambling",
+        "regulation",
+        "New York"
       ]
     },
     {
-      "id": "top-xi-arrives-us-afp-20260924",
+      "id": "top-xi-summit",
       "category": "top",
-      "title": "Xi arrives in US to personal Trump welcome",
-      "summary": "Trump greeted Xi personally on the tarmac at Joint Base Andrews, honoring the Chinese leader with a red-carpet military welcome not extended to most visiting heads of state. The three-day visit aims to ease tensions across AI, trade and Iran, and closes with Thursday's White House talks and state dinner.",
-      "source": "AFP",
-      "url": "https://www.rte.ie/news/2026/0924/1592733-xi-trump/",
-      "publishedAt": "2026-09-24T00:20:00Z",
+      "title": "Trump hosts Xi at White House for high-stakes summit",
+      "summary": "Donald Trump welcomed China's Xi Jinping to the White House for a state summit spanning trade, AI, Taiwan and the Iran war. Analysts expect symbolism over substance, but it's the second leaders' meeting in 2026 amid a fragile US-China truce.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-welcomes-xi-washington-looking-trade-win-2026-09-24/",
+      "publishedAt": "2026-09-24T14:00:00Z",
       "tags": [
-        "china",
-        "state-visit",
-        "washington",
-        "diplomacy"
+        "US-China",
+        "Xi Jinping",
+        "diplomacy",
+        "trade"
       ]
     },
     {
-      "id": "local-columbus-roadrage-plea-reversal-20260924",
-      "category": "local",
-      "title": "Columbus man who pleaded guilty in deadly road-rage shooting retains new counsel",
-      "summary": "A Columbus man who earlier pleaded guilty in a deadly I-670 road-rage shooting has hired new legal counsel as he seeks to reverse his plea. The case stems from a shooting authorities linked to the November 2024 death and a separate indictment for murder.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
-      "publishedAt": "2026-09-24T09:00:00Z",
+      "id": "tech-gemini-calls",
+      "category": "tech",
+      "title": "Google tests letting Gemini make phone calls for you",
+      "summary": "Google is testing a feature that lets Gemini call businesses on the user's behalf, initially for US Pixel owners. The move pushes AI assistants beyond chat into real-world transactions.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "publishedAt": "2026-09-24T19:24:00Z",
       "tags": [
-        "columbus",
-        "crime",
-        "courts",
-        "local"
+        "Google",
+        "Gemini",
+        "AI",
+        "Pixel"
       ]
     },
     {
-      "id": "tarkov-arena-free-weekend-20260924",
+      "id": "tech-openai-australia",
+      "category": "tech",
+      "title": "Australia probes whether OpenAI hack of health site broke the law",
+      "summary": "Australia's PM said OpenAI had been hacked and announced an investigation into whether the breach of a government health website broke the law. The incident highlights security gaps around government data.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "publishedAt": "2026-09-24T16:30:00Z",
+      "tags": [
+        "OpenAI",
+        "cybersecurity",
+        "Australia",
+        "hack"
+      ]
+    },
+    {
+      "id": "tech-lovable-600m",
+      "category": "tech",
+      "title": "AI builder Lovable tops $600M annualized revenue on vibe coding",
+      "summary": "Lovable's annualized revenue has crossed $600 million as demand soars for AI-driven 'vibe coding' tools. The milestone underscores how fast app-generation startups are scaling.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "publishedAt": "2026-09-24T15:00:00Z",
+      "tags": [
+        "Lovable",
+        "startup",
+        "vibe coding",
+        "AI"
+      ]
+    },
+    {
+      "id": "tech-ando-slack",
+      "category": "tech",
+      "title": "Ando takes on Slack with human-and-agent workplace messaging",
+      "summary": "Startup Ando is building a team messaging platform designed for humans and AI agents to collaborate, positioning itself against Slack. It reflects growing demand for agent-ready workplace tools.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "tags": [
+        "Ando",
+        "Slack",
+        "AI agents",
+        "startup"
+      ]
+    },
+    {
+      "id": "browns-powerrank",
+      "category": "browns",
+      "title": "Browns rise two spots to No. 29 in PFF power rankings",
+      "summary": "PFF moved Cleveland from No. 31 to No. 29 with a 17% playoff probability after the Browns' rainy 23-19 win at Tampa Bay. Analysts remain cautious but note Deshaun Watson's strong Week 2 passing grade.",
+      "source": "Browns Nation",
+      "url": "https://www.brownsnation.com/browns-get-vote-of-confidence-in-latest-power-rankings/",
+      "publishedAt": "2026-09-24T13:00:00Z",
+      "tags": [
+        "Browns",
+        "power rankings",
+        "PFF",
+        "playoffs"
+      ]
+    },
+    {
+      "id": "browns-watson",
+      "category": "browns",
+      "title": "Watson braces for fans' reaction in first home opener in two years",
+      "summary": "Deshaun Watson says he isn't sure what reception he'll get Sunday as he makes his first regular-season home start with Cleveland in nearly two years, against Carolina. He emphasized moving past earlier friction with fans.",
+      "source": "AP",
+      "url": "https://www.bastillepost.com/global/article/6186337-deshaun-watson-braces-for-browns-fans-reaction-going-into-home-opener-against-carolina",
+      "publishedAt": "2026-09-24T11:00:00Z",
+      "tags": [
+        "Browns",
+        "Deshaun Watson",
+        "Panthers",
+        "home opener"
+      ]
+    },
+    {
+      "id": "browns-roundup",
+      "category": "browns",
+      "title": "Browns make roster moves, eye Judkins breakout vs Panthers",
+      "summary": "Cleveland added former Carolina players, made two practice-squad moves and dealt with injuries as it prepared for the Panthers. There's growing buzz that running back Quinshon Judkins could have a breakout game.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/133288/cleveland-browns-news-roster-changes-injury-report-quinshon-judkins-breakout-and-more",
+      "publishedAt": "2026-09-24T10:00:00Z",
+      "tags": [
+        "Browns",
+        "Judkins",
+        "roster",
+        "Carolina"
+      ]
+    },
+    {
+      "id": "osu-availability",
+      "category": "buckeyes",
+      "title": "Buckeyes list 3 out, 5 questionable in first Big Ten availability report",
+      "summary": "Ohio State's first Big Ten availability report ahead of Illinois shows three players out and five questionable, including tackle Phillip Daniels and edge Zion Grady. It's the first game under the Big Ten's new early-reporting rule.",
+      "source": "Scarlet and Game",
+      "url": "https://scarletandgame.com/ohio-state-s-first-big-ten-availability-report-shows-3-players-out-5-questionable-vs-illinois",
+      "publishedAt": "2026-09-24T16:00:00Z",
+      "tags": [
+        "Ohio State",
+        "Illinois",
+        "injury report",
+        "Big Ten"
+      ]
+    },
+    {
+      "id": "osu-day-illinois",
+      "category": "buckeyes",
+      "title": "Ryan Day previews Big Ten opener vs Illinois on weekly radio show",
+      "summary": "Ryan Day faces reporters and his 97.1 The Fan radio show as Ohio State opens Big Ten play Saturday against Illinois at Ohio Stadium. The Buckeyes are multi-touchdown favorites to start conference play 1-0.",
+      "source": "247Sports",
+      "url": "https://247sports.com/college/ohio-state/article/last-word-ryan-day-looks-ahead-to-ohio-state-football-big-ten-opener-vs-illinois-fighting-illini-290361801/",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "tags": [
+        "Ohio State",
+        "Illinois",
+        "Ryan Day",
+        "Big Ten"
+      ]
+    },
+    {
+      "id": "osu-no7-poll",
+      "category": "buckeyes",
+      "title": "Ohio State drops to No. 7 in AP and Coaches polls",
+      "summary": "The Buckeyes slipped one spot to No. 7 in both the AP Top 25 and Coaches Poll after Ole Miss' win over LSU leapfrogged them, despite OSU's 59-3 rout of Kent State.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/164058/ohio-state-drops-to-no-7-in-both-ap-and-coaches-polls-after-ole-miss-beats-lsu-to-leapfrog-the-buckeyes",
+      "publishedAt": "2026-09-24T10:30:00Z",
+      "tags": [
+        "Ohio State",
+        "AP Poll",
+        "rankings",
+        "CBB polls"
+      ]
+    },
+    {
+      "id": "f1-lawson-baku",
+      "category": "f1",
+      "title": "Lawson returns as Lindblad hits trouble in Baku practice",
+      "summary": "Liam Lawson was back in the Racing Bulls in Baku while teammate Arvid Lindblad crashed during practice. It was a contrasting session for the team ahead of the Azerbaijan GP.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/contrasting-fortunes-for-racing-bulls-as-lawson-returns-and-lindblad-crashes.1tNORb78fI7GQw9qzR7KZn",
+      "publishedAt": "2026-09-24T13:00:00Z",
+      "tags": [
+        "F1",
+        "Azerbaijan GP",
+        "Lawson",
+        "Lindblad"
+      ]
+    },
+    {
+      "id": "f1-audi-upgrade",
+      "category": "f1",
+      "title": "Audi says upgrade package 'delivering as expected' in Baku",
+      "summary": "Mattia Binotto said Audi's new upgrade package is 'delivering as expected' after first practice in Azerbaijan. The team is chasing gains as it builds toward a fully works operation.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/the-package-is-delivering-as-expected-audi-reflect-on-new-upgrade-package-after-practice-in-azerbaijan.5U8qcauiyASv8Je72XQF3c",
+      "publishedAt": "2026-09-24T12:30:00Z",
+      "tags": [
+        "F1",
+        "Audi",
+        "Binotto",
+        "Azerbaijan GP"
+      ]
+    },
+    {
+      "id": "f1-cadillac-tech",
+      "category": "f1",
+      "title": "Cadillac recruit technical leaders from Red Bull and Ferrari",
+      "summary": "Cadillac has hired technical leaders from Red Bull and Ferrari as part of its long-term development push. The hires reinforce the new team's ambition to be competitive quickly.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/cadillac-recruit-technical-leaders-from-red-bull-and-ferrari-as-part-of-long-term-development.5bNqxMySRCCuU69CY5Es7w",
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "tags": [
+        "F1",
+        "Cadillac",
+        "staffing",
+        "technical leaders"
+      ]
+    },
+    {
+      "id": "f1-fp2-baku",
+      "category": "f1",
+      "title": "Russell leads Antonelli and Verstappen in Baku FP2",
+      "summary": "George Russell topped second practice in Baku ahead of team-mate Andrea Kimi Antonelli and Max Verstappen. Mercedes locked out the top two spots on day one of the Azerbaijan GP.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/fp2-russell-leads-antonelli-and-verstappen-in-second-azerbaijan-gp-practice.37CqNf2uaAyxvDPmvbt3Iw",
+      "publishedAt": "2026-09-24T11:15:00Z",
+      "tags": [
+        "F1",
+        "Azerbaijan GP",
+        "Russell",
+        "FP2"
+      ]
+    },
+    {
+      "id": "tarkov-arena-free",
       "category": "tarkov",
-      "title": "Escape from Tarkov: Arena gets a free weekend Sept 24-27",
-      "summary": "Battlestate Games is offering free access to Escape from Tarkov: Arena from September 24 through 27, letting new players try the spin-off arena shooter. It comes as the studio continues to roll out its League System and season content for the wider Tarkov universe.",
+      "title": "Escape from Tarkov: Arena kicks off free weekend Sept 24-27",
+      "summary": "Escape from Tarkov: Arena is free to play from Sept 24-27, with discounts on full and standard editions, Twitch Drops and new BattlePass Season 3 'Morbus Imperium' content including the 'The Lab' map and reworked BlastGang mode.",
       "source": "escapefromtarkov.com",
-      "url": "https://www.escapefromtarkov.com/news",
-      "publishedAt": "2026-09-24T00:00:00Z",
+      "url": "https://arena.tarkov.com/news/free-weekend-in-eftarena",
+      "publishedAt": "2026-09-24T10:01:00Z",
       "tags": [
-        "tarkov",
-        "arena",
-        "free-weekend",
-        "gaming"
+        "Tarkov",
+        "EFT Arena",
+        "free weekend",
+        "BattlePass"
+      ]
+    },
+    {
+      "id": "local-w-columbus-shooting",
+      "category": "local",
+      "title": "Arrest made in deadly west Columbus shooting",
+      "summary": "Columbus police charged 27-year-old Zackary Burroughs with murder in a deadly shooting on Wheatland Avenue in west Columbus. Detectives identified the victim and made an arrest in the case.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/arrest-made-deadly-west-columbus-shooting-wheatland-avenue/530-ef1b0690-4c94-4296-bbf4-b1ac25815df7",
+      "publishedAt": "2026-09-24T18:00:00Z",
+      "tags": [
+        "Columbus",
+        "shooting",
+        "crime",
+        "police"
+      ]
+    },
+    {
+      "id": "local-townsend",
+      "category": "local",
+      "title": "10TV anchor Tracy Townsend stepping away from news",
+      "summary": "Tracy Townsend, longtime WBNS-10TV morning anchor and Emmy/Murrow winner, announced she is leaving television news, with her last day set for Sept. 30. She called her 10TV tenure an 'incredible chapter.'",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/10tv-news-this-morning/tracy-townsend-announces-she-is-stepping-away-from-television-news-10tv-this-morning/530-0f3b331c-cedc-423b-980d-05f6bcd4c373",
+      "publishedAt": "2026-09-24T16:00:00Z",
+      "tags": [
+        "Columbus",
+        "10TV",
+        "media",
+        "anchor"
+      ]
+    },
+    {
+      "id": "local-flock-ohio",
+      "category": "local",
+      "title": "Ohio AG recommends criminalizing Flock camera misuse",
+      "summary": "Ohio's attorney general recommended making misuse of Flock automated license-plate camera technology a crime. The guidance addresses growing privacy concerns around police use of the surveillance system.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/ohio-ag-recommends-criminalizing-misuse-flock-camera-technology/530-5ebe7ea2-ea48-43b1-ae77-431c82d42d6b",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "tags": [
+        "Ohio",
+        "Flock cameras",
+        "AG",
+        "surveillance"
       ]
     }
   ]
