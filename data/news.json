@@ -1,151 +1,86 @@
 {
   "meta": {
-    "updatedAt": "2026-09-23T19:30:00Z",
+    "updatedAt": "2026-09-24T11:05:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 14
+    "count": 5
   },
   "stories": [
     {
-      "id": "top-uk-disinfo-unit",
+      "id": "top-xi-trump-agenda-20260924",
       "category": "top",
-      "title": "UK sets up unit to combat disinformation from Russia and AI",
-      "summary": "Britain's defence minister said the UK will create an agency to fight disinformation spread by adversaries like Russia and amplified by artificial intelligence, aimed at helping citizens 'separate fact from fiction.' It signals growing government concern about AI-amplified information warfare.",
-      "source": "France24 / AFP",
-      "url": "https://www.france24.com/en/live-news/20260923-uk-sets-up-unit-to-combat-disinformation-from-russia-ai",
-      "publishedAt": "2026-09-23T10:45:00Z",
-      "tags": ["UK", "disinformation", "AI", "defence"]
+      "title": "Trump-Xi summit: what's on the agenda, and why it matters",
+      "summary": "Xi Jinping's first US state visit in over a decade culminates Thursday in White House talks with Donald Trump on trade, AI, Taiwan and Iran. The two sides extended their trade truce until Jan. 10, setting up talks that top US tech executives will attend at a state dinner.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters",
+      "publishedAt": "2026-09-24T06:00:00Z",
+      "tags": [
+        "china",
+        "trade",
+        "diplomacy",
+        "summit"
+      ]
     },
     {
-      "id": "top-nk-weightlifter",
+      "id": "top-trump-xi-summit-preview-ap-20260924",
       "category": "top",
-      "title": "North Korea weightlifter sets three world records for Asian Games gold",
-      "summary": "North Korea's Ri Song-gum won gold in the women's 49kg class at the 2026 Asian Games, setting world records in the snatch (94kg), clean and jerk (121kg) and 215kg overall. It is her third Asian Games gold after Jakarta and Hangzhou.",
-      "source": "France24 / AFP",
-      "url": "https://www.france24.com/en/live-news/20260923-north-korea-weightlifter-sets-three-world-records-for-asian-games-gold",
-      "publishedAt": "2026-09-23T08:31:00Z",
-      "tags": ["North Korea", "Asian Games", "weightlifting", "records"]
+      "title": "Trump and Xi head into Washington summit with time on their side",
+      "summary": "The two leaders sit down Thursday with a long list of disagreements, from Taiwan arms sales to chip export controls. Both sides this week extended a one-year trade truce due Nov. 10 for two more months, deferring the harder deal-making.",
+      "source": "AP",
+      "url": "https://wtop.com/world/2026/09/trump-and-xi-jinping-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side/",
+      "publishedAt": "2026-09-24T04:05:00Z",
+      "tags": [
+        "china",
+        "trade",
+        "us-politics",
+        "summit"
+      ]
     },
     {
-      "id": "tech-sanders-superintelligence",
-      "category": "tech",
-      "title": "Bernie Sanders proposes banning 'superintelligence' with up to 20 years in prison",
-      "summary": "Sen. Bernie Sanders and Rep. Greg Casar introduced the Ban Artificial Superintelligence Act, which would criminalize developing AI superintelligence and pause frontier-model work until a scientist-led Department of AI is created. Violators could face up to 20 years in prison, similar to nuclear weapons penalties.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "publishedAt": "2026-09-23T16:23:00Z",
-      "tags": ["AI", "regulation", "superintelligence", "Congress"]
+      "id": "top-xi-arrives-us-afp-20260924",
+      "category": "top",
+      "title": "Xi arrives in US to personal Trump welcome",
+      "summary": "Trump greeted Xi personally on the tarmac at Joint Base Andrews, honoring the Chinese leader with a red-carpet military welcome not extended to most visiting heads of state. The three-day visit aims to ease tensions across AI, trade and Iran, and closes with Thursday's White House talks and state dinner.",
+      "source": "AFP",
+      "url": "https://www.rte.ie/news/2026/0924/1592733-xi-trump/",
+      "publishedAt": "2026-09-24T00:20:00Z",
+      "tags": [
+        "china",
+        "state-visit",
+        "washington",
+        "diplomacy"
+      ]
     },
     {
-      "id": "tech-youtube-conversational",
-      "category": "tech",
-      "title": "YouTube adds conversational video editing in natural language",
-      "summary": "YouTube's Made On YouTube event introduced a conversational editing tool that lets creators refine long- and short-form footage with natural-language prompts, including removing pauses and adding text overlays. It rolls out to Shorts and the YouTube Create app in early 2027.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-      "publishedAt": "2026-09-23T15:46:00Z",
-      "tags": ["YouTube", "AI", "video editing", "creators"]
+      "id": "local-columbus-roadrage-plea-reversal-20260924",
+      "category": "local",
+      "title": "Columbus man who pleaded guilty in deadly road-rage shooting retains new counsel",
+      "summary": "A Columbus man who earlier pleaded guilty in a deadly I-670 road-rage shooting has hired new legal counsel as he seeks to reverse his plea. The case stems from a shooting authorities linked to the November 2024 death and a separate indictment for murder.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
+      "publishedAt": "2026-09-24T09:00:00Z",
+      "tags": [
+        "columbus",
+        "crime",
+        "courts",
+        "local"
+      ]
     },
     {
-      "id": "tech-youtube-ai-tools",
-      "category": "tech",
-      "title": "YouTube builds AI creator tools that automate thumbnails, titles and channel optimization",
-      "summary": "At its annual creator event, YouTube expanded its AI toolkit, adding a background 'agent' that analyzes a creator's back catalog to suggest title and thumbnail tweaks, plus tools to test multiple video versions across audience segments. The features aim to pull creators further into YouTube's own optimization stack.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "publishedAt": "2026-09-23T14:30:00Z",
-      "tags": ["YouTube", "AI", "creator tools", "thumbnails"]
-    },
-    {
-      "id": "browns-watson-fans",
-      "category": "browns",
-      "title": "Deshaun Watson shifts tone toward Browns fans ahead of home opener",
-      "summary": "After leading Cleveland to its first win of the season in Tampa Bay, Deshaun Watson struck a conciliatory note about facing Cleveland fans at Sunday's home opener against Carolina, a contrast to his earlier friction with the home crowd. Watson remains the starter per Cleveland media.",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/sports/nfl/deshaun-watson-drastically-changes-attitude-toward-browns-fans-12479625",
-      "publishedAt": "2026-09-23T18:43:00Z",
-      "tags": ["Browns", "Deshaun Watson", "fans", "home opener"]
-    },
-    {
-      "id": "browns-shedeur-trade",
-      "category": "browns",
-      "title": "Cleveland media speculate Browns could trade Shedeur Sanders",
-      "summary": "After Deshaun Watson's solid outing in a 23-19 win over Tampa Bay, local media figures such as Tony Rizzo suggested the Browns could trade backup Shedeur Sanders before the deadline and name Dillon Gabriel QB2. Rumors about Sanders have persisted despite Cleveland's early QB ambiguity.",
-      "source": "Yardbarker",
-      "url": "https://www.yardbarker.com/nfl/articles/are_the_browns_trading_shedeur_sanders_cleveland_media_thinks_so/s1_17769_44339589",
-      "publishedAt": "2026-09-23T17:37:00Z",
-      "tags": ["Browns", "Shedeur Sanders", "trade", "quarterback"]
-    },
-    {
-      "id": "buckeyes-tahj-gray",
-      "category": "buckeyes",
-      "title": "Noon kickoff costs Ohio State a 5-star recruit visit for Illinois game",
-      "summary": "Because Saturday's Big Ten opener against Illinois is a noon Fox Big Noon Kickoff game, 5-star 2028 linebacker Tahj Gray reportedly won't travel to Columbus, and isn't expected back until the Michigan game. The early start is a recruiting setback for the Buckeyes.",
-      "source": "AtoZ Sports",
-      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-dealt-unfortunate-news-for-big-ten-opener-against-illinois-and-its-an-issue-that-keeps-popping-up/",
-      "publishedAt": "2026-09-23T17:10:00Z",
-      "tags": ["Ohio State", "recruiting", "Tahj Gray", "Illinois"]
-    },
-    {
-      "id": "buckeyes-bielema",
-      "category": "buckeyes",
-      "title": "Illinois coach Bret Bielema previews Buckeyes and remembers OSU rivalries",
-      "summary": "With Illinois visiting Columbus to open Big Ten play, head coach Bret Bielema previewed the matchup and revisited his history against Ohio State. The No. 7 Buckeyes (2-1) host the Illini in their first conference game of the season.",
-      "source": "BucksInsider",
-      "url": "https://www.bucksinsider.com/2026/09/21/insider-updates-bret-bielema-previews-buckeyes-reminisces-about-osu-rivalries/",
-      "publishedAt": "2026-09-23T10:30:00Z",
-      "tags": ["Ohio State", "Illinois", "Big Ten", "preview"]
-    },
-    {
-      "id": "f1-antonelli-interview",
-      "category": "f1",
-      "title": "Antonelli on his F1 transformation and why he's 'still finding my way'",
-      "summary": "Mercedes championship leader Kimi Antonelli, 81 points clear of teammate George Russell after 14 races, told BBC Sport he sensed a breakthrough the first time he drove this year's car and feels 'much better mentally,' though he says he's still learning. He becomes the title favourite entering the season's final stretch.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/cmpq03x9x27ro",
-      "publishedAt": "2026-09-23T14:26:00Z",
-      "tags": ["F1", "Antonelli", "Mercedes", "championship"]
-    },
-    {
-      "id": "tarkov-pve-prestige",
+      "id": "tarkov-arena-free-weekend-20260924",
       "category": "tarkov",
-      "title": "Battlestate teases Escape from Tarkov PvE prestige rewards",
-      "summary": "Battlestate Games boss Nikita Buyanov shared a teaser of rewards for the upcoming PvE prestige system, including exclusive versions of the NKVD Finka knife, 'Shark' knife and Gamma secure container usable across all modes. PvE prestige is reported nearly complete.",
-      "source": "ixbt.games",
-      "url": "https://www.ixbt.games/en/news/2026/09/23/nikita-buianov-pokazal-nagrady-za-pve-prestiz-escape-from-tarkov-budut-ekskliuzivnye-bonusy.html",
-      "publishedAt": "2026-09-23T17:03:00Z",
-      "tags": ["Escape from Tarkov", "PvE", "prestige", "rewards"]
-    },
-    {
-      "id": "local-crew-higuain",
-      "category": "local",
-      "title": "Columbus Crew sack reserve coach over 'man's game' comment to female referee",
-      "summary": "Columbus Crew dismissed reserve-team coach Federico Higuaín after he allegedly called a female official's role a 'man's game' and grabbed her hand. The referees' union criticized MLS for issuing only a two-match ban to the club.",
-      "source": "Net News 1 / The Guardian",
-      "url": "https://www.netnews1.com/news/blogger/2026/09/23/columbus-crew-sack-coach-federico-higuain-for-mans-game-jibe-aimed-at-female-referee/",
-      "publishedAt": "2026-09-23T14:07:00Z",
-      "tags": ["Columbus Crew", "MLS", "Higuaín", "referee"]
-    },
-    {
-      "id": "local-ohio-medicaid",
-      "category": "local",
-      "title": "Ohio releases details on new Medicaid work requirements taking effect 2027",
-      "summary": "Ohio Medicaid has published draft rules for new work requirements mandated by federal law, detailing how residents can prove employment or qualify for exemptions. The rules must be implemented by Jan. 1, 2027, and Ohio is not seeking a delay, affecting roughly a quarter of the state's residents.",
-      "source": "Signal Cleveland",
-      "url": "https://signalcleveland.org/bracing-for-new-medicaid-work-requirements-heres-the-latest-updates-ohio-cleveland/",
-      "publishedAt": "2026-09-23T13:00:00Z",
-      "tags": ["Ohio", "Medicaid", "work requirements", "healthcare"]
-    },
-    {
-      "id": "local-goblin-fest",
-      "category": "local",
-      "title": "The Great Gahanna Goblin Fest is back",
-      "summary": "Gahanna's Parks and Recreation department announced the return of the Great Gahanna Goblin Fest, a fall community event. Details on the event were posted to the city's news flash as part of the autumn programming lineup.",
-      "source": "City of Gahanna",
-      "url": "https://gahanna.gov/m/newsflash/Archive/Item/223?arcId=411",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "tags": ["Gahanna", "events", "Goblin Fest", "community"]
+      "title": "Escape from Tarkov: Arena gets a free weekend Sept 24-27",
+      "summary": "Battlestate Games is offering free access to Escape from Tarkov: Arena from September 24 through 27, letting new players try the spin-off arena shooter. It comes as the studio continues to roll out its League System and season content for the wider Tarkov universe.",
+      "source": "escapefromtarkov.com",
+      "url": "https://www.escapefromtarkov.com/news",
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "tags": [
+        "tarkov",
+        "arena",
+        "free-weekend",
+        "gaming"
+      ]
     }
   ]
 }
