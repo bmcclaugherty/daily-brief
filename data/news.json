@@ -1,238 +1,337 @@
 {
   "meta": {
-    "updatedAt": "2026-09-25T11:00:00Z",
+    "updatedAt": "2026-09-25T19:32:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 22
   },
   "stories": [
     {
-      "id": "top-yemen-hospitals",
+      "id": "top-bbc-netanyahu-un",
       "category": "top",
-      "title": "Yemen's civil war returns and overwhelms hospitals",
-      "summary": "Renewed fighting has swamped Yemen's hospitals, with children sharing emergency room beds and some pregnant women turned away as facilities focus on the wounded. The breakdown in care deepens the humanitarian crisis in the Arab world's poorest country.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/yemen-hospitals-civil-war-2440b1ec899b2664bebe3122bc070175",
-      "publishedAt": "2026-09-25T06:20:00Z",
+      "title": "Netanyahu defends military action as delegates walk out at UN",
+      "summary": "Israeli PM Benjamin Netanyahu defended Israel's military operations in a UN General Assembly speech as some delegates walked out, drawing fresh backlash from journalists and broadcasters.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3y0z7kxlegdo",
+      "publishedAt": "2026-09-25T14:40:00Z",
       "tags": [
-        "yemen",
-        "civil war",
-        "humanitarian"
+        "Israel",
+        "UN",
+        "Netanyahu",
+        "Middle East"
       ]
     },
     {
-      "id": "top-pope-france",
+      "id": "top-bbc-trump-media-ban",
       "category": "top",
-      "title": "Pope Leo XIV opens four-day visit to France",
-      "summary": "Pope Leo XIV began a four-day state visit to France on Friday, using it to renew appeals for peace and for global rules on AI. Up to a million people are expected to attend events in Paris, Lourdes and Metz \u2014 the first papal state visit in 18 years.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/pope-leo-heads-france-with-ai-apologies-clergy-abuse-agenda-2026-09-25/",
-      "publishedAt": "2026-09-25T05:03:00Z",
+      "title": "Trump denies barred media access to state dinner despite court order",
+      "summary": "Several outlets Trump has barred were kept out of a White House state-dinner event even after a judge ordered their access restored, as Trump welcomed China's Xi Jinping for an official visit.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqe8ek7608mlo",
+      "publishedAt": "2026-09-25T14:10:00Z",
+      "tags": [
+        "White House",
+        "Trump",
+        "Xi Jinping",
+        "Press freedom"
+      ]
+    },
+    {
+      "id": "top-bbc-pope-paris",
+      "category": "top",
+      "title": "Hundreds of thousands expected in Paris for Pope Leo's visit",
+      "summary": "Hundreds of thousands of people are expected to turn out in Paris for Pope Leo's visit, shaping up as one of the largest papal events the city has hosted in years.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cmq8j904212po",
+      "publishedAt": "2026-09-25T12:30:00Z",
       "tags": [
         "Pope",
         "France",
-        "state visit",
-        "AI"
+        "Paris",
+        "Vatican"
       ]
     },
     {
-      "id": "top-trump-xi-dinner",
-      "category": "top",
-      "title": "Trump hosts Xi for White House state dinner",
-      "summary": "President Trump welcomed China's Xi Jinping to a White House state dinner Thursday evening after a day of talks covering trade, global conflicts and AI. The summit comes as the U.S. presses China over concerns its firms are copying American AI technology.",
-      "source": "ABC News",
-      "url": "https://abcnews.com/Politics/trump-greets-xi-white-house-high-stakes-state/story?id=136717468",
-      "publishedAt": "2026-09-25T00:20:00Z",
-      "tags": [
-        "US-China",
-        "Trump",
-        "state visit",
-        "AI"
-      ]
-    },
-    {
-      "id": "tech-maga-ai-recoil",
+      "id": "tech-tc-tesla-semi",
       "category": "tech",
-      "title": "MAGA base recoils as Trump goes all-in on AI",
-      "summary": "Financial Times reporting describes friction between President Trump's full embrace of artificial intelligence and parts of his MAGA base wary of the technology. The tension is shaping the politics of both AI policy and the administration's outreach.",
-      "source": "Financial Times",
-      "url": "https://thirdruntime.com/go/36650/maga-base-recoils-as-trump-goes-all-in-on-ai",
-      "publishedAt": "2026-09-25T05:30:00Z",
+      "title": "Tesla moves to electrify trucking after decade of delays",
+      "summary": "Tesla says it will scale production of its all-electric Semi to 50,000 units a year, its biggest push into freight trucking after roughly a decade of work and delays.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+      "publishedAt": "2026-09-25T15:30:00Z",
       "tags": [
-        "AI",
-        "policy",
-        "Trump"
+        "Tesla",
+        "EV",
+        "Semi",
+        "Trucking"
       ]
     },
     {
-      "id": "tech-cheap-ai-model",
+      "id": "tech-runway-layers",
       "category": "tech",
-      "title": "The cheap new AI model taking aim at OpenAI and Anthropic",
-      "summary": "Analysts are tracking a low-cost AI model positioning itself against pricier offerings from OpenAI and Anthropic, part of a broader price war in the sector. Cheaper frontier-grade models would pressure margins and reshape enterprise adoption.",
-      "source": "Financial Times",
-      "url": "https://thirdruntime.com/go/36651/the-cheap-new-ai-model-taking-aim-at-openai-and-anthropic",
-      "publishedAt": "2026-09-25T05:30:00Z",
+      "title": "Runway launches Layers to split images into editable layers",
+      "summary": "Runway launched Layers, a tool that splits any image into individually editable transparent components with a single click, aimed at faster image editing workflows.",
+      "source": "Runway",
+      "url": "https://headsupai.io/updates/runway-launches-layers-split-images-into-editable-transparent-components",
+      "publishedAt": "2026-09-25T13:00:00Z",
       "tags": [
-        "AI models",
-        "competition",
-        "pricing"
+        "Runway",
+        "AI tools",
+        "Image editing",
+        "Generative AI"
       ]
     },
     {
-      "id": "tech-asml-europe",
+      "id": "tech-anthropic-nine-loop",
       "category": "tech",
-      "title": "ASML sold 'absolutely nothing' in Europe in 2026",
-      "summary": "Chip-tool maker ASML says it sold no machines in Europe in the first half of 2026 because no continental fabs are being built, as its regional revenue share fell to 0%. The company is pressing EU authorities to create domestic chip demand to keep Europe competitive.",
-      "source": "Fudzilla",
-      "url": "https://www.fudzilla.com/asmls-european-sales-fall-to-zero/",
-      "publishedAt": "2026-09-25T00:40:00Z",
-      "tags": [
-        "semiconductors",
-        "ASML",
-        "Europe"
-      ]
-    },
-    {
-      "id": "tech-anthropic-doomer",
-      "category": "tech",
-      "title": "Trump allies cast Anthropic CEO Amodei as AI 'doomerism' face ahead of IPO",
-      "summary": "Axios reports a memo circulating in the White House this week paints Anthropic CEO Dario Amodei as the face of AI 'doomerism' ahead of the company's record IPO. The political pressure marks a new front in the clash over AI safety and regulation.",
-      "source": "IBTimes",
-      "url": "https://www.ibtimes.com/trump-allies-are-targeting-anthropic-ceo-dario-amodei-over-ai-doomerism-new-battleground-emerges-3807849",
-      "publishedAt": "2026-09-25T00:30:00Z",
+      "title": "Anthropic says Claude solved nine-loop physics calculation",
+      "summary": "Anthropic reported that its Claude model computed a nine-loop particle-physics scattering amplitude in planar N=4 super Yang-Mills theory, surpassing the previous eight-loop record set by physicists.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "publishedAt": "2026-09-25T12:00:00Z",
       "tags": [
         "Anthropic",
-        "AI safety",
-        "IPO",
-        "politics"
+        "Claude",
+        "AI research",
+        "Physics"
       ]
     },
     {
-      "id": "browns-panthers-preview",
+      "id": "tech-perplexity-fast-search",
+      "category": "tech",
+      "title": "Perplexity launches Fast Search API on new Photon engine",
+      "summary": "Perplexity launched Fast Search, a new Search API preset powered by its in-house Photon retrieval-and-ranking engine, aimed at lower-latency programmatic search.",
+      "source": "Perplexity",
+      "url": "https://headsupai.io/updates/perplexity-launches-fast-search-api-powered-by-new-photon-engine",
+      "publishedAt": "2026-09-25T11:00:00Z",
+      "tags": [
+        "Perplexity",
+        "Search API",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "browns-quincy-williams",
       "category": "browns",
-      "title": "Browns vs. Panthers: Storylines, scouting report and picks for Week 3",
-      "summary": "Cleveland.com's Orange and Brown Talk previews the Browns' home opener against the Carolina Panthers on Sept. 27, breaking down matchups and picks for the Week 3 game. The Browns return to Huntington Bank Field after a 23-19 win in Tampa.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/orange-and-brown-talk-podcast/2026/09/browns-vs-panthers-storylines-scouting-report-and-picks-for-week-3-orange-and-brown-talk-podcast.html",
-      "publishedAt": "2026-09-25T10:00:00Z",
+      "title": "Quincy Williams becoming a problem the Browns can't ignore",
+      "summary": "Linebacker Quincy Williams is quickly becoming a problem for opposing offenses, and the Browns can't keep ignoring his impact as they prep for the Panthers.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/quincy-williams-is-quickly-becoming-a-problem-the-browns-can-t-ignore-01m3a38tk718",
+      "publishedAt": "2026-09-25T18:35:00Z",
       "tags": [
         "Browns",
-        "Week 3",
-        "Panthers"
+        "Quincy Williams",
+        "Defense",
+        "NFL"
       ]
     },
     {
-      "id": "browns-verse-replacement",
+      "id": "browns-delpit-injury",
       "category": "browns",
-      "title": "Myles Garrett replacement Jared Verse not worried about slow start",
-      "summary": "Edge rusher Jared Verse, acquired from the Rams to replace Myles Garrett, is still without a sack this season but he and the coaching staff say they aren't concerned. The pass rush pressure is a key storyline as Cleveland opens its home schedule.",
-      "source": "SI.com",
-      "url": "https://www.si.com/nfl/browns/onsi/myles-garrett-replacement-yet-to-find-success-but-he-and-coaches-aren-t-concerned-01m3ar9rtp0m",
-      "publishedAt": "2026-09-25T00:20:00Z",
+      "title": "Delpit injury could open role for rookie McNeil-Warren",
+      "summary": "Grant Delpit's shoulder injury could give Browns rookie Emmanuel McNeil-Warren his biggest defensive role yet in Week 3 against Carolina.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/grant-delpit-injury-could-give-emmanuel-mcneil-warren-first-real-browns-opportunity-01m3cqa6x632",
+      "publishedAt": "2026-09-25T18:30:00Z",
       "tags": [
         "Browns",
-        "Jared Verse",
-        "defense"
+        "Grant Delpit",
+        "Injury",
+        "Rookies"
       ]
     },
     {
-      "id": "buckeyes-bielema-preview",
+      "id": "browns-chubb-retirement",
+      "category": "browns",
+      "title": "Nick Chubb's retirement message to Browns fans",
+      "summary": "Nick Chubb, set to sign a one-day contract and retire with Cleveland ahead of Sunday's home opener, shared an emotional thank-you message to Browns fans.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/nick-chubb-s-retirement-message-to-browns-fans-proves-he-s-truly-1-of-1-01m3cfh5j1rr",
+      "publishedAt": "2026-09-25T16:30:00Z",
+      "tags": [
+        "Browns",
+        "Nick Chubb",
+        "Retirement",
+        "NFL"
+      ]
+    },
+    {
+      "id": "browns-defense-vulnerable",
+      "category": "browns",
+      "title": "Browns defense still vulnerable in one key area",
+      "summary": "Cleveland's defense improved from Week 1 to Week 2 but remains exposed in a specific area that could undermine the unit if left unfixed.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/browns-defense-remains-vulnerable-in-an-area-that-could-destroy-everything-01m37tf9aa7v",
+      "publishedAt": "2026-09-25T10:30:00Z",
+      "tags": [
+        "Browns",
+        "Defense",
+        "NFL",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "buckeyes-osu-illinois-broadcast",
       "category": "buckeyes",
-      "title": "Illinois coach Bret Bielema previews the Buckeyes",
-      "summary": "Illinois coach Bret Bielema discussed facing No. 7 Ohio State as the Illini open Big Ten play at the Horseshoe on Saturday, reminiscing about OSU rivalries in the process. It's Ohio State's first conference game of 2026.",
-      "source": "BucksInsider",
-      "url": "https://www.bucksinsider.com/2026/09/21/insider-updates-bret-bielema-previews-buckeyes-reminisces-about-osu-rivalries/",
-      "publishedAt": "2026-09-25T02:20:00Z",
+      "title": "No. 7 Ohio State opens Big Ten play hosting Illinois",
+      "summary": "No. 7 Ohio State hosts Illinois in Saturday's Big Ten opener; kickoff is Noon ET on FOX for the 105th meeting for the Illibuck Trophy.",
+      "source": "Ohio State Athletics",
+      "url": "https://ohiostatebuckeyes.com/news/2026/9/25/football-broadcast-information-ohio-state-vs-illinois",
+      "publishedAt": "2026-09-25T15:30:00Z",
       "tags": [
         "Ohio State",
         "Illinois",
+        "Big Ten",
+        "Football"
+      ]
+    },
+    {
+      "id": "buckeyes-short-yardage",
+      "category": "buckeyes",
+      "title": "Ohio State struggling in short-yardage situations",
+      "summary": "The Buckeyes have converted just five of 11 third- and fourth-and-short plays inside three yards this season, an area needing improvement with Big Ten play looming.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/164085/ohio-state-has-been-unable-to-consistently-move-the-ball-on-third-and-fourth-and-short-situations-this-season",
+      "publishedAt": "2026-09-25T13:00:00Z",
+      "tags": [
+        "Ohio State",
+        "Offense",
+        "Analysis",
         "Big Ten"
       ]
     },
     {
-      "id": "f1-azerbaijan-fp3",
+      "id": "buckeyes-illinois-preview",
+      "category": "buckeyes",
+      "title": "Ohio State vs. Illinois preview: running backs must step up",
+      "summary": "Ohio State's Illinois preview looks at a backfield that needs to step up in conference play, with Devin Sanchez drawing a key matchup.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/164134/ohio-state-vs-illinois-preview-ohio-state-looking-for-running-backs-to-step-up-devin-sanchez-draws-key-matchup-with",
+      "publishedAt": "2026-09-25T12:30:00Z",
+      "tags": [
+        "Ohio State",
+        "Illinois",
+        "Preview",
+        "Running Backs"
+      ]
+    },
+    {
+      "id": "f1-shorter-races-2027",
       "category": "f1",
-      "title": "Verstappen beats Russell and Hamilton in Azerbaijan FP3",
-      "summary": "Max Verstappen topped final practice for the Azerbaijan Grand Prix, edging Mercedes' George Russell and Ferrari's Lewis Hamilton. It sets up a tight qualifying battle at the Baku street circuit.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/fp3-verstappen-beats-russell-and-hamilton-in-final-practice-for-azerbaijan-gp.4BuODmX7lLpgRKnIK4oMXg",
-      "publishedAt": "2026-09-25T09:00:00Z",
+      "title": "F1 approves shorter races for 2027 season",
+      "summary": "Formula 1 approved shorter races for the 2027 season to fit the revised power-unit plan, a significant format change for the sport.",
+      "source": "Motorsport",
+      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/",
+      "publishedAt": "2026-09-25T18:30:00Z",
       "tags": [
         "F1",
-        "Azerbaijan GP",
-        "Verstappen"
+        "2027",
+        "Regulations",
+        "Race format"
       ]
     },
     {
-      "id": "f1-beganovic-f2-sprint",
+      "id": "f1-steiner-verstappen-winless",
       "category": "f1",
-      "title": "Beganovic takes second consecutive win in F2 Baku Sprint Race",
-      "summary": "Dino Beganovic won the Formula 2 Baku Sprint Race, his second straight victory, with a strong drive for DAMS Lucas Oil. The win extends his momentum ahead of the Azerbaijan feature race this weekend.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/f2-beganovic-takes-second-consecutive-win-in-baku-sprint-race.ghSJasobAzP0ngBHifITk",
-      "publishedAt": "2026-09-25T08:30:00Z",
-      "tags": [
-        "F2",
-        "Baku",
-        "Beganovic"
-      ]
-    },
-    {
-      "id": "f1-hamilton-baku",
-      "category": "f1",
-      "title": "Hamilton: Others 'just took another step' in Baku practice",
-      "summary": "Lewis Hamilton said rivals 'just took another step' after a strong Ferrari showing in Azerbaijan practice, tempering expectations despite a competitive Friday. The comments frame Ferrari's pace question heading into qualifying.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/others-just-took-another-step-hamilton-reflects-on-ferraris-performance-in-azerbaijan-grand-prix-practice.6sF2hTu5Wo2FGYZcEDN8CG",
-      "publishedAt": "2026-09-25T07:45:00Z",
+      "title": "Steiner predicts Verstappen will go winless in 2026",
+      "summary": "Former Haas boss Guenther Steiner predicts Max Verstappen will not win a race in the 2026 F1 season, citing Red Bull's current struggles.",
+      "source": "Motorsport",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/",
+      "publishedAt": "2026-09-25T15:30:00Z",
       "tags": [
         "F1",
-        "Hamilton",
-        "Ferrari"
+        "Verstappen",
+        "Red Bull",
+        "Prediction"
       ]
     },
     {
-      "id": "tarkov-arena-free-weekend",
-      "category": "tarkov",
-      "title": "Escape from Tarkov: Arena free weekend goes live",
-      "summary": "Battlestate Games made Escape from Tarkov: Arena free to play through Sept. 27 to celebrate Season 3, with up to 20% discounts and Twitch Drop campaigns running all weekend. It's a chance to try the revamped BlastGang mode and new progression features.",
-      "source": "Inven Global",
-      "url": "https://www.invenglobal.com/articles/26480/escape-from-tarkov-arena-free-weekend-goes-live",
-      "publishedAt": "2026-09-25T00:00:00Z",
+      "id": "f1-doriane-pin-seat",
+      "category": "f1",
+      "title": "Pin sets timeline for F1 race seat",
+      "summary": "2025 F1 Academy champion Doriane Pin laid out her target timeline for reaching a Formula 1 race seat as she pushes toward the top of the sport.",
+      "source": "Motorsport",
+      "url": "https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/",
+      "publishedAt": "2026-09-25T13:30:00Z",
       "tags": [
-        "Tarkov",
-        "Arena",
-        "free weekend"
+        "F1",
+        "Doriane Pin",
+        "F1 Academy",
+        "Drivers"
       ]
     },
     {
-      "id": "local-hotel-shooting",
+      "id": "f1-redbull-car-issue",
+      "category": "f1",
+      "title": "Red Bull admits Verstappen car issue may not be fixed until 2027",
+      "summary": "Red Bull says the mysterious issue hurting Verstappen's car cannot be fully resolved before the 2027 season, explaining the team's ongoing performance gap.",
+      "source": "Motorsport",
+      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/",
+      "publishedAt": "2026-09-25T09:30:00Z",
+      "tags": [
+        "F1",
+        "Red Bull",
+        "Verstappen",
+        "Technical"
+      ]
+    },
+    {
+      "id": "local-flock-cameras",
       "category": "local",
-      "title": "1 dead after north Columbus hotel shooting",
-      "summary": "Police are investigating a shooting at a hotel in north Columbus that left one person dead, NBC4 reported Friday morning. Details on a suspect or motive have not yet been released.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/1-dead-after-north-columbus-hotel-shooting/",
-      "publishedAt": "2026-09-25T10:50:00Z",
+      "title": "Central Ohio cities debate Flock camera usage",
+      "summary": "Central Ohio cities are split over how to use Flock automated-license-plate cameras, balancing public safety benefits against privacy concerns.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
+      "publishedAt": "2026-09-25T14:30:00Z",
       "tags": [
         "Columbus",
-        "crime",
-        "shooting"
+        "Flock cameras",
+        "Privacy",
+        "Public safety"
       ]
     },
     {
-      "id": "local-cmh-flights",
+      "id": "local-south-side-shooting",
       "category": "local",
-      "title": "New, expanded Columbus airport flights for spring break",
-      "summary": "Columbus travelers will get new and expanded nonstop flight options ahead of spring break, including a new Southwest route. The additions give John Glenn International more direct connections for the travel season.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/new-flights-columbus-airport/",
+      "title": "One killed in Columbus South Side shooting",
+      "summary": "Police are investigating after one person was found dead in an alley on Columbus's South Side. No arrests have been reported.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
+      "publishedAt": "2026-09-25T10:30:00Z",
+      "tags": [
+        "Columbus",
+        "Crime",
+        "Shooting"
+      ]
+    },
+    {
+      "id": "local-home-sales",
+      "category": "local",
+      "title": "List: Columbus-area top home sales for August",
+      "summary": "Central Ohio's top home sales for August highlight where the region's highest-priced properties are changing hands.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/real-estate/columbus-ohio-million-dollar-homes/",
       "publishedAt": "2026-09-25T10:00:00Z",
       "tags": [
         "Columbus",
-        "airport",
-        "travel",
-        "Southwest"
+        "Housing",
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "local-gas-prices",
+      "category": "local",
+      "title": "Columbus gas prices dip but still around $4 a gallon",
+      "summary": "A recent dip in Columbus gas prices hasn't erased the roughly $4-per-gallon average motorists are paying.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/recent-dip-in-columbus-gas-prices-doesnt-erase-4-per-gallon-average/",
+      "publishedAt": "2026-09-25T08:30:00Z",
+      "tags": [
+        "Columbus",
+        "Gas prices",
+        "Economy"
       ]
     }
   ]
