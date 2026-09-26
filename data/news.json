@@ -1,158 +1,234 @@
 {
   "meta": {
-    "updatedAt": "2026-09-26T11:00:21Z",
+    "updatedAt": "2026-09-26T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 10
+    "count": 16
   },
   "stories": [
     {
-      "id": "iran-hormuz-7day-plan",
       "category": "top",
-      "title": "Iran proposes 7-day plan to reopen Strait of Hormuz",
-      "summary": "Tehran has proposed a seven-day plan to reopen the strategic Strait of Hormuz, seeking a deal with Washington before the U.S. midterm elections, according to CBS News. The move comes amid an ongoing U.S.-Iran conflict that has disrupted the key oil-shipping waterway.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
-      "publishedAt": "2026-09-26T09:35:00Z",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "summary": "President Trump said he rejected Tehran's proposal to reopen the Strait of Hormuz within seven days, arguing Iran only offered it because it is losing its war with the US. Washington has blockaded Iranian ports and attacked tankers in the strait, hitting Iran's economy hard.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqgmrr9ekr7ko",
+      "publishedAt": "2026-09-26T18:30:00Z",
       "tags": [
         "Iran",
+        "US",
         "Strait of Hormuz",
-        "geopolitics",
-        "US-Iran"
+        "Middle East"
       ]
     },
     {
-      "id": "deepmind-alumni-nonllm-startups",
+      "category": "top",
+      "title": "7 dead as Russia, Ukraine exchange strikes and aerial war intensifies",
+      "summary": "Seven people were killed as Russia and Ukraine traded missile and drone strikes, including two women who died when a Russian strike destroyed a home in Zaporizhzhia. The overnight barrage marks an intensifying aerial war after more than four years of full-scale conflict.",
+      "source": "AP News",
+      "url": "https://www.clickorlando.com/news/world/2026/09/26/7-dead-as-russia-ukraine-exchange-strikes-and-aerial-war-intensifies/",
+      "publishedAt": "2026-09-26T10:30:00Z",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Zaporizhzhia",
+        "war"
+      ]
+    },
+    {
       "category": "tech",
-      "title": "DeepMind alumni line up VC cash for non-LLM AI startups",
-      "summary": "A wave of Google DeepMind alumni are raising nine-figure rounds for startups pursuing alternatives to the transformer architecture behind LLMs: Nando de Freitas is in talks to raise at least $100M for Revolution Labs (diffusion models), David Silver's Ineffable Intelligence has raised roughly $1B, and Jack Parker-Holder's Emulate is seeking $700M. Google and DeepMind have now produced more than 40 'neolab' founders, more than OpenAI, Anthropic and Meta combined per Bloomberg's reporting.",
-      "source": "AI Weekly",
-      "url": "https://aiweekly.co/alerts/bloomberg-deepmind-alumni-line-up-vc-cash-for-diffusion-and-reasoning-startups",
-      "publishedAt": "2026-09-26T09:33:00Z",
+      "title": "AI chip startup Positron valued at $5B as demand surges",
+      "summary": "AI chip startup Positron was valued at $5 billion in a new funding round as demand for AI processors surges. The raise underscores the heavy capital still flowing into silicon amid the global AI buildout.",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
+      "publishedAt": "2026-09-26T19:20:00Z",
       "tags": [
         "AI",
+        "chips",
         "funding",
-        "DeepMind",
-        "startups"
+        "Positron"
       ]
     },
     {
-      "id": "tiktok-alabama-100m-settlement",
       "category": "tech",
-      "title": "TikTok settles Alabama youth-safety suit for at least $100M",
-      "summary": "TikTok and parent ByteDance agreed to pay Alabama at least $100 million (and up to $300 million if conditions are met) to settle a 2025 lawsuit alleging its algorithm's 'addictive properties' harmed young users - the first state settlement of its kind, reached just before trial. The deal also adds teen safeguards in Alabama: a two-hour daily cap, a midnight-to-6 a.m. ban, a non-personalized feed option, and tighter parental controls.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/tiktok-settlement-alabama-mental-health-94355989f076a363c6df8452b82bfbd5",
-      "publishedAt": "2026-09-26T00:00:00Z",
+      "title": "Tesla ramps Optimus to hundreds a week, but robots still can't generalize",
+      "summary": "Tesla is now building several hundred Optimus humanoid robots per week at Fremont, roughly ten times its Q2 output and on pace for about 1,000 units a week by year-end. A new report says the hands break and the AI still can't handle generalized tasks, limiting near-term commercial usefulness.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week",
+      "publishedAt": "2026-09-26T12:30:00Z",
       "tags": [
-        "TikTok",
-        "regulation",
-        "youth-safety",
-        "settlement"
+        "Tesla",
+        "Optimus",
+        "robotics",
+        "AI"
       ]
     },
     {
-      "id": "osu-illinois-predictions",
+      "category": "browns",
+      "title": "Nick Chubb says 'better closure' to retire with Browns",
+      "summary": "Running back Nick Chubb has returned to Cleveland to sign a one-day contract and retire with the Browns, who will honor him during Sunday's home opener against Carolina. He retires with 7,349 career rushing yards and 59 touchdowns.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50028226/nick-chubb-retires-browns-ahead-game-day-honor",
+      "publishedAt": "2026-09-26T18:30:00Z",
+      "tags": [
+        "Cleveland Browns",
+        "Nick Chubb",
+        "retirement",
+        "NFL"
+      ]
+    },
+    {
       "category": "buckeyes",
-      "title": "National media predictions lean Buckeyes vs. Illinois",
-      "summary": "National media previews and predictions for Ohio State's Saturday Big Ten home opener against Illinois (the Illini's first trip to Columbus since 2017) largely favor the Buckeyes, with the running-back flow and defensive-tackle rotation flagged as key questions. One model calls it Ohio State 38, Illinois 20.",
-      "source": "Buckeyes Wire",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/25/ohio-state-vs-illinois-predictions-national-media-buckeyes/91945222007/",
-      "publishedAt": "2026-09-26T00:00:00Z",
+      "title": "Ohio State leads Illinois in Big Ten opener at the half",
+      "summary": "Ohio State is hosting Illinois at Ohio Stadium for its Big Ten opener and leads at halftime behind a big day from receiver Jeremiah Smith. Smith had eight catches for 150 yards and three touchdowns in the first half.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/26/ohio-state-football-live-score-stats-highlights-analysis--live/91881215007/",
+      "publishedAt": "2026-09-26T19:20:00Z",
       "tags": [
         "Ohio State",
         "Illinois",
-        "college football",
+        "Big Ten",
+        "college football"
+      ]
+    },
+    {
+      "category": "buckeyes",
+      "title": "3 halftime observations from Ohio State vs. Illinois",
+      "summary": "Ohio State went to the locker room ahead of Illinois at halftime in both teams' first Big Ten game of the year, and it has been the Jeremiah Smith show on offense. The Buckeyes are trying to open conference play with a win.",
+      "source": "Buckeyes Wire",
+      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/26/ohio-state-football-vs-illinois-3-halftime-observations-buckeyes/91958043007/",
+      "publishedAt": "2026-09-26T17:20:00Z",
+      "tags": [
+        "Ohio State",
+        "Illinois",
+        "halftime",
         "Big Ten"
       ]
     },
     {
-      "id": "azerbai-gp-saturday-start-russell-pole",
-      "category": "f1",
-      "title": "Azerbaijan GP runs Saturday; Russell on pole",
-      "summary": "The Azerbaijan Grand Prix runs today, Saturday, instead of Sunday to avoid clashing with Azerbaijan's National Day of Remembrance. Mercedes' George Russell starts a 51-lap race from pole position in Baku, with championship leader Kimi Antonelli exiting in Q2 and Lewis Hamilton sixth.",
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1090683/f1-race-today-2026-azerbaijan-grand-prix-saturday-start-time-schedule-tv-channel-live-stream/",
-      "publishedAt": "2026-09-26T07:14:00Z",
+      "category": "buckeyes",
+      "title": "Jeremiah Smith sets Ohio State records vs. Illinois",
+      "summary": "Ohio State receiver Jeremiah Smith set program records against Illinois on Saturday, scoring twice in the first quarter and topping 100 receiving yards by halftime. His production is pacing the Buckeyes in their Big Ten opener.",
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/jeremiah-smith-sets-ohio-state-record-against-illinois-on-saturday/",
+      "publishedAt": "2026-09-26T17:20:00Z",
       "tags": [
-        "Azerbaijan GP",
-        "F1",
-        "George Russell",
-        "schedule"
+        "Jeremiah Smith",
+        "Ohio State",
+        "record",
+        "wide receiver"
       ]
     },
     {
-      "id": "azerbai-gp-amended-grid",
       "category": "f1",
-      "title": "FIA publishes amended Azerbaijan GP grid after late penalties",
-      "summary": "The FIA has released the amended Azerbaijan Grand Prix starting grid after applying all late penalties from qualifying, reshuffling positions for today's race. George Russell remains at the front on pole.",
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1090691/f1-2026-azerbaijan-grand-prix-starting-grid-all-late-penalties-applied-fia/",
-      "publishedAt": "2026-09-26T06:30:00Z",
+      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "summary": "Formula 1 has approved shorter races for the 2027 season to accommodate a revised power unit plan. The change is part of ongoing adjustments to the sport's technical regulations for the next generation of cars.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/",
+      "publishedAt": "2026-09-26T18:30:00Z",
       "tags": [
-        "Azerbaijan GP",
         "F1",
-        "grid",
-        "qualifying"
+        "2027",
+        "regulations",
+        "power unit"
       ]
     },
     {
-      "id": "hamilton-double-fia-punishment",
       "category": "f1",
-      "title": "Lewis Hamilton hit with double FIA punishment before Baku",
-      "summary": "Lewis Hamilton faces a double FIA penalty after qualifying ahead of the Azerbaijan Grand Prix, adding to a difficult weekend for Ferrari. The penalties will drop the Mercedes-bound driver further down the grid for today's race in Baku.",
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1090702/f1-news-today-lewis-hamilton-ferrari-f1-star-hit-with-double-fia-punishment/",
-      "publishedAt": "2026-09-26T05:45:00Z",
+      "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026",
+      "summary": "Former Haas boss Guenther Steiner has predicted Max Verstappen will not win a race in the 2026 F1 season. The forecast adds to scrutiny of Red Bull's competitiveness amid its ongoing car troubles.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/",
+      "publishedAt": "2026-09-26T15:30:00Z",
       "tags": [
-        "Lewis Hamilton",
         "F1",
-        "penalty",
-        "Ferrari"
+        "Max Verstappen",
+        "Red Bull",
+        "predictions"
       ]
     },
     {
-      "id": "central-ohio-flock-camera-debate",
+      "category": "f1",
+      "title": "Red Bull admits Verstappen's car issue can't be fully fixed until 2027",
+      "summary": "Red Bull has admitted that a mysterious car issue affecting Max Verstappen cannot be fully resolved until 2027. The admission casts doubt on the team's ability to fully challenge this season.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/",
+      "publishedAt": "2026-09-26T09:30:00Z",
+      "tags": [
+        "F1",
+        "Red Bull",
+        "Max Verstappen",
+        "2026"
+      ]
+    },
+    {
+      "category": "f1",
+      "title": "Carlos Sainz backs bold approach for Williams junior Will Green",
+      "summary": "Carlos Sainz has backed the aggressive, bold approach taken by Williams junior driver Will Green as he develops toward a race seat. Sainz says the young driver's attitude bodes well for his future.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/",
+      "publishedAt": "2026-09-26T16:30:00Z",
+      "tags": [
+        "F1",
+        "Williams",
+        "Carlos Sainz",
+        "junior drivers"
+      ]
+    },
+    {
       "category": "local",
       "title": "Central Ohio cities debate Flock camera usage",
-      "summary": "Cities across central Ohio are debating whether to keep or expand Flock automated license-plate-reader cameras, weighing their role in solving crimes against privacy concerns. Local councils have raised questions about data retention, access and civil-liberties safeguards.",
+      "summary": "Several central Ohio cities are weighing whether to keep or limit Flock license-plate camera programs, with Columbus reviewing its own use amid privacy concerns. The debate comes as law enforcement argues the cameras help solve crimes.",
       "source": "NBC4",
       "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-09-26T06:00:00Z",
+      "publishedAt": "2026-09-26T14:30:00Z",
       "tags": [
         "Columbus",
-        "public safety",
+        "Flock cameras",
         "surveillance",
-        "Flock"
+        "privacy"
       ]
     },
     {
-      "id": "south-side-fatal-shooting",
       "category": "local",
-      "title": "One killed in South Side shooting in Columbus",
-      "summary": "One person was found dead in an alley on Columbus' South Side in an apparent fatal shooting, and police are investigating. No arrests have been reported in the case.",
+      "title": "One killed in South Side Columbus shooting",
+      "summary": "One person was found dead in an alley in South Columbus after a shooting. Police are investigating the fatal incident, which is the latest violence in the city this year.",
       "source": "NBC4",
       "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
-      "publishedAt": "2026-09-26T02:00:00Z",
+      "publishedAt": "2026-09-26T10:30:00Z",
       "tags": [
         "Columbus",
+        "shooting",
         "crime",
-        "shooting"
+        "South Side"
       ]
     },
     {
-      "id": "columbus-gas-prices-dip",
       "category": "local",
-      "title": "Dip in Columbus gas prices doesn't erase $4-per-gallon average",
-      "summary": "A recent dip in Columbus gasoline prices has not pushed the local average back below the $4-per-gallon mark, keeping pump costs elevated for drivers. The modest decline offers only limited relief at the tank.",
+      "title": "Columbus gas prices dip but still top $4 a gallon",
+      "summary": "Gasoline prices in Columbus have dipped slightly but remain above $4 a gallon on average. The modest decline offers little relief for drivers at the pump.",
       "source": "NBC4",
       "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/recent-dip-in-columbus-gas-prices-doesnt-erase-4-per-gallon-average/",
-      "publishedAt": "2026-09-26T00:00:00Z",
+      "publishedAt": "2026-09-26T08:30:00Z",
       "tags": [
         "Columbus",
         "gas prices",
-        "economy"
+        "economy",
+        "central Ohio"
+      ]
+    },
+    {
+      "category": "local",
+      "title": "Marino's near Grandview gets new owners after 33 years",
+      "summary": "Marino's, a longtime fish-and-chips staple near Grandview Heights, is getting new owners after more than three decades in business. The future of the community favorite under the new ownership has yet to be detailed.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/grandview-heights/grandview-heights-fish-and-chips-staple-gets-new-owners-after-33-years/",
+      "publishedAt": "2026-09-26T09:30:00Z",
+      "tags": [
+        "Grandview",
+        "Marino's",
+        "restaurant",
+        "Columbus"
       ]
     }
   ]
