@@ -1,337 +1,158 @@
 {
   "meta": {
-    "updatedAt": "2026-09-25T19:32:00Z",
+    "updatedAt": "2026-09-26T11:00:21Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 22
+    "count": 10
   },
   "stories": [
     {
-      "id": "top-bbc-netanyahu-un",
+      "id": "iran-hormuz-7day-plan",
       "category": "top",
-      "title": "Netanyahu defends military action as delegates walk out at UN",
-      "summary": "Israeli PM Benjamin Netanyahu defended Israel's military operations in a UN General Assembly speech as some delegates walked out, drawing fresh backlash from journalists and broadcasters.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c3y0z7kxlegdo",
-      "publishedAt": "2026-09-25T14:40:00Z",
+      "title": "Iran proposes 7-day plan to reopen Strait of Hormuz",
+      "summary": "Tehran has proposed a seven-day plan to reopen the strategic Strait of Hormuz, seeking a deal with Washington before the U.S. midterm elections, according to CBS News. The move comes amid an ongoing U.S.-Iran conflict that has disrupted the key oil-shipping waterway.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+      "publishedAt": "2026-09-26T09:35:00Z",
       "tags": [
-        "Israel",
-        "UN",
-        "Netanyahu",
-        "Middle East"
+        "Iran",
+        "Strait of Hormuz",
+        "geopolitics",
+        "US-Iran"
       ]
     },
     {
-      "id": "top-bbc-trump-media-ban",
-      "category": "top",
-      "title": "Trump denies barred media access to state dinner despite court order",
-      "summary": "Several outlets Trump has barred were kept out of a White House state-dinner event even after a judge ordered their access restored, as Trump welcomed China's Xi Jinping for an official visit.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqe8ek7608mlo",
-      "publishedAt": "2026-09-25T14:10:00Z",
-      "tags": [
-        "White House",
-        "Trump",
-        "Xi Jinping",
-        "Press freedom"
-      ]
-    },
-    {
-      "id": "top-bbc-pope-paris",
-      "category": "top",
-      "title": "Hundreds of thousands expected in Paris for Pope Leo's visit",
-      "summary": "Hundreds of thousands of people are expected to turn out in Paris for Pope Leo's visit, shaping up as one of the largest papal events the city has hosted in years.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cmq8j904212po",
-      "publishedAt": "2026-09-25T12:30:00Z",
-      "tags": [
-        "Pope",
-        "France",
-        "Paris",
-        "Vatican"
-      ]
-    },
-    {
-      "id": "tech-tc-tesla-semi",
+      "id": "deepmind-alumni-nonllm-startups",
       "category": "tech",
-      "title": "Tesla moves to electrify trucking after decade of delays",
-      "summary": "Tesla says it will scale production of its all-electric Semi to 50,000 units a year, its biggest push into freight trucking after roughly a decade of work and delays.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-      "publishedAt": "2026-09-25T15:30:00Z",
+      "title": "DeepMind alumni line up VC cash for non-LLM AI startups",
+      "summary": "A wave of Google DeepMind alumni are raising nine-figure rounds for startups pursuing alternatives to the transformer architecture behind LLMs: Nando de Freitas is in talks to raise at least $100M for Revolution Labs (diffusion models), David Silver's Ineffable Intelligence has raised roughly $1B, and Jack Parker-Holder's Emulate is seeking $700M. Google and DeepMind have now produced more than 40 'neolab' founders, more than OpenAI, Anthropic and Meta combined per Bloomberg's reporting.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/alerts/bloomberg-deepmind-alumni-line-up-vc-cash-for-diffusion-and-reasoning-startups",
+      "publishedAt": "2026-09-26T09:33:00Z",
       "tags": [
-        "Tesla",
-        "EV",
-        "Semi",
-        "Trucking"
-      ]
-    },
-    {
-      "id": "tech-runway-layers",
-      "category": "tech",
-      "title": "Runway launches Layers to split images into editable layers",
-      "summary": "Runway launched Layers, a tool that splits any image into individually editable transparent components with a single click, aimed at faster image editing workflows.",
-      "source": "Runway",
-      "url": "https://headsupai.io/updates/runway-launches-layers-split-images-into-editable-transparent-components",
-      "publishedAt": "2026-09-25T13:00:00Z",
-      "tags": [
-        "Runway",
-        "AI tools",
-        "Image editing",
-        "Generative AI"
-      ]
-    },
-    {
-      "id": "tech-anthropic-nine-loop",
-      "category": "tech",
-      "title": "Anthropic says Claude solved nine-loop physics calculation",
-      "summary": "Anthropic reported that its Claude model computed a nine-loop particle-physics scattering amplitude in planar N=4 super Yang-Mills theory, surpassing the previous eight-loop record set by physicists.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "tags": [
-        "Anthropic",
-        "Claude",
-        "AI research",
-        "Physics"
-      ]
-    },
-    {
-      "id": "tech-perplexity-fast-search",
-      "category": "tech",
-      "title": "Perplexity launches Fast Search API on new Photon engine",
-      "summary": "Perplexity launched Fast Search, a new Search API preset powered by its in-house Photon retrieval-and-ranking engine, aimed at lower-latency programmatic search.",
-      "source": "Perplexity",
-      "url": "https://headsupai.io/updates/perplexity-launches-fast-search-api-powered-by-new-photon-engine",
-      "publishedAt": "2026-09-25T11:00:00Z",
-      "tags": [
-        "Perplexity",
-        "Search API",
         "AI",
-        "LLM"
+        "funding",
+        "DeepMind",
+        "startups"
       ]
     },
     {
-      "id": "browns-quincy-williams",
-      "category": "browns",
-      "title": "Quincy Williams becoming a problem the Browns can't ignore",
-      "summary": "Linebacker Quincy Williams is quickly becoming a problem for opposing offenses, and the Browns can't keep ignoring his impact as they prep for the Panthers.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/quincy-williams-is-quickly-becoming-a-problem-the-browns-can-t-ignore-01m3a38tk718",
-      "publishedAt": "2026-09-25T18:35:00Z",
+      "id": "tiktok-alabama-100m-settlement",
+      "category": "tech",
+      "title": "TikTok settles Alabama youth-safety suit for at least $100M",
+      "summary": "TikTok and parent ByteDance agreed to pay Alabama at least $100 million (and up to $300 million if conditions are met) to settle a 2025 lawsuit alleging its algorithm's 'addictive properties' harmed young users - the first state settlement of its kind, reached just before trial. The deal also adds teen safeguards in Alabama: a two-hour daily cap, a midnight-to-6 a.m. ban, a non-personalized feed option, and tighter parental controls.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/tiktok-settlement-alabama-mental-health-94355989f076a363c6df8452b82bfbd5",
+      "publishedAt": "2026-09-26T00:00:00Z",
       "tags": [
-        "Browns",
-        "Quincy Williams",
-        "Defense",
-        "NFL"
+        "TikTok",
+        "regulation",
+        "youth-safety",
+        "settlement"
       ]
     },
     {
-      "id": "browns-delpit-injury",
-      "category": "browns",
-      "title": "Delpit injury could open role for rookie McNeil-Warren",
-      "summary": "Grant Delpit's shoulder injury could give Browns rookie Emmanuel McNeil-Warren his biggest defensive role yet in Week 3 against Carolina.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/grant-delpit-injury-could-give-emmanuel-mcneil-warren-first-real-browns-opportunity-01m3cqa6x632",
-      "publishedAt": "2026-09-25T18:30:00Z",
-      "tags": [
-        "Browns",
-        "Grant Delpit",
-        "Injury",
-        "Rookies"
-      ]
-    },
-    {
-      "id": "browns-chubb-retirement",
-      "category": "browns",
-      "title": "Nick Chubb's retirement message to Browns fans",
-      "summary": "Nick Chubb, set to sign a one-day contract and retire with Cleveland ahead of Sunday's home opener, shared an emotional thank-you message to Browns fans.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/nick-chubb-s-retirement-message-to-browns-fans-proves-he-s-truly-1-of-1-01m3cfh5j1rr",
-      "publishedAt": "2026-09-25T16:30:00Z",
-      "tags": [
-        "Browns",
-        "Nick Chubb",
-        "Retirement",
-        "NFL"
-      ]
-    },
-    {
-      "id": "browns-defense-vulnerable",
-      "category": "browns",
-      "title": "Browns defense still vulnerable in one key area",
-      "summary": "Cleveland's defense improved from Week 1 to Week 2 but remains exposed in a specific area that could undermine the unit if left unfixed.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/browns-defense-remains-vulnerable-in-an-area-that-could-destroy-everything-01m37tf9aa7v",
-      "publishedAt": "2026-09-25T10:30:00Z",
-      "tags": [
-        "Browns",
-        "Defense",
-        "NFL",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "buckeyes-osu-illinois-broadcast",
+      "id": "osu-illinois-predictions",
       "category": "buckeyes",
-      "title": "No. 7 Ohio State opens Big Ten play hosting Illinois",
-      "summary": "No. 7 Ohio State hosts Illinois in Saturday's Big Ten opener; kickoff is Noon ET on FOX for the 105th meeting for the Illibuck Trophy.",
-      "source": "Ohio State Athletics",
-      "url": "https://ohiostatebuckeyes.com/news/2026/9/25/football-broadcast-information-ohio-state-vs-illinois",
-      "publishedAt": "2026-09-25T15:30:00Z",
+      "title": "National media predictions lean Buckeyes vs. Illinois",
+      "summary": "National media previews and predictions for Ohio State's Saturday Big Ten home opener against Illinois (the Illini's first trip to Columbus since 2017) largely favor the Buckeyes, with the running-back flow and defensive-tackle rotation flagged as key questions. One model calls it Ohio State 38, Illinois 20.",
+      "source": "Buckeyes Wire",
+      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/25/ohio-state-vs-illinois-predictions-national-media-buckeyes/91945222007/",
+      "publishedAt": "2026-09-26T00:00:00Z",
       "tags": [
         "Ohio State",
         "Illinois",
-        "Big Ten",
-        "Football"
-      ]
-    },
-    {
-      "id": "buckeyes-short-yardage",
-      "category": "buckeyes",
-      "title": "Ohio State struggling in short-yardage situations",
-      "summary": "The Buckeyes have converted just five of 11 third- and fourth-and-short plays inside three yards this season, an area needing improvement with Big Ten play looming.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/164085/ohio-state-has-been-unable-to-consistently-move-the-ball-on-third-and-fourth-and-short-situations-this-season",
-      "publishedAt": "2026-09-25T13:00:00Z",
-      "tags": [
-        "Ohio State",
-        "Offense",
-        "Analysis",
+        "college football",
         "Big Ten"
       ]
     },
     {
-      "id": "buckeyes-illinois-preview",
-      "category": "buckeyes",
-      "title": "Ohio State vs. Illinois preview: running backs must step up",
-      "summary": "Ohio State's Illinois preview looks at a backfield that needs to step up in conference play, with Devin Sanchez drawing a key matchup.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/164134/ohio-state-vs-illinois-preview-ohio-state-looking-for-running-backs-to-step-up-devin-sanchez-draws-key-matchup-with",
-      "publishedAt": "2026-09-25T12:30:00Z",
-      "tags": [
-        "Ohio State",
-        "Illinois",
-        "Preview",
-        "Running Backs"
-      ]
-    },
-    {
-      "id": "f1-shorter-races-2027",
+      "id": "azerbai-gp-saturday-start-russell-pole",
       "category": "f1",
-      "title": "F1 approves shorter races for 2027 season",
-      "summary": "Formula 1 approved shorter races for the 2027 season to fit the revised power-unit plan, a significant format change for the sport.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/",
-      "publishedAt": "2026-09-25T18:30:00Z",
+      "title": "Azerbaijan GP runs Saturday; Russell on pole",
+      "summary": "The Azerbaijan Grand Prix runs today, Saturday, instead of Sunday to avoid clashing with Azerbaijan's National Day of Remembrance. Mercedes' George Russell starts a 51-lap race from pole position in Baku, with championship leader Kimi Antonelli exiting in Q2 and Lewis Hamilton sixth.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1090683/f1-race-today-2026-azerbaijan-grand-prix-saturday-start-time-schedule-tv-channel-live-stream/",
+      "publishedAt": "2026-09-26T07:14:00Z",
       "tags": [
+        "Azerbaijan GP",
         "F1",
-        "2027",
-        "Regulations",
-        "Race format"
+        "George Russell",
+        "schedule"
       ]
     },
     {
-      "id": "f1-steiner-verstappen-winless",
+      "id": "azerbai-gp-amended-grid",
       "category": "f1",
-      "title": "Steiner predicts Verstappen will go winless in 2026",
-      "summary": "Former Haas boss Guenther Steiner predicts Max Verstappen will not win a race in the 2026 F1 season, citing Red Bull's current struggles.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/",
-      "publishedAt": "2026-09-25T15:30:00Z",
+      "title": "FIA publishes amended Azerbaijan GP grid after late penalties",
+      "summary": "The FIA has released the amended Azerbaijan Grand Prix starting grid after applying all late penalties from qualifying, reshuffling positions for today's race. George Russell remains at the front on pole.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1090691/f1-2026-azerbaijan-grand-prix-starting-grid-all-late-penalties-applied-fia/",
+      "publishedAt": "2026-09-26T06:30:00Z",
       "tags": [
+        "Azerbaijan GP",
         "F1",
-        "Verstappen",
-        "Red Bull",
-        "Prediction"
+        "grid",
+        "qualifying"
       ]
     },
     {
-      "id": "f1-doriane-pin-seat",
+      "id": "hamilton-double-fia-punishment",
       "category": "f1",
-      "title": "Pin sets timeline for F1 race seat",
-      "summary": "2025 F1 Academy champion Doriane Pin laid out her target timeline for reaching a Formula 1 race seat as she pushes toward the top of the sport.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/",
-      "publishedAt": "2026-09-25T13:30:00Z",
+      "title": "Lewis Hamilton hit with double FIA punishment before Baku",
+      "summary": "Lewis Hamilton faces a double FIA penalty after qualifying ahead of the Azerbaijan Grand Prix, adding to a difficult weekend for Ferrari. The penalties will drop the Mercedes-bound driver further down the grid for today's race in Baku.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1090702/f1-news-today-lewis-hamilton-ferrari-f1-star-hit-with-double-fia-punishment/",
+      "publishedAt": "2026-09-26T05:45:00Z",
       "tags": [
+        "Lewis Hamilton",
         "F1",
-        "Doriane Pin",
-        "F1 Academy",
-        "Drivers"
+        "penalty",
+        "Ferrari"
       ]
     },
     {
-      "id": "f1-redbull-car-issue",
-      "category": "f1",
-      "title": "Red Bull admits Verstappen car issue may not be fixed until 2027",
-      "summary": "Red Bull says the mysterious issue hurting Verstappen's car cannot be fully resolved before the 2027 season, explaining the team's ongoing performance gap.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/",
-      "publishedAt": "2026-09-25T09:30:00Z",
-      "tags": [
-        "F1",
-        "Red Bull",
-        "Verstappen",
-        "Technical"
-      ]
-    },
-    {
-      "id": "local-flock-cameras",
+      "id": "central-ohio-flock-camera-debate",
       "category": "local",
       "title": "Central Ohio cities debate Flock camera usage",
-      "summary": "Central Ohio cities are split over how to use Flock automated-license-plate cameras, balancing public safety benefits against privacy concerns.",
+      "summary": "Cities across central Ohio are debating whether to keep or expand Flock automated license-plate-reader cameras, weighing their role in solving crimes against privacy concerns. Local councils have raised questions about data retention, access and civil-liberties safeguards.",
       "source": "NBC4",
       "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-09-25T14:30:00Z",
+      "publishedAt": "2026-09-26T06:00:00Z",
       "tags": [
         "Columbus",
-        "Flock cameras",
-        "Privacy",
-        "Public safety"
+        "public safety",
+        "surveillance",
+        "Flock"
       ]
     },
     {
-      "id": "local-south-side-shooting",
+      "id": "south-side-fatal-shooting",
       "category": "local",
-      "title": "One killed in Columbus South Side shooting",
-      "summary": "Police are investigating after one person was found dead in an alley on Columbus's South Side. No arrests have been reported.",
+      "title": "One killed in South Side shooting in Columbus",
+      "summary": "One person was found dead in an alley on Columbus' South Side in an apparent fatal shooting, and police are investigating. No arrests have been reported in the case.",
       "source": "NBC4",
       "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
-      "publishedAt": "2026-09-25T10:30:00Z",
+      "publishedAt": "2026-09-26T02:00:00Z",
       "tags": [
         "Columbus",
-        "Crime",
-        "Shooting"
+        "crime",
+        "shooting"
       ]
     },
     {
-      "id": "local-home-sales",
+      "id": "columbus-gas-prices-dip",
       "category": "local",
-      "title": "List: Columbus-area top home sales for August",
-      "summary": "Central Ohio's top home sales for August highlight where the region's highest-priced properties are changing hands.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/real-estate/columbus-ohio-million-dollar-homes/",
-      "publishedAt": "2026-09-25T10:00:00Z",
-      "tags": [
-        "Columbus",
-        "Housing",
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "local-gas-prices",
-      "category": "local",
-      "title": "Columbus gas prices dip but still around $4 a gallon",
-      "summary": "A recent dip in Columbus gas prices hasn't erased the roughly $4-per-gallon average motorists are paying.",
+      "title": "Dip in Columbus gas prices doesn't erase $4-per-gallon average",
+      "summary": "A recent dip in Columbus gasoline prices has not pushed the local average back below the $4-per-gallon mark, keeping pump costs elevated for drivers. The modest decline offers only limited relief at the tank.",
       "source": "NBC4",
       "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/recent-dip-in-columbus-gas-prices-doesnt-erase-4-per-gallon-average/",
-      "publishedAt": "2026-09-25T08:30:00Z",
+      "publishedAt": "2026-09-26T00:00:00Z",
       "tags": [
         "Columbus",
-        "Gas prices",
-        "Economy"
+        "gas prices",
+        "economy"
       ]
     }
   ]
