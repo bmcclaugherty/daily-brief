@@ -1,234 +1,205 @@
 {
   "meta": {
-    "updatedAt": "2026-09-26T19:30:00Z",
+    "updatedAt": "2026-09-27T11:15:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 13
   },
   "stories": [
     {
+      "id": "top-kyiv-datacenter-strike-20260927",
       "category": "top",
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "summary": "President Trump said he rejected Tehran's proposal to reopen the Strait of Hormuz within seven days, arguing Iran only offered it because it is losing its war with the US. Washington has blockaded Iranian ports and attacked tankers in the strait, hitting Iran's economy hard.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqgmrr9ekr7ko",
-      "publishedAt": "2026-09-26T18:30:00Z",
+      "title": "Russian drones strike Kyiv data center twice, children among the injured",
+      "summary": "Russian drones struck a data center in Kyiv twice on the morning of Sept. 27, injuring three people including two children, per President Zelensky and Mayor Klitschko. It is part of an expanded long-range campaign that has seen more than 2,200 attack drones used this month, keeping Ukrainian cities under sustained pressure.",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4168523-zelensky-russians-strike-kyiv-data-center-twice-this-morning.html",
+      "publishedAt": "2026-09-27T07:00:00Z",
       "tags": [
-        "Iran",
-        "US",
-        "Strait of Hormuz",
-        "Middle East"
-      ]
-    },
-    {
-      "category": "top",
-      "title": "7 dead as Russia, Ukraine exchange strikes and aerial war intensifies",
-      "summary": "Seven people were killed as Russia and Ukraine traded missile and drone strikes, including two women who died when a Russian strike destroyed a home in Zaporizhzhia. The overnight barrage marks an intensifying aerial war after more than four years of full-scale conflict.",
-      "source": "AP News",
-      "url": "https://www.clickorlando.com/news/world/2026/09/26/7-dead-as-russia-ukraine-exchange-strikes-and-aerial-war-intensifies/",
-      "publishedAt": "2026-09-26T10:30:00Z",
-      "tags": [
-        "Russia",
-        "Ukraine",
-        "Zaporizhzhia",
+        "ukraine",
+        "kyiv",
+        "drone strikes",
         "war"
       ]
     },
     {
+      "id": "top-pow-exchange-talks-20260927",
+      "category": "top",
+      "title": "Russia and Ukraine exchange 157 prisoners each as Abu Dhabi talks end without breakthrough",
+      "summary": "Russia and Ukraine swapped 157 prisoners on each side - the first such exchange in four months, including seven Ukrainian civilians - after two days of U.S.-brokered peace talks in Abu Dhabi ended without a deal. The swap shows prisoner diplomacy continues even as a broader settlement remains out of reach.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c62np09q7l1o",
+      "publishedAt": "2026-09-27T06:30:00Z",
+      "tags": [
+        "ukraine",
+        "russia",
+        "prisoner exchange",
+        "peace talks"
+      ]
+    },
+    {
+      "id": "top-putin-energy-ceasefire-20260927",
+      "category": "top",
+      "title": "Putin unlikely to agree to energy ceasefire before winter, ISW assesses",
+      "summary": "The Institute for the Study of War assesses that Putin is unlikely to accept an energy ceasefire before winter, betting instead on long-range strikes against Ukraine's power grid. The assessment tempers U.S. hopes that a proposed halt to attacks on energy infrastructure could take hold this season.",
+      "source": "RBC-Ukraine",
+      "url": "https://newsukraine.rbc.ua/news/putin-unlikely-to-agree-to-energy-ceasefire-1790496352.html",
+      "publishedAt": "2026-09-27T00:30:00Z",
+      "tags": [
+        "ukraine",
+        "russia",
+        "energy infrastructure",
+        "ISW"
+      ]
+    },
+    {
+      "id": "tech-darkweb-ai-access-20260927",
       "category": "tech",
-      "title": "AI chip startup Positron valued at $5B as demand surges",
-      "summary": "AI chip startup Positron was valued at $5 billion in a new funding round as demand for AI processors surges. The raise underscores the heavy capital still flowing into silicon amid the global AI buildout.",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
-      "publishedAt": "2026-09-26T19:20:00Z",
+      "title": "Dark web sells cut-price access to Claude, Gemini and ChatGPT, prices double",
+      "summary": "The Financial Times reports dark-web marketplaces are selling unauthorized access to frontier AI models - Anthropic's Claude, Google's Gemini and OpenAI's ChatGPT - at discounts of up to 97%, with stolen account prices more than doubling in 2026. The trend reflects surging demand for cheap agentic AI and deepens security concerns around account theft.",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32",
+      "publishedAt": "2026-09-27T02:00:00Z",
       "tags": [
         "AI",
-        "chips",
-        "funding",
-        "Positron"
+        "cybersecurity",
+        "OpenAI",
+        "Anthropic"
       ]
     },
     {
+      "id": "tech-google-flipkart-gemini-20260927",
       "category": "tech",
-      "title": "Tesla ramps Optimus to hundreds a week, but robots still can't generalize",
-      "summary": "Tesla is now building several hundred Optimus humanoid robots per week at Fremont, roughly ten times its Q2 output and on pace for about 1,000 units a week by year-end. A new report says the hands break and the AI still can't handle generalized tasks, limiting near-term commercial usefulness.",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week",
-      "publishedAt": "2026-09-26T12:30:00Z",
+      "title": "Google tests direct Flipkart purchases inside Gemini and AI Mode in India",
+      "summary": "Google is testing a 'Buy' button that lets Indian shoppers purchase Walmart-owned Flipkart products directly inside Gemini and AI Mode, moving AI assistants into commerce. It builds on Google's Universal Commerce Protocol push to make agentic AI able to transact with retailers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "publishedAt": "2026-09-27T01:30:00Z",
       "tags": [
-        "Tesla",
-        "Optimus",
-        "robotics",
-        "AI"
+        "Google",
+        "AI agents",
+        "e-commerce",
+        "Gemini"
       ]
     },
     {
+      "id": "browns-watson-home-opener-20260927",
       "category": "browns",
-      "title": "Nick Chubb says 'better closure' to retire with Browns",
-      "summary": "Running back Nick Chubb has returned to Cleveland to sign a one-day contract and retire with the Browns, who will honor him during Sunday's home opener against Carolina. He retires with 7,349 career rushing yards and 59 touchdowns.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50028226/nick-chubb-retires-browns-ahead-game-day-honor",
-      "publishedAt": "2026-09-26T18:30:00Z",
+      "title": "Deshaun Watson in spotlight as Browns face Panthers in home opener",
+      "summary": "Deshaun Watson carries the focus Sunday as the Browns (1-1) open their home schedule against the Carolina Panthers at Huntington Bank Field, with turnovers and consistency the key concerns. It marks Watson's first regular-season home start in nearly two years.",
+      "source": "Akron Beacon Journal",
+      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/09/27/deshaun-watson-browns-panthers-home-opener/91918569007/",
+      "publishedAt": "2026-09-27T00:15:00Z",
       "tags": [
-        "Cleveland Browns",
-        "Nick Chubb",
-        "retirement",
-        "NFL"
+        "Browns",
+        "Deshaun Watson",
+        "NFL",
+        "home opener"
       ]
     },
     {
+      "id": "buckeyes-sayin-illinois-20260927",
       "category": "buckeyes",
-      "title": "Ohio State leads Illinois in Big Ten opener at the half",
-      "summary": "Ohio State is hosting Illinois at Ohio Stadium for its Big Ten opener and leads at halftime behind a big day from receiver Jeremiah Smith. Smith had eight catches for 150 yards and three touchdowns in the first half.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/26/ohio-state-football-live-score-stats-highlights-analysis--live/91881215007/",
-      "publishedAt": "2026-09-26T19:20:00Z",
+      "title": "Julian Sayin answers Ryan Day's challenge in Ohio State's win over Illinois",
+      "summary": "Julian Sayin threw for 367 yards and four touchdowns plus a rushing score, a career-high five total TDs, as No. 7 Ohio State beat Illinois 42-19 in its Big Ten opener. Sayin completed 27 of 36 passes without an interception, delivering the playmaking Day had called for.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/ohiostate/football/julian-sayin-answers-ryan-day-s-challenge-in-ohio-state-s-win-over-illinois-01m3fs2tznkp",
+      "publishedAt": "2026-09-27T04:00:00Z",
       "tags": [
         "Ohio State",
-        "Illinois",
-        "Big Ten",
-        "college football"
-      ]
-    },
-    {
-      "category": "buckeyes",
-      "title": "3 halftime observations from Ohio State vs. Illinois",
-      "summary": "Ohio State went to the locker room ahead of Illinois at halftime in both teams' first Big Ten game of the year, and it has been the Jeremiah Smith show on offense. The Buckeyes are trying to open conference play with a win.",
-      "source": "Buckeyes Wire",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/26/ohio-state-football-vs-illinois-3-halftime-observations-buckeyes/91958043007/",
-      "publishedAt": "2026-09-26T17:20:00Z",
-      "tags": [
-        "Ohio State",
-        "Illinois",
-        "halftime",
+        "Buckeyes",
+        "Julian Sayin",
         "Big Ten"
       ]
     },
     {
+      "id": "buckeyes-defense-cracks-20260927",
       "category": "buckeyes",
-      "title": "Jeremiah Smith sets Ohio State records vs. Illinois",
-      "summary": "Ohio State receiver Jeremiah Smith set program records against Illinois on Saturday, scoring twice in the first quarter and topping 100 receiving yards by halftime. His production is pacing the Buckeyes in their Big Ten opener.",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/jeremiah-smith-sets-ohio-state-record-against-illinois-on-saturday/",
-      "publishedAt": "2026-09-26T17:20:00Z",
+      "title": "Ohio State defense shows cracks despite clutch stops in win over Illinois",
+      "summary": "Ohio State's defense surrendered 462 yards, the most under coordinator Matt Patricia, even as clutch fourth-quarter stops secured the 42-19 win over Illinois. After losing eight starters to the NFL draft, the young unit faces another test next week at No. 17 Iowa.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/27/ohio-state-defense-shows-cracks-despite-clutch-stops-against-illinois/91878555007/",
+      "publishedAt": "2026-09-27T03:30:00Z",
       "tags": [
-        "Jeremiah Smith",
         "Ohio State",
+        "defense",
+        "Big Ten",
+        "Iowa"
+      ]
+    },
+    {
+      "id": "buckeyes-smith-record-20260927",
+      "category": "buckeyes",
+      "title": "Jeremiah Smith ties Ohio State record with 4 TD catches in 42-19 win",
+      "summary": "Jeremiah Smith tied Ohio State's single-game record with four touchdown receptions, finishing with 12 catches for 217 yards in the No. 7 Buckeyes' Big Ten-opening win over Illinois. He surpassed 3,000 career receiving yards, joining the Big Ten's all-time top 10.",
+      "source": "AP via CBS",
+      "url": "https://www.cbsnews.com/chicago/news/illinois-42-19-falls-to-buckeyes/",
+      "publishedAt": "2026-09-27T02:43:00Z",
+      "tags": [
+        "Ohio State",
+        "Jeremiah Smith",
         "record",
-        "wide receiver"
+        "Illinois"
       ]
     },
     {
+      "id": "f1-colapinto-grid-penalty-20260927",
       "category": "f1",
-      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "summary": "Formula 1 has approved shorter races for the 2027 season to accommodate a revised power unit plan. The change is part of ongoing adjustments to the sport's technical regulations for the next generation of cars.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/",
-      "publishedAt": "2026-09-26T18:30:00Z",
+      "title": "Franco Colapinto gets 5-place grid penalty for Bahrain GP after Baku crash",
+      "summary": "Franco Colapinto was handed a five-place grid penalty for next weekend's Bahrain Grand Prix in Malaysia after triggering the multi-car Azerbaijan GP crash that eliminated his Alpine teammate Pierre Gasly and McLaren's Lando Norris. He also carried a 10-second time penalty during the Baku race.",
+      "source": "motorsports.net",
+      "url": "https://motorcyclesports.net/franco-colapinto-handed-five-place-grid-penalty-for-bahrain-after-azerbaijan-crash/",
+      "publishedAt": "2026-09-27T00:45:00Z",
       "tags": [
-        "F1",
-        "2027",
-        "regulations",
-        "power unit"
+        "Formula 1",
+        "Colapinto",
+        "Azerbaijan GP",
+        "penalty"
       ]
     },
     {
-      "category": "f1",
-      "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026",
-      "summary": "Former Haas boss Guenther Steiner has predicted Max Verstappen will not win a race in the 2026 F1 season. The forecast adds to scrutiny of Red Bull's competitiveness amid its ongoing car troubles.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/",
-      "publishedAt": "2026-09-26T15:30:00Z",
-      "tags": [
-        "F1",
-        "Max Verstappen",
-        "Red Bull",
-        "predictions"
-      ]
-    },
-    {
-      "category": "f1",
-      "title": "Red Bull admits Verstappen's car issue can't be fully fixed until 2027",
-      "summary": "Red Bull has admitted that a mysterious car issue affecting Max Verstappen cannot be fully resolved until 2027. The admission casts doubt on the team's ability to fully challenge this season.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/",
-      "publishedAt": "2026-09-26T09:30:00Z",
-      "tags": [
-        "F1",
-        "Red Bull",
-        "Max Verstappen",
-        "2026"
-      ]
-    },
-    {
-      "category": "f1",
-      "title": "Carlos Sainz backs bold approach for Williams junior Will Green",
-      "summary": "Carlos Sainz has backed the aggressive, bold approach taken by Williams junior driver Will Green as he develops toward a race seat. Sainz says the young driver's attitude bodes well for his future.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/",
-      "publishedAt": "2026-09-26T16:30:00Z",
-      "tags": [
-        "F1",
-        "Williams",
-        "Carlos Sainz",
-        "junior drivers"
-      ]
-    },
-    {
+      "id": "local-road-rage-counsel-20260927",
       "category": "local",
-      "title": "Central Ohio cities debate Flock camera usage",
-      "summary": "Several central Ohio cities are weighing whether to keep or limit Flock license-plate camera programs, with Columbus reviewing its own use amid privacy concerns. The debate comes as law enforcement argues the cameras help solve crimes.",
+      "title": "Columbus man who pleaded guilty in deadly road-rage shooting retains new counsel",
+      "summary": "The Columbus man convicted over the deadly I-670 road-rage shooting has retained new counsel and intends to reverse his plea, after he had previously pleaded guilty in the case. He has maintained the shooting was self-defense.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-09-26T14:30:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
+      "publishedAt": "2026-09-27T09:00:00Z",
       "tags": [
         "Columbus",
-        "Flock cameras",
-        "surveillance",
-        "privacy"
-      ]
-    },
-    {
-      "category": "local",
-      "title": "One killed in South Side Columbus shooting",
-      "summary": "One person was found dead in an alley in South Columbus after a shooting. Police are investigating the fatal incident, which is the latest violence in the city this year.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
-      "publishedAt": "2026-09-26T10:30:00Z",
-      "tags": [
-        "Columbus",
-        "shooting",
         "crime",
-        "South Side"
+        "road rage",
+        "court"
       ]
     },
     {
+      "id": "local-three-men-sentenced-20260927",
       "category": "local",
-      "title": "Columbus gas prices dip but still top $4 a gallon",
-      "summary": "Gasoline prices in Columbus have dipped slightly but remain above $4 a gallon on average. The modest decline offers little relief for drivers at the pump.",
+      "title": "Three men sentenced after fight that led to Columbus man's death",
+      "summary": "Three men were sentenced in connection with a fight that led to a Columbus man's death, closing a case stemming from the altercation. Authorities did not detail the exact terms of the sentences in the announcement.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/recent-dip-in-columbus-gas-prices-doesnt-erase-4-per-gallon-average/",
-      "publishedAt": "2026-09-26T08:30:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/three-men-sentenced-after-fight-led-to-columbus-mans-death/",
+      "publishedAt": "2026-09-27T06:30:00Z",
       "tags": [
         "Columbus",
-        "gas prices",
-        "economy",
-        "central Ohio"
+        "crime",
+        "sentencing",
+        "court"
       ]
     },
     {
+      "id": "local-mac-cheese-festival-20260927",
       "category": "local",
-      "title": "Marino's near Grandview gets new owners after 33 years",
-      "summary": "Marino's, a longtime fish-and-chips staple near Grandview Heights, is getting new owners after more than three decades in business. The future of the community favorite under the new ownership has yet to be detailed.",
+      "title": "Mac and Cheese Festival returning to Easton on Friday to raise money for cancer research",
+      "summary": "The Mac and Cheese Festival returns to Easton Town Center on Friday, pairing chef-driven mac-and-cheese dishes with fundraising for cancer research. It is one of several annual Columbus food events tied to charity causes.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/grandview-heights/grandview-heights-fish-and-chips-staple-gets-new-owners-after-33-years/",
-      "publishedAt": "2026-09-26T09:30:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/mac-and-cheese-festival-to-return-to-easton-town-center-raise-money-for-cancer-research/",
+      "publishedAt": "2026-09-27T06:00:00Z",
       "tags": [
-        "Grandview",
-        "Marino's",
-        "restaurant",
-        "Columbus"
+        "Columbus",
+        "Easton",
+        "food festival",
+        "fundraiser"
       ]
     }
   ]
