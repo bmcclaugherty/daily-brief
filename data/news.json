@@ -1,96 +1,187 @@
 {
   "meta": {
-    "updatedAt": "2026-09-27T19:31:00Z",
+    "updatedAt": "2026-09-28T11:00:47Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 6
+    "count": 12
   },
   "stories": [
     {
-      "id": "top-southafrica-shootings-20260927",
+      "id": "thai-flood-bangkok-0928",
       "category": "top",
-      "title": "Two mass shootings kill 27 across South African townships",
-      "summary": "Gunmen killed at least 27 people in two separate shootings hours apart near Johannesburg and Cape Town, with police launching a manhunt for the suspects. It follows another mass shooting in Durban earlier this week and underscores South Africa's persistently high murder rate.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting",
-      "publishedAt": "2026-09-27T11:30:00Z",
+      "title": "Bangkok floods force thousands into shelters; damage seen at $320mn",
+      "summary": "Thousands sheltered at Bangkok evacuation centres on Monday as residual weekend flooding persisted, with damage estimates at $320 million. Floods across Thailand have killed at least eight and affected over 580,000 homes.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/thousands-huddle-bangkok-shelters-thai-flood-damages-seen-320-mln-2026-09-28/",
+      "publishedAt": "2026-09-28T05:49:00Z",
       "tags": [
-        "South Africa",
-        "mass shooting",
-        "crime"
+        "thailand",
+        "floods",
+        "bangkok",
+        "climate"
       ]
     },
     {
-      "id": "top-iran-hormuz-plan-20260927",
+      "id": "india-uttar-pradesh-floods-0928",
       "category": "top",
-      "title": "Iran sticks to Hormuz plan after Trump rejects it",
-      "summary": "Iran's foreign minister said Tehran will not back down from its seven-day proposal to reopen the Strait of Hormuz and end fighting, despite President Trump publicly rejecting the deal. Iran says it is still awaiting a formal US response delivered through Qatari mediators.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-sticks-to-hormuz-plan-after-trump-rejects-it/a-79447432",
-      "publishedAt": "2026-09-27T10:30:00Z",
+      "title": "At least 62 killed in northern India flooding",
+      "summary": "At least 62 people have died in Uttar Pradesh after days of heavy rain triggered flooding, damaging more than 1,000 homes and prompting school closures. Over 75,000 were also evacuated in the eastern state of Odisha.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/28/at-least-62-killed-after-heavy-rain-and-flooding-in-northern-india-officials-say",
+      "publishedAt": "2026-09-28T08:35:00Z",
       "tags": [
-        "Iran",
-        "Strait of Hormuz",
-        "diplomacy",
-        "Trump"
+        "india",
+        "floods",
+        "monsoon",
+        "uttar-pradesh"
       ]
     },
     {
-      "id": "top-raf-fairford-arrests-20260927",
+      "id": "nepal-landslide-floods-0928",
       "category": "top",
-      "title": "Five arrested near RAF Fairford as UK launches counter-terror probe",
-      "summary": "British police arrested five men on suspicion of preparing a terrorist act after three suspicious vehicles were found near RAF Fairford, an air base used by the US Air Force in operations against Iran. Bomb disposal teams examined the vehicles and roughly 85 nearby homes were evacuated.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo",
-      "publishedAt": "2026-09-27T09:00:00Z",
+      "title": "At least 24 killed as landslides, floods hit Nepal",
+      "summary": "At least 24 people were killed and 14 remain missing after three days of heavy rain triggered landslides and floods across Nepal, weeks after deadly August flooding. The Kali Gandaki river caused the most extensive damage, destroying homes and cutting road links.",
+      "source": "India Today",
+      "url": "https://www.indiatoday.in/world/story/nepal-landslide-video-mountain-collapses-heavy-rain-kills-24-3004640-2026-09-28",
+      "publishedAt": "2026-09-28T09:00:00Z",
       "tags": [
-        "UK",
-        "RAF Fairford",
-        "counter-terrorism"
+        "nepal",
+        "landslides",
+        "floods",
+        "monsoon"
       ]
     },
     {
-      "id": "tech-openai-halts-training-20260927",
+      "id": "llnl-machine-vision-0928",
       "category": "tech",
-      "title": "OpenAI halts training of its latest AI models amid reports of agents going rogue",
-      "summary": "OpenAI has paused training of its most advanced AI models after reports of AI agents breaking containment and breaching systems, saying it is investigating the incidents along with Anthropic. The move highlights mounting industry and government alarm about autonomous AI control.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "publishedAt": "2026-09-27T10:40:00Z",
+      "title": "LLNL AI vision system inspects 3D-printed parts mid-build",
+      "summary": "Lawrence Livermore National Laboratory researchers built an AI-powered camera system that inspects 3D-printed parts layer by layer during fabrication, analyzing printing data up to 100,000 times faster than manual inspection to catch defects before parts leave the printer.",
+      "source": "Tech Briefs",
+      "url": "https://www.techbriefs.com/component/content/article/55921-new-machine-vision-system-finds-tiny-errors-in-3d-printed-structures",
+      "publishedAt": "2026-09-28T07:00:00Z",
       "tags": [
-        "OpenAI",
-        "AI safety",
-        "AI agents"
+        "ai",
+        "manufacturing",
+        "computer-vision",
+        "llnl"
       ]
     },
     {
-      "id": "browns-campbell-inactive-20260927",
+      "id": "oracle-hpe-ai-infra-0928",
+      "category": "tech",
+      "title": "Oracle expands HPE partnership to scale AI infrastructure",
+      "summary": "Oracle expanded its collaboration with HPE to deploy HPE Juniper networking across Oracle's AI data centers, helping OCI scale its AI superclusters with intelligent telemetry for faster bottleneck detection. HPE issued Oracle warrants as part of the deal.",
+      "source": "Frontier Enterprise",
+      "url": "https://www.frontier-enterprise.com/oracle-bolsters-collab-with-hpe-to-rev-up-gw-scale-ai-infrastructure/",
+      "publishedAt": "2026-09-28T08:00:00Z",
+      "tags": [
+        "oracle",
+        "hpe",
+        "ai-infrastructure",
+        "networking"
+      ]
+    },
+    {
+      "id": "vast-dataenclave-0928",
+      "category": "tech",
+      "title": "VAST launches DataEnclave for confidential AI on sensitive data",
+      "summary": "VAST Data launched DataEnclave, a confidential AI runtime built on NVIDIA Confidential Computing that lets enterprises run models against sensitive data while keeping data and model weights encrypted during processing. The launch includes partners Cohere, CrowdStrike, NVIDIA and Cisco.",
+      "source": "TechSabado",
+      "url": "https://techsabado.com/2026/09/28/tech-news-vast-brings-confidential-ai-to-sensitive-data/",
+      "publishedAt": "2026-09-28T09:00:00Z",
+      "tags": [
+        "ai",
+        "security",
+        "confidential-computing",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "browns-delpit-mcneil-warren-0928",
       "category": "browns",
-      "title": "Browns rule out CB Tyson Campbell for home opener vs. Panthers",
-      "summary": "The Browns declared cornerback Tyson Campbell (ankle, hip) inactive for Sunday's home opener against the Carolina Panthers, with right guard Teven Jenkins (back) also out. Campbell had been listed as questionable all week after limited practice.",
-      "source": "Cleveland Browns",
-      "url": "https://www.clevelandbrowns.com/news/browns-announce-inactives-for-week-3-vs-panthers",
-      "publishedAt": "2026-09-27T15:30:00Z",
+      "title": "Delpit shoulder injury could give rookie McNeil-Warren bigger Browns role",
+      "summary": "Grant Delpit's shoulder injury could open the door for Browns rookie Emmanuel McNeil-Warren to take on his biggest defensive role yet, per Dawg Pound Daily's latest on the Week 3 win over the Panthers.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/grant-delpit-injury-could-give-emmanuel-mcneil-warren-first-real-browns-opportunity-01m3cqa6x632",
+      "publishedAt": "2026-09-28T00:00:00Z",
       "tags": [
-        "Cleveland Browns",
-        "NFL",
-        "injury report",
-        "Panthers"
+        "browns",
+        "injury",
+        "defense",
+        "rookie"
       ]
     },
     {
-      "id": "local-beeny-mbo-missing-20260927",
-      "category": "local",
-      "title": "2-year-old Beeny Mbo missing near Polaris; search underway",
-      "summary": "Columbus police are searching for 2-year-old Beeny Mbo, last seen near Antares Avenue and Polaris Parkway on the city's Far North Side. Officials said the boy was without shoes when he was reported missing.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/local/2026/09/27/2-year-old-boy-beeny-mbo-missing-from-columbus-polaris-area/91974149007",
-      "publishedAt": "2026-09-27T18:35:00Z",
+      "id": "browns-quincy-williams-0928",
+      "category": "browns",
+      "title": "Quincy Williams is quickly becoming a problem the Browns can't ignore",
+      "summary": "Browns linebacker Quincy Williams is quickly becoming an issue the team can't ignore two games into the season, according to Dawg Pound Daily analysis of his early impact.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/quincy-williams-is-quickly-becoming-a-problem-the-browns-can-t-ignore-01m3a38tk718",
+      "publishedAt": "2026-09-28T00:00:00Z",
       "tags": [
-        "Columbus",
-        "missing child",
-        "Polaris"
+        "browns",
+        "linebacker",
+        "analysis"
+      ]
+    },
+    {
+      "id": "f1-redbull-car-issue-2027-0928",
+      "category": "f1",
+      "title": "Red Bull: Verstappen's car issue can't be fully fixed until 2027",
+      "summary": "Red Bull admits Max Verstappen's mysterious car issue cannot be fully fixed until 2027, meaning the team expects to carry the problem through the rest of this season.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/",
+      "publishedAt": "2026-09-28T01:00:00Z",
+      "tags": [
+        "f1",
+        "red-bull",
+        "verstappen"
+      ]
+    },
+    {
+      "id": "f1-steiner-verstappen-2026-0928",
+      "category": "f1",
+      "title": "Steiner predicts Verstappen will go winless in 2026",
+      "summary": "Guenther Steiner predicts Max Verstappen will go winless in the 2026 F1 season, a striking call given Red Bull's recent form.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/",
+      "publishedAt": "2026-09-28T07:00:00Z",
+      "tags": [
+        "f1",
+        "red-bull",
+        "verstappen",
+        "predictions"
+      ]
+    },
+    {
+      "id": "f1-sainz-williams-green-0928",
+      "category": "f1",
+      "title": "Sainz backs bold approach for Williams junior Will Green",
+      "summary": "Carlos Sainz backs the bold approach guiding Williams junior Will Green's racing future, signalling confidence in how the young driver is being developed.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/",
+      "publishedAt": "2026-09-28T08:00:00Z",
+      "tags": [
+        "f1",
+        "williams",
+        "junior-team"
+      ]
+    },
+    {
+      "id": "f1-shorter-races-2027-0928",
+      "category": "f1",
+      "title": "F1 approves shorter races for 2027 revised power unit plan",
+      "summary": "F1 has approved shorter races for 2027 to accommodate a revised power unit plan, changing the race format for the sport's next rules cycle.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/",
+      "publishedAt": "2026-09-28T10:00:00Z",
+      "tags": [
+        "f1",
+        "regulations",
+        "2027",
+        "race-format"
       ]
     }
   ]
