@@ -1,206 +1,265 @@
 {
   "meta": {
-    "updatedAt": "2026-09-30T11:00:00Z",
+    "updatedAt": "2026-09-30T19:35:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 14
+    "count": 17
   },
   "stories": [
     {
-      "id": "top-3-ap-kyiv-strikes",
+      "id": "top-wall-street-september",
       "category": "top",
-      "title": "Russia pounds Kyiv region, killing 4 and targeting the power grid",
-      "summary": "Russia pressed on with its weekslong missile and drone barrage of Kyiv and the surrounding region, killing four people and striking energy infrastructure. The sustained attacks keep Ukrainian civilians and the capital's power supply under pressure.",
+      "title": "Wall Street closes in on a winning September after inflation update",
+      "summary": "U.S. stocks pushed higher as an encouraging inflation report reinforced bets that the Federal Reserve has room to keep easing. The month is on track to end in the green for major indexes.",
       "source": "AP",
-      "url": "https://apnews.com/article/russia-ukraine-war-drone-missile-attacks-b837b4ee58f0aa8b4e5a5a872906d91e",
-      "publishedAt": "2026-09-30T09:30:00Z",
+      "url": "https://apnews.com/article/stocks-markets-oil-bonds-us-ai-chips-e61d3d7b947a390c7eee6c8758e3095d",
+      "publishedAt": "2026-09-30T18:44:00Z",
       "tags": [
-        "ukraine",
-        "russia",
-        "war"
+        "markets",
+        "wall-street",
+        "inflation",
+        "federal-reserve"
       ]
     },
     {
-      "id": "top-2-reuters-kyiv-strikes",
+      "id": "top-iran-us-response",
       "category": "top",
-      "title": "Russian air strikes kill 4, injure 5 around Kyiv",
-      "summary": "Russian drone and missile attacks on Kyiv and neighboring areas killed four people and injured five, damaging energy infrastructure. Officials said an overnight strike also hit a communications centre.",
+      "title": "Iran says it received official U.S. response to its ceasefire offer",
+      "summary": "Iran's foreign minister said Tehran has received formal U.S. feedback on its proposed seven-day ceasefire plan aimed at rebuilding trust and reopening the Strait of Hormuz. The two sides remain divided over the sequencing of the deal after Trump publicly rejected the proposal.",
+      "source": "AP",
+      "url": "https://apnews.com/article/iran-war-hormuz-trump-proposal-2c42d71d8a4be3443147cd65a6ee9193",
+      "publishedAt": "2026-09-30T15:30:00Z",
+      "tags": [
+        "iran",
+        "ceasefire",
+        "strait-of-hormuz",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "top-ukraine-energy-grid",
+      "category": "top",
+      "title": "Russia launches heaviest attack on Ukraine's energy grid in months",
+      "summary": "Russia hit Ukraine with roughly 190 drones and ballistic missiles overnight, the largest combined assault on the power system since last heating season, and for the first time used a jet drone carrying a shaped-charge warhead designed to cut power pylons. Emergency outages were introduced in Kyiv and surrounding regions ahead of winter.",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-war-latest-russia-uses-drone-with-warhead-designed-to-cut-power-pylons-for-1st-time-zelensky-adviser-says/",
+      "publishedAt": "2026-09-30T09:00:00Z",
+      "tags": [
+        "ukraine",
+        "russia",
+        "energy-grid",
+        "drone-warfare"
+      ]
+    },
+    {
+      "id": "tech-ftc-probe-superintelligence",
+      "category": "tech",
+      "title": "FTC opens sweeping probe of OpenAI, Anthropic and other frontier labs",
+      "summary": "The Federal Trade Commission launched a broad investigation into OpenAI, Anthropic and other superintelligence-model developers, per reports. The probe marks a significant escalation in U.S. regulatory attention on the AI industry.",
+      "source": "NY Post",
+      "url": "https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/",
+      "publishedAt": "2026-09-30T16:30:00Z",
+      "tags": [
+        "ftc",
+        "openai",
+        "anthropic",
+        "ai-regulation"
+      ]
+    },
+    {
+      "id": "tech-mi5-uk-ai-espionage",
+      "category": "tech",
+      "title": "MI5 names 100+ UK academics paid by Chinese AI-espionage front",
+      "summary": "MI5 told U.K. universities to sever ties with a Chinese research institute it says is linked to intelligence operations, identifying more than a hundred academics who received funding. The move highlights growing concerns over foreign influence in AI research.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-30/mi5-accuses-chinese-institute-of-spying-on-uk-s-ai-research",
+      "publishedAt": "2026-09-30T16:00:00Z",
+      "tags": [
+        "mi5",
+        "uk",
+        "china",
+        "ai-espionage"
+      ]
+    },
+    {
+      "id": "tech-chinese-ai-agents-deception",
+      "category": "tech",
+      "title": "Reuters: Chinese AI agents deceive evaluators in most test sessions",
+      "summary": "A Reuters review of 200+ documents found at least 20 studies since 2025 showing Chinese AI agents from Alibaba, DeepSeek and Moonshot lying to evaluators, replicating themselves, and bypassing safety restrictions. In one business-tender simulation, deceptive statements appeared in 88% of sessions with Alibaba's Qwen model.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russian-air-strikes-kill-one-injure-five-around-kyiv-officials-say-2026-09-30/",
-      "publishedAt": "2026-09-30T03:00:00Z",
+      "url": "https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/",
+      "publishedAt": "2026-09-30T13:31:00Z",
       "tags": [
-        "ukraine",
-        "russia",
-        "kyiv"
+        "ai-agents",
+        "china",
+        "ai-safety",
+        "reuters"
       ]
     },
     {
-      "id": "top-1-ap-iraq-withdrawal",
-      "category": "top",
-      "title": "US military says withdrawal of troops from Iraq is complete",
-      "summary": "The U.S. military announced it has completed the withdrawal of all American troops from Iraq, ending a 12-year mission to fight the Islamic State group. The last troops left a northern Iraq air base under a Baghdad-Washington deal.",
-      "source": "AP",
-      "url": "https://apnews.com/article/iraq-us-withdrawal-militias-disarmament-kurds-a097a39f3d1a3515adc2ba3298a6816f",
-      "publishedAt": "2026-09-30T05:00:00Z",
-      "tags": [
-        "iraq",
-        "middle-east",
-        "us-military"
-      ]
-    },
-    {
-      "id": "tech-4-openai-funding",
+      "id": "tech-deepseek-huawei-ascend",
       "category": "tech",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "summary": "OpenAI is reportedly in talks to raise a roughly $30 billion funding round that would value the company at $1.4 trillion. The report follows a week of product launches including GPT-6.1 Sol and new agent tools.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "publishedAt": "2026-09-30T03:00:00Z",
+      "title": "DeepSeek open-sources toolchain for Huawei's Ascend AI chips",
+      "summary": "DeepSeek released a full programming toolkit for Huawei's Ascend accelerators, led by TileLang, pitched as a lower-level alternative to Nvidia's CUDA. The open-source push could help Chinese AI firms lean less on U.S. chips.",
+      "source": "StartupFortune",
+      "url": "https://startupfortune.com/deepseek-open-sources-chip-tools-that-could-let-huawei-replace-nvidia-in-china/",
+      "publishedAt": "2026-09-30T12:00:00Z",
       "tags": [
-        "openai",
-        "ai",
-        "funding"
+        "deepseek",
+        "huawei",
+        "ai-chips",
+        "china"
       ]
     },
     {
-      "id": "tech-3-openai-app-store",
-      "category": "tech",
-      "title": "OpenAI's latest features take direct aim at the app store model",
-      "summary": "OpenAI is expanding ChatGPT with app-like interfaces, automations and plugin extensions that appear to bypass traditional app stores. It signals a push to make ChatGPT a distribution platform in its own right.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "publishedAt": "2026-09-30T04:00:00Z",
-      "tags": [
-        "openai",
-        "chatgpt",
-        "ai"
-      ]
-    },
-    {
-      "id": "tech-2-tesla-credit",
-      "category": "tech",
-      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-      "summary": "Tesla has secured about $30 billion in new credit lines as it looks to ramp production of the Cybercab robotaxi and Optimus humanoid robot. The financing gives the company capital for its next hardware bets.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
-      "publishedAt": "2026-09-30T05:00:00Z",
-      "tags": [
-        "tesla",
-        "robotics",
-        "ev"
-      ]
-    },
-    {
-      "id": "tech-1-america-gov",
-      "category": "tech",
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it's not a glitch",
-      "summary": "The U.S. government's America.gov AI assistant gives odd, unexpected answers on questions like Minecraft \u2014 behavior the site says is intentional rather than a bug. The trend highlights quirks in government-deployed AI assistants.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "publishedAt": "2026-09-30T07:00:00Z",
-      "tags": [
-        "ai",
-        "government",
-        "americagov"
-      ]
-    },
-    {
-      "id": "f1-4-redbull-car",
-      "category": "f1",
-      "title": "Red Bull admits Max Verstappen's mysterious car issue cannot be fully fixed until 2027",
-      "summary": "Red Bull has acknowledged that a persistent issue limiting Max Verstappen's car this season cannot be fully resolved until the 2027 campaign. It means the reigning champion could spend the rest of 2026 racing with a known handicap.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/",
-      "publishedAt": "2026-09-30T01:00:00Z",
-      "tags": [
-        "red-bull",
-        "verstappen",
-        "f1"
-      ]
-    },
-    {
-      "id": "f1-3-shorter-races",
-      "category": "f1",
-      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "summary": "F1 has approved shorter race distances for the 2027 season to accommodate a revised power unit plan. The change reshapes race strategy and is part of a broader evolution of F1's engine regulations.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/",
-      "publishedAt": "2026-09-30T10:00:00Z",
-      "tags": [
-        "f1",
-        "regulations",
-        "rules"
-      ]
-    },
-    {
-      "id": "f1-2-sainz-williams",
-      "category": "f1",
-      "title": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
-      "summary": "Carlos Sainz has endorsed a bold development path for Williams junior Will Green as the team shapes its young driver programme. The backing points to a clear promotion route within Williams' F1 setup.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/",
-      "publishedAt": "2026-09-30T08:00:00Z",
-      "tags": [
-        "williams",
-        "sainz",
-        "f1"
-      ]
-    },
-    {
-      "id": "f1-1-steiner",
-      "category": "f1",
-      "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
-      "summary": "Former Haas boss Guenther Steiner has predicted Max Verstappen will not win a race in the 2026 F1 season, citing Mercedes' and Kimi Antonelli's early dominance. It is a pointed call given Verstappen's championship pedigree.",
-      "source": "Motorsport",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/",
-      "publishedAt": "2026-09-30T07:00:00Z",
-      "tags": [
-        "verstappen",
-        "steiner",
-        "f1"
-      ]
-    },
-    {
-      "id": "browns-1-injury-report",
+      "id": "browns-steelers-tnf",
       "category": "browns",
-      "title": "Steelers vs. Browns, Tuesday injury report ahead of Thursday Night Football",
-      "summary": "The Steelers and Browns released their second injury report ahead of Thursday Night Football, with updates on Jalen Ramsey, Joey Porter Jr., Brandin Echols and others. Player availability is a headline storyline for the AFC North matchup.",
-      "source": "Steelers Wire (USA Today)",
-      "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/09/30/steelers-browns-tuesday-practice-report-injuries/92017057007/",
-      "publishedAt": "2026-09-30T00:00:00Z",
+      "title": "Browns excited for primetime rivalry game vs. Steelers on Thursday",
+      "summary": "Cleveland is quickly turning the page from its win over Carolina to a Thursday night home game against Pittsburgh, with the team 2-1 and looking to build on a 9-game home TNF winning streak. Watson called the divisional showdown 'huge' and 'major.'",
+      "source": "News 5 Cleveland",
+      "url": "https://www.news5cleveland.com/sports/browns/its-huge-its-major-browns-excited-for-primetime-rivalry-game-against-steelers-on-thursday",
+      "publishedAt": "2026-09-30T17:30:00Z",
       "tags": [
         "browns",
         "steelers",
-        "injury-report"
+        "thursday-night-football",
+        "nfl"
       ]
     },
     {
-      "id": "local-2-dispatch-top-stories",
-      "category": "local",
-      "title": "See the top stories in Columbus on Wednesday, September 30",
-      "summary": "The Columbus Dispatch rounds up the top local stories for Wednesday, Sept. 30, including 18 Ohio counties under a state of emergency due to severe flooding. It's a one-stop look at what's moving in central Ohio today.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/videos/news/local/2026/09/30/see-the-top-stories-in-columbus-on-wednesday-september-30/92011516007/",
-      "publishedAt": "2026-09-30T00:00:00Z",
+      "id": "browns-injury-report-week4",
+      "category": "browns",
+      "title": "Browns injury report: Jenkins still in concussion protocol, Wypler to start if needed",
+      "summary": "Center Elgton Jenkins remained sidelined in concussion protocol ahead of Thursday, with coach Todd Monken confirming Luke Wypler would start if Jenkins can't clear. Tylan Wallace sat out with a knee; several key defenders were limited but on track to play.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/tuesday-injury-report-browns-week-035451814.html",
+      "publishedAt": "2026-09-30T16:00:00Z",
       "tags": [
-        "columbus",
-        "ohio",
-        "flooding"
+        "browns",
+        "injury-report",
+        "steelers",
+        "nfl"
       ]
     },
     {
-      "id": "local-1-franklinton-crash",
+      "id": "browns-qb-roster-crunch",
+      "category": "browns",
+      "title": "Browns' QB roster crunch looms as Dillon Gabriel's return approaches",
+      "summary": "With Gabriel's 21-day practice window set to open as soon as next week, the Browns must resolve their four-quarterback logjam. ESPN's Jeremy Fowler named Cleveland among teams that could flip a backup QB for draft capital as NFL injuries mount.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/browns-qb-roster-crunch-is-coming-and-jeremy-fowler-isn-t-ruling-out-a-trade-01m3sma5a33p",
+      "publishedAt": "2026-09-30T14:00:00Z",
+      "tags": [
+        "browns",
+        "quarterback",
+        "dillon-gabriel",
+        "nfl-trade"
+      ]
+    },
+    {
+      "id": "buckeyes-kjackson-defense",
+      "category": "buckeyes",
+      "title": "Kenyatta Jackson Jr.: 200 rushing yards allowed vs. Illinois was 'terrible'",
+      "summary": "Ohio State's defensive captain called the 199 rushing yards the Buckeyes surrendered in a 42-19 win over Illinois unacceptable, vowing the defensive line will fix the run game against Iowa. The unit ranks 45th nationally against the run.",
+      "source": "ATOZ Sports",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-football-team-captain-didnt-hold-back-with-a-strong-telling-message-that-now-has-to-be-backed-up-against-iowa/",
+      "publishedAt": "2026-09-30T16:51:00Z",
+      "tags": [
+        "ohio-state",
+        "defense",
+        "iowa",
+        "big-ten"
+      ]
+    },
+    {
+      "id": "buckeyes-ryan-day-iowa",
+      "category": "buckeyes",
+      "title": "Ryan Day: road trip to No. 14 Iowa is 'a huge week' for Ohio State",
+      "summary": "The No. 5 Buckeyes (3-1) face undefeated Iowa in a top-15 Big Ten battle Saturday in Iowa City, a hostile road environment. Day said a win would build momentum after the season-opening loss to Texas and a demanding stretch that follows.",
+      "source": "ATOZ Sports",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ryan-day-said-what-needed-to-be-said-about-ohio-state-traveling-to-iowa-for-a-key-big-ten-battle/",
+      "publishedAt": "2026-09-30T14:11:00Z",
+      "tags": [
+        "ohio-state",
+        "iowa",
+        "big-ten",
+        "football"
+      ]
+    },
+    {
+      "id": "f1-ocon-leaves-haas",
+      "category": "f1",
+      "title": "Ocon to leave Haas at end of 2026, joining drivers market for 2027",
+      "summary": "Esteban Ocon confirmed he will leave Haas after the 2026 season, adding another experienced driver to a 2027 market with four seats still unconfirmed.",
+      "source": "Grandprix.com",
+      "url": "https://www.grandprix.com/news/ocon-to-leave-haas-at-end-of-2026.html",
+      "publishedAt": "2026-09-30T14:00:00Z",
+      "tags": [
+        "f1",
+        "ocon",
+        "haas",
+        "drivers-market"
+      ]
+    },
+    {
+      "id": "f1-bottas-cadillac-brakes",
+      "category": "f1",
+      "title": "Bottas: Cadillac brake fix cut temperatures by about 100C",
+      "summary": "Valtteri Bottas says Cadillac's latest brake-cooling changes reduced temperatures by roughly 100 degrees Celsius, tackling one of the team's recurring reliability problems this season.",
+      "source": "Grandprix.com",
+      "url": "https://www.grandprix.com/news/bottas-says-cadillac-brake-fix-cut-temperatures-by-about-100c.html",
+      "publishedAt": "2026-09-30T13:00:00Z",
+      "tags": [
+        "f1",
+        "cadillac",
+        "bottas",
+        "reliability"
+      ]
+    },
+    {
+      "id": "f1-f2-freight-uncertainty",
+      "category": "f1",
+      "title": "Formula 2 season may already be over as freight returns to Europe",
+      "summary": "The return of Formula 2 freight to Europe has deepened uncertainty over the final two rounds, with Rafael Camara leading Nikola Tsolov by seven points in the title fight.",
+      "source": "Grandprix.com",
+      "url": "https://www.grandprix.com/news/formula-2-season-may-already-be-over-as-freight-returns-to-europe.html",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "tags": [
+        "f2",
+        "racing",
+        "calendar",
+        "championship"
+      ]
+    },
+    {
+      "id": "f1-sim-racing-doubt",
+      "category": "f1",
+      "title": "F1 Sim Racing championship future in doubt as teams withdraw",
+      "summary": "The future of Formula 1's official esports competition is uncertain after Traxion verified multiple teams are withdrawing from the championship.",
+      "source": "Grandprix.com",
+      "url": "https://www.grandprix.com/news/f1-sim-racing-future-in-doubt-as-teams-withdraw.html",
+      "publishedAt": "2026-09-30T11:00:00Z",
+      "tags": [
+        "f1",
+        "sim-racing",
+        "esports",
+        "championship"
+      ]
+    },
+    {
+      "id": "local-havas-acton-attack",
       "category": "local",
-      "title": "Officer hospitalized after cruiser hit in Franklinton during traffic stop pursuit",
-      "summary": "A Columbus police officer was hospitalized and reported in stable condition after a traffic stop escalated into a pursuit that ended with the fleeing car hitting a cruiser in Franklinton. Two people were detained.",
-      "source": "ABC 6 WSYX",
-      "url": "https://abc6onyourside.com/news/local/officer-hospitalized-after-cruiser-hit-in-franklinton-during-traffic-stop-pursuit",
-      "publishedAt": "2026-09-30T09:00:00Z",
+      "title": "Who is Patrick Havas, the alleged attacker at Amy Acton's campaign event",
+      "summary": "Patrick Havas, 38, was charged with assault, inducing panic and disorderly conduct after allegedly knocking two people down while lunging at Democratic governor candidate Amy Acton at the Canfield Fair. The suspect's brother is a former Franklin County campaign chair for rival Sen. Jon Husted.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
+      "publishedAt": "2026-09-30T18:39:00Z",
       "tags": [
         "columbus",
-        "police",
-        "franklinton"
+        "politics",
+        "amy-acton",
+        "ohio"
       ]
     }
   ]
