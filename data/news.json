@@ -1,161 +1,207 @@
 {
   "meta": {
-    "updatedAt": "2026-09-29T19:30:27Z",
+    "updatedAt": "2026-09-30T11:00:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 15
+    "count": 14
   },
   "stories": [
     {
-      "id": "top-20260929-cornell",
+      "id": "top-3-ap-kyiv-strikes",
       "category": "top",
-      "title": "US prosecutors reopen case of alleged rape at Cornell University",
-      "summary": "US prosecutors reopened the case of an alleged gang rape at Cornell University after the woman filed a civil lawsuit claiming she was drugged and raped at a fraternity house in 2024. The move restarts a high-profile criminal inquiry into an incident that has drawn scrutiny over how the university handled it.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5wyzrm0n74ro",
-      "publishedAt": "2026-09-29T14:20:00Z",
-      "tags": ["Cornell", "justice", "crime", "colleges"]
-    },
-    {
-      "id": "top-20260929-icc",
-      "category": "top",
-      "title": "Germany's foreign minister backs ICC despite US sanctions",
-      "summary": "Germany's foreign minister visited the International Criminal Court to pledge full support for the court despite sanctions imposed by the Trump administration. The visit signals continued European backing for the Hague-based court amid pressure from Washington.",
+      "title": "Russia pounds Kyiv region, killing 4 and targeting the power grid",
+      "summary": "Russia pressed on with its weekslong missile and drone barrage of Kyiv and the surrounding region, killing four people and striking energy infrastructure. The sustained attacks keep Ukrainian civilians and the capital's power supply under pressure.",
       "source": "AP",
-      "url": "https://apnews.com/article/icc-court-sanctions-europe-germany-00924174a59a9c86689dc50e93eec702",
-      "publishedAt": "2026-09-29T13:00:00Z",
-      "tags": ["ICC", "Germany", "sanctions", "international-law"]
+      "url": "https://apnews.com/article/russia-ukraine-war-drone-missile-attacks-b837b4ee58f0aa8b4e5a5a872906d91e",
+      "publishedAt": "2026-09-30T09:30:00Z",
+      "tags": [
+        "ukraine",
+        "russia",
+        "war"
+      ]
     },
     {
-      "id": "tech-20260929-chatgpt-office",
+      "id": "top-2-reuters-kyiv-strikes",
+      "category": "top",
+      "title": "Russian air strikes kill 4, injure 5 around Kyiv",
+      "summary": "Russian drone and missile attacks on Kyiv and neighboring areas killed four people and injured five, damaging energy infrastructure. Officials said an overnight strike also hit a communications centre.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russian-air-strikes-kill-one-injure-five-around-kyiv-officials-say-2026-09-30/",
+      "publishedAt": "2026-09-30T03:00:00Z",
+      "tags": [
+        "ukraine",
+        "russia",
+        "kyiv"
+      ]
+    },
+    {
+      "id": "top-1-ap-iraq-withdrawal",
+      "category": "top",
+      "title": "US military says withdrawal of troops from Iraq is complete",
+      "summary": "The U.S. military announced it has completed the withdrawal of all American troops from Iraq, ending a 12-year mission to fight the Islamic State group. The last troops left a northern Iraq air base under a Baghdad-Washington deal.",
+      "source": "AP",
+      "url": "https://apnews.com/article/iraq-us-withdrawal-militias-disarmament-kurds-a097a39f3d1a3515adc2ba3298a6816f",
+      "publishedAt": "2026-09-30T05:00:00Z",
+      "tags": [
+        "iraq",
+        "middle-east",
+        "us-military"
+      ]
+    },
+    {
+      "id": "tech-4-openai-funding",
       "category": "tech",
-      "title": "OpenAI takes on Microsoft with a ChatGPT office suite",
-      "summary": "OpenAI rolled out what amounts to an office suite inside ChatGPT, putting the assistant in direct competition with Microsoft's productivity tools. The launch is OpenAI's clearest push yet into workplace software.",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "summary": "OpenAI is reportedly in talks to raise a roughly $30 billion funding round that would value the company at $1.4 trillion. The report follows a week of product launches including GPT-6.1 Sol and new agent tools.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "publishedAt": "2026-09-29T17:45:00Z",
-      "tags": ["OpenAI", "ChatGPT", "productivity", "competition"]
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "publishedAt": "2026-09-30T03:00:00Z",
+      "tags": [
+        "openai",
+        "ai",
+        "funding"
+      ]
     },
     {
-      "id": "tech-20260929-wabi",
+      "id": "tech-3-openai-app-store",
       "category": "tech",
-      "title": "AI app maker Wabi pivots to a messaging experience",
-      "summary": "AI-powered app maker Wabi is pivoting from no-code app building to a messaging experience. The shift reflects how quickly AI startup focuses are changing as founders chase user traction.",
+      "title": "OpenAI's latest features take direct aim at the app store model",
+      "summary": "OpenAI is expanding ChatGPT with app-like interfaces, automations and plugin extensions that appear to bypass traditional app stores. It signals a push to make ChatGPT a distribution platform in its own right.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "publishedAt": "2026-09-29T18:20:00Z",
-      "tags": ["startups", "AI", "apps", "pivot"]
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "publishedAt": "2026-09-30T04:00:00Z",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "ai"
+      ]
     },
     {
-      "id": "tech-20260929-dots",
+      "id": "tech-2-tesla-credit",
       "category": "tech",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "summary": "OpenAI launched Dots, an expressive agentic avatar tied to ChatGPT. It marks the company's move toward more personality-driven, agent-based AI assistants.",
+      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+      "summary": "Tesla has secured about $30 billion in new credit lines as it looks to ramp production of the Cybercab robotaxi and Optimus humanoid robot. The financing gives the company capital for its next hardware bets.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "publishedAt": "2026-09-29T18:10:00Z",
-      "tags": ["OpenAI", "agents", "AI", "avatar"]
+      "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+      "publishedAt": "2026-09-30T05:00:00Z",
+      "tags": [
+        "tesla",
+        "robotics",
+        "ev"
+      ]
     },
     {
-      "id": "tech-20260929-gpt61",
+      "id": "tech-1-america-gov",
       "category": "tech",
-      "title": "OpenAI launches GPT-6.1 Sol, cheaper model that nears GPT-6 Astra",
-      "summary": "OpenAI released GPT-6.1 Sol, saying it nearly matches its flagship GPT-6 Astra at a lower cost. The launch gives developers and consumers a cheaper option as OpenAI expands its model lineup.",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it's not a glitch",
+      "summary": "The U.S. government's America.gov AI assistant gives odd, unexpected answers on questions like Minecraft \u2014 behavior the site says is intentional rather than a bug. The trend highlights quirks in government-deployed AI assistants.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "publishedAt": "2026-09-29T17:15:00Z",
-      "tags": ["OpenAI", "models", "AI", "GPT"]
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "publishedAt": "2026-09-30T07:00:00Z",
+      "tags": [
+        "ai",
+        "government",
+        "americagov"
+      ]
     },
     {
-      "id": "browns-20260929-practice",
+      "id": "f1-4-redbull-car",
+      "category": "f1",
+      "title": "Red Bull admits Max Verstappen's mysterious car issue cannot be fully fixed until 2027",
+      "summary": "Red Bull has acknowledged that a persistent issue limiting Max Verstappen's car this season cannot be fully resolved until the 2027 campaign. It means the reigning champion could spend the rest of 2026 racing with a known handicap.",
+      "source": "Motorsport",
+      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/",
+      "publishedAt": "2026-09-30T01:00:00Z",
+      "tags": [
+        "red-bull",
+        "verstappen",
+        "f1"
+      ]
+    },
+    {
+      "id": "f1-3-shorter-races",
+      "category": "f1",
+      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "summary": "F1 has approved shorter race distances for the 2027 season to accommodate a revised power unit plan. The change reshapes race strategy and is part of a broader evolution of F1's engine regulations.",
+      "source": "Motorsport",
+      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/",
+      "publishedAt": "2026-09-30T10:00:00Z",
+      "tags": [
+        "f1",
+        "regulations",
+        "rules"
+      ]
+    },
+    {
+      "id": "f1-2-sainz-williams",
+      "category": "f1",
+      "title": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
+      "summary": "Carlos Sainz has endorsed a bold development path for Williams junior Will Green as the team shapes its young driver programme. The backing points to a clear promotion route within Williams' F1 setup.",
+      "source": "Motorsport",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/",
+      "publishedAt": "2026-09-30T08:00:00Z",
+      "tags": [
+        "williams",
+        "sainz",
+        "f1"
+      ]
+    },
+    {
+      "id": "f1-1-steiner",
+      "category": "f1",
+      "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
+      "summary": "Former Haas boss Guenther Steiner has predicted Max Verstappen will not win a race in the 2026 F1 season, citing Mercedes' and Kimi Antonelli's early dominance. It is a pointed call given Verstappen's championship pedigree.",
+      "source": "Motorsport",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/",
+      "publishedAt": "2026-09-30T07:00:00Z",
+      "tags": [
+        "verstappen",
+        "steiner",
+        "f1"
+      ]
+    },
+    {
+      "id": "browns-1-injury-report",
       "category": "browns",
-      "title": "Browns hold main practice ahead of Thursday night vs. Steelers",
-      "summary": "The Browns held their key practice session on Tuesday as they prepared for Thursday Night Football against the Pittsburgh Steelers. The AFC North matchup puts a share of first place on the line early in the season.",
-      "source": "Beacon Journal",
-      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/09/29/browns-updates-sept-29-steelers--live/92001664007/",
-      "publishedAt": "2026-09-29T17:30:00Z",
-      "tags": ["Browns", "Steelers", "TNF", "AFC-North"]
+      "title": "Steelers vs. Browns, Tuesday injury report ahead of Thursday Night Football",
+      "summary": "The Steelers and Browns released their second injury report ahead of Thursday Night Football, with updates on Jalen Ramsey, Joey Porter Jr., Brandin Echols and others. Player availability is a headline storyline for the AFC North matchup.",
+      "source": "Steelers Wire (USA Today)",
+      "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/09/30/steelers-browns-tuesday-practice-report-injuries/92017057007/",
+      "publishedAt": "2026-09-30T00:00:00Z",
+      "tags": [
+        "browns",
+        "steelers",
+        "injury-report"
+      ]
     },
     {
-      "id": "browns-20260929-elgton",
-      "category": "browns",
-      "title": "Browns' Elgton Jenkins listed as DNP with concussion ahead of Steelers",
-      "summary": "Browns center Elgton Jenkins was listed as a did-not-participate with a concussion on Monday's walkthrough report ahead of the Steelers game. Losing the starting center would weaken the offensive line against a strong Pittsburgh front.",
-      "source": "ATSports",
-      "url": "https://atozsports.com/nfl/cleveland-browns-news/browns-have-a-real-worry-brewing-ahead-of-thursday-nights-game-against-the-steelers-in-afc-north-action/",
-      "publishedAt": "2026-09-29T14:03:00Z",
-      "tags": ["Browns", "injury", "concussion", "Steelers"]
-    },
-    {
-      "id": "browns-20260929-bigweek",
-      "category": "browns",
-      "title": "Big week in Cleveland sports as Browns host Steelers",
-      "summary": "Cleveland hosts Pittsburgh on Thursday night with the winner ending Week 4 no worse than tied for first in the AFC North. It is a big week for Cleveland sports as the 2-1 Browns look to build momentum.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-big-week-100000442.html",
-      "publishedAt": "2026-09-29T10:30:00Z",
-      "tags": ["Browns", "Steelers", "preview", "AFC-North"]
-    },
-    {
-      "id": "f1-20260929-alonso",
-      "category": "f1",
-      "title": "Aston Martin confirms Alonso and Stroll for 2027 F1 season",
-      "summary": "Aston Martin confirmed Fernando Alonso and Lance Stroll for the 2027 Formula 1 season, extending Alonso's career into a 24th campaign. The news ends months of speculation about Alonso's future.",
-      "source": "GrandPrix.com",
-      "url": "https://www.grandprix.com/news/alonso-and-stroll-confirmed-at-aston-martin-for-2027.html",
-      "publishedAt": "2026-09-29T08:00:00Z",
-      "tags": ["F1", "Aston-Martin", "Alonso", "driver-market"]
-    },
-    {
-      "id": "f1-20260929-perez",
-      "category": "f1",
-      "title": "Perez warns F1 power-unit gaps are becoming dangerous",
-      "summary": "Sergio Perez said differences in power-unit deployment between Formula 1 engine manufacturers created a dangerous closing-speed problem in Azerbaijan. His comments add to the season's growing debate over 2026 safety regulations.",
-      "source": "GrandPrix.com",
-      "url": "https://www.grandprix.com/news/perez-warns-f1-power-unit-gaps-are-becoming-dangerous.html",
-      "publishedAt": "2026-09-29T09:00:00Z",
-      "tags": ["F1", "safety", "power-units", "Perez"]
-    },
-    {
-      "id": "f1-20260929-mercedes",
-      "category": "f1",
-      "title": "Mercedes passes Ferrari for most F1 engine wins",
-      "summary": "Mercedes moved past Ferrari to become Formula 1's most successful engine manufacturer by grand prix victories, reaching 252 wins in Azerbaijan. It is a milestone in the sport's longest-running engine rivalry.",
-      "source": "GrandPrix.com",
-      "url": "https://www.grandprix.com/news/mercedes-passes-ferrari-for-most-formula-1-engine-wins.html",
-      "publishedAt": "2026-09-29T09:30:00Z",
-      "tags": ["F1", "Mercedes", "engines", "record"]
-    },
-    {
-      "id": "f1-20260929-pirelli",
-      "category": "f1",
-      "title": "Pirelli targets higher-degradation tires for 2027 F1 season",
-      "summary": "Pirelli is developing Formula 1 tires with greater degradation for 2027 to create more strategic variation and fewer routine one-stop races. The approach aims to shake up race strategy across the grid.",
-      "source": "GrandPrix.com",
-      "url": "https://www.grandprix.com/news/pirelli-targets-higher-degradation-tires-for-2027.html",
-      "publishedAt": "2026-09-29T11:00:00Z",
-      "tags": ["F1", "Pirelli", "tires", "2027"]
-    },
-    {
-      "id": "local-20260929-havas",
+      "id": "local-2-dispatch-top-stories",
       "category": "local",
-      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event",
-      "summary": "Local reports identified Patrick Havas as the alleged attacker at a Columbus campaign event for Dr. Amy Acton. The incident has drawn attention to the high-profile local race as it is investigated.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
-      "publishedAt": "2026-09-29T18:30:00Z",
-      "tags": ["Columbus", "crime", "politics"]
+      "title": "See the top stories in Columbus on Wednesday, September 30",
+      "summary": "The Columbus Dispatch rounds up the top local stories for Wednesday, Sept. 30, including 18 Ohio counties under a state of emergency due to severe flooding. It's a one-stop look at what's moving in central Ohio today.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/videos/news/local/2026/09/30/see-the-top-stories-in-columbus-on-wednesday-september-30/92011516007/",
+      "publishedAt": "2026-09-30T00:00:00Z",
+      "tags": [
+        "columbus",
+        "ohio",
+        "flooding"
+      ]
     },
     {
-      "id": "local-20260929-roadrage",
+      "id": "local-1-franklinton-crash",
       "category": "local",
-      "title": "Columbus man reverses plea in deadly road-rage shooting",
-      "summary": "A Columbus man who had pled guilty in a deadly road-rage shooting reversed his plea after retaining new counsel. The case will now move forward with the guilty plea withdrawn.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
-      "publishedAt": "2026-09-29T17:30:00Z",
-      "tags": ["Columbus", "crime", "courts"]
+      "title": "Officer hospitalized after cruiser hit in Franklinton during traffic stop pursuit",
+      "summary": "A Columbus police officer was hospitalized and reported in stable condition after a traffic stop escalated into a pursuit that ended with the fleeing car hitting a cruiser in Franklinton. Two people were detained.",
+      "source": "ABC 6 WSYX",
+      "url": "https://abc6onyourside.com/news/local/officer-hospitalized-after-cruiser-hit-in-franklinton-during-traffic-stop-pursuit",
+      "publishedAt": "2026-09-30T09:00:00Z",
+      "tags": [
+        "columbus",
+        "police",
+        "franklinton"
+      ]
     }
   ]
 }
