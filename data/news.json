@@ -1,171 +1,321 @@
 {
   "meta": {
-    "updatedAt": "2026-10-01T11:00:24Z",
+    "updatedAt": "2026-10-01T19:31:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 21
   },
   "stories": [
     {
-      "id": "top-iran-us-strikes-20261001",
+      "id": "top-fp7-20261001",
       "category": "top",
-      "title": "US launches new strikes on Iran, revokes oil sales permit after 3 ships attacked in Strait of Hormuz",
-      "summary": "The US carried out strikes on Iran overnight and revoked an oil-export sales permit after three ships were attacked in the Strait of Hormuz, escalating tensions over shipping through the key oil lane.",
-      "source": "AP",
-      "url": "https://apnews.com/article/iran-us-israel-war-oil-4732228810c9839a1258309ad43b8289",
-      "publishedAt": "2026-10-01T07:00:00Z",
-      "tags": ["Iran", "US military", "oil", "Middle East"]
+      "title": "Ukraine deploys new FP-7 tactical ballistic missile in combat for the first time",
+      "summary": "Zelenskiy said Ukraine's FP-7 tactical ballistic missile saw its first combat use, calling it a step toward ramping up production after earlier test successes. It marks a milestone in Ukraine's domestic missile program as it counters Russian strikes.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-deploys-fp-7-tactical-ballistic-missile-combat-first-time-zelenskiy-says-2026-10-01/",
+      "publishedAt": "2026-10-01T17:30:00Z",
+      "tags": [
+        "ukraine",
+        "missiles",
+        "russia-war"
+      ]
     },
     {
-      "id": "top-japan-residency-fee-20261001",
+      "id": "top-putin-20261001",
       "category": "top",
-      "title": "Japan raises residency fee for foreign nationals by twenty-fold",
-      "summary": "Japan hiked the residency fee for foreign nationals twenty-fold as part of immigration-policy changes aimed at managing its growing foreign population.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
+      "title": "Putin says continuation of international conflicts is highly likely",
+      "summary": "Putin said international conflicts would 'highly likely' continue as the global order shifts and Western hegemony wanes, while warning that catastrophic scenarios must be avoided. The remarks come amid multiple active flashpoints worldwide.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russias-putin-says-continuation-international-conflicts-is-highly-likely-world-2026-10-01/",
+      "publishedAt": "2026-10-01T15:40:00Z",
+      "tags": [
+        "putin",
+        "russia",
+        "geopolitics"
+      ]
+    },
+    {
+      "id": "top-westbank-20261001",
+      "category": "top",
+      "title": "Israeli settlers kill Palestinian in West Bank, say officials",
+      "summary": "Palestinian officials said armed Israeli settlers shot two people in the village of Yasuf, killing a 51-year-old man. The UN says more than 80 Palestinians have been killed in the West Bank so far in 2026 amid a surge in violence.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-settlers-kill-palestinian-west-bank-say-officials-2026-10-01/",
+      "publishedAt": "2026-10-01T15:04:00Z",
+      "tags": [
+        "west-bank",
+        "israel",
+        "palestinians",
+        "middle-east"
+      ]
+    },
+    {
+      "id": "top-ethiopia-20261001",
+      "category": "top",
+      "title": "Explosions heard overnight in Ethiopia's capital Addis Ababa",
+      "summary": "Diplomatic sources told Reuters that explosions rang out overnight in Addis Ababa, with an opposition alliance claiming it launched drone strikes on the capital. The assault ramps up a conflict in northern Ethiopia that began last week.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/explosions-heard-overnight-ethiopias-capital-diplomatic-sources-say-2026-10-01/",
+      "publishedAt": "2026-10-01T07:37:00Z",
+      "tags": [
+        "ethiopia",
+        "africa",
+        "conflict"
+      ]
+    },
+    {
+      "id": "tech-gemini-argon-20261001",
+      "category": "tech",
+      "title": "Google says Gemini 4 Argon can find and patch critical software flaws",
+      "summary": "Google unveiled Gemini 4 Argon, a frontier model it says can locate, validate and patch critical software vulnerabilities without human help, rolling it out first to cyber defenders via its Fairwind Program. A version without cyber guardrails goes to defenders and internal teams, with broader access later.",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/10/01/google-gemini-4-argon/",
+      "publishedAt": "2026-10-01T13:00:00Z",
+      "tags": [
+        "google",
+        "gemini",
+        "ai",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "tech-ibm-bob-20261001",
+      "category": "tech",
+      "title": "IBM brings its 'Bob' agentic coding platform to self-hosted deployments",
+      "summary": "IBM announced self-hosted deployment for Bob, its agentic software-development platform, letting enterprises run it on-premises, in private or sovereign clouds, or air-gapped environments. It targets organizations needing data residency and AI governance control.",
+      "source": "IBM Newsroom",
+      "url": "https://newsroom.ibm.com/2026-10-01-ibm-introduces-self-hosted-deployment-for-ibm-bob-to-help-enterprises-advance-ai-sovereignty-and-governance",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "tags": [
+        "ibm",
+        "ai",
+        "software-development",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "tech-ai-worldwar-20261001",
+      "category": "tech",
+      "title": "Commentary: error-prone AI nearly sparked a world war this month",
+      "summary": "Timnit Gebru and Emily M. Bender argue rush-deployed, unreliable AI systems nearly triggered a catastrophic escalation this month, warning that 'superintelligence' hype is distracting from near-term harms. It's a call for caution over frontier-model overconfidence.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/01/forget-superintelligence-error-prone-ai-nearly-sparked-world-war-iii-this-month",
       "publishedAt": "2026-10-01T09:00:00Z",
-      "tags": ["Japan", "immigration", "residency"]
+      "tags": [
+        "ai-safety",
+        "commentary",
+        "policy"
+      ]
     },
     {
-      "id": "tech-salesforce-listen-labs-20261001",
-      "category": "tech",
-      "title": "Salesforce acquires AI customer research company Listen Labs",
-      "summary": "Salesforce bought Listen Labs, an AI customer research company that is its sixth AI-focused acquisition this year, in a deal expected to close in the fourth quarter of fiscal 2027.",
-      "source": "Salesforce Ben",
-      "url": "https://www.salesforceben.com/salesforce-acquires-ai-customer-research-company-listen-labs/",
-      "publishedAt": "2026-10-01T08:00:00Z",
-      "tags": ["Salesforce", "acquisitions", "AI"]
-    },
-    {
-      "id": "tech-jeffries-ai-accord-20261001",
-      "category": "tech",
-      "title": "Jeffries pans Trump AI agreement as 'entirely unenforceable'",
-      "summary": "House Democratic leader Hakeem Jeffries called the White House's voluntary AI agreement 'entirely unenforceable,' citing rogue-agent incidents and pressing Congress to legislate AI rules now rather than later.",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/news/house/4749420/jeffries-pans-trump-ai-agreement-as-entirely-unenforceable-ai-agents-have-gone-rogue/",
-      "publishedAt": "2026-10-01T11:00:00Z",
-      "tags": ["AI policy", "Congress", "regulation"]
-    },
-    {
-      "id": "tech-osworld-science-arxiv-20261001",
-      "category": "tech",
-      "title": "OSWorld-Science: new benchmark for AI agents operating scientific software",
-      "summary": "A new arXiv benchmark evaluates how computer-use AI agents handle scientific software, finding even top vision-language models succeed only around 70% of the time on average and about 40% on the hardest tasks, a sign scientific automation is still far off.",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2609.39903",
-      "publishedAt": "2026-10-01T00:30:00Z",
-      "tags": ["AI agents", "benchmark", "arXiv"]
-    },
-    {
-      "id": "tech-grammarrl-arxiv-20261001",
-      "category": "tech",
-      "title": "GrammarRL: reinforcement learning for grammar-constrained LLM output",
-      "summary": "A new arXiv paper introduces GrammarRL, a label-free reinforcement-learning method that adapts language models to grammar constraints without annotated data, aiming for more reliable structured output.",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2609.39869",
-      "publishedAt": "2026-10-01T00:30:00Z",
-      "tags": ["LLM", "reinforcement learning", "arXiv"]
-    },
-    {
-      "id": "browns-tnf-preview-covers-20261001",
+      "id": "browns-prediction-20261001",
       "category": "browns",
-      "title": "Browns vs. Steelers Thursday Night Football prediction, picks and odds",
-      "summary": "Preview of Thursday's Browns-Steelers game at Huntington Bank Field, with Covers picking Pittsburgh and pointing to the Aaron Rodgers-to-Roman Wilson connection as a key storyline.",
-      "source": "Covers",
-      "url": "https://www.covers.com/nfl/steelers-vs-browns-prediction-picks-oct-1-2026",
-      "publishedAt": "2026-10-01T01:00:00Z",
-      "tags": ["Steelers", "NFL", "game preview"]
+      "title": "Steelers vs Browns: prediction, odds, injuries and how to watch",
+      "summary": "Pittsburgh visits Cleveland for Thursday Night Football as an AFC North clash where both teams sit 2-1 and a win puts the victor alone in first. The Steelers traded cornerback Joey Porter Jr. to Dallas and the Browns lose center Elgton Jenkins.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/steelers-vs-browns-prediction-odds-173353687.html",
+      "publishedAt": "2026-10-01T17:33:00Z",
+      "tags": [
+        "browns",
+        "steelers",
+        "thursday-night-football",
+        "afc-north"
+      ]
     },
     {
-      "id": "browns-tnf-preview-athletic-20261001",
+      "id": "browns-picks-20261001",
       "category": "browns",
-      "title": "Steelers vs. Browns predictions, picks and odds for Thursday night",
-      "summary": "The Athletic breaks down tonight's AFC North matchup, with the Steelers road favorites over the Browns in a game where every division team enters at 2-1.",
-      "source": "The Athletic",
-      "url": "https://www.nytimes.com/athletic/7646876/2026/10/01/steelers-browns-predictions-picks-odds-tnf/",
-      "publishedAt": "2026-10-01T10:00:00Z",
-      "tags": ["Steelers", "NFL", "game preview"]
+      "title": "Browns-Steelers predictions for Thursday night, plus Joey Porter Jr. trade grade",
+      "summary": "CBS analysts split their picks for the Steelers-Browns Thursday night game, noting Cleveland has won nine straight Thursday night home games. The newsletter also grades the Steelers' late-night trade of cornerback Joey Porter Jr. to Dallas.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/pick-six-browns-steelers-predictions-nfl-week-4-picks/",
+      "publishedAt": "2026-10-01T16:11:00Z",
+      "tags": [
+        "browns",
+        "steelers",
+        "predictions",
+        "joey-porter-jr"
+      ]
     },
     {
-      "id": "buckeyes-availability-iowa-20261001",
+      "id": "browns-preview-20261001",
+      "category": "browns",
+      "title": "Suddenly hot Browns with Deshaun Watson take on the Steelers",
+      "summary": "Winners of two straight, the Browns can move into sole possession of first place in the AFC North with a Thursday night win at home vs Pittsburgh. Deshaun Watson has been sharper of late, though Cleveland's ground game remains the league's worst.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/nfl/article/nfl-thursday-night-football-preview-suddenly-hot-browns-with-deshaun-watson-take-on-steelers-153206179.html",
+      "publishedAt": "2026-10-01T15:32:00Z",
+      "tags": [
+        "browns",
+        "steelers",
+        "watson",
+        "nfl"
+      ]
+    },
+    {
+      "id": "browns-rodgers-20261001",
+      "category": "browns",
+      "title": "Aaron Rodgers leads Steelers into Thursday night clash at Browns",
+      "summary": "Aaron Rodgers is one win from tying Tom Brady's Thursday night QB record as Pittsburgh faces Cleveland in their 150th all-time meeting. The Steelers are 0-9 in divisional road games on Thursdays; Cleveland has won seven straight on short rest.",
+      "source": "CBS Sports / AP",
+      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-leads-steelers-into-thursday-night-clash-at-browns/",
+      "publishedAt": "2026-10-01T14:18:00Z",
+      "tags": [
+        "browns",
+        "steelers",
+        "rodgers",
+        "nfl"
+      ]
+    },
+    {
+      "id": "buckeyes-numbers-20261001",
       "category": "buckeyes",
-      "title": "Ohio State availability report: how is Buckeyes' health heading to Iowa",
-      "summary": "Ohio State released its availability report ahead of Saturday's road game at Iowa, laying out the Buckeyes' injury situation and game-time decisions before the Big Ten matchup.",
-      "source": "BucksInsider",
-      "url": "https://www.bucksinsider.com/2026/10/01/ohio-state-availability-report-how-is-buckeyes-health-heading-to-iowa/",
-      "publishedAt": "2026-10-01T00:00:00Z",
-      "tags": ["Ohio State", "Iowa", "injury report"]
+      "title": "Ohio State vs Iowa preview by the numbers",
+      "summary": "No. 5 Ohio State travels to No. 14 Iowa for its first big Big Ten road test at Kinnick Stadium, where its top-ranked passing game meets Iowa's No. 1 scoring defense. The Buckeyes are 14.5-point favorites in a top-15 showdown that hosts College GameDay.",
+      "source": "Scarlet and Game",
+      "url": "https://scarletandgame.com/ohio-state-football-vs-iowa-preview-by-the-numbers",
+      "publishedAt": "2026-10-01T18:00:00Z",
+      "tags": [
+        "ohio-state",
+        "iowa",
+        "buckeyes",
+        "big-ten"
+      ]
     },
     {
-      "id": "f1-verstappen-gt3-20261001",
+      "id": "buckeyes-preview-20261001",
+      "category": "buckeyes",
+      "title": "Ohio State vs Iowa preview: who has the edge?",
+      "summary": "Breaking down the No. 5 Buckeyes' Saturday game at No. 14 Iowa, with OSU's passing game and Heisman contender Jeremiah Smith against Iowa's stingy run defense. It's Ohio State's first trip to Kinnick Stadium since 2017.",
+      "source": "Cincinnati Enquirer",
+      "url": "https://www.cincinnati.com/story/sports/college/football/2026/10/01/ohio-state-iowa-college-football-big-ten-game-preview/92002843007/",
+      "publishedAt": "2026-10-01T14:00:00Z",
+      "tags": [
+        "ohio-state",
+        "iowa",
+        "buckeyes",
+        "preview"
+      ]
+    },
+    {
+      "id": "buckeyes-gameday-20261001",
+      "category": "buckeyes",
+      "title": "No. 5 Ohio State takes on No. 14 Iowa",
+      "summary": "Ryan Day says the trip to Kinnick Stadium is a chance to build momentum, as the 3-1 Buckeyes face 4-0 Iowa in a ranked road matchup where College GameDay will broadcast. OSU star receiver Jeremiah Smith is coming off a career-best 217-yard, four-touchdown game.",
+      "source": "Spectrum News / AP",
+      "url": "https://spectrumnews1.com/oh/cleveland/news/2026/10/01/no--5-ohio-state-takes-on-no--14-iowa",
+      "publishedAt": "2026-10-01T13:57:00Z",
+      "tags": [
+        "ohio-state",
+        "iowa",
+        "buckeyes",
+        "college-gameday"
+      ]
+    },
+    {
+      "id": "buckeyes-three-20261001",
+      "category": "buckeyes",
+      "title": "Three things to know about Ohio State vs Iowa",
+      "summary": "College GameDay heads to Iowa City for the second time in five weeks for OSU's game, and receiver Jeremiah Smith needs 10 catches and two TDs to break the program's receptions and receiving-touchdown records. Iowa enters on a hard-fought win over Michigan.",
+      "source": "Buckeyes Wire",
+      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/10/01/ohio-state-football-vs-iowa-preview-3-key-facts/92037646007/",
+      "publishedAt": "2026-10-01T13:30:00Z",
+      "tags": [
+        "ohio-state",
+        "iowa",
+        "jeremiah-smith",
+        "college-gameday"
+      ]
+    },
+    {
+      "id": "f1-shorter-races-20261001",
       "category": "f1",
-      "title": "Verstappen adds Portimao GT3 race in the middle of hectic F1 schedule",
-      "summary": "Max Verstappen will race a Mercedes-AMG GT3 at the GT World Challenge Europe finale at Portimao in October, his first GTWC outing and the first time he'll share the grid with MotoGP legend Valentino Rossi.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/verstappen-to-make-gt3-return/10860497/",
-      "publishedAt": "2026-10-01T09:00:00Z",
-      "tags": ["Verstappen", "GT3", "sportscar racing"]
+      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "summary": "Formula 1 has approved shorter race formats for 2027, part of a revised power unit plan aimed at making events more sustainable. The move reshapes the race weekend structure for the next F1 generation.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/",
+      "publishedAt": "2026-10-01T18:30:00Z",
+      "tags": [
+        "formula-1",
+        "2027",
+        "rules",
+        "race-format"
+      ]
     },
     {
-      "id": "f1-hamilton-vasseur-20261001",
+      "id": "f1-charity-20261001",
       "category": "f1",
-      "title": "Hamilton strongly backs Vasseur amid Horner to Ferrari links",
-      "summary": "Lewis Hamilton publicly backed Ferrari team principal Fred Vasseur amid renewed rumors about his future, calling Vasseur the guy to take the team forward and voicing frustration at the negativity around the team.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/hamilton-strongly-backed-vasseur-amid-horner-to-ferrari-links/10860547/",
-      "publishedAt": "2026-10-01T10:27:00Z",
-      "tags": ["Ferrari", "Hamilton", "Vasseur"]
+      "title": "Mercedes and Aston Martin go head-to-head in charity football match",
+      "summary": "Mercedes and Aston Martin's teams faced off in a charity football match, with results coming from the paddock fundraiser. It's a rare form break amid the F1 calendar.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-and-aston-martin-go-head-to-head-in-charity-football-match-here-are-the-results/10857645/",
+      "publishedAt": "2026-10-01T10:30:00Z",
+      "tags": [
+        "formula-1",
+        "mercedes",
+        "aston-martin",
+        "charity"
+      ]
     },
     {
-      "id": "f1-audi-new-base-20261001",
+      "id": "f1-verstappen-20261001",
       "category": "f1",
-      "title": "Audi confirms plans for new F1 base",
-      "summary": "Audi's Formula 1 team confirmed plans for a new campus near its factory in Hinwil, Switzerland, with early elements already operational in summer 2026 and full completion targeted for 2030.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/audi-confirms-plans-for-new-f1-base/10860534/",
-      "publishedAt": "2026-10-01T10:50:00Z",
-      "tags": ["Audi", "F1", "infrastructure"]
+      "title": "Red Bull admits Verstappen's mysterious car issue can't be fully fixed until 2027",
+      "summary": "Red Bull said an unexplained handling problem afflicting Max Verstappen's car can only be fully resolved next season. The admission signals the issue could weigh on the team for the rest of the 2026 campaign.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/",
+      "publishedAt": "2026-10-01T09:30:00Z",
+      "tags": [
+        "formula-1",
+        "red-bull",
+        "verstappen"
+      ]
     },
     {
-      "id": "f1-alonso-renews-20261001",
-      "category": "f1",
-      "title": "Alonso renews F1 contract with Aston Martin",
-      "summary": "Fernando Alonso will race on into 2027, his 24th F1 season, after a quick contract renewal with Aston Martin that keeps him in the sport at age 46.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/why-alonso-is-staying-in-f1/10860518/",
-      "publishedAt": "2026-10-01T10:24:00Z",
-      "tags": ["Alonso", "Aston Martin", "contract"]
-    },
-    {
-      "id": "local-havas-acton-20261001",
+      "id": "local-bluejackets-20261001",
       "category": "local",
-      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event",
-      "summary": "NBC4 compiled what's known about Patrick Havas, the man accused of attacking former Ohio health director Amy Acton at a campaign event, in the latest twist of her Senate race.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
-      "publishedAt": "2026-10-01T10:00:00Z",
-      "tags": ["crime", "Amy Acton", "Columbus"]
+      "title": "Columbus Blue Jackets open NHL season at home against Buffalo Sabres",
+      "summary": "The Columbus Blue Jackets kick off the 2026-27 NHL season at Nationwide Arena against the Buffalo Sabres. It's the annual home opener for the metro's NHL team.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/columns/2026/10/01/columbus-blue-jackets-buffalo-sabres-nhl-playoffs-outlook/92018299007/",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "tags": [
+        "columbus",
+        "blue-jackets",
+        "nhl",
+        "opening-night"
+      ]
     },
     {
-      "id": "local-road-rage-plea-20261001",
+      "id": "local-kroger-20261001",
       "category": "local",
-      "title": "Columbus man reverses plea in deadly road-rage shooting",
-      "summary": "A Columbus man who pleaded guilty in a deadly road-rage shooting retained new counsel and reversed his plea, reopening the case in Franklin County.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
-      "publishedAt": "2026-10-01T09:00:00Z",
-      "tags": ["crime", "Columbus", "court"]
+      "title": "New $33 million Kroger store opens in Delaware, Ohio",
+      "summary": "Kroger opens a $33 million, 118,000-square-foot store in Delaware on Oct. 2, its third new central Ohio location since 2024, with opening-week giveaways and fuel discounts. It's part of a $97 million grocery investment across central and northwest Ohio.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/grocery/stores/2026/10/01/new-33-million-kroger-store-opens-with-free-gift-cards-fuel-discount/92022873007/",
+      "publishedAt": "2026-10-01T09:05:00Z",
+      "tags": [
+        "columbus",
+        "delaware",
+        "kroger",
+        "retail"
+      ]
     },
     {
-      "id": "local-bexley-lion-20261001",
+      "id": "local-trickortreat-20261001",
       "category": "local",
-      "title": "Bexley to welcome dog-friendly outdoor expansion of The Lion",
-      "summary": "The Lion restaurant in Bexley is planning a dog-friendly outdoor expansion, adding new patio space for the Columbus-area eatery.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/bexley/bexley-to-welcome-dog-friendly-outdoor-expansion-of-the-lion/",
-      "publishedAt": "2026-10-01T05:00:00Z",
-      "tags": ["Bexley", "food", "local business"]
+      "title": "Central Ohio communities set trick-or-treat times for Halloween",
+      "summary": "Communities across central Ohio have published their 2026 trick-or-treat dates and times as Halloween approaches. Parents now have a rundown of when neighborhoods in Columbus, Gahanna and nearby suburbs will host trick-or-treat.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/entertainment/events/2026/10/01/trick-or-treat-times-central-ohio-halloween-2026/91983993007/",
+      "publishedAt": "2026-10-01T09:01:00Z",
+      "tags": [
+        "columbus",
+        "gahanna",
+        "halloween",
+        "events"
+      ]
     }
   ]
 }
