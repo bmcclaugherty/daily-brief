@@ -1,281 +1,141 @@
 {
   "meta": {
-    "updatedAt": "2026-10-02T11:05:00Z",
+    "updatedAt": "2026-10-02T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 18
+    "count": 13
   },
   "stories": [
     {
-      "id": "top-us-carrier-iran-1002",
+      "id": "top-01",
       "category": "top",
-      "title": "US moves third aircraft carrier toward Iran; 2,000 Marines deploy",
-      "summary": "The US is sending the USS Theodore Roosevelt strike group and the Makin Island amphibious force (2,000+ Marines) toward the Middle East, a buildup a US official says will finish by November. The escalation comes as the US-Iran war nears its eighth month, with Trump signaling possible renewed strikes after the midterms.",
+      "title": "About 400 French schools closed as student protests turn violent",
+      "summary": "Riot police clashed with high-school students across France and unions called for a teachers' strike as nearly 400 schools shut amid violent protests over school conditions that have left more than 200 people wounded. President Macron's government is struggling to contain the unrest in the EU's third-largest economy.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/about-400-french-schools-closed-some-student-protests-turn-violent-2026-10-02/",
+      "publishedAt": "2026-10-02T18:50:00Z",
+      "tags": ["france", "protests", "education", "police"]
+    },
+    {
+      "id": "top-02",
+      "category": "top",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "summary": "Kyiv's mayor says intensifying Russian drone and missile strikes are \"tearing the city apart,\" hours after the Pivdennyi (Southern) bridge was hit for the fourth time in two days, halting metro and auto traffic across it. The strikes have also knocked out data centres and internet in the capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6wyv44y4ywjo",
+      "publishedAt": "2026-10-02T15:00:00Z",
+      "tags": ["ukraine", "kyiv", "russia", "war"]
+    },
+    {
+      "id": "top-03",
+      "category": "top",
+      "title": "US to send third aircraft carrier towards Iran",
+      "summary": "The U.S. is sending a third aircraft carrier toward Iran as its Middle East deployment grows to roughly 50,000 troops, a US official said, keeping military options open as the war enters its eighth month. A new AP-NORC poll found nearly 70% of Americans say the war has not been worth fighting.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera",
-      "publishedAt": "2026-10-02T08:00:00Z",
-      "tags": [
-        "US-Iran war",
-        "Middle East",
-        "military",
-        "diplomacy"
-      ]
+      "publishedAt": "2026-10-02T13:00:00Z",
+      "tags": ["iran", "us", "middle-east", "military"]
     },
     {
-      "id": "top-russia-record-casualties-1002",
+      "id": "top-04",
       "category": "top",
-      "title": "Russia suffers record losses as it aims to freeze Ukraine",
-      "summary": "Russia lost 46,230 troops killed or wounded in September, its highest 2026 monthly toll, while shifting to jet-powered drones to attack Ukraine's power grid ahead of winter. Kyiv says it needs $27bn more as both sides blow through their defense budgets.",
+      "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
+      "summary": "Eritrea cut diplomatic ties with Ethiopia after Addis Ababa closed its Asmara embassy and expelled 10 diplomats, and analysts warn fighting in northern Ethiopia could spill into a wider regional conflict involving Sudan. An explosion reported early Thursday at Ethiopia's defence ministry added to the tensions.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats",
-      "publishedAt": "2026-10-02T07:00:00Z",
-      "tags": [
-        "Russia-Ukraine war",
-        "winter campaign",
-        "energy grid",
-        "casualties"
-      ]
+      "url": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war",
+      "publishedAt": "2026-10-02T10:30:00Z",
+      "tags": ["ethiopia", "eritrea", "horn-of-africa", "conflict"]
     },
     {
-      "id": "top-f16v-taiwan-1002",
-      "category": "top",
-      "title": "US delivers F-16V Block 70 fighter jets to Taiwan",
-      "summary": "Two F-16V Block 70 jets, part of an $8bn 66-plane deal, landed in Taiwan Friday after delays tied to Beijing's objections. They arrive amid Taiwanese concern about Washington's commitment to arming the island against China.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china",
-      "publishedAt": "2026-10-02T06:00:00Z",
-      "tags": [
-        "Taiwan",
-        "US-China",
-        "defense",
-        "military sales"
-      ]
-    },
-    {
-      "id": "top-hormuz-tanker-1002",
-      "category": "top",
-      "title": "Supertanker struck in Strait of Hormuz during Iran war",
-      "summary": "A 2.5-million-barrel supertanker was hit by an unknown projectile in the Strait of Hormuz, catching fire though the crew was reported safe. The strike highlights the war's ongoing threat to key shipping lanes and oil supply routes.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz",
-      "publishedAt": "2026-10-02T05:00:00Z",
-      "tags": [
-        "Strait of Hormuz",
-        "oil",
-        "US-Iran war",
-        "shipping"
-      ]
-    },
-    {
-      "id": "tech-android-sideloading-1002",
+      "id": "tech-01",
       "category": "tech",
-      "title": "Android's new sideloading restrictions go live in four countries",
-      "summary": "Google's new Android sideloading guardrails are now active in four countries, tightening how users can install apps from outside the Play Store. The change is meant to curb malware but draws criticism over reduced user flexibility.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/androids_new_sideloading_guardrails_are_now_official_in_four_countries-news-74868.php",
-      "publishedAt": "2026-10-02T10:00:00Z",
-      "tags": [
-        "Android",
-        "Google",
-        "security",
-        "mobile"
-      ]
+      "title": "Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents",
+      "summary": "Apple says it is tightening macOS 'Full Disk Access' controls, citing new risks from AI agents that raise the danger of granting such broad file access. The change is meant to limit how much sensitive data agent tools can reach on a user's machine.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "publishedAt": "2026-10-02T18:30:00Z",
+      "tags": ["apple", "macos", "security", "ai-agents"]
     },
     {
-      "id": "tech-nvidia-financing-1002",
+      "id": "tech-02",
       "category": "tech",
-      "title": "Nvidia's $500B chip-financing plan faces Wall Street skepticism",
-      "summary": "Wall Street is skeptical of Nvidia's roughly $500bn plan to use its chips to help finance the AI buildout, questioning whether the bets can truly fund the boom. The pushback highlights doubts over who pays for surging AI infrastructure costs.",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-bet-that-its-chips-can-finance-the-ai-boom-gets-a-wall-street-reality-check/articleshow/134630579.cms",
-      "publishedAt": "2026-10-02T04:00:00Z",
-      "tags": [
-        "Nvidia",
-        "AI infrastructure",
-        "semiconductors",
-        "finance"
-      ]
+      "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients' data",
+      "summary": "Epic, maker of the widely used MyChart software that holds over 320 million patient records, has paused most product development to fix security flaws that could let outsiders read patient data. The bugs were surfaced after a deployment of Anthropic's cybersecurity AI model.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+      "publishedAt": "2026-10-02T13:23:00Z",
+      "tags": ["healthcare", "security", "epic", "cybersecurity"]
     },
     {
-      "id": "tech-google-orbital-satellite-1002",
+      "id": "tech-03",
       "category": "tech",
-      "title": "Google launches first test satellite for orbital AI data-center project",
-      "summary": "Google launched its first test satellite for a project to deploy AI data centers in orbit, opening a new front in the race to put computing above Earth. Orbital data centers could ease terrestrial power and land limits, but face cooling and cost hurdles.",
-      "source": "CTV News",
-      "url": "https://www.ctvnews.ca/sci-tech/article/google-is-firing-the-first-salvo-in-a-brewing-race-to-deploy-ai-data-centers-in-orbit/",
-      "publishedAt": "2026-10-02T03:00:00Z",
-      "tags": [
-        "Google",
-        "AI data centers",
-        "space",
-        "cloud"
-      ]
+      "title": "Rivian issues R2 recall for poorly tightened battery packs",
+      "summary": "Rivian recalled its R2 SUV after finding fasteners on the high-voltage battery pack may be under-torqued, which can cause a loss of power while driving; only about 14 vehicles may be affected. It's the second recall for the R2 since deliveries began this year.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
+      "publishedAt": "2026-10-02T12:50:00Z",
+      "tags": ["rivian", "ev", "recall", "r2"]
     },
     {
-      "id": "tech-amazon-nuclear-1002",
-      "category": "tech",
-      "title": "Amazon signs 20-year nuclear power deal to back AI data centers",
-      "summary": "Amazon struck a 20-year nuclear power agreement to secure clean baseload electricity for its expanding AI data-center footprint. The deal also lifted Constellation Energy and NuScale Power shares as demand for carbon-free power surges.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/10/01/amazon-signs-20-year-nuclear-power-deal-that-s-great-news-for-this-nuclear-stock/",
-      "publishedAt": "2026-10-02T01:00:00Z",
-      "tags": [
-        "Amazon",
-        "nuclear power",
-        "AI data centers",
-        "energy"
-      ]
-    },
-    {
-      "id": "browns-practice-squad-1002",
+      "id": "browns-01",
       "category": "browns",
-      "title": "Browns sign CB Myles Bryant and TE John FitzPatrick to practice squad",
-      "summary": "Cleveland added cornerback Myles Bryant and tight end John FitzPatrick to its practice squad following Thursday night's win over Pittsburgh. The moves bolster depth as the team turns toward Week 5.",
-      "source": "Cleveland Browns",
-      "url": "https://www.clevelandbrowns.com/news/browns-sign-cb-myles-bryant-and-te-john-fitzpatrick-to-the-practice-squad",
-      "publishedAt": "2026-10-02T07:00:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "transactions",
-        "practice squad"
-      ]
+      "title": "Browns 27-24 Steelers recap: Szmyt's 56-yard field goal wins it",
+      "summary": "Andre Szmyt hit a career-long 56-yard field goal with 10 seconds left as the Browns beat Pittsburgh 27-24 to improve to 3-1 and take first place in the AFC North. Deshaun Watson threw for 268 yards, including the drive that set up the winning kick.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/recap/_/gameId/401872964",
+      "publishedAt": "2026-10-02T08:30:00Z",
+      "tags": ["browns", "steelers", "nfl", "game-recap"]
     },
     {
-      "id": "browns-monken-watson-1002",
-      "category": "browns",
-      "title": "Monken says Watson can build off second-straight win",
-      "summary": "Offensive coordinator Todd Monken said Deshaun Watson can build off his second consecutive winning start after the Browns improved to 3-1. Watson's steadier play is stabilizing Cleveland's offense early this season.",
-      "source": "Cleveland Browns",
-      "url": "https://www.clevelandbrowns.com/news/todd-monken-believes-deshaun-watson-can-build-off-second-straight-win-news-notes",
-      "publishedAt": "2026-10-02T06:00:00Z",
-      "tags": [
-        "Browns",
-        "Deshaun Watson",
-        "NFL",
-        "offense"
-      ]
-    },
-    {
-      "id": "browns-beat-steelers-tnf-1002",
-      "category": "browns",
-      "title": "Browns edge Steelers 27-24 as Szmyt hits 56-yard FG at the buzzer",
-      "summary": "Andre Szmyt made a 56-yard field goal with seconds left to give Cleveland a 27-24 win over Pittsburgh on Thursday Night Football, the Browns' third straight victory and a 3-1 start. The turnaround continued an early-season surge in the AFC North.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/nfl/2026/10/01/browns-steelers-score-highlights-thursday-night-football--live/92030442007/",
-      "publishedAt": "2026-10-02T04:00:00Z",
-      "tags": [
-        "Browns",
-        "Steelers",
-        "Thursday Night Football",
-        "NFL"
-      ]
-    },
-    {
-      "id": "buckeyes-iowa-keys-1002",
+      "id": "buckeyes-01",
       "category": "buckeyes",
-      "title": "Ohio State at Iowa: 3 keys for Buckeyes in top-15 showdown",
-      "summary": "The Columbus Dispatch breaks down what No. 5 Ohio State (3-1) must do to beat No. 14 Iowa at Kinnick Stadium on Saturday. A win would give the Buckeyes momentum before a stretch that includes trips to Indiana and USC.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/02/ohio-state-football-iowa-3-keys-win-for-buckeyes/91984425007/",
-      "publishedAt": "2026-10-02T09:01:00Z",
-      "tags": [
-        "Ohio State",
-        "Iowa",
-        "Big Ten",
-        "football"
-      ]
+      "title": "Sonny Styles named NFC Defensive Player of the Week",
+      "summary": "Former Ohio State safety Sonny Styles — now with the Eagles — was named NFC Defensive Player of the Week after a standout Week 3 performance in the NFL. The award caps a strong early stretch for the Buckeyes alum at the pro level.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/164257/sonny-styles-named-nfc-defensive-player-of-the-week",
+      "publishedAt": "2026-10-02T16:30:00Z",
+      "tags": ["buckeyes", "nfl", "sonny-styles", "award"]
     },
     {
-      "id": "f1-fp2-leclerc-1002",
+      "id": "f1-01",
       "category": "f1",
-      "title": "FP2: Leclerc fastest as Mercedes keeps its update under wraps",
-      "summary": "Charles Leclerc topped second practice for this weekend's Bahrain Grand Prix at Sepang as Mercedes kept its updated package under cover. Track order remains fluid heading into qualifying.",
-      "source": "Grandprix247",
-      "url": "https://www.grandprix247.com/formula-1-news/bahrain-grand-prix-fp2-charles-leclerc-fastest-as-mercedes-under-the-radar",
-      "publishedAt": "2026-10-02T09:00:00Z",
-      "tags": [
-        "F1",
-        "Bahrain GP",
-        "Leclerc",
-        "Mercedes"
-      ]
+      "title": "Mercedes and Aston Martin go head-to-head in charity football match",
+      "summary": "Mercedes and Aston Martin met in a charity football match, with drivers and team staff facing off off the track ahead of the Malaysian Grand Prix weekend. The teams shared the results as a light-hearted warm-up to Sepang.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-and-aston-martin-go-head-to-head-in-charity-football-match-here-are-the-results/10857645/",
+      "publishedAt": "2026-10-02T10:30:00Z",
+      "tags": ["f1", "charity", "mercedes", "aston-martin"]
     },
     {
-      "id": "f1-antonelli-rain-1002",
+      "id": "f1-02",
       "category": "f1",
-      "title": "Antonelli: Sepang best track to try 2026 F1 cars in the rain",
-      "summary": "Championship leader Kimi Antonelli called Sepang the best venue to test the 2026-generation cars in wet conditions, with rain in the forecast. Rain in practice could prove decisive for setup and qualifying.",
-      "source": "Grandprix247",
-      "url": "https://www.grandprix247.com/formula-1-news/kimi-antonelli-says-sepang-the-best-track-to-try-2026-formula-1-cars-in-the-rain",
+      "title": "Verstappen leads F1's return to Sepang in Bahrain GP practice",
+      "summary": "Formula 1 returned to Malaysia's Sepang circuit for the first time since 2017 to stage the 2026 Bahrain Grand Prix, and Max Verstappen led opening practice, beating George Russell by 0.383s. Teams used the session to gather data in hot, humid conditions.",
+      "source": "GrandPrix.com",
+      "url": "https://www.grandprix.com/races/bahrain-gp-2026-practice-1-report.html",
       "publishedAt": "2026-10-02T08:00:00Z",
-      "tags": [
-        "F1",
-        "Antonelli",
-        "Sepang",
-        "rain"
-      ]
+      "tags": ["f1", "sepang", "malaysia", "practice"]
     },
     {
-      "id": "f1-fp1-verstappen-1002",
-      "category": "f1",
-      "title": "FP1: Verstappen fastest as updated Mercedes makes debut",
-      "summary": "Max Verstappen set the pace in first practice for the Bahrain Grand Prix at Sepang as Mercedes ran its updated car for the first time. Verstappen, still chasing his first 2026 win, showed strong early form.",
-      "source": "Grandprix247",
-      "url": "https://www.grandprix247.com/formula-1-news/bahrain-grand-prix-fp1-max-verstappen-fastest-as-updated-mercedes-makes-its-debut",
-      "publishedAt": "2026-10-02T06:00:00Z",
-      "tags": [
-        "F1",
-        "Bahrain GP",
-        "Verstappen",
-        "Mercedes"
-      ]
+      "id": "tarkov-01",
+      "category": "tarkov",
+      "title": "Escape from Tarkov speeds up skill progression and adds referral system",
+      "summary": "Battlestate Games accelerated character skill progression by up to 60% across all game modes and introduced an in-game referral program that pairs veteran 'Operators' with newcomer 'Candidates.' Both earn rewards — Operators gain Tarkovcoins and Bitcoins, while pairs get bonus raid XP.",
+      "source": "ixbt.games",
+      "url": "https://ixbt.games/en/news/2026/10/02/avtory-escape-from-tarkov-uskorili-prokacku-navykov-i-predstavili-referalnuiu-sistemu-s-operatorami-i-kandidatami.html",
+      "publishedAt": "2026-10-02T16:24:00Z",
+      "tags": ["tarkov", "battlestate", "skills", "referral"]
     },
     {
-      "id": "f1-engine-penalties-1002",
-      "category": "f1",
-      "title": "Engine penalties for trio shake up Bahrain GP grid",
-      "summary": "Engine penalties for Hadjar, Lindblad and Colapinto are set to reshuffle the Bahrain Grand Prix grid, complicating their race weekends. The grid drops could also influence midfield strategy and team tactics.",
-      "source": "Grandprix247",
-      "url": "https://www.grandprix247.com/grand-prix-f1-weekend-news/engine-penalties-for-hadjar-lindblad-and-colapinto-shake-up-bahrain-grand-prix-grid",
-      "publishedAt": "2026-10-02T05:00:00Z",
-      "tags": [
-        "F1",
-        "Bahrain GP",
-        "grid penalties",
-        "drivers"
-      ]
-    },
-    {
-      "id": "local-cychlorphine-deaths-1002",
+      "id": "local-01",
       "category": "local",
-      "title": "5 dead, 1 critical in Columbus drug incidents tied to cychlorphine",
-      "summary": "Five people died and one is in critical condition after Columbus drug-related incidents over a 24-hour period linked to cychlorphine, a synthetic opioid the DEA says can be far more potent than fentanyl. Authorities warn the illicit drug supply is increasingly hard to predict.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/columbus-drug-related-incidents-deaths-cychlorphine/530-c0ae55ba-f57e-4607-8a66-2ea3a7530d20",
-      "publishedAt": "2026-10-02T04:00:00Z",
-      "tags": [
-        "Columbus",
-        "opioid",
-        "cychlorphine",
-        "public safety"
-      ]
-    },
-    {
-      "id": "local-ohio-gas-tax-1002",
-      "category": "local",
-      "title": "DeWine signs 90-day Ohio gas tax suspension",
-      "summary": "Gov. Mike DeWine signed a bill suspending Ohio's gas tax for 90 days, with an average driver estimated to save about $80. The state will pull $725m from its general fund to cover the lost revenue.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/politics/ohio-lawmakers-approve-gas-tax-holiday/530-8a2fd947-f569-438c-b464-a223384a677a",
-      "publishedAt": "2026-10-02T00:30:00Z",
-      "tags": [
-        "Ohio",
-        "gas tax",
-        "DeWine",
-        "politics"
-      ]
+      "title": "Gahanna residents to vote on 10 charter amendments in November election",
+      "summary": "Gahanna voters will see 10 proposed municipal charter amendments, appearing as Issues 18 through 27, on the November ballot. The measures would alter mayoral primary rules, council redistricting standards, department structure and other governance provisions.",
+      "source": "NBC4 (WCMH)",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/gahanna-residents-to-vote-on-10-charter-amendments-in-november-election/",
+      "publishedAt": "2026-10-02T11:30:00Z",
+      "tags": ["gahanna", "election", "charter", "local-government"]
     }
   ]
 }
