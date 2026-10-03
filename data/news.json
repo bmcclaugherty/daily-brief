@@ -1,121 +1,131 @@
 {
   "meta": {
-    "updatedAt": "2026-10-03T11:00:06Z",
+    "updatedAt": "2026-10-03T19:30:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 11
+    "count": 12
   },
   "stories": [
     {
-      "id": "f1-verstappen-pole-bahrain",
-      "category": "f1",
-      "title": "Verstappen takes first Red Bull pole of 2026 after beating Hamilton in Bahrain GP qualifying",
-      "summary": "Max Verstappen claimed his first pole of the season for Sunday's Bahrain Grand Prix in Malaysia, topping every qualifying segment and beating Lewis Hamilton by 0.298s at Sepang. Championship leader Kimi Antonelli qualified fourth after a Q2 track-limits mistake, with George Russell down in seventh.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13594547/bahrain-gp-in-malaysia-max-verstappen-beats-lewis-hamilton-to-pole-position-to-claim-first-red-bull-pole-of-2026-formula-1-season",
-      "publishedAt": "2026-10-03T10:02:00Z",
-      "tags": ["Formula 1", "Bahrain GP", "Verstappen", "Red Bull"]
+      "id": "top-russia-kyiv-strikes-1003",
+      "category": "top",
+      "title": "Russia pledges to keep striking Kyiv, urges diplomats to leave the capital",
+      "summary": "Russia said it will continue targeted retaliatory strikes on Kyiv and other Ukrainian cities and called on foreign nationals and diplomats to leave the capital, signaling more attacks.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russia-pledges-continue-massive-strikes-kyiv-urges-foreign-diplomats-leave-city-2026-10-03/",
+      "publishedAt": "2026-10-03T13:30:00Z",
+      "tags": ["Russia", "Ukraine", "Kyiv", "war"]
     },
     {
-      "id": "f1-bahrain-qualifying-aljazeera",
-      "category": "f1",
-      "title": "Red Bull's Verstappen grabs pole position for Bahrain GP in Malaysia",
-      "summary": "Verstappen takes Bahrain GP pole for the first time this season, with Hamilton on the front row alongside him at Sepang. Red Bull's Isack Hadjar was third fastest but slips to eighth on the grid due to a five-place engine penalty.",
+      "id": "top-flydubai-axe-1003",
+      "category": "top",
+      "title": "UAE: Flydubai co-pilot attacked captain with crash axe in 'terrorist act'",
+      "summary": "The UAE prosecutor general said the co-pilot of the Israel-bound Flydubai flight FZ1073 used a cockpit crash axe to attack the captain in a 'terrorist attack'; a probe into motive is under way. The flight carried 182 people.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia",
-      "publishedAt": "2026-10-03T10:30:00Z",
-      "tags": ["Formula 1", "Bahrain GP", "Verstappen", "Hamilton"]
+      "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae",
+      "publishedAt": "2026-10-03T11:00:00Z",
+      "tags": ["Flydubai", "UAE", "aviation", "security"]
     },
     {
-      "id": "browns-saturday-dawg-chow",
+      "id": "tech-ai-agent-emailed-1003",
+      "category": "tech",
+      "title": "An AI agent emailed hundreds of researchers for help — and told Science why",
+      "summary": "An AI agent autonomously emailed hundreds of researchers asking for help and explained its reasoning to Science, spotlighting how capable agents are becoming and the safety and ethics questions that raises.",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "publishedAt": "2026-10-03T13:30:00Z",
+      "tags": ["AI", "agents", "safety", "ethics"]
+    },
+    {
+      "id": "browns-first-place-1003",
       "category": "browns",
-      "title": "Browns top AFC North after Week 4 win over Steelers (Saturday roundup)",
-      "summary": "Cleveland sits in first place in the AFC North after Thursday's win over Pittsburgh, with Deshaun Watson becoming the second QB in team history to lead fourth-quarter game-winning drives in three straight games. Meanwhile, defensive tackle Mason Graham's knee injury is not as bad as feared, though he remains out for a while.",
+      "title": "Browns sit atop AFC North after beating Steelers Thursday night",
+      "summary": "Saturday's Dawg Chow recaps the Browns' Thursday win over Pittsburgh that put them in sole first place in the AFC North for the first time since 2014, plus updates on DT Mason Graham's knee injury and kicker Andre Szmyt.",
       "source": "Dawgs By Nature",
       "url": "https://www.dawgsbynature.com/cleveland-browns-news/134220/cleveland-browns-news-mason-graham-deshaun-watson-andre-szymt",
       "publishedAt": "2026-10-03T10:30:00Z",
-      "tags": ["Cleveland Browns", "NFL", "AFC North", "Deshaun Watson"]
+      "tags": ["Browns", "AFC North", "Mason Graham", "Andre Szmyt"]
     },
     {
-      "id": "buckeyes-how-to-watch-iowa",
+      "id": "buckeyes-osu-iowa-live-1003",
       "category": "buckeyes",
-      "title": "How to watch No. 5 Ohio State at Iowa: kickoff time, TV channel",
-      "summary": "Ohio State's first trip to Iowa City in nine years kicks off at 3:30 p.m. ET Saturday on WBNS-10TV/CBS, with College GameDay on site at Kinnick Stadium. The undefeated Hawkeyes own the nation's top scoring defense, setting up a top-15 Big Ten showdown.",
-      "source": "WBNS 10TV",
-      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/what-channel-is-ohio-state-iowa-game/530-f3d1c0b8-db60-4e4d-9575-45ce671a7eef",
-      "publishedAt": "2026-10-03T08:00:00Z",
-      "tags": ["Ohio State", "Iowa", "Big Ten", "College Football"]
+      "title": "No. 6 Ohio State opens Big Ten road slate at No. 14 Iowa on CBS",
+      "summary": "Ohio State plays its first Big Ten road game of the season at Kinnick Stadium against unbeaten Iowa (4-0), kicking off 3:30 p.m. on CBS in a top-15 matchup.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/03/ohio-state-iowa-football-live-updates-score--live/92008534007/",
+      "publishedAt": "2026-10-03T13:00:00Z",
+      "tags": ["Ohio State", "Iowa", "Big Ten", "game preview"]
     },
     {
-      "id": "buckeyes-daniels-out-iowa",
+      "id": "buckeyes-daniels-out-1003",
       "category": "buckeyes",
-      "title": "Ohio State right tackle Phillip Daniels out for Saturday's game at Iowa",
-      "summary": "Fifth-ranked Ohio State will be without starting right tackle Phillip Daniels for its road test at No. 14 Iowa, with Austin Siereveld sliding into the spot. Nickel corner Jay Timmons is questionable as the Buckeyes' offensive line faces a stiff challenge in Iowa City.",
+      "title": "Phillip Daniels out for Ohio State at Iowa, VanSickle and Siereveld step in",
+      "summary": "Ohio State will be without starting right tackle Phillip Daniels for its trip to Iowa; Gabe VanSickle and Austin Siereveld are set to line up on the right side of the offensive line.",
       "source": "On3",
       "url": "https://www.on3.com/teams/ohio-state-buckeyes/news/phillip-daniels-out-for-ohio-state-at-iowa/",
-      "publishedAt": "2026-10-03T06:00:00Z",
-      "tags": ["Ohio State", "Iowa", "injuries", "Big Ten"]
+      "publishedAt": "2026-10-03T12:00:00Z",
+      "tags": ["Ohio State", "offensive line", "injury", "Iowa"]
     },
     {
-      "id": "local-disaster-aid-7-counties",
+      "id": "buckeyes-timmons-1003",
+      "category": "buckeyes",
+      "title": "Ohio State true freshman CB Jay Timmons is a game-time decision vs Iowa",
+      "summary": "True freshman cornerback Jay Timmons (six tackles, a forced fumble in three games) is a game-time decision for Ohio State at Iowa after a lower-body injury that could test the Buckeyes' secondary.",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/ohio-state-football-news-true-freshman-cb-to-be-game-time-decision-vs-iowa",
+      "publishedAt": "2026-10-03T11:30:00Z",
+      "tags": ["Ohio State", "Jay Timmons", "injury", "secondary"]
+    },
+    {
+      "id": "buckeyes-247-preview-1003",
+      "category": "buckeyes",
+      "title": "Ten storylines to watch as No. 5 Ohio State visits No. 14 Iowa",
+      "summary": "Key questions ahead of Ohio State's CBS matchup at Iowa, including the Buckeyes' struggling ground game and whether they can pressure Iowa QB Hank Brown in a hostile Kinnick Stadium.",
+      "source": "247Sports",
+      "url": "https://247sports.com/college/ohio-state/article/ohio-state-buckeyes-football-visiting-iowa-hawkeyes-290750876/",
+      "publishedAt": "2026-10-03T11:00:00Z",
+      "tags": ["Ohio State", "Iowa", "preview", "analysis"]
+    },
+    {
+      "id": "f1-teams-qualifying-1003",
+      "category": "f1",
+      "title": "What the teams said after Verstappen took pole for Bahrain GP in Malaysia",
+      "summary": "Drivers and teams reflected on final practice and qualifying for the 2026 Bahrain Grand Prix at Sepang, where Max Verstappen secured his first pole of the season.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-bahrain-2026.3PGUwV77YbdWsGaQDkDOXp",
+      "publishedAt": "2026-10-03T13:30:00Z",
+      "tags": ["F1", "Bahrain GP", "Sepang", "qualifying"]
+    },
+    {
+      "id": "f1-verstappen-pole-grid-1003",
+      "category": "f1",
+      "title": "Verstappen on pole for Bahrain GP ahead of Hamilton and Hadjar",
+      "summary": "Max Verstappen took his first pole position of 2026 for the Bahrain Grand Prix in Malaysia, topping the grid ahead of Lewis Hamilton and Isack Hadjar at Sepang.",
+      "source": "Athlon Sports",
+      "url": "https://athlonsports.com/racing/f1/f1-qualifying-results-full-starting-grid-for-the-bahrain-grand-prix-in-malaysia-2026",
+      "publishedAt": "2026-10-03T09:30:00Z",
+      "tags": ["F1", "Verstappen", "pole", "starting grid"]
+    },
+    {
+      "id": "tarkov-progression-referral-1003",
+      "category": "tarkov",
+      "title": "Escape from Tarkov speeds skill progression 60% and adds referral system",
+      "summary": "Battlestate Games raised skill progression speed by 60% across all modes and introduced a referral system letting Operators (level 30+, 7-day-old accounts) invite up to five Candidates for shared rewards like Tarkovcoins and Bitcoins.",
+      "source": "Handheld",
+      "url": "https://handheld.guru/escape-from-tarkov-skill-progression-60-percent-referral-system/",
+      "publishedAt": "2026-10-03T14:00:00Z",
+      "tags": ["Escape from Tarkov", "patch", "progression", "referral"]
+    },
+    {
+      "id": "local-polling-change-1003",
       "category": "local",
-      "title": "Federal disaster aid approved for 7 Ohio counties, incl. Franklin and Licking, after August storms",
-      "summary": "President Trump approved a major disaster declaration for seven Ohio counties — including Franklin and Licking near central Ohio — after August storms brought flooding and tornadoes that killed two and injured several. Residents of the approved counties can now apply for FEMA grants and SBA low-interest loans.",
-      "source": "WBNS 10TV",
-      "url": "https://www.10tv.com/article/news/local/trump-approves-disaster-aid-7-ohio-counties-severe-august-storms-major-disaster-declaration/530-0e28cf42-a684-406b-8aa5-1f832e3515c2",
-      "publishedAt": "2026-10-02T23:26:00Z",
-      "tags": ["Columbus", "FEMA", "disaster relief", "Ohio"]
-    },
-    {
-      "id": "local-olentangy-orange-soccer",
-      "category": "local",
-      "title": "Olentangy Orange girls' soccer coaching staff placed on paid leave amid hazing probe",
-      "summary": "The entire coaching staff of Olentangy Orange High School's girls' soccer team has been placed on paid administrative leave amid an investigation into alleged hazing reported over the summer. The Delaware County Sheriff's Office is reviewing new tips and video alongside the district's review.",
-      "source": "WBNS 10TV",
-      "url": "https://www.10tv.com/article/news/local/olentangy-orange-high-school-girls-soccer-alleged-hazing-investigation-coaches-paid-leave/530-51ccf159-b194-4b47-9e3c-9f1f290b2857",
-      "publishedAt": "2026-10-03T00:44:00Z",
-      "tags": ["Columbus metro", "hazing", "schools", "Olentangy"]
-    },
-    {
-      "id": "top-saudi-houthi-offensive",
-      "category": "top",
-      "title": "Saudi Arabia planning offensive against Houthis to break Red Sea chokehold",
-      "summary": "Saudi Arabia is preparing a military offensive, potentially mobilizing more than 100,000 Yemeni troops, to dislodge Houthi militants who seized control of the Bab el-Mandeb strait last month. Riyadh sees the Houthis' capture of the key shipping route as giving them global leverage, and won't restart peace talks while they hold it.",
-      "source": "Reuters",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-plans-assault-on-houthis-to-break-red-sea-chokehold/articleshow/134651063.cms",
-      "publishedAt": "2026-10-03T02:53:00Z",
-      "tags": ["Saudi Arabia", "Yemen", "Houthis", "geopolitics"]
-    },
-    {
-      "id": "top-ethiopia-tigray-airport",
-      "category": "top",
-      "title": "Pro-government forces say they retake airport in Ethiopia's Tigray region",
-      "summary": "Ethiopian government-affiliated forces said they have recaptured an airport in the Tigray region, marking a notable territorial advance amid renewed fighting. The claim signals a shift in the conflict as government forces press to regain control of key areas.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/pro-government-forces-say-they-retake-airport-ethiopias-tigray-region-2026-10-03/",
-      "publishedAt": "2026-10-03T06:00:00Z",
-      "tags": ["Ethiopia", "Tigray", "conflict", "Africa"]
-    },
-    {
-      "id": "top-flydubai-co-pilot-attack",
-      "category": "top",
-      "title": "flydubai co-pilot attacked captain with axe in attempted terrorist attack, UAE says",
-      "summary": "The UAE said a flydubai co-pilot attacked the captain of a flight to Israel with an axe in what officials describe as an attempted terrorist attack, with no serious injuries reported. The suspect's identity and motive remain under investigation.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/flydubai-co-pilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-2026-10-03/",
-      "publishedAt": "2026-10-03T05:30:00Z",
-      "tags": ["UAE", "flydubai", "aviation", "security"]
-    },
-    {
-      "id": "top-iran-irgc-houthis",
-      "category": "top",
-      "title": "Iran's IRGC warns of 'more lethal' response as Houthi missile debris injures Saudi resident",
-      "summary": "Iran's Islamic Revolutionary Guard Corps threatened a more lethal response than its October 2024 strike on Israel if attacked, as Saudi Arabia reported intercepting Houthi missiles and falling debris injuring a resident in the Asir region. US warships are moving toward the Middle East as Gulf tensions spike.",
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/world/mena/irans-irgc-warns-us-of-more-lethal-response-as-houthi-missile-debris-injures-saudi-resident-1.500696738",
-      "publishedAt": "2026-10-03T05:02:00Z",
-      "tags": ["Iran", "IRGC", "Houthis", "Middle East"]
+      "title": "After Columbus tornado, new polling location replaces Barack Community Center",
+      "summary": "Voters who used the tornado-damaged Barack Community Center will cast their November ballots at Lincoln Park Elementary School, with polling-change notices going out around Oct. 19.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/after-columbus-tornado-new-polling-location-replaces-barack-community-center/",
+      "publishedAt": "2026-10-03T11:00:00Z",
+      "tags": ["Columbus", "election", "tornado", "voting"]
     }
   ]
 }
