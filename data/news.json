@@ -1,141 +1,121 @@
 {
   "meta": {
-    "updatedAt": "2026-10-02T19:30:00Z",
+    "updatedAt": "2026-10-03T11:00:06Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 13
+    "count": 11
   },
   "stories": [
     {
-      "id": "top-01",
-      "category": "top",
-      "title": "About 400 French schools closed as student protests turn violent",
-      "summary": "Riot police clashed with high-school students across France and unions called for a teachers' strike as nearly 400 schools shut amid violent protests over school conditions that have left more than 200 people wounded. President Macron's government is struggling to contain the unrest in the EU's third-largest economy.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/about-400-french-schools-closed-some-student-protests-turn-violent-2026-10-02/",
-      "publishedAt": "2026-10-02T18:50:00Z",
-      "tags": ["france", "protests", "education", "police"]
+      "id": "f1-verstappen-pole-bahrain",
+      "category": "f1",
+      "title": "Verstappen takes first Red Bull pole of 2026 after beating Hamilton in Bahrain GP qualifying",
+      "summary": "Max Verstappen claimed his first pole of the season for Sunday's Bahrain Grand Prix in Malaysia, topping every qualifying segment and beating Lewis Hamilton by 0.298s at Sepang. Championship leader Kimi Antonelli qualified fourth after a Q2 track-limits mistake, with George Russell down in seventh.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/13594547/bahrain-gp-in-malaysia-max-verstappen-beats-lewis-hamilton-to-pole-position-to-claim-first-red-bull-pole-of-2026-formula-1-season",
+      "publishedAt": "2026-10-03T10:02:00Z",
+      "tags": ["Formula 1", "Bahrain GP", "Verstappen", "Red Bull"]
     },
     {
-      "id": "top-02",
-      "category": "top",
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "summary": "Kyiv's mayor says intensifying Russian drone and missile strikes are \"tearing the city apart,\" hours after the Pivdennyi (Southern) bridge was hit for the fourth time in two days, halting metro and auto traffic across it. The strikes have also knocked out data centres and internet in the capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c6wyv44y4ywjo",
-      "publishedAt": "2026-10-02T15:00:00Z",
-      "tags": ["ukraine", "kyiv", "russia", "war"]
-    },
-    {
-      "id": "top-03",
-      "category": "top",
-      "title": "US to send third aircraft carrier towards Iran",
-      "summary": "The U.S. is sending a third aircraft carrier toward Iran as its Middle East deployment grows to roughly 50,000 troops, a US official said, keeping military options open as the war enters its eighth month. A new AP-NORC poll found nearly 70% of Americans say the war has not been worth fighting.",
+      "id": "f1-bahrain-qualifying-aljazeera",
+      "category": "f1",
+      "title": "Red Bull's Verstappen grabs pole position for Bahrain GP in Malaysia",
+      "summary": "Verstappen takes Bahrain GP pole for the first time this season, with Hamilton on the front row alongside him at Sepang. Red Bull's Isack Hadjar was third fastest but slips to eighth on the grid due to a five-place engine penalty.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera",
-      "publishedAt": "2026-10-02T13:00:00Z",
-      "tags": ["iran", "us", "middle-east", "military"]
+      "url": "https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia",
+      "publishedAt": "2026-10-03T10:30:00Z",
+      "tags": ["Formula 1", "Bahrain GP", "Verstappen", "Hamilton"]
     },
     {
-      "id": "top-04",
-      "category": "top",
-      "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
-      "summary": "Eritrea cut diplomatic ties with Ethiopia after Addis Ababa closed its Asmara embassy and expelled 10 diplomats, and analysts warn fighting in northern Ethiopia could spill into a wider regional conflict involving Sudan. An explosion reported early Thursday at Ethiopia's defence ministry added to the tensions.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war",
-      "publishedAt": "2026-10-02T10:30:00Z",
-      "tags": ["ethiopia", "eritrea", "horn-of-africa", "conflict"]
-    },
-    {
-      "id": "tech-01",
-      "category": "tech",
-      "title": "Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents",
-      "summary": "Apple says it is tightening macOS 'Full Disk Access' controls, citing new risks from AI agents that raise the danger of granting such broad file access. The change is meant to limit how much sensitive data agent tools can reach on a user's machine.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "publishedAt": "2026-10-02T18:30:00Z",
-      "tags": ["apple", "macos", "security", "ai-agents"]
-    },
-    {
-      "id": "tech-02",
-      "category": "tech",
-      "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients' data",
-      "summary": "Epic, maker of the widely used MyChart software that holds over 320 million patient records, has paused most product development to fix security flaws that could let outsiders read patient data. The bugs were surfaced after a deployment of Anthropic's cybersecurity AI model.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-      "publishedAt": "2026-10-02T13:23:00Z",
-      "tags": ["healthcare", "security", "epic", "cybersecurity"]
-    },
-    {
-      "id": "tech-03",
-      "category": "tech",
-      "title": "Rivian issues R2 recall for poorly tightened battery packs",
-      "summary": "Rivian recalled its R2 SUV after finding fasteners on the high-voltage battery pack may be under-torqued, which can cause a loss of power while driving; only about 14 vehicles may be affected. It's the second recall for the R2 since deliveries began this year.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
-      "publishedAt": "2026-10-02T12:50:00Z",
-      "tags": ["rivian", "ev", "recall", "r2"]
-    },
-    {
-      "id": "browns-01",
+      "id": "browns-saturday-dawg-chow",
       "category": "browns",
-      "title": "Browns 27-24 Steelers recap: Szmyt's 56-yard field goal wins it",
-      "summary": "Andre Szmyt hit a career-long 56-yard field goal with 10 seconds left as the Browns beat Pittsburgh 27-24 to improve to 3-1 and take first place in the AFC North. Deshaun Watson threw for 268 yards, including the drive that set up the winning kick.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/recap/_/gameId/401872964",
-      "publishedAt": "2026-10-02T08:30:00Z",
-      "tags": ["browns", "steelers", "nfl", "game-recap"]
+      "title": "Browns top AFC North after Week 4 win over Steelers (Saturday roundup)",
+      "summary": "Cleveland sits in first place in the AFC North after Thursday's win over Pittsburgh, with Deshaun Watson becoming the second QB in team history to lead fourth-quarter game-winning drives in three straight games. Meanwhile, defensive tackle Mason Graham's knee injury is not as bad as feared, though he remains out for a while.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/134220/cleveland-browns-news-mason-graham-deshaun-watson-andre-szymt",
+      "publishedAt": "2026-10-03T10:30:00Z",
+      "tags": ["Cleveland Browns", "NFL", "AFC North", "Deshaun Watson"]
     },
     {
-      "id": "buckeyes-01",
+      "id": "buckeyes-how-to-watch-iowa",
       "category": "buckeyes",
-      "title": "Sonny Styles named NFC Defensive Player of the Week",
-      "summary": "Former Ohio State safety Sonny Styles — now with the Eagles — was named NFC Defensive Player of the Week after a standout Week 3 performance in the NFL. The award caps a strong early stretch for the Buckeyes alum at the pro level.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/164257/sonny-styles-named-nfc-defensive-player-of-the-week",
-      "publishedAt": "2026-10-02T16:30:00Z",
-      "tags": ["buckeyes", "nfl", "sonny-styles", "award"]
+      "title": "How to watch No. 5 Ohio State at Iowa: kickoff time, TV channel",
+      "summary": "Ohio State's first trip to Iowa City in nine years kicks off at 3:30 p.m. ET Saturday on WBNS-10TV/CBS, with College GameDay on site at Kinnick Stadium. The undefeated Hawkeyes own the nation's top scoring defense, setting up a top-15 Big Ten showdown.",
+      "source": "WBNS 10TV",
+      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/what-channel-is-ohio-state-iowa-game/530-f3d1c0b8-db60-4e4d-9575-45ce671a7eef",
+      "publishedAt": "2026-10-03T08:00:00Z",
+      "tags": ["Ohio State", "Iowa", "Big Ten", "College Football"]
     },
     {
-      "id": "f1-01",
-      "category": "f1",
-      "title": "Mercedes and Aston Martin go head-to-head in charity football match",
-      "summary": "Mercedes and Aston Martin met in a charity football match, with drivers and team staff facing off off the track ahead of the Malaysian Grand Prix weekend. The teams shared the results as a light-hearted warm-up to Sepang.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-and-aston-martin-go-head-to-head-in-charity-football-match-here-are-the-results/10857645/",
-      "publishedAt": "2026-10-02T10:30:00Z",
-      "tags": ["f1", "charity", "mercedes", "aston-martin"]
+      "id": "buckeyes-daniels-out-iowa",
+      "category": "buckeyes",
+      "title": "Ohio State right tackle Phillip Daniels out for Saturday's game at Iowa",
+      "summary": "Fifth-ranked Ohio State will be without starting right tackle Phillip Daniels for its road test at No. 14 Iowa, with Austin Siereveld sliding into the spot. Nickel corner Jay Timmons is questionable as the Buckeyes' offensive line faces a stiff challenge in Iowa City.",
+      "source": "On3",
+      "url": "https://www.on3.com/teams/ohio-state-buckeyes/news/phillip-daniels-out-for-ohio-state-at-iowa/",
+      "publishedAt": "2026-10-03T06:00:00Z",
+      "tags": ["Ohio State", "Iowa", "injuries", "Big Ten"]
     },
     {
-      "id": "f1-02",
-      "category": "f1",
-      "title": "Verstappen leads F1's return to Sepang in Bahrain GP practice",
-      "summary": "Formula 1 returned to Malaysia's Sepang circuit for the first time since 2017 to stage the 2026 Bahrain Grand Prix, and Max Verstappen led opening practice, beating George Russell by 0.383s. Teams used the session to gather data in hot, humid conditions.",
-      "source": "GrandPrix.com",
-      "url": "https://www.grandprix.com/races/bahrain-gp-2026-practice-1-report.html",
-      "publishedAt": "2026-10-02T08:00:00Z",
-      "tags": ["f1", "sepang", "malaysia", "practice"]
-    },
-    {
-      "id": "tarkov-01",
-      "category": "tarkov",
-      "title": "Escape from Tarkov speeds up skill progression and adds referral system",
-      "summary": "Battlestate Games accelerated character skill progression by up to 60% across all game modes and introduced an in-game referral program that pairs veteran 'Operators' with newcomer 'Candidates.' Both earn rewards — Operators gain Tarkovcoins and Bitcoins, while pairs get bonus raid XP.",
-      "source": "ixbt.games",
-      "url": "https://ixbt.games/en/news/2026/10/02/avtory-escape-from-tarkov-uskorili-prokacku-navykov-i-predstavili-referalnuiu-sistemu-s-operatorami-i-kandidatami.html",
-      "publishedAt": "2026-10-02T16:24:00Z",
-      "tags": ["tarkov", "battlestate", "skills", "referral"]
-    },
-    {
-      "id": "local-01",
+      "id": "local-disaster-aid-7-counties",
       "category": "local",
-      "title": "Gahanna residents to vote on 10 charter amendments in November election",
-      "summary": "Gahanna voters will see 10 proposed municipal charter amendments, appearing as Issues 18 through 27, on the November ballot. The measures would alter mayoral primary rules, council redistricting standards, department structure and other governance provisions.",
-      "source": "NBC4 (WCMH)",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/gahanna-residents-to-vote-on-10-charter-amendments-in-november-election/",
-      "publishedAt": "2026-10-02T11:30:00Z",
-      "tags": ["gahanna", "election", "charter", "local-government"]
+      "title": "Federal disaster aid approved for 7 Ohio counties, incl. Franklin and Licking, after August storms",
+      "summary": "President Trump approved a major disaster declaration for seven Ohio counties — including Franklin and Licking near central Ohio — after August storms brought flooding and tornadoes that killed two and injured several. Residents of the approved counties can now apply for FEMA grants and SBA low-interest loans.",
+      "source": "WBNS 10TV",
+      "url": "https://www.10tv.com/article/news/local/trump-approves-disaster-aid-7-ohio-counties-severe-august-storms-major-disaster-declaration/530-0e28cf42-a684-406b-8aa5-1f832e3515c2",
+      "publishedAt": "2026-10-02T23:26:00Z",
+      "tags": ["Columbus", "FEMA", "disaster relief", "Ohio"]
+    },
+    {
+      "id": "local-olentangy-orange-soccer",
+      "category": "local",
+      "title": "Olentangy Orange girls' soccer coaching staff placed on paid leave amid hazing probe",
+      "summary": "The entire coaching staff of Olentangy Orange High School's girls' soccer team has been placed on paid administrative leave amid an investigation into alleged hazing reported over the summer. The Delaware County Sheriff's Office is reviewing new tips and video alongside the district's review.",
+      "source": "WBNS 10TV",
+      "url": "https://www.10tv.com/article/news/local/olentangy-orange-high-school-girls-soccer-alleged-hazing-investigation-coaches-paid-leave/530-51ccf159-b194-4b47-9e3c-9f1f290b2857",
+      "publishedAt": "2026-10-03T00:44:00Z",
+      "tags": ["Columbus metro", "hazing", "schools", "Olentangy"]
+    },
+    {
+      "id": "top-saudi-houthi-offensive",
+      "category": "top",
+      "title": "Saudi Arabia planning offensive against Houthis to break Red Sea chokehold",
+      "summary": "Saudi Arabia is preparing a military offensive, potentially mobilizing more than 100,000 Yemeni troops, to dislodge Houthi militants who seized control of the Bab el-Mandeb strait last month. Riyadh sees the Houthis' capture of the key shipping route as giving them global leverage, and won't restart peace talks while they hold it.",
+      "source": "Reuters",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-plans-assault-on-houthis-to-break-red-sea-chokehold/articleshow/134651063.cms",
+      "publishedAt": "2026-10-03T02:53:00Z",
+      "tags": ["Saudi Arabia", "Yemen", "Houthis", "geopolitics"]
+    },
+    {
+      "id": "top-ethiopia-tigray-airport",
+      "category": "top",
+      "title": "Pro-government forces say they retake airport in Ethiopia's Tigray region",
+      "summary": "Ethiopian government-affiliated forces said they have recaptured an airport in the Tigray region, marking a notable territorial advance amid renewed fighting. The claim signals a shift in the conflict as government forces press to regain control of key areas.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/pro-government-forces-say-they-retake-airport-ethiopias-tigray-region-2026-10-03/",
+      "publishedAt": "2026-10-03T06:00:00Z",
+      "tags": ["Ethiopia", "Tigray", "conflict", "Africa"]
+    },
+    {
+      "id": "top-flydubai-co-pilot-attack",
+      "category": "top",
+      "title": "flydubai co-pilot attacked captain with axe in attempted terrorist attack, UAE says",
+      "summary": "The UAE said a flydubai co-pilot attacked the captain of a flight to Israel with an axe in what officials describe as an attempted terrorist attack, with no serious injuries reported. The suspect's identity and motive remain under investigation.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/flydubai-co-pilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-2026-10-03/",
+      "publishedAt": "2026-10-03T05:30:00Z",
+      "tags": ["UAE", "flydubai", "aviation", "security"]
+    },
+    {
+      "id": "top-iran-irgc-houthis",
+      "category": "top",
+      "title": "Iran's IRGC warns of 'more lethal' response as Houthi missile debris injures Saudi resident",
+      "summary": "Iran's Islamic Revolutionary Guard Corps threatened a more lethal response than its October 2024 strike on Israel if attacked, as Saudi Arabia reported intercepting Houthi missiles and falling debris injuring a resident in the Asir region. US warships are moving toward the Middle East as Gulf tensions spike.",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/irans-irgc-warns-us-of-more-lethal-response-as-houthi-missile-debris-injures-saudi-resident-1.500696738",
+      "publishedAt": "2026-10-03T05:02:00Z",
+      "tags": ["Iran", "IRGC", "Houthis", "Middle East"]
     }
   ]
 }
