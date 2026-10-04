@@ -1,131 +1,121 @@
 {
   "meta": {
-    "updatedAt": "2026-10-03T19:30:00Z",
+    "updatedAt": "2026-10-04T11:00:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 11
   },
   "stories": [
     {
-      "id": "top-russia-kyiv-strikes-1003",
+      "id": "top-2026-10-04-flydubai",
       "category": "top",
-      "title": "Russia pledges to keep striking Kyiv, urges diplomats to leave the capital",
-      "summary": "Russia said it will continue targeted retaliatory strikes on Kyiv and other Ukrainian cities and called on foreign nationals and diplomats to leave the capital, signaling more attacks.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russia-pledges-continue-massive-strikes-kyiv-urges-foreign-diplomats-leave-city-2026-10-03/",
-      "publishedAt": "2026-10-03T13:30:00Z",
-      "tags": ["Russia", "Ukraine", "Kyiv", "war"]
+      "title": "Australian authorities investigate Flydubai co-pilot's links to country",
+      "summary": "Australian state police and the security agency are probing the Flydubai co-pilot who, the UAE prosecutor general said, attacked the pilot with a crash axe on a flight toward Israel, plunging the plane 17,000ft before it landed safely in Australia.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cxly4nym57q9o",
+      "publishedAt": "2026-10-04T07:00:00Z",
+      "tags": ["aviation", "flydubai", "investigation"]
     },
     {
-      "id": "top-flydubai-axe-1003",
-      "category": "top",
-      "title": "UAE: Flydubai co-pilot attacked captain with crash axe in 'terrorist act'",
-      "summary": "The UAE prosecutor general said the co-pilot of the Israel-bound Flydubai flight FZ1073 used a cockpit crash axe to attack the captain in a 'terrorist attack'; a probe into motive is under way. The flight carried 182 people.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae",
-      "publishedAt": "2026-10-03T11:00:00Z",
-      "tags": ["Flydubai", "UAE", "aviation", "security"]
-    },
-    {
-      "id": "tech-ai-agent-emailed-1003",
+      "id": "tech-2026-10-04-deepseek-huawei",
       "category": "tech",
-      "title": "An AI agent emailed hundreds of researchers for help — and told Science why",
-      "summary": "An AI agent autonomously emailed hundreds of researchers asking for help and explained its reasoning to Science, spotlighting how capable agents are becoming and the safety and ethics questions that raises.",
-      "source": "Science",
-      "url": "https://www.science.org/content/article/ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-      "publishedAt": "2026-10-03T13:30:00Z",
-      "tags": ["AI", "agents", "safety", "ethics"]
+      "title": "DeepSeek and Huawei open-source TileLang to challenge Nvidia's CUDA",
+      "summary": "DeepSeek, with Huawei's backing, open-sourced TileLang, programming infrastructure for Huawei's Ascend chips positioned as an alternative to Nvidia's CUDA. The move aims to reduce China's reliance on US AI hardware, with DeepSeek planning to install about 160,000 Ascend accelerators.",
+      "source": "Reuters via Startmag",
+      "url": "https://en.startmag.it/innovazione/this-is-how-deepseek-and-huawei-challenge-nvidia-on-chips/",
+      "publishedAt": "2026-10-04T07:56:00Z",
+      "tags": ["ai-chips", "huawei", "deepseek"]
     },
     {
-      "id": "browns-first-place-1003",
+      "id": "tech-2026-10-04-enflame-ipo",
+      "category": "tech",
+      "title": "Tencent-backed AI chipmaker Enflame jumps 179% in Shanghai debut",
+      "summary": "Shares of Chinese AI chipmaker Enflame surged 179% in its Shanghai market debut, valuing the company at roughly $25 billion. The listing highlights investor demand for domestic AI chipmakers amid US export restrictions.",
+      "source": "Beijing Post",
+      "url": "https://beijingpost.com/tencent-backed-ai-chipmaker-enflame-jumps-179-in-shanghai-debut",
+      "publishedAt": "2026-10-04T00:30:00Z",
+      "tags": ["ipo", "ai-chips", "china"]
+    },
+    {
+      "id": "browns-2026-10-04-szmyt-win",
       "category": "browns",
-      "title": "Browns sit atop AFC North after beating Steelers Thursday night",
-      "summary": "Saturday's Dawg Chow recaps the Browns' Thursday win over Pittsburgh that put them in sole first place in the AFC North for the first time since 2014, plus updates on DT Mason Graham's knee injury and kicker Andre Szmyt.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/134220/cleveland-browns-news-mason-graham-deshaun-watson-andre-szymt",
-      "publishedAt": "2026-10-03T10:30:00Z",
-      "tags": ["Browns", "AFC North", "Mason Graham", "Andre Szmyt"]
+      "title": "Browns 27, Steelers 24 | Andre Szmyt hits game-winning 56-yard field goal",
+      "summary": "Kicker Andre Szmyt nailed a 56-yard field goal with 10 seconds left to give the Browns a 27-24 win over the Steelers, their third straight victory to improve to 3-1. Grant Delpit intercepted Aaron Rodgers to seal the result.",
+      "source": "clevelandbrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/browns-27-steelers-24-final-score-stats-game-recap",
+      "publishedAt": "2026-10-04T04:00:00Z",
+      "tags": ["nfl", "steelers", "game-winner"]
     },
     {
-      "id": "buckeyes-osu-iowa-live-1003",
+      "id": "browns-2026-10-04-oline",
+      "category": "browns",
+      "title": "How Browns' offensive line put together its best game against Steelers",
+      "summary": "With veteran center Elgton Jenkins sidelined by a concussion, Luke Wypler and the Browns' revamped offensive line allowed just eight pressures and helped the run game top four yards per carry in a 27-24 win over Pittsburgh — arguably the line's best performance of the season.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/browns-offensive-line-put-together-100325641.html",
+      "publishedAt": "2026-10-04T10:03:25Z",
+      "tags": ["offensive-line", "wypler", "steelers"]
+    },
+    {
+      "id": "buckeyes-2026-10-04-iowa-recap",
       "category": "buckeyes",
-      "title": "No. 6 Ohio State opens Big Ten road slate at No. 14 Iowa on CBS",
-      "summary": "Ohio State plays its first Big Ten road game of the season at Kinnick Stadium against unbeaten Iowa (4-0), kicking off 3:30 p.m. on CBS in a top-15 matchup.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/03/ohio-state-iowa-football-live-updates-score--live/92008534007/",
-      "publishedAt": "2026-10-03T13:00:00Z",
-      "tags": ["Ohio State", "Iowa", "Big Ten", "game preview"]
+      "title": "Julian Sayin, Jeremiah Smith lead No. 5 Ohio State past No. 14 Iowa, 31-14",
+      "summary": "Julian Sayin threw for 324 yards and three touchdowns, two to Jeremiah Smith, who set Ohio State career records for receptions, receiving yards and touchdowns in the 31-14 road win at Kinnick Stadium. Ohio State improved to 4-1.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/ohio-state-v-iowa-recap-225101478.html",
+      "publishedAt": "2026-10-04T02:51:00Z",
+      "tags": ["iowa", "jeremiah-smith", "records"]
     },
     {
-      "id": "buckeyes-daniels-out-1003",
+      "id": "buckeyes-2026-10-04-takeaways",
       "category": "buckeyes",
-      "title": "Phillip Daniels out for Ohio State at Iowa, VanSickle and Siereveld step in",
-      "summary": "Ohio State will be without starting right tackle Phillip Daniels for its trip to Iowa; Gabe VanSickle and Austin Siereveld are set to line up on the right side of the offensive line.",
-      "source": "On3",
-      "url": "https://www.on3.com/teams/ohio-state-buckeyes/news/phillip-daniels-out-for-ohio-state-at-iowa/",
-      "publishedAt": "2026-10-03T12:00:00Z",
-      "tags": ["Ohio State", "offensive line", "injury", "Iowa"]
+      "title": "Three takeaways from Ohio State's 31-14 win at Iowa",
+      "summary": "Ohio State's defense limited Iowa to 238 yards and five third-down conversions in its first win over a ranked opponent since November. Jeremiah Smith broke multiple school receiving records, but nine costly penalties remain a concern ahead of hosting Maryland.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/sports/buckeyes/three-takeaways-from-ohio-states-31-14-win-at-iowa/",
+      "publishedAt": "2026-10-04T10:15:00Z",
+      "tags": ["takeaways", "defense", "big-ten"]
     },
     {
-      "id": "buckeyes-timmons-1003",
-      "category": "buckeyes",
-      "title": "Ohio State true freshman CB Jay Timmons is a game-time decision vs Iowa",
-      "summary": "True freshman cornerback Jay Timmons (six tackles, a forced fumble in three games) is a game-time decision for Ohio State at Iowa after a lower-body injury that could test the Buckeyes' secondary.",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/ohio-state-football-news-true-freshman-cb-to-be-game-time-decision-vs-iowa",
-      "publishedAt": "2026-10-03T11:30:00Z",
-      "tags": ["Ohio State", "Jay Timmons", "injury", "secondary"]
-    },
-    {
-      "id": "buckeyes-247-preview-1003",
-      "category": "buckeyes",
-      "title": "Ten storylines to watch as No. 5 Ohio State visits No. 14 Iowa",
-      "summary": "Key questions ahead of Ohio State's CBS matchup at Iowa, including the Buckeyes' struggling ground game and whether they can pressure Iowa QB Hank Brown in a hostile Kinnick Stadium.",
-      "source": "247Sports",
-      "url": "https://247sports.com/college/ohio-state/article/ohio-state-buckeyes-football-visiting-iowa-hawkeyes-290750876/",
-      "publishedAt": "2026-10-03T11:00:00Z",
-      "tags": ["Ohio State", "Iowa", "preview", "analysis"]
-    },
-    {
-      "id": "f1-teams-qualifying-1003",
+      "id": "f1-2026-10-04-bahrain-win",
       "category": "f1",
-      "title": "What the teams said after Verstappen took pole for Bahrain GP in Malaysia",
-      "summary": "Drivers and teams reflected on final practice and qualifying for the 2026 Bahrain Grand Prix at Sepang, where Max Verstappen secured his first pole of the season.",
+      "title": "Verstappen wins rain-hit Bahrain GP in Malaysia over Antonelli",
+      "summary": "Max Verstappen claimed his and Red Bull's first win of the 2026 season at the rain-delayed Bahrain GP in Malaysia, beating Mercedes' Kimi Antonelli by 2.3s. George Russell retired late while running second, a blow to his title hopes.",
       "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-bahrain-2026.3PGUwV77YbdWsGaQDkDOXp",
-      "publishedAt": "2026-10-03T13:30:00Z",
-      "tags": ["F1", "Bahrain GP", "Sepang", "qualifying"]
+      "url": "https://www.formula1.com/en/latest/article/verstappen-wins-rain-hit-bahrain-gp-in-malaysia-over-antonelli-as-russell-retires-late-on.6qfpIHPch8mIVj2YgfHdCp",
+      "publishedAt": "2026-10-04T10:38:00Z",
+      "tags": ["verstappen", "bahrain-gp", "malaysia"]
     },
     {
-      "id": "f1-verstappen-pole-grid-1003",
-      "category": "f1",
-      "title": "Verstappen on pole for Bahrain GP ahead of Hamilton and Hadjar",
-      "summary": "Max Verstappen took his first pole position of 2026 for the Bahrain Grand Prix in Malaysia, topping the grid ahead of Lewis Hamilton and Isack Hadjar at Sepang.",
-      "source": "Athlon Sports",
-      "url": "https://athlonsports.com/racing/f1/f1-qualifying-results-full-starting-grid-for-the-bahrain-grand-prix-in-malaysia-2026",
-      "publishedAt": "2026-10-03T09:30:00Z",
-      "tags": ["F1", "Verstappen", "pole", "starting grid"]
-    },
-    {
-      "id": "tarkov-progression-referral-1003",
-      "category": "tarkov",
-      "title": "Escape from Tarkov speeds skill progression 60% and adds referral system",
-      "summary": "Battlestate Games raised skill progression speed by 60% across all modes and introduced a referral system letting Operators (level 30+, 7-day-old accounts) invite up to five Candidates for shared rewards like Tarkovcoins and Bitcoins.",
-      "source": "Handheld",
-      "url": "https://handheld.guru/escape-from-tarkov-skill-progression-60-percent-referral-system/",
-      "publishedAt": "2026-10-03T14:00:00Z",
-      "tags": ["Escape from Tarkov", "patch", "progression", "referral"]
-    },
-    {
-      "id": "local-polling-change-1003",
+      "id": "local-2026-10-04-havas",
       "category": "local",
-      "title": "After Columbus tornado, new polling location replaces Barack Community Center",
-      "summary": "Voters who used the tornado-damaged Barack Community Center will cast their November ballots at Lincoln Park Elementary School, with polling-change notices going out around Oct. 19.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/after-columbus-tornado-new-polling-location-replaces-barack-community-center/",
-      "publishedAt": "2026-10-03T11:00:00Z",
-      "tags": ["Columbus", "election", "tornado", "voting"]
+      "title": "Who is Patrick Havas, alleged attacker at Dr. Amy Acton campaign event",
+      "summary": "Columbus outlets are reporting on Patrick Havas, the man alleged to have attacked someone at a campaign event for Dr. Amy Acton. The incident has drawn police attention as Acton campaigns in the region.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
+      "publishedAt": "2026-10-04T09:00:00Z",
+      "tags": ["columbus", "politics", "acton"]
+    },
+    {
+      "id": "local-2026-10-04-storms",
+      "category": "local",
+      "title": "Columbus weather: Storms arrive this evening",
+      "summary": "Storm Team 4 forecasts severe storms arriving in the Columbus area this evening, triggering a weather alert for the region. Residents are advised to monitor conditions through the evening.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/weather/forecast/columbus-weather-storms-arrive-this-evening/",
+      "publishedAt": "2026-10-04T09:00:00Z",
+      "tags": ["columbus", "weather", "storms"]
+    },
+    {
+      "id": "local-2026-10-04-worthington-deer",
+      "category": "local",
+      "title": "Worthington looks ahead in deer culling program",
+      "summary": "The Columbus-area suburb of Worthington is reviewing next steps in its deer culling program, a recurring effort to manage the local deer population. Officials are weighing how to continue the initiative.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/worthington/worthington-looking-ahead-in-deer-culling-program/",
+      "publishedAt": "2026-10-04T03:00:00Z",
+      "tags": ["worthington", "deer", "community"]
     }
   ]
 }
