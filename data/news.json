@@ -1,121 +1,187 @@
 {
   "meta": {
-    "updatedAt": "2026-10-04T11:00:00Z",
+    "updatedAt": "2026-10-04T19:32:32Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 11
+    "count": 12
   },
   "stories": [
     {
-      "id": "top-2026-10-04-flydubai",
+      "id": "top-1",
       "category": "top",
-      "title": "Australian authorities investigate Flydubai co-pilot's links to country",
-      "summary": "Australian state police and the security agency are probing the Flydubai co-pilot who, the UAE prosecutor general said, attacked the pilot with a crash axe on a flight toward Israel, plunging the plane 17,000ft before it landed safely in Australia.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cxly4nym57q9o",
-      "publishedAt": "2026-10-04T07:00:00Z",
-      "tags": ["aviation", "flydubai", "investigation"]
+      "title": "US sending additional forces to Israel as potential escalation looms",
+      "summary": "The US is deploying additional forces to Israel as a hedge against possible escalation involving Iran ahead of elections in both countries. Roughly 3,000 US troops are already stationed across Israel.",
+      "source": "Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-10-04/live-updates-910489",
+      "publishedAt": "2026-10-04T17:25:00Z",
+      "tags": [
+        "Israel",
+        "Iran",
+        "Middle East",
+        "US military"
+      ]
     },
     {
-      "id": "tech-2026-10-04-deepseek-huawei",
+      "id": "top-2",
+      "category": "top",
+      "title": "Netanyahu orders security review of international flights after FlyDubai cockpit attack",
+      "summary": "The prime minister of Israel ordered a comprehensive security review of all international flights to Israel after an Omani co-pilot attacked the captain on a Dubai flight. Authorities say the co-pilot intended to crash the plane into Ben Gurion Airport.",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com/middle-east/netanyahu-orders-security-review-of-international-flights-to-israel-after-flydubai-attack-3004607",
+      "publishedAt": "2026-10-04T13:30:00Z",
+      "tags": [
+        "Israel",
+        "aviation security",
+        "terrorism",
+        "Middle East"
+      ]
+    },
+    {
+      "id": "tech-1",
       "category": "tech",
-      "title": "DeepSeek and Huawei open-source TileLang to challenge Nvidia's CUDA",
-      "summary": "DeepSeek, with Huawei's backing, open-sourced TileLang, programming infrastructure for Huawei's Ascend chips positioned as an alternative to Nvidia's CUDA. The move aims to reduce China's reliance on US AI hardware, with DeepSeek planning to install about 160,000 Ascend accelerators.",
-      "source": "Reuters via Startmag",
-      "url": "https://en.startmag.it/innovazione/this-is-how-deepseek-and-huawei-challenge-nvidia-on-chips/",
-      "publishedAt": "2026-10-04T07:56:00Z",
-      "tags": ["ai-chips", "huawei", "deepseek"]
+      "title": "MoralityBench.ai launches 13-model moral psychology leaderboard",
+      "summary": "A new moral-psychology benchmark ranked 13 AI models, with DeepSeek V4.1 Flash leading while Jev topped consistency. The launch adds a moral-evaluation dimension to the broader model-benchmarking race.",
+      "source": "AI Weekly / r/artificial",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxkzyo/moralitybenchai_morality_leaderboard_for_ai/",
+      "publishedAt": "2026-10-04T15:00:00Z",
+      "tags": [
+        "AI",
+        "benchmark",
+        "model evaluation",
+        "AI safety"
+      ]
     },
     {
-      "id": "tech-2026-10-04-enflame-ipo",
+      "id": "tech-2",
       "category": "tech",
-      "title": "Tencent-backed AI chipmaker Enflame jumps 179% in Shanghai debut",
-      "summary": "Shares of Chinese AI chipmaker Enflame surged 179% in its Shanghai market debut, valuing the company at roughly $25 billion. The listing highlights investor demand for domestic AI chipmakers amid US export restrictions.",
-      "source": "Beijing Post",
-      "url": "https://beijingpost.com/tencent-backed-ai-chipmaker-enflame-jumps-179-in-shanghai-debut",
-      "publishedAt": "2026-10-04T00:30:00Z",
-      "tags": ["ipo", "ai-chips", "china"]
+      "title": "OpenAI Jev model reverse-engineered as a compact 4-9B active-param system",
+      "summary": "Independent analysis suggests the widely-discussed OpenAI Jev model is a compact mixture-of-experts system using only roughly 4-9 billion active parameters rather than a frontier-scale model. The writeup reached the Hacker News front page on Sunday.",
+      "source": "AI Weekly / Jev Research",
+      "url": "https://jevresearch.github.io/Jev-Research/",
+      "publishedAt": "2026-10-04T14:00:00Z",
+      "tags": [
+        "OpenAI",
+        "model research",
+        "mixture-of-experts",
+        "AI"
+      ]
     },
     {
-      "id": "browns-2026-10-04-szmyt-win",
+      "id": "browns-1",
       "category": "browns",
-      "title": "Browns 27, Steelers 24 | Andre Szmyt hits game-winning 56-yard field goal",
-      "summary": "Kicker Andre Szmyt nailed a 56-yard field goal with 10 seconds left to give the Browns a 27-24 win over the Steelers, their third straight victory to improve to 3-1. Grant Delpit intercepted Aaron Rodgers to seal the result.",
-      "source": "clevelandbrowns.com",
+      "title": "Denzel Ward interception flips momentum in 27-24 win over Steelers",
+      "summary": "Cornerback Denzel Ward intercepted a pass to swing momentum for a Browns defense that used rush and coverage to force key stops in the 27-24 win over Pittsburgh. It was one of three big takeaways from the game.",
+      "source": "Cleveland Browns",
+      "url": "https://www.clevelandbrowns.com/news/denzel-ward-flips-momentum-with-interception-against-the-steelers-3-big-takeaways",
+      "publishedAt": "2026-10-04T19:10:00Z",
+      "tags": [
+        "Browns",
+        "Denzel Ward",
+        "defense"
+      ]
+    },
+    {
+      "id": "browns-2",
+      "category": "browns",
+      "title": "Deshaun Watson throws for 268 yards in win over Steelers",
+      "summary": "Watson threw for 268 yards in the 27-24 victory, helping the offense build on a second straight win. The numbers underscore a steadier stretch for the passing game.",
+      "source": "Cleveland Browns",
+      "url": "https://www.clevelandbrowns.com/news/deshaun-watson-throws-for-268-yards-in-win-over-steelers-by-the-numbers",
+      "publishedAt": "2026-10-04T19:05:00Z",
+      "tags": [
+        "Browns",
+        "Deshaun Watson",
+        "NFL"
+      ]
+    },
+    {
+      "id": "browns-3",
+      "category": "browns",
+      "title": "Browns beat Steelers 27-24 in Week 4",
+      "summary": "Cleveland moved to 2-2 with a 27-24 win over Pittsburgh, leaning on a defense that forced key stops and turnovers. Defensive lineman Mason Graham left the game and did not return.",
+      "source": "Cleveland Browns",
       "url": "https://www.clevelandbrowns.com/news/browns-27-steelers-24-final-score-stats-game-recap",
-      "publishedAt": "2026-10-04T04:00:00Z",
-      "tags": ["nfl", "steelers", "game-winner"]
+      "publishedAt": "2026-10-04T19:00:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "Steelers",
+        "Week 4"
+      ]
     },
     {
-      "id": "browns-2026-10-04-oline",
-      "category": "browns",
-      "title": "How Browns' offensive line put together its best game against Steelers",
-      "summary": "With veteran center Elgton Jenkins sidelined by a concussion, Luke Wypler and the Browns' revamped offensive line allowed just eight pressures and helped the run game top four yards per carry in a 27-24 win over Pittsburgh — arguably the line's best performance of the season.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/browns-offensive-line-put-together-100325641.html",
-      "publishedAt": "2026-10-04T10:03:25Z",
-      "tags": ["offensive-line", "wypler", "steelers"]
-    },
-    {
-      "id": "buckeyes-2026-10-04-iowa-recap",
+      "id": "buckeyes-1",
       "category": "buckeyes",
-      "title": "Julian Sayin, Jeremiah Smith lead No. 5 Ohio State past No. 14 Iowa, 31-14",
-      "summary": "Julian Sayin threw for 324 yards and three touchdowns, two to Jeremiah Smith, who set Ohio State career records for receptions, receiving yards and touchdowns in the 31-14 road win at Kinnick Stadium. Ohio State improved to 4-1.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/ohio-state-v-iowa-recap-225101478.html",
-      "publishedAt": "2026-10-04T02:51:00Z",
-      "tags": ["iowa", "jeremiah-smith", "records"]
+      "title": "Jeremiah Smith breaks Ohio State receiving records in 31-14 win at Iowa",
+      "summary": "Jeremiah Smith became the Ohio State all-time leader in career receptions (207) and touchdown catches (36), adding 11 catches for 206 yards in a 31-14 win at No. 14 Iowa. He now holds all three of the major receiving records.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/04/jeremiah-smith-breaks-ohio-state-football-receiving-records-at-iowa/92001413007/",
+      "publishedAt": "2026-10-04T12:30:00Z",
+      "tags": [
+        "Ohio State",
+        "Jeremiah Smith",
+        "Iowa",
+        "Big Ten"
+      ]
     },
     {
-      "id": "buckeyes-2026-10-04-takeaways",
-      "category": "buckeyes",
-      "title": "Three takeaways from Ohio State's 31-14 win at Iowa",
-      "summary": "Ohio State's defense limited Iowa to 238 yards and five third-down conversions in its first win over a ranked opponent since November. Jeremiah Smith broke multiple school receiving records, but nine costly penalties remain a concern ahead of hosting Maryland.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/sports/buckeyes/three-takeaways-from-ohio-states-31-14-win-at-iowa/",
-      "publishedAt": "2026-10-04T10:15:00Z",
-      "tags": ["takeaways", "defense", "big-ten"]
-    },
-    {
-      "id": "f1-2026-10-04-bahrain-win",
+      "id": "f1-2",
       "category": "f1",
-      "title": "Verstappen wins rain-hit Bahrain GP in Malaysia over Antonelli",
-      "summary": "Max Verstappen claimed his and Red Bull's first win of the 2026 season at the rain-delayed Bahrain GP in Malaysia, beating Mercedes' Kimi Antonelli by 2.3s. George Russell retired late while running second, a blow to his title hopes.",
+      "title": "Hamilton recovers to podium as Antonelli edges closer to a first title",
+      "summary": "Lewis Hamilton fought back to third at Sepang behind Verstappen and Antonelli, while a late power-unit failure by George Russell boosted the championship charge of Antonelli. A chaotic, storm-delayed start defined the race.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/formula1/articles/c5n49zx3zlvwo",
+      "publishedAt": "2026-10-04T14:30:00Z",
+      "tags": [
+        "Formula 1",
+        "Hamilton",
+        "Antonelli",
+        "Bahrain GP"
+      ]
+    },
+    {
+      "id": "f1-1",
+      "category": "f1",
+      "title": "Verstappen wins rain-hit Bahrain GP in Malaysia, Red Bull first win of 2026",
+      "summary": "Max Verstappen converted pole into victory in a rain-delayed Bahrain Grand Prix held at Sepang, beating Kimi Antonelli after George Russell retired late. It is his and Red Bull first win of the season.",
       "source": "formula1.com",
       "url": "https://www.formula1.com/en/latest/article/verstappen-wins-rain-hit-bahrain-gp-in-malaysia-over-antonelli-as-russell-retires-late-on.6qfpIHPch8mIVj2YgfHdCp",
-      "publishedAt": "2026-10-04T10:38:00Z",
-      "tags": ["verstappen", "bahrain-gp", "malaysia"]
+      "publishedAt": "2026-10-04T14:00:00Z",
+      "tags": [
+        "Formula 1",
+        "Verstappen",
+        "Red Bull",
+        "Bahrain GP"
+      ]
     },
     {
-      "id": "local-2026-10-04-havas",
+      "id": "local-1",
       "category": "local",
-      "title": "Who is Patrick Havas, alleged attacker at Dr. Amy Acton campaign event",
-      "summary": "Columbus outlets are reporting on Patrick Havas, the man alleged to have attacked someone at a campaign event for Dr. Amy Acton. The incident has drawn police attention as Acton campaigns in the region.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
-      "publishedAt": "2026-10-04T09:00:00Z",
-      "tags": ["columbus", "politics", "acton"]
+      "title": "One dead, one injured in overnight East Side shooting",
+      "summary": "Columbus police found two shooting victims on the 900 block of Barnett Road early Oct. 4; both were taken to a hospital in critical condition and one was pronounced dead shortly after. The incident remains under investigation.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/local/2026/10/04/east-side-shooting-one-dead-injured-barnett-road-columbus-ohio/92089536007/",
+      "publishedAt": "2026-10-04T13:15:00Z",
+      "tags": [
+        "Columbus",
+        "shooting",
+        "crime"
+      ]
     },
     {
-      "id": "local-2026-10-04-storms",
+      "id": "local-2",
       "category": "local",
-      "title": "Columbus weather: Storms arrive this evening",
-      "summary": "Storm Team 4 forecasts severe storms arriving in the Columbus area this evening, triggering a weather alert for the region. Residents are advised to monitor conditions through the evening.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/weather/forecast/columbus-weather-storms-arrive-this-evening/",
-      "publishedAt": "2026-10-04T09:00:00Z",
-      "tags": ["columbus", "weather", "storms"]
-    },
-    {
-      "id": "local-2026-10-04-worthington-deer",
-      "category": "local",
-      "title": "Worthington looks ahead in deer culling program",
-      "summary": "The Columbus-area suburb of Worthington is reviewing next steps in its deer culling program, a recurring effort to manage the local deer population. Officials are weighing how to continue the initiative.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/worthington/worthington-looking-ahead-in-deer-culling-program/",
-      "publishedAt": "2026-10-04T03:00:00Z",
-      "tags": ["worthington", "deer", "community"]
+      "title": "Semi-truck carrying frozen food catches fire on I-270",
+      "summary": "Lanes on I-270 North near mile marker 10 were shut down after a semi hauling about 30,000 pounds of frozen food caught fire in Columbus; no one was hurt and the cause is under investigation.",
+      "source": "WHIO",
+      "url": "https://www.whio.com/news/local/semi-truck-carrying-30000-pounds-frozen-food-catches-fire/XRVWUIZFOVAYVCGBKHZPUS7MU4/",
+      "publishedAt": "2026-10-04T08:50:00Z",
+      "tags": [
+        "Columbus",
+        "I-270",
+        "fire"
+      ]
     }
   ]
 }
