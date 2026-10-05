@@ -1,186 +1,368 @@
 {
   "meta": {
-    "updatedAt": "2026-10-04T19:32:32Z",
+    "updatedAt": "2026-10-05T11:05:01Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 25
   },
   "stories": [
     {
-      "id": "top-1",
+      "id": "top-raf-fairford-bombers",
       "category": "top",
-      "title": "US sending additional forces to Israel as potential escalation looms",
-      "summary": "The US is deploying additional forces to Israel as a hedge against possible escalation involving Iran ahead of elections in both countries. Roughly 3,000 US troops are already stationed across Israel.",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-10-04/live-updates-910489",
-      "publishedAt": "2026-10-04T17:25:00Z",
+      "title": "US Air Force pulls all bombers from UK base after suspected terror attack",
+      "summary": "The US Air Force has removed all of its bombers from RAF Fairford in Britain after the base was targeted in a suspected terror attack. The withdrawal underscores heightened security concerns at a key US staging base in the UK.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko",
+      "publishedAt": "2026-10-05T10:39:00Z",
       "tags": [
-        "Israel",
-        "Iran",
-        "Middle East",
-        "US military"
+        "UK",
+        "security",
+        "military",
+        "US"
       ]
     },
     {
-      "id": "top-2",
+      "id": "top-nobel-medicine-2026",
       "category": "top",
-      "title": "Netanyahu orders security review of international flights after FlyDubai cockpit attack",
-      "summary": "The prime minister of Israel ordered a comprehensive security review of all international flights to Israel after an Omani co-pilot attacked the captain on a Dubai flight. Authorities say the co-pilot intended to crash the plane into Ben Gurion Airport.",
-      "source": "Arab News",
-      "url": "https://www.arabnews.com/middle-east/netanyahu-orders-security-review-of-international-flights-to-israel-after-flydubai-attack-3004607",
-      "publishedAt": "2026-10-04T13:30:00Z",
+      "title": "Nobel medicine prize goes to three scientists for work on how nerve cells shape feelings",
+      "summary": "The 2026 Nobel Prize in Physiology or Medicine was awarded to three scientists for research into how nerve cells shape feelings and brain activity. The work helps explain how the brain turns neural signals into sensation and emotion.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o",
+      "publishedAt": "2026-10-05T10:37:00Z",
       "tags": [
-        "Israel",
-        "aviation security",
-        "terrorism",
-        "Middle East"
+        "Nobel",
+        "medicine",
+        "science",
+        "brain"
       ]
     },
     {
-      "id": "tech-1",
+      "id": "top-spain-snap-election",
+      "category": "top",
+      "title": "Spain's PM calls early general election as housing crisis pressure mounts",
+      "summary": "Spain's prime minister has called a snap general election as public anger over the country's housing crisis intensifies. The vote is set to become a referendum on affordability and the government's handling of soaring rents and prices.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+      "publishedAt": "2026-10-05T09:15:00Z",
+      "tags": [
+        "Spain",
+        "election",
+        "housing",
+        "Europe"
+      ]
+    },
+    {
+      "id": "top-russia-kyiv-bridge-drones",
+      "category": "top",
+      "title": "Russia escalates attacks on Ukraine, targeting bridges in Kyiv with drones",
+      "summary": "Russia stepped up its assault on Ukraine, with drone strikes targeting bridges in the capital Kyiv. The attacks mark a further intensification of Moscow's campaign against Ukrainian infrastructure.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
+      "publishedAt": "2026-10-05T08:44:00Z",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "war",
+        "Kyiv"
+      ]
+    },
+    {
+      "id": "tech-trump-ai-taskforce",
       "category": "tech",
-      "title": "MoralityBench.ai launches 13-model moral psychology leaderboard",
-      "summary": "A new moral-psychology benchmark ranked 13 AI models, with DeepSeek V4.1 Flash leading while Jev topped consistency. The launch adds a moral-evaluation dimension to the broader model-benchmarking race.",
-      "source": "AI Weekly / r/artificial",
-      "url": "https://www.reddit.com/r/artificial/comments/1wxkzyo/moralitybenchai_morality_leaderboard_for_ai/",
-      "publishedAt": "2026-10-04T15:00:00Z",
+      "title": "Trump taps intelligence chief Jay Clayton to lead new AI task force",
+      "summary": "President Trump has chosen his national intelligence director, Jay Clayton, to head a new 'Super Intelligence' AI task force. The appointment puts an intelligence official in charge of shaping federal AI policy.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+      "publishedAt": "2026-10-05T10:03:00Z",
       "tags": [
         "AI",
-        "benchmark",
-        "model evaluation",
-        "AI safety"
+        "policy",
+        "government",
+        "US"
       ]
     },
     {
-      "id": "tech-2",
+      "id": "tech-fitbit-edge-leak",
       "category": "tech",
-      "title": "OpenAI Jev model reverse-engineered as a compact 4-9B active-param system",
-      "summary": "Independent analysis suggests the widely-discussed OpenAI Jev model is a compact mixture-of-experts system using only roughly 4-9 billion active parameters rather than a frontier-scale model. The writeup reached the Hacker News front page on Sunday.",
-      "source": "AI Weekly / Jev Research",
-      "url": "https://jevresearch.github.io/Jev-Research/",
-      "publishedAt": "2026-10-04T14:00:00Z",
+      "title": "Google's unannounced Fitbit Edge leaks with a screen and Pixel 11 colors",
+      "summary": "Google's unreleased Fitbit Edge leaked online, showing a new screen-equipped wearable alongside Pixel 11 color options. The leak points to Google widening its Fitbit line as it readies its next phones.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2276917/google-fitbit-edge-leaks-out-with-a-screen-and-pixel-11-colors/",
+      "publishedAt": "2026-10-05T08:18:00Z",
       "tags": [
-        "OpenAI",
-        "model research",
-        "mixture-of-experts",
-        "AI"
+        "Google",
+        "Fitbit",
+        "wearables",
+        "leaks"
       ]
     },
     {
-      "id": "browns-1",
-      "category": "browns",
-      "title": "Denzel Ward interception flips momentum in 27-24 win over Steelers",
-      "summary": "Cornerback Denzel Ward intercepted a pass to swing momentum for a Browns defense that used rush and coverage to force key stops in the 27-24 win over Pittsburgh. It was one of three big takeaways from the game.",
-      "source": "Cleveland Browns",
-      "url": "https://www.clevelandbrowns.com/news/denzel-ward-flips-momentum-with-interception-against-the-steelers-3-big-takeaways",
-      "publishedAt": "2026-10-04T19:10:00Z",
+      "id": "tech-denmark-cpr-breach",
+      "category": "tech",
+      "title": "Denmark health data breach exposes personal data of 8.8 million people",
+      "summary": "Denmark's national health data authority, CPR, disclosed a major breach exposing the personal data of roughly 8.8 million people. It is one of the country's largest leaks of citizen data and has triggered an official review.",
+      "source": "cpr.dk (via Hacker News)",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "publishedAt": "2026-10-05T08:09:00Z",
       "tags": [
-        "Browns",
-        "Denzel Ward",
-        "defense"
+        "security",
+        "breach",
+        "Denmark",
+        "privacy"
       ]
     },
     {
-      "id": "browns-2",
-      "category": "browns",
-      "title": "Deshaun Watson throws for 268 yards in win over Steelers",
-      "summary": "Watson threw for 268 yards in the 27-24 victory, helping the offense build on a second straight win. The numbers underscore a steadier stretch for the passing game.",
-      "source": "Cleveland Browns",
-      "url": "https://www.clevelandbrowns.com/news/deshaun-watson-throws-for-268-yards-in-win-over-steelers-by-the-numbers",
-      "publishedAt": "2026-10-04T19:05:00Z",
+      "id": "tech-huawei-qualcomm-patent-deal",
+      "category": "tech",
+      "title": "Huawei and Qualcomm sign broad patent license agreement",
+      "summary": "Huawei and Qualcomm announced a broad patent licensing agreement covering their respective technologies. The deal resolves a long-running dispute between the telecom and chip giants.",
+      "source": "Huawei (via Hacker News)",
+      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "publishedAt": "2026-10-05T07:46:00Z",
       "tags": [
-        "Browns",
-        "Deshaun Watson",
-        "NFL"
+        "Huawei",
+        "Qualcomm",
+        "patents",
+        "chips"
       ]
     },
     {
-      "id": "browns-3",
+      "id": "browns-monken-swagger",
       "category": "browns",
-      "title": "Browns beat Steelers 27-24 in Week 4",
-      "summary": "Cleveland moved to 2-2 with a 27-24 win over Pittsburgh, leaning on a defense that forced key stops and turnovers. Defensive lineman Mason Graham left the game and did not return.",
-      "source": "Cleveland Browns",
-      "url": "https://www.clevelandbrowns.com/news/browns-27-steelers-24-final-score-stats-game-recap",
-      "publishedAt": "2026-10-04T19:00:00Z",
+      "title": "Browns find new swagger under bold coach Todd Monken",
+      "summary": "Cleveland is 3-1 and riding a three-game win streak built on close, physical finishes, and cleveland.com credits head coach Todd Monken's aggressive decision-making for the team's new swagger.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/cleveland-browns-find-swagger-with-todd-monkens-bold-leadership.html",
+      "publishedAt": "2026-10-05T10:00:00Z",
       "tags": [
         "Browns",
         "NFL",
+        "Monken"
+      ]
+    },
+    {
+      "id": "browns-change-narrative",
+      "category": "browns",
+      "title": "Browns news roundup: an opportunity to change the narrative",
+      "summary": "Dawgs By Nature's daily roundup frames the week as a chance for the Browns to change their season's narrative, covering Jerry Jeudy, safety Emmanuel McNeil-Warren and quarterback Dillon Gabriel.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/134335/cleveland-browns-news-dillon-gabriel-jerry-jeudy-emmanuel-mcneil-warren",
+      "publishedAt": "2026-10-05T10:00:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "analysis"
+      ]
+    },
+    {
+      "id": "browns-dline-injuries",
+      "category": "browns",
+      "title": "Browns' defensive line answers the call despite mounting injuries",
+      "summary": "Cleveland's defensive line keeps producing even as injuries test its depth, holding up as a key reason the Browns sit at 3-1.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/the-browns-defensive-line-keeps-getting-tested-it-keeps-answering.html",
+      "publishedAt": "2026-10-05T09:01:00Z",
+      "tags": [
+        "Browns",
+        "defense",
+        "injuries"
+      ]
+    },
+    {
+      "id": "browns-steelers-streaks",
+      "category": "browns",
+      "title": "Browns' win over Steelers keeps six remarkable streaks alive",
+      "summary": "Cleveland's 27-24 win over Pittsburgh kept six notable streaks going, including its run of one-score victories, as the Browns improved to 3-1 in the AFC North.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/the-browns-win-over-the-steelers-kept-alive-6-remarkable-streaks-you-need-to-know-about.html",
+      "publishedAt": "2026-10-05T09:00:00Z",
+      "tags": [
+        "Browns",
         "Steelers",
-        "Week 4"
+        "AFC North"
       ]
     },
     {
-      "id": "buckeyes-1",
+      "id": "osu-off-script-iowa",
       "category": "buckeyes",
-      "title": "Jeremiah Smith breaks Ohio State receiving records in 31-14 win at Iowa",
-      "summary": "Jeremiah Smith became the Ohio State all-time leader in career receptions (207) and touchdown catches (36), adding 11 catches for 206 yards in a 31-14 win at No. 14 Iowa. He now holds all three of the major receiving records.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/04/jeremiah-smith-breaks-ohio-state-football-receiving-records-at-iowa/92001413007/",
-      "publishedAt": "2026-10-04T12:30:00Z",
+      "title": "Off-Script Ohio: Iowa recap, defensive turnaround and what comes next",
+      "summary": "Yahoo's Off-Script Ohio breaks down Ohio State's 31-14 win at Iowa, the Buckeyes' defensive turnaround and what lies ahead. Ohio State stayed at No. 5 in the AP poll after the victory.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/off-script-ohio-iowa-recap-103100742.html",
+      "publishedAt": "2026-10-05T10:31:00Z",
       "tags": [
+        "Buckeyes",
         "Ohio State",
-        "Jeremiah Smith",
+        "football"
+      ]
+    },
+    {
+      "id": "osu-offense-grades-iowa",
+      "category": "buckeyes",
+      "title": "Grading Ohio State's offense vs. Iowa: Sayin and Smith lead historic day",
+      "summary": "cleveland.com graded the Buckeyes' offense against Iowa, where Julian Sayin and Jeremiah Smith powered a historic performance in the 31-14 road win.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/osu/2026/10/how-julian-sayin-jeremiah-smith-and-the-rest-of-ohio-states-offense-graded-vs-iowa.html",
+      "publishedAt": "2026-10-05T10:00:00Z",
+      "tags": [
+        "Buckeyes",
         "Iowa",
-        "Big Ten"
+        "offense"
       ]
     },
     {
-      "id": "f1-2",
-      "category": "f1",
-      "title": "Hamilton recovers to podium as Antonelli edges closer to a first title",
-      "summary": "Lewis Hamilton fought back to third at Sepang behind Verstappen and Antonelli, while a late power-unit failure by George Russell boosted the championship charge of Antonelli. A chaotic, storm-delayed start defined the race.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/c5n49zx3zlvwo",
-      "publishedAt": "2026-10-04T14:30:00Z",
+      "id": "osu-defense-grades-iowa",
+      "category": "buckeyes",
+      "title": "Grading Ohio State's defense vs. Iowa: Jackson and Russaw stand out",
+      "summary": "Ohio State's defense earned strong marks for its performance against Iowa, with Kenyatta Jackson and Qua Russaw among the standouts in the 31-14 win.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/osu/2026/10/how-kenyatta-jackson-qua-russaw-and-the-rest-of-ohio-states-defense-graded-vs-iowa.html",
+      "publishedAt": "2026-10-05T10:00:00Z",
       "tags": [
-        "Formula 1",
-        "Hamilton",
-        "Antonelli",
-        "Bahrain GP"
+        "Buckeyes",
+        "defense",
+        "Iowa"
       ]
     },
     {
-      "id": "f1-1",
-      "category": "f1",
-      "title": "Verstappen wins rain-hit Bahrain GP in Malaysia, Red Bull first win of 2026",
-      "summary": "Max Verstappen converted pole into victory in a rain-delayed Bahrain Grand Prix held at Sepang, beating Kimi Antonelli after George Russell retired late. It is his and Red Bull first win of the season.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/verstappen-wins-rain-hit-bahrain-gp-in-malaysia-over-antonelli-as-russell-retires-late-on.6qfpIHPch8mIVj2YgfHdCp",
-      "publishedAt": "2026-10-04T14:00:00Z",
+      "id": "osu-smith-record-maryland",
+      "category": "buckeyes",
+      "title": "Jeremiah Smith can break another Ohio State record this week vs. Maryland",
+      "summary": "Buckeye Breakfast notes that Jeremiah Smith can break yet another school record this week when Ohio State hosts Maryland for homecoming.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/osu/2026/10/jeremiah-smith-can-break-another-record-this-week-against-maryland-buckeye-breakfast.html",
+      "publishedAt": "2026-10-05T09:00:00Z",
       "tags": [
-        "Formula 1",
-        "Verstappen",
+        "Buckeyes",
+        "Jeremiah Smith",
+        "records"
+      ]
+    },
+    {
+      "id": "f1-russell-retirement-consequence",
+      "category": "f1",
+      "title": "The added consequence of George Russell's Malaysia retirement",
+      "summary": "George Russell's late DNF in Malaysia carries extra consequences for the 2026 title race, further denting his hopes of reeling in Mercedes teammate Andrea Kimi Antonelli.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-added-consequence-of-george-russells-retirement-in-malaysia/10862231/",
+      "publishedAt": "2026-10-05T10:37:00Z",
+      "tags": [
+        "F1",
+        "Russell",
+        "Mercedes"
+      ]
+    },
+    {
+      "id": "f1-horner-redbull-ford-win",
+      "category": "f1",
+      "title": "Christian Horner responds to Red Bull's Malaysia win with Ford",
+      "summary": "Christian Horner reacted to Red Bull's Malaysia victory, calling it a milestone for the team and its new Ford-backed power unit.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-responds-to-red-bull-ford-malaysia-win/10862224/",
+      "publishedAt": "2026-10-05T10:14:00Z",
+      "tags": [
+        "F1",
         "Red Bull",
-        "Bahrain GP"
+        "Horner"
       ]
     },
     {
-      "id": "local-1",
-      "category": "local",
-      "title": "One dead, one injured in overnight East Side shooting",
-      "summary": "Columbus police found two shooting victims on the 900 block of Barnett Road early Oct. 4; both were taken to a hospital in critical condition and one was pronounced dead shortly after. The incident remains under investigation.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/local/2026/10/04/east-side-shooting-one-dead-injured-barnett-road-columbus-ohio/92089536007/",
-      "publishedAt": "2026-10-04T13:15:00Z",
+      "id": "f1-alonso-aston-best-result",
+      "category": "f1",
+      "title": "'Even faster than Ferrari' - Alonso grabs Aston Martin's best 2026 result",
+      "summary": "Fernando Alonso delivered Aston Martin's best result of the 2026 season in Malaysia, a boost the team hopes to build on as it fights through the midfield.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/even-faster-than-ferrari-fernando-alonso-grabs-aston-martins-best-result-of-f1-2026/10862029/",
+      "publishedAt": "2026-10-05T10:03:00Z",
       "tags": [
-        "Columbus",
-        "shooting",
-        "crime"
+        "F1",
+        "Alonso",
+        "Aston Martin"
       ]
     },
     {
-      "id": "local-2",
+      "id": "f1-sepang-record-crowd",
+      "category": "f1",
+      "title": "Bahrain Grand Prix draws record-breaking crowd at Sepang",
+      "summary": "The Bahrain Grand Prix in Malaysia drew a record crowd at Sepang, with 261,000 fans attending across the weekend.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/bahrain-grand-prix-breaks-sepang-attendance-record-with-261000-fans/10862215/",
+      "publishedAt": "2026-10-05T09:51:00Z",
+      "tags": [
+        "F1",
+        "Bahrain GP",
+        "Sepang"
+      ]
+    },
+    {
+      "id": "tarkov-server-maintenance-instability",
+      "category": "tarkov",
+      "title": "Players report Tarkov is 'unplayable' since latest server maintenance",
+      "summary": "A thread on r/EscapefromTarkov reports the game has become 'unplayable' since the most recent server maintenance, with players citing connection and stability problems.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1wxxi1u/since_server_maintenance_the_game_is_unplayalable/",
+      "publishedAt": "2026-10-05T02:40:00Z",
+      "tags": [
+        "Tarkov",
+        "servers",
+        "community"
+      ]
+    },
+    {
+      "id": "local-ohio-federal-gas-tax-relief",
       "category": "local",
-      "title": "Semi-truck carrying frozen food catches fire on I-270",
-      "summary": "Lanes on I-270 North near mile marker 10 were shut down after a semi hauling about 30,000 pounds of frozen food caught fire in Columbus; no one was hurt and the cause is under investigation.",
-      "source": "WHIO",
-      "url": "https://www.whio.com/news/local/semi-truck-carrying-30000-pounds-frozen-food-catches-fire/XRVWUIZFOVAYVCGBKHZPUS7MU4/",
-      "publishedAt": "2026-10-04T08:50:00Z",
+      "title": "Ohio senator calls for federal gas tax relief",
+      "summary": "An Ohio senator is pushing for federal gas tax relief, arguing drivers need a break at the pump as the state's own gas tax holiday takes effect.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/politics/ohio-senator-calls-for-federal-gas-tax-relief/",
+      "publishedAt": "2026-10-05T10:30:00Z",
+      "tags": [
+        "Ohio",
+        "gas tax",
+        "politics"
+      ]
+    },
+    {
+      "id": "local-columbus-southeast-shooting",
+      "category": "local",
+      "title": "One dead, one hospitalized after southeast Columbus shooting",
+      "summary": "One person was killed and another hospitalized after a shooting in southeast Columbus, according to police.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/one-dead-one-hospitalized-after-southeast-columbus-shooting/",
+      "publishedAt": "2026-10-05T10:22:00Z",
       "tags": [
         "Columbus",
-        "I-270",
-        "fire"
+        "crime",
+        "shooting"
+      ]
+    },
+    {
+      "id": "local-ohio-executions-history",
+      "category": "local",
+      "title": "After Tennessee's failed execution, a look at Ohio's history of botched executions",
+      "summary": "Following Tennessee's failed execution of Christa Pike, NBC4 examines Ohio's own record of botched executions and what it means for the death penalty debate.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/tennessee-failed-to-execute-christa-pike-ohio-has-its-own-history-of-botched-executions/",
+      "publishedAt": "2026-10-05T09:30:00Z",
+      "tags": [
+        "Ohio",
+        "death penalty",
+        "justice"
+      ]
+    },
+    {
+      "id": "local-springfield-haitians-deported",
+      "category": "local",
+      "title": "Five Haitians from Springfield, Ohio, deported after protected status ends",
+      "summary": "Five Haitians living in Springfield, Ohio, have been deported after the Trump administration ended their protected status. The removals highlight the policy shift's impact on Ohio immigrant communities.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/ohio/haitians-springfield-ohio-deported-trump-protected-status/530-1a7f615f-9d8c-4b14-ae13-67afb21b6a4a",
+      "publishedAt": "2026-10-04T23:30:00Z",
+      "tags": [
+        "Ohio",
+        "immigration",
+        "Springfield"
       ]
     }
   ]
