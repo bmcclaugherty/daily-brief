@@ -1,1 +1,379 @@
-{"meta":{"updatedAt":"2026-10-05T19:34:41Z","generatedBy":"hermes-cron","title":"Daily Brief","windowHours":12,"count":24},"stories":[{"id":"top-politico-air-force-one","category":"top","title":"White House blocks Politico from Air Force One as press-access fight escalates","summary":"The White House refused to let Politico join the press pool aboard Air Force One on Monday, days after a judge ordered the administration to restore access for outlets it had banned. Politico said the exclusion prevented it from carrying out rotating pool duties for other newsrooms.","source":"CNN","url":"https://www.cnn.com/2026/10/05/media/politico-white-house-print-pool-media-cnn-msnow","publishedAt":"2026-10-05T17:08:36Z","tags":["media","Trump","press freedom"]},{"id":"top-trump-diesel-actions","category":"top","title":"Trump to unveil executive actions aimed at lowering diesel prices","summary":"Trump plans to announce executive measures to bring down fuel costs during a Monday campaign stop in Nebraska, after the White House rejected a diesel export ban. High diesel prices have become a political problem for Republicans ahead of the midterms.","source":"POLITICO","url":"https://www.politico.com/news/2026/10/05/trump-diesel-prices-executive-order-01106807","publishedAt":"2026-10-05T16:05:00Z","tags":["Trump","energy","economy"]},{"id":"top-hormuz-iran-oil-toll","category":"top","title":"Is Iran charging a toll to move oil through the Strait of Hormuz?","summary":"Middle East oil exports have climbed back above pre-war levels despite Tehran blocking the Strait of Hormuz, and questions are growing over whether Iran now charges ships a fee to transit. The waterway has been effectively closed to most commercial traffic for more than 200 days.","source":"Al Jazeera","url":"https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz","publishedAt":"2026-10-05T13:11:42Z","tags":["Iran","oil","shipping"]},{"id":"top-okinawa-marine-arrest","category":"top","title":"US Marine arrested over murder of woman in Okinawa","summary":"The III Marine Expeditionary Force confirmed that Lance Cpl. Devin Jacob Ballard, 20, was arrested on suspicion of murdering 39-year-old Anna Yagi at a Naha hotel. The case has renewed Japanese criticism of the US military presence on Okinawa and drew a formal protest from Tokyo.","source":"ABC News","url":"https://abcnews.com/International/marines-identify-service-member-arrested-suspicion-murder-japan/story?id=136995946","publishedAt":"2026-10-05T12:05:29Z","tags":["Japan","US military","Okinawa"]},{"id":"tech-reflection-beam-model","category":"tech","title":"Reflection AI releases Beam, a 501B open-weight model","summary":"Reflection AI published Beam, a 501-billion-parameter open-weight model, drawing heavy attention within minutes of release. The launch adds another very large open model to a market dominated by closed frontier systems.","source":"Reflection AI","url":"https://reflection.ai/blog/introducing-beam","publishedAt":"2026-10-05T19:16:35Z","tags":["AI models","open weights","Reflection AI"]},{"id":"tech-openai-text-watermarks","category":"tech","title":"OpenAI adds invisible text watermarks to ChatGPT and Codex","summary":"OpenAI began rolling out machine-readable textGrain watermarks for eligible ChatGPT and Codex output in the EU to meet AI Act provenance rules, while letting API customers worldwide opt in. The marks are invisible to readers and detection starts with researchers.","source":"The Verge","url":"https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act","publishedAt":"2026-10-05T18:08:39Z","tags":["OpenAI","AI Act","watermarking"]},{"id":"tech-pentagon-anthropic","category":"tech","title":"Pentagon stops using Anthropic AI tools after blacklisting company","summary":"A Pentagon official told the BBC that the Department of Defense has ceased using Anthropic products, completing a phase-out ordered in February after the company refused to drop safeguards against autonomous weapons. Anthropic has separately sued the government over being labelled a supply chain risk.","source":"BBC","url":"https://www.bbc.com/news/articles/c5j9x9pr0240o","publishedAt":"2026-10-05T16:13:21Z","tags":["Anthropic","Pentagon","defense"]},{"id":"tech-ai-lab-employees-quit","category":"tech","title":"AI lab employees explain why they quit OpenAI and Anthropic","summary":"New York Magazine interviewed former employees who left leading AI labs over how their work could be used, citing defense contracts and job displacement. The piece captures growing internal dissent across the industry.","source":"New York Magazine","url":"https://nymag.com/intelligencer/article/ai-researchers-quit-openai-anthropic.html","publishedAt":"2026-10-05T09:00:08Z","tags":["OpenAI","Anthropic","AI safety"]},{"id":"browns-jets-week5-odds","category":"browns","title":"Browns at Jets early odds: New York a slim home favorite for Week 5","summary":"Early lines for Sunday at MetLife Stadium have the Jets favored by about a field goal over Cleveland. The Browns are 3-1 and carry a three-game win streak into the matchup.","source":"Covers","url":"https://www.covers.com/nfl/browns-vs-jets-prediction-picks-odds-early-leans-week-5-2026","publishedAt":"2026-10-05T14:27:00Z","tags":["NFL","Browns","Jets"]},{"id":"browns-power-rankings-sporting-news","category":"browns","title":"Browns climb Week 5 power rankings after 3-1 start","summary":"Sporting News moved Cleveland up to No. 17 in its Week 5 power rankings, crediting a three-game win streak and a defense adjusting without Myles Garrett. Deshaun Watson has steadied with a young receiving corps around him.","source":"Sporting News","url":"https://www.sportingnews.com/us/nfl/news/nfl-power-rankings-week-5/bcdbc8dfa5349061230758d7","publishedAt":"2026-10-05T13:20:00Z","tags":["NFL","Browns","power rankings"]},{"id":"browns-power-rankings-yahoo","category":"browns","title":"Browns jump into top 10 of Week 5 power rankings","summary":"Yahoo Sports put Cleveland at No. 10 in its Week 5 rankings, one of the biggest jumps in the league after the Browns beat Pittsburgh 27-24. The team sits at 3-1 with winnable games ahead.","source":"Yahoo Sports","url":"https://sports.yahoo.com/articles/nfl-power-rankings-week-5-100057149.html","publishedAt":"2026-10-05T10:00:57Z","tags":["NFL","Browns","power rankings"]},{"id":"browns-super-bowl-odds-si","category":"browns","title":"Bookmakers still price Browns as long shots despite 3-1 start","summary":"Sports Illustrated notes Cleveland moved only to +18000 to win the Super Bowl while shortening to +250 to make the playoffs. Oddsmakers remain skeptical even as the Browns sit at 3-1.","source":"Sports Illustrated","url":"https://www.si.com/betting/nfl-power-rankings-based-on-super-bowl-odds-ahead-of-week-5-49ers-take-top-spot-chiefs-rams-rise","publishedAt":"2026-10-05T09:00:00Z","tags":["NFL","Browns","betting"]},{"id":"buckeyes-smith-big-ten-opow","category":"buckeyes","title":"Jeremiah Smith wins second straight Big Ten Offensive Player of the Week","summary":"Ohio State receiver Jeremiah Smith took the Big Ten weekly offensive honor again after 11 catches for 206 yards and two touchdowns at Iowa. He set program career records for receptions, receiving yards and touchdown catches in the 31-14 win.","source":"Eleven Warriors","url":"https://www.elevenwarriors.com/ohio-state-football/2026/10/164377/jeremiah-smith-wins-second-straight-big-ten-offensive-player-of-the-week-award","publishedAt":"2026-10-05T19:03:18Z","tags":["Ohio State","football","Big Ten"]},{"id":"buckeyes-indiana-kick-time","category":"buckeyes","title":"Ohio State-Indiana rematch set for noon kickoff on FOX","summary":"Indiana announced that its Oct. 17 home game against Ohio State will kick at noon ET on FOX, with Big Noon Kickoff expected on site. It is a top-10 rematch of the 2025 Big Ten championship game.","source":"The Daily Hoosier","url":"https://www.thedailyhoosier.com/kick-time-and-television-designation-set-for-iu-footballs-blockbuster-vs-ohio-state/","publishedAt":"2026-10-05T17:17:13Z","tags":["Ohio State","Indiana","Big Ten"]},{"id":"buckeyes-maryland-five-things","category":"buckeyes","title":"Five things to know as Ohio State turns to Maryland","summary":"Eleven Warriors previewed Saturday home game against Maryland, noting the Terrapins may be nearing a coaching change and that quarterback Malik Washington can make plays. Ohio State hosts Maryland at 4:15 p.m. ET on Oct. 10.","source":"Eleven Warriors","url":"https://www.elevenwarriors.com/ohio-state-football/2026/10/164355/five-things-to-know-maryland-might-not-have-mike-locksley-coaching-for-long-malik-washington-can-make-plays-and-one","publishedAt":"2026-10-05T12:36:03Z","tags":["Ohio State","Maryland","football"]},{"id":"buckeyes-cfp-projections","category":"buckeyes","title":"ESPN projects Ohio State in the College Football Playoff after Week 5","summary":"ESPN Week 5 bowl and playoff projections slot the Buckeyes as a top-six seed following their road win at Iowa. Both projections have Ohio State playing in a quarterfinal.","source":"ESPN","url":"https://abc7.com/post/2026-27-week-5-college-football-playoff-bowl-projections/19909786/","publishedAt":"2026-10-05T11:59:07Z","tags":["Ohio State","CFP","projections"]},{"id":"f1-verstappen-malaysia-2027","category":"f1","title":"Verstappen win in Malaysia hints at a close title fight next season","summary":"Max Verstappen won in Malaysia and Formula 1 argued the result points to a tighter championship battle in 2027. Red Bull cured weaknesses to hand the Dutchman his first win of 2026.","source":"formula1.com","url":"https://www.formula1.com/en/latest/article/max-verstappens-malaysian-triumph-hints-at-a-close-title-battle-next-season.ZcVMKm6k8IYRaVcLSrmSs","publishedAt":"2026-10-05T18:10:46Z","tags":["F1","Verstappen","Red Bull"]},{"id":"f1-f2-f3-2027-calendars","category":"f1","title":"FIA Formula 2 and Formula 3 announce 2027 calendars","summary":"The F2 and F3 schedules for 2027 add Istanbul and Mexico City to Formula 2 across 14 rounds. Formula 1 chief Stefano Domenicali called the junior categories the pathway to the top of the sport.","source":"formula1.com","url":"https://www.formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH","publishedAt":"2026-10-05T17:30:12Z","tags":["F1","F2","F3"]},{"id":"f1-sepang-winners-losers","category":"f1","title":"Five winners and five losers from the Malaysia Grand Prix","summary":"Formula 1 ran through the biggest gains and setbacks from Sunday race at Sepang, where Verstappen won and McLaren left points on the table. The piece weighs strategy calls and driver performances.","source":"formula1.com","url":"https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-the-bahrain-grand-prix-in-malaysia.ndcQ6Uza4pKcTHsLnvJoH","publishedAt":"2026-10-05T15:30:13Z","tags":["F1","Malaysia","analysis"]},{"id":"f1-mclaren-tyre-strategy","category":"f1","title":"McLaren got their Sepang tyre strategy sums wrong","summary":"Formula 1 detailed how an incorrect judgement on tyre life cost McLaren at the Malaysian Grand Prix. The team misread degradation on a hot Sepang afternoon.","source":"formula1.com","url":"https://www.formula1.com/en/latest/article/how-mclaren-got-their-sums-wrong-on-sepang-tyre-strategy.4v0pYbPzbMliaDbxtRYrH0","publishedAt":"2026-10-05T14:27:09Z","tags":["F1","McLaren","strategy"]},{"id":"local-east-columbus-shooting-sunday","category":"local","title":"Two hospitalized in East Columbus shooting","summary":"Columbus police said two people were hospitalized in stable condition after a Sunday afternoon shooting on the East Side. The incident was separate from an early-morning Barnett Road shooting that killed one person.","source":"Hoodline","url":"https://hoodline.com/2026/10/two-hospitalized-in-east-columbus-shooting/","publishedAt":"2026-10-05T13:58:02Z","tags":["Columbus","crime","East Side"]},{"id":"local-cleveland-ave-stabbing-arrest","category":"local","title":"Suspect arrested in Columbus stabbing death after manhunt to Logan","summary":"Brandon Parsons died after being stabbed at Cleveland and Reynolds avenues early Sunday, and police filed a murder warrant for Jacob Iams, who was arrested in Logan hours later. Police said the arrest came about 11 hours after the stabbing.","source":"Hoodline","url":"https://hoodline.com/2026/10/man-dies-in-cleveland-avenue-stabbing-suspect-caught-hours-later-in-logan/","publishedAt":"2026-10-05T12:30:17Z","tags":["Columbus","crime","Logan"]},{"id":"local-east-side-shooting-seabrook","category":"local","title":"Shooting on Columbus East Side kills one, injures one","summary":"One person died and another was injured in a shooting late Sunday on the 3600 block of Seabrook Avenue, a Columbus police dispatcher said. The second victim was taken to a hospital in unstable condition.","source":"The Columbus Dispatch","url":"https://www.dispatch.com/story/news/crime/2026/10/05/shooting-on-columbus-east-side-kills-one-injures-one/92100383007/","publishedAt":"2026-10-05T10:35:00Z","tags":["Columbus","crime","shooting"]},{"id":"local-columbus-monday-weather","category":"local","title":"Columbus weather: pleasant Monday before a workweek warm-up","summary":"Forecasters called for a comfortable, dry Monday across central Ohio ahead of hotter, more humid air later in the week. Scattered storms are possible Thursday through Saturday.","source":"ABC 6 / WSYX","url":"https://abc6onyourside.com/news/local/columbus-ohio-weather-forecast-pleasant-monday-workweek-ahead-comfortable-fall-autumn-october-oct-5-2026","publishedAt":"2026-10-05T09:37:48Z","tags":["Columbus","weather","forecast"]}]}
+{
+  "meta": {
+    "updatedAt": "2026-10-06T11:00:00Z",
+    "generatedBy": "hermes-cron",
+    "title": "Daily Brief",
+    "windowHours": 12,
+    "count": 25
+  },
+  "stories": [
+    {
+      "id": "top-20261006-houthi-saudi-airports",
+      "category": "top",
+      "title": "Houthi rebels strike two airports in southern Saudi Arabia",
+      "summary": "Attacks damaged airports in Jazan and Najran as Saudi-backed Yemeni forces push a counteroffensive to retake the Red Sea coast. The escalation threatens the Bab al-Mandeb shipping route and regional oil flows.",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/world/middle-east/yemens-houthi-rebels-strike-two-airports-in-saudi-arabia-072f4dd3",
+      "publishedAt": "2026-10-06T10:22:00Z",
+      "tags": [
+        "Yemen",
+        "Houthis",
+        "Saudi Arabia",
+        "oil"
+      ]
+    },
+    {
+      "id": "top-20261006-yemen-bab-al-mandab",
+      "category": "top",
+      "title": "Yemeni forces say they have 'secured' the Bab al-Mandab Strait",
+      "summary": "Saudi-backed government forces say they retook the Red Sea coast around Bab al-Mandab, including the port city of Mokha, in a major offensive against the Houthis. Control of the strait matters for global shipping and energy routes.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cw8rzd6lp0xpo",
+      "publishedAt": "2026-10-06T09:00:00Z",
+      "tags": [
+        "Yemen",
+        "Bab al-Mandab",
+        "shipping",
+        "Houthis"
+      ]
+    },
+    {
+      "id": "top-20261006-ukraine-moscow-drones",
+      "category": "top",
+      "title": "Ukraine hits Moscow with one of its largest drone attacks in two years",
+      "summary": "Roughly 650 drones were launched overnight at Moscow and the surrounding region, killing one man and wounding several, Russian officials said. Moscow said most were downed; the strike signals continued deep-strike pressure as winter approaches.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261006-massive-ukrainian-drone-attack-targets-moscow-russian-officials-say",
+      "publishedAt": "2026-10-06T08:11:00Z",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "drones",
+        "war"
+      ]
+    },
+    {
+      "id": "top-20261006-india-voter-roll-protest",
+      "category": "top",
+      "title": "Hundreds of police guard India's capital ahead of voter-roll protest",
+      "summary": "Security forces barricaded the Election Commission office in New Delhi before an opposition march demanding the election chief resign over a contested revision of voter lists. The dispute has raised concerns about the commission's neutrality.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/hundreds-police-guard-indian-capital-ahead-opposition-protest-2026-10-06/",
+      "publishedAt": "2026-10-06T04:03:00Z",
+      "tags": [
+        "India",
+        "elections",
+        "protest",
+        "Modi"
+      ]
+    },
+    {
+      "id": "tech-20261006-opus55-semiconductors",
+      "category": "tech",
+      "title": "AI agents help surface two room-temperature magnetic semiconductor candidates",
+      "summary": "Researchers report that Opus 5.5 agents identified two candidate room-temperature magnetic semiconductors, a class of material long sought for low-power spintronic computing. If confirmed, the find points to AI-assisted materials discovery moving from screening to new candidates.",
+      "source": "Vals AI",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "publishedAt": "2026-10-06T09:30:00Z",
+      "tags": [
+        "AI research",
+        "materials",
+        "semiconductors"
+      ]
+    },
+    {
+      "id": "tech-20261006-reflection-beam",
+      "category": "tech",
+      "title": "Reflection unveils Beam, a 501B-parameter open-weight model",
+      "summary": "Reflection introduced Beam, a sparse mixture-of-experts model with 501B total and 23B active parameters aimed at coding and agentic work, trained with more than 100 million RL rollouts on 10.5K Nvidia GB300 GPUs. Weights and a technical report are promised later this month.",
+      "source": "Reflection",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "publishedAt": "2026-10-06T09:00:00Z",
+      "tags": [
+        "AI models",
+        "open weights",
+        "LLM",
+        "Reflection"
+      ]
+    },
+    {
+      "id": "tech-20261006-openai-textgrain",
+      "category": "tech",
+      "title": "OpenAI rolls out textGrain watermarking for AI-generated text",
+      "summary": "OpenAI is adding an invisible watermark, textGrain, to eligible ChatGPT and Codex output inside the EU to comply with the bloc's AI Act, with API customers worldwide able to opt in. OpenAI says detection remains early-stage and is limiting the rollout for feedback.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/328592/20261006/openai-unveils-new-ai-text-watermarking-system-coming-chatgpt-codex-api.htm",
+      "publishedAt": "2026-10-06T07:00:00Z",
+      "tags": [
+        "OpenAI",
+        "EU AI Act",
+        "watermarking",
+        "policy"
+      ]
+    },
+    {
+      "id": "browns-20261006-daily-dawg-chow",
+      "category": "browns",
+      "title": "Browns notes: pass rush production, trade chatter and a possible key injury",
+      "summary": "Cleveland's daily roundup covers the team's sack production, continuing trade speculation and an injury to monitor ahead of Week 6. The Browns are trying to protect their spot atop the AFC North.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/134413/cleveland-browns-news-jared-verse-shedeur-sanders-khalil-mack",
+      "publishedAt": "2026-10-06T10:00:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "injuries",
+        "trade rumors"
+      ]
+    },
+    {
+      "id": "browns-20261006-3-trades",
+      "category": "browns",
+      "title": "Analyst floats three trades to set the Browns up for a deep playoff run",
+      "summary": "A Cleveland-focused breakdown argues the Browns should deal from their crowded roster before the November deadline to add help for a playoff push. It frames the moves as upgrades rather than a rebuild.",
+      "source": "SI / NBC4",
+      "url": "https://www.nbc4i.com/sports/sports-illustrated/arena-nfl/si-cleveland-browns-nfl/6b65c487/these-3-trades-could-set-browns-up-for-deep-playoff-run-this-season",
+      "publishedAt": "2026-10-06T08:00:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "trade deadline"
+      ]
+    },
+    {
+      "id": "browns-20261006-sanders-trade-talk",
+      "category": "browns",
+      "title": "Browns insider shuts down Shedeur Sanders trade talk",
+      "summary": "A team-connected reporter pushed back on growing speculation that Cleveland could move quarterback Shedeur Sanders before the Nov. 10 deadline. The debate centers on whether the Browns keep four quarterbacks on the roster.",
+      "source": "SI / NBC4",
+      "url": "https://www.nbc4i.com/sports/sports-illustrated/arena-nfl/si-cleveland-browns-nfl/77c4e54a/browns-insider-ends-conversation-surrounding-a-shedeur-sanders-trade",
+      "publishedAt": "2026-10-06T07:00:00Z",
+      "tags": [
+        "Browns",
+        "Shedeur Sanders",
+        "NFL",
+        "quarterbacks"
+      ]
+    },
+    {
+      "id": "buckeyes-20261006-indiana-kickoff",
+      "category": "buckeyes",
+      "title": "Kickoff time set for Ohio State's game at Indiana",
+      "summary": "The Big Ten announced the start time for the Buckeyes' Oct. 17 road trip to Indiana, a matchup of top-10 teams. Ohio State returns home to face Maryland on Saturday first.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/buckeyes/when-ohio-state-plays-indiana-kickoff-time-is-announced-for-oct-17-2026-game/",
+      "publishedAt": "2026-10-06T10:46:00Z",
+      "tags": [
+        "Ohio State",
+        "Buckeyes",
+        "Big Ten",
+        "Indiana"
+      ]
+    },
+    {
+      "id": "buckeyes-20261006-jeremiah-smith-maryland",
+      "category": "buckeyes",
+      "title": "Column: Jeremiah Smith should feast on Maryland's pass defense",
+      "summary": "A Columbus Dispatch columnist argues the homecoming matchup is a prime chance for Jeremiah Smith to pad his Heisman case, noting Maryland ranks near the bottom nationally in defensive passing efficiency. Smith has posted back-to-back 200-yard receiving games.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/columns/2026/10/06/jeremiah-smith-ohio-state-football-receiver-maryland-game-preview/92101470007/",
+      "publishedAt": "2026-10-06T09:08:00Z",
+      "tags": [
+        "Ohio State",
+        "Jeremiah Smith",
+        "Heisman",
+        "Maryland"
+      ]
+    },
+    {
+      "id": "buckeyes-20261006-recruiting-weekend",
+      "category": "buckeyes",
+      "title": "Ohio State lines up another big defensive line recruiting weekend",
+      "summary": "The Buckeyes will host 2028 five-star defensive linemen for the Maryland homecoming game as they try to protect the nation's top early 2028 class. Both visitors rank among the highest-rated defensive line prospects in the cycle.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-recruiting/123223/ohio-state-buckeyes-big-2028-defensive-line-recruiting-weekend-ahead",
+      "publishedAt": "2026-10-06T09:01:00Z",
+      "tags": [
+        "Ohio State",
+        "recruiting",
+        "Buckeyes"
+      ]
+    },
+    {
+      "id": "buckeyes-20261006-day-texas-lessons",
+      "category": "buckeyes",
+      "title": "Ryan Day says Texas collapse was a wake-up call for a rebuilt roster",
+      "summary": "Day said the Week 2 fourth-quarter loss at Texas forced roughly 60 new players to absorb the 'you're not allowed to lose here' standard at Ohio State. He credited that reset for the road win at Iowa and said the focus is now on avoiding complacency against Maryland.",
+      "source": "EssentiallySports",
+      "url": "https://www.essentiallysports.com/ncaa-college-football-news-ryan-day-opens-up-on-brutal-reality-osu-players-were-forced-to-learn-at-ohio-state-it-brings-you-to-your-knees/",
+      "publishedAt": "2026-10-06T03:39:00Z",
+      "tags": [
+        "Ohio State",
+        "Ryan Day",
+        "Big Ten",
+        "Buckeyes"
+      ]
+    },
+    {
+      "id": "f1-20261006-2030-v8-plan",
+      "category": "f1",
+      "title": "Report: 2030 engine rules to pair twin turbos with a smaller hybrid",
+      "summary": "A report outlines the expected 2030 Formula 1 power unit regulations, built around twin-turbo V8s with a reduced hybrid element. The rules will shape which manufacturers commit to the next engine cycle.",
+      "source": "F1-Fansite",
+      "url": "https://www.f1-fansite.com/f1-news/report-new-2030-v8-plan-has-twin-turbos-smaller-hybrid/",
+      "publishedAt": "2026-10-06T10:29:00Z",
+      "tags": [
+        "F1",
+        "2030 regulations",
+        "engines"
+      ]
+    },
+    {
+      "id": "f1-20261006-mekies-engine-win",
+      "category": "f1",
+      "title": "Mekies admits Red Bull's first engine win was a surprise",
+      "summary": "Red Bull team boss Laurent Mekies said the squad's maiden victory with its own Ford-badged power unit, at the Bahrain GP in Malaysia, came sooner than expected. Max Verstappen's win was the first for Red Bull Ford Powertrains.",
+      "source": "F1-Fansite",
+      "url": "https://www.f1-fansite.com/f1-news/mekies-admits-red-bulls-first-engine-win-was-a-surprise/",
+      "publishedAt": "2026-10-06T10:00:00Z",
+      "tags": [
+        "F1",
+        "Red Bull",
+        "Verstappen",
+        "engines"
+      ]
+    },
+    {
+      "id": "f1-20261006-honda-hrc-boss",
+      "category": "f1",
+      "title": "Honda confirms Watanabe exit and new HRC boss from January",
+      "summary": "Honda will install a new head of its racing division from January as Koji Watanabe departs. The change lands as Honda prepares to supply engines under F1's next regulations.",
+      "source": "F1-Fansite",
+      "url": "https://www.f1-fansite.com/f1-news/honda-confirms-watanabe-exit-and-new-hrc-boss-from-january/",
+      "publishedAt": "2026-10-06T10:00:00Z",
+      "tags": [
+        "F1",
+        "Honda",
+        "HRC"
+      ]
+    },
+    {
+      "id": "f1-20261006-alonso-dakar",
+      "category": "f1",
+      "title": "Alonso reportedly set for a Dakar return with Aston Martin",
+      "summary": "Reports link Fernando Alonso to another Dakar Rally appearance backed by Aston Martin. The two-time F1 champion has continued cross-discipline racing while his F1 future beyond 2026 remains undecided.",
+      "source": "F1-Fansite",
+      "url": "https://www.f1-fansite.com/f1-news/alonso-reportedly-set-for-dakar-return-with-aston-martin/",
+      "publishedAt": "2026-10-06T10:00:00Z",
+      "tags": [
+        "F1",
+        "Fernando Alonso",
+        "Dakar",
+        "Aston Martin"
+      ]
+    },
+    {
+      "id": "tarkov-20261006-pve-prestige",
+      "category": "tarkov",
+      "title": "Escape from Tarkov's biggest PvE update arrives with Prestige",
+      "summary": "Patch 1.2.0.0 adds the long-awaited PvE Prestige system, an EXFIL Brothers referral program with in-game rewards, reworked AI PMC behaviour and loot changes. PvE players can also now buy rubles with real money, a PvP-excluded feature.",
+      "source": "Insider Gaming",
+      "url": "https://insider-gaming.com/escape-from-tarkovs-biggest-pve-update-has-arrived-finally-adding-prestige/",
+      "publishedAt": "2026-10-06T09:00:00Z",
+      "tags": [
+        "Escape from Tarkov",
+        "patch 1.2.0.0",
+        "PvE",
+        "prestige"
+      ]
+    },
+    {
+      "id": "tarkov-20261006-patch-install",
+      "category": "tarkov",
+      "title": "Battlestate begins installing Tarkov patch 1.2.0.0, servers offline",
+      "summary": "Battlestate Games started deploying update 1.2.0.0 at 07:04 UTC, warning installation will take five to seven hours and that the game will be unavailable. The patch notes detail the PvE prestige reset requirements and EXFIL Brothers rewards.",
+      "source": "Escape from Tarkov",
+      "url": "https://www.escapefromtarkov.com/news/id/411",
+      "publishedAt": "2026-10-06T07:10:00Z",
+      "tags": [
+        "Escape from Tarkov",
+        "patch 1.2.0.0",
+        "downtime",
+        "Battlestate"
+      ]
+    },
+    {
+      "id": "tarkov-20261006-polygon-pve",
+      "category": "tarkov",
+      "title": "Polygon: Tarkov's new update reworks bots and finally adds PvE prestige",
+      "summary": "Coverage of patch 1.2.0.0 highlights the overhaul of AI-controlled PMC behaviour alongside six PvE prestige levels, the biggest shift yet for players who avoid PvP. It also notes changes to how players level up and loot is distributed.",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/escape-from-tarkov-pve-update-1-2-0-0-exfil-brothers-prestige/",
+      "publishedAt": "2026-10-06T07:00:00Z",
+      "tags": [
+        "Escape from Tarkov",
+        "PvE",
+        "patch 1.2.0.0"
+      ]
+    },
+    {
+      "id": "local-20261006-early-voting",
+      "category": "local",
+      "title": "Early voting opens in Ohio ahead of the Nov. 3 election",
+      "summary": "In-person early voting began Tuesday in Ohio, where voters will decide the Gahanna charter amendments (Issues 18-27), school levies and other Franklin County ballot questions. Early voting runs through the day before the Nov. 3 general election.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/videos/news/2026/10/06/early-voting-starts-will-delaware-county-turn-blue-and-more-top-headlines/92111194007/",
+      "publishedAt": "2026-10-06T10:30:00Z",
+      "tags": [
+        "Ohio",
+        "early voting",
+        "Gahanna",
+        "elections"
+      ]
+    },
+    {
+      "id": "local-20261006-daylight-loss",
+      "category": "local",
+      "title": "How much daylight Columbus will lose in October",
+      "summary": "Columbus is on track to shed a significant amount of evening daylight this month as sunset moves earlier each week. The shift matters for commuters, school schedules and after-work activities across central Ohio.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/october-daylight-decrease-ohio/",
+      "publishedAt": "2026-10-06T10:15:00Z",
+      "tags": [
+        "Columbus",
+        "weather",
+        "fall"
+      ]
+    },
+    {
+      "id": "local-20261006-shrek-blogger-trial",
+      "category": "local",
+      "title": "Ohio blogger faces trial over obscene Shrek image sent to a state senator",
+      "summary": "Columbus political blogger D.J. Byrnes is set to stand trial Oct. 8 on a misdemeanor telecommunications harassment charge for sending an obscene Shrek image to a state senator. He has pleaded not guilty in one of Ohio's more unusual criminal cases.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/state/2026/10/06/ohio-blogger-faces-trial-over-obscene-shrek-image-sent-to-state-senator/92000891007/",
+      "publishedAt": "2026-10-06T10:11:00Z",
+      "tags": [
+        "Columbus",
+        "Ohio",
+        "courts",
+        "politics"
+      ]
+    },
+    {
+      "id": "local-20261006-new-ohio-laws",
+      "category": "local",
+      "title": "About a dozen new Ohio laws take effect Tuesday",
+      "summary": "New state laws taking effect Oct. 6 require drivers to give basic identifying information at traffic stops and add new mandates for schools, among other measures. The changes affect drivers, students and local agencies across central Ohio.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/politics/all-about-new-ohio-laws-taking-effect-on-tuesday-oct-6-2026/",
+      "publishedAt": "2026-10-06T10:00:00Z",
+      "tags": [
+        "Ohio",
+        "laws",
+        "Columbus",
+        "policy"
+      ]
+    }
+  ]
+}
