@@ -1,241 +1,310 @@
 {
-  "meta": {
-    "updatedAt": "2026-10-06T19:33:00Z",
-    "generatedBy": "hermes-cron",
-    "title": "Daily Brief",
-    "windowHours": 12,
-    "count": 23
-  },
-  "stories": [
-    {
-      "id": "top-20261006-trump-iran-cities",
-      "category": "top",
-      "title": "White House walks back Trump's 'let 'em take out LA' remark",
-      "summary": "After Trump told a Nebraska rally that Iran could 'take out Los Angeles' and 'take out San Diego' as 'a very small price to pay' for the war, an aide said the president was explaining how he is preventing such an attack rather than inviting one. California Gov. Gavin Newsom called the comments 'deranged and dangerous', and Trump also said his MAGA Inc. super PAC would pay for taxpayer-funded ads promoting him.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-take-out-los-angeles-san-diego-52a8262c33c8e28357634a3f06a5034c",
-      "publishedAt": "2026-10-06T16:00:00Z",
-      "tags": ["Trump", "Iran", "midterms", "politics"]
+    "meta": {
+        "updatedAt": "2026-10-07T11:20:00Z",
+        "generatedBy": "hermes-cron",
+        "title": "Daily Brief",
+        "windowHours": 12,
+        "count": 20
     },
-    {
-      "id": "top-20261006-ukraine-drones-900",
-      "category": "top",
-      "title": "Russia says nearly 900 Ukrainian drones were downed overnight",
-      "summary": "Moscow's defense ministry said air defenses intercepted around 900 Ukrainian drones over Russia, occupied Crimea and the Sea of Azov, while officials in the Moscow region reported two deaths and unconfirmed reports of a burning fuel depot. President Zelenskyy said Kyiv has fresh intelligence on a coming 'massive' Russian strike and is preparing countermeasures.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-d6e8cbb6d0ffdc7cbd2da59b9cd6f7c9",
-      "publishedAt": "2026-10-06T14:43:00Z",
-      "tags": ["Ukraine", "Russia", "drones", "war"]
-    },
-    {
-      "id": "top-20261006-yemen-mocha",
-      "category": "top",
-      "title": "Saudi-backed Yemeni forces push to retake the Red Sea coast",
-      "summary": "Government forces say they recaptured the port city of Mokha and seized ground around the Bab el-Mandeb Strait in a lightning counteroffensive, though the Houthis deny losing territory. Saudi Arabia confirmed Houthi strikes damaged Jizan and Najran airports, and Brent crude held near $100 a barrel as traders watched the shipping route.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html",
-      "publishedAt": "2026-10-06T13:00:00Z",
-      "tags": ["Yemen", "Houthis", "Red Sea", "oil"]
-    },
-    {
-      "id": "top-20261006-nobel-physics-halzen",
-      "category": "top",
-      "title": "Neutrino hunter Francis Halzen wins the 2026 Nobel Prize in Physics",
-      "summary": "The Royal Swedish Academy of Sciences awarded the physics Nobel to Francis Halzen of the University of Wisconsin for 'decisive contributions' to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin. The prize recognizes a detector built inside a cubic kilometre of Antarctic ice.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
-      "publishedAt": "2026-10-06T10:00:00Z",
-      "tags": ["Nobel", "physics", "neutrinos", "science"]
-    },
-    {
-      "id": "tech-20261006-deepseek-funding",
-      "category": "tech",
-      "title": "DeepSeek set to raise more than $12 billion ahead of a 2027 IPO",
-      "summary": "The Chinese AI developer is closing a round worth over 80 billion yuan (about $11.9 billion) led by Tencent and battery maker CATL, Reuters reported, with the total possibly reaching $15 billion. The cash would fund a buildout that includes 160,000 Huawei AI chips at a new data center in Inner Mongolia.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/deepseek-raise-least-12-billion-tencent-backed-funding-bloomberg-news-reports-2026-10-06/",
-      "publishedAt": "2026-10-06T19:10:00Z",
-      "tags": ["DeepSeek", "AI funding", "China", "IPO"]
-    },
-    {
-      "id": "tech-20261006-vinci-funding",
-      "category": "tech",
-      "title": "Vinci raises $250M at a $1.5B valuation for engineering-simulation AI",
-      "summary": "The Palo Alto startup said it raised $250 million at a $1.5 billion valuation to expand AI-driven software that simulates chip and hardware design before anything is built. It is part of a funding wave aimed at cutting the cost of physical prototyping.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/software-startup-vinci-raises-250-million-15-billion-valuation-2026-10-06/",
-      "publishedAt": "2026-10-06T08:45:00Z",
-      "tags": ["startups", "funding", "AI", "chips"]
-    },
-    {
-      "id": "tech-20261006-openai-textgrain",
-      "category": "tech",
-      "title": "OpenAI outlines 'textGrain' watermarking for ChatGPT text in the EU",
-      "summary": "OpenAI detailed how it will make generated text machine-readable to satisfy the EU AI Act, including invisible marks in eligible ChatGPT and Codex output plus an opt-in watermark for API customers. The company warns the marks are easy to weaken with editing and that detection remains unreliable.",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/328592/20261006/openai-unveils-new-ai-text-watermarking-system-coming-chatgpt-codex-api.htm",
-      "publishedAt": "2026-10-06T08:00:00Z",
-      "tags": ["OpenAI", "EU AI Act", "watermarking", "policy"]
-    },
-    {
-      "id": "browns-20261006-sanders-trade",
-      "category": "browns",
-      "title": "Browns not looking to trade Shedeur Sanders, insider says",
-      "summary": "Cleveland reporter Daryl Ruiter reversed his own prediction and said the Browns want to keep developing Shedeur Sanders behind Deshaun Watson rather than move him before the November 10 deadline. ESPN's Jeremy Fowler still sees the team as willing to listen if the right offer arrives for Sanders or Dillon Gabriel.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/browns-insider-drops-ultimate-shedeur-153448945.html",
-      "publishedAt": "2026-10-06T15:34:00Z",
-      "tags": ["Browns", "Shedeur Sanders", "NFL", "trade rumors"]
-    },
-    {
-      "id": "browns-20261006-jets-preview",
-      "category": "browns",
-      "title": "3-1 Browns head to New York as underdogs against the Jets",
-      "summary": "Cleveland rides a three-game win streak into Sunday's game at MetLife Stadium, yet is a small underdog against a Jets team that has lost three straight. The Browns' offensive line is banged up, with Teven Jenkins and Elgton Jenkins both questionable, while Mason Graham is listed questionable with knee and ankle injuries.",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/news/browns-vs-jets-prediction-odds-expert-picks-qb-matchup-injury-update-betting-trends-and-stats",
-      "publishedAt": "2026-10-06T14:36:00Z",
-      "tags": ["Browns", "Jets", "NFL", "Week 5"]
-    },
-    {
-      "id": "browns-20261006-khalil-mack",
-      "category": "browns",
-      "title": "Khalil Mack trade math: what an edge rusher would cost Cleveland",
-      "summary": "With Alex Wright out for the season, the Browns are among the teams linked to Chargers edge rusher Khalil Mack, who has three sacks in four games for a 0-4 team. Because Los Angeles already paid his signing bonus, a deal this week would cost Cleveland just over $6 million in cap space, dropping by about $1 million every two weeks.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/browns-trade-talk-khalil-mack-133749503.html",
-      "publishedAt": "2026-10-06T13:37:00Z",
-      "tags": ["Browns", "Khalil Mack", "NFL", "trade rumors"]
-    },
-    {
-      "id": "browns-20261006-injury-updates",
-      "category": "browns",
-      "title": "Browns defensive line takes hits: Mason Graham sprains MCL",
-      "summary": "Rookie defensive tackle Mason Graham suffered a grade 2 MCL sprain and a grade 1 ankle sprain against Pittsburgh, while Michael Hall Jr. left in a walking boot with an ankle sprain. Kalia Davis and Elgton Jenkins are both due for evaluations, and Dillon Gabriel can open his 21-day practice window this week.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-rumors-10-105740076.html",
-      "publishedAt": "2026-10-06T10:57:00Z",
-      "tags": ["Browns", "injuries", "Mason Graham", "NFL"]
-    },
-    {
-      "id": "buckeyes-20261006-day-injury-update",
-      "category": "buckeyes",
-      "title": "Ryan Day gives injury update as No. 5 Ohio State preps for Maryland",
-      "summary": "Speaking Tuesday before the Buckeyes host Maryland on Saturday, Day addressed the health of his roster after a 31-14 win over Iowa that moved Ohio State to 4-1. The Maryland game is the last tune-up before a trip to Indiana the following week.",
-      "source": "A to Z Sports",
-      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ryan-day-injury-update-before-big-ten-game-maryland/",
-      "publishedAt": "2026-10-06T17:45:00Z",
-      "tags": ["Ohio State", "Ryan Day", "injuries", "Big Ten"]
-    },
-    {
-      "id": "buckeyes-20261006-maryland-week",
-      "category": "buckeyes",
-      "title": "Ohio State turns the page to Maryland after 31-14 win over Iowa",
-      "summary": "Ryan Day met the media at noon Tuesday to recap the Buckeyes' win over Iowa and preview Saturday's home game against Mike Locksley's Maryland. Kickoff in Ohio Stadium is set for 4:15 p.m. ET on Oct. 10.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/06/ohio-state-football-coach-ryan-day-speaks-ahead-of-maryland/92116137007/",
-      "publishedAt": "2026-10-06T16:45:00Z",
-      "tags": ["Ohio State", "Maryland", "Iowa", "Big Ten"]
-    },
-    {
-      "id": "buckeyes-20261006-day-freshmen",
-      "category": "buckeyes",
-      "title": "Day: Buckeyes freshmen must earn their snaps",
-      "summary": "At his weekly press conference ahead of Ohio State's Week 6 matchup with Maryland, Ryan Day said young players need to prove themselves in practice before getting game reps. The comments come as the Buckeyes manage a deep rotation on both sides of the ball.",
-      "source": "Cleveland.com",
-      "url": "https://www.cleveland.com/osu/2026/10/ryan-day-says-freshmen-need-to-earn-opportunity-to-play-as-ohio-state-football-prepares-for-maryland.html",
-      "publishedAt": "2026-10-06T16:30:00Z",
-      "tags": ["Ohio State", "Ryan Day", "Maryland", "football"]
-    },
-    {
-      "id": "f1-20261006-hadjar-probe",
-      "category": "f1",
-      "title": "Red Bull still hunting the cause of Hadjar's lost Sepang podium",
-      "summary": "Team boss Laurent Mekies said Red Bull has no exact answer yet for why Isack Hadjar lost pace after the final safety car in Malaysia and slipped from third to fifth, with data from the chassis and power unit still being analysed. Mekies also indicated the car may have suffered floor damage on the way to the grid.",
-      "source": "GPblog",
-      "url": "https://www.gpblog.com/en/news/mekies-admits-hadjars-car-was-not-right-at-sepang-as-red-bull-investigate-lost-podium",
-      "publishedAt": "2026-10-06T15:45:00Z",
-      "tags": ["F1", "Red Bull", "Isack Hadjar", "Singapore GP"]
-    },
-    {
-      "id": "f1-20261006-antonelli-title-maths",
-      "category": "f1",
-      "title": "Antonelli cannot clinch the title in Singapore; Austin is earliest",
-      "summary": "Kimi Antonelli leads George Russell by 84 points with 183 still available, so even a perfect weekend at Marina Bay would leave the championship open. The earliest the Mercedes driver could be crowned is the United States Grand Prix in Austin on October 25.",
-      "source": "GPblog",
-      "url": "https://www.gpblog.com/en/news/antonelli-cant-be-crowned-in-singapore-but-russells-dnf-puts-austin-in-play-as-hamilton-keeps-the-title-maths-alive",
-      "publishedAt": "2026-10-06T14:00:00Z",
-      "tags": ["F1", "Kimi Antonelli", "championship", "Mercedes"]
-    },
-    {
-      "id": "f1-20261006-russell-penalty",
-      "category": "f1",
-      "title": "Russell set for back-of-the-grid start in Singapore after engine change",
-      "summary": "Mercedes has confirmed George Russell needs a new power unit at Marina Bay, pushing him past his season allocation and triggering a grid penalty for Sunday's race. The extra blow leaves him 84 points behind teammate Kimi Antonelli after his retirement in Malaysia.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13595451/george-russell-mercedes-driver-set-to-start-singapore-gp-from-back-of-grid-due-to-penalty-caused-by-bahrain-gp-engine-failure",
-      "publishedAt": "2026-10-06T13:11:00Z",
-      "tags": ["F1", "George Russell", "Mercedes", "Singapore GP"]
-    },
-    {
-      "id": "tarkov-20261006-patch-live",
-      "category": "tarkov",
-      "title": "Tarkov 1.2.0.0 lands: PvE Prestige and a PMC bot overhaul",
-      "summary": "Battlestate Games shipped patch 1.2.0.0 after a five-to-seven-hour shutdown, bringing the long-awaited Prestige system to PvE with up to six levels and permanent rewards such as TarCoin, the NKVD Finka knife and a unique Gamma container. AI PMCs now spawn more often at key locations, carry faction-appropriate gear and can appear in the Labyrinth.",
-      "source": "Insider Gaming",
-      "url": "https://insider-gaming.com/escape-from-tarkovs-biggest-pve-update-has-arrived-finally-adding-prestige/",
-      "publishedAt": "2026-10-06T14:00:00Z",
-      "tags": ["Tarkov", "patch notes", "PvE", "Prestige"]
-    },
-    {
-      "id": "tarkov-20261006-exfil-brothers",
-      "category": "tarkov",
-      "title": "EXFIL Brothers pairs veterans with new players for bonus XP",
-      "summary": "The new EXFIL Brothers program lets Operators at level 30 or above invite up to five Recruits whose accounts are less than seven days old, giving both sides a 5% XP bonus when they raid together. Rewards range from rubles, Bitcoins and cases for Recruits to TarCoin, posters and Hideout customisation for Operators.",
-      "source": "PatchTLDR",
-      "url": "https://www.patchtldr.com/en/escape-from-tarkov/patch-1200",
-      "publishedAt": "2026-10-06T13:00:00Z",
-      "tags": ["Tarkov", "EXFIL Brothers", "patch notes", "progression"]
-    },
-    {
-      "id": "tarkov-20261006-servers-online",
-      "category": "tarkov",
-      "title": "Servers return as players update to 1.2.0.0",
-      "summary": "Battlestate took both PvP and PvE offline at 3 a.m. EDT for the 1.2.0.0 install, with the game expected back between 1 and 3 p.m. BST. Players need to update through the Battlestate launcher, and the studio has warned that login queues and fresh bugs are likely in the first hours.",
-      "source": "Insider Gaming",
-      "url": "https://insider-gaming.com/when-is-tarkov-back-up-today-patch-explained/",
-      "publishedAt": "2026-10-06T11:00:00Z",
-      "tags": ["Tarkov", "servers", "downtime", "1.2.0.0"]
-    },
-    {
-      "id": "local-20261006-early-voting",
-      "category": "local",
-      "title": "Early voting opens across Ohio for the Nov. 3 election",
-      "summary": "In-person early voting began Tuesday at county boards of elections and runs through Nov. 1, with absentee ballots also going out to voters who requested them. Franklin County voters can cast ballots from 8 a.m. to 5 p.m. through Friday, with expanded hours later in the month.",
-      "source": "Spectrum News 1",
-      "url": "https://spectrumnews1.com/oh/columbus/news/2026/10/06/early-voting-underway-across-ohio",
-      "publishedAt": "2026-10-06T11:59:00Z",
-      "tags": ["Ohio", "early voting", "elections", "Columbus"]
-    },
-    {
-      "id": "local-20261006-frost",
-      "category": "local",
-      "title": "Central Ohio wakes to its chilliest morning since May",
-      "summary": "Columbus bottomed out in the low 40s Tuesday, with outlying areas dipping into the 30s and patchy frost possible, the coolest start in 144 days. Sunny skies bring a high near 67 before a gradual warm-up later in the week.",
-      "source": "ABC 6 / WSYX",
-      "url": "https://abc6onyourside.com/news/local/columbus-weather-central-ohio-sees-chilliest-morning-since-may-patchy-frost-possible",
-      "publishedAt": "2026-10-06T09:50:00Z",
-      "tags": ["Columbus", "weather", "frost", "Central Ohio"]
-    },
-    {
-      "id": "local-20261006-ohio-laws",
-      "category": "local",
-      "title": "About a dozen new Ohio laws take effect",
-      "summary": "A batch of laws took effect Tuesday, including a requirement that drivers provide basic identifying information at traffic stops and new mandates for schools. The changes were passed in the previous legislative session and took effect 90 days after signing.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/politics/all-about-new-ohio-laws-taking-effect-on-tuesday-oct-6-2026/",
-      "publishedAt": "2026-10-06T09:45:00Z",
-      "tags": ["Ohio", "laws", "Columbus", "politics"]
-    }
-  ]
+    "stories": [
+        {
+            "id": "top-reuters-oct7-anniversary",
+            "category": "top",
+            "title": "Israelis mark three years since October 7 attack",
+            "summary": "Israelis gathered in silence at Kibbutz Kfar Aza and other communities near the Gaza border to mark three years since the Hamas-led October 7, 2023 attack, with ceremonies and protests planned at more than 400 locations. The anniversary comes as ceasefire and hostage negotiations remain fragile.",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/world/middle-east/israelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault-2026-10-07/",
+            "publishedAt": "2026-10-07T10:41:00Z",
+            "tags": [
+                "Israel",
+                "Gaza",
+                "Middle East",
+                "anniversary"
+            ]
+        },
+        {
+            "id": "top-hill-nebraska-rally",
+            "category": "top",
+            "title": "Trump rallies Nebraska voters ahead of midterms",
+            "summary": "President Trump held a rally in Nebraska with Republican candidates including gubernatorial hopeful Pete Ricketts, part of a push to energize GOP voters before the November midterm elections. Nebraska is among the states where control of Congress could be decided.",
+            "source": "The Hill",
+            "url": "https://thehill.com/homenews/campaign/6130114-watch-live-donald-trump-nebraska-rally-midterms-pete-ricketts/",
+            "publishedAt": "2026-10-07T08:00:00Z",
+            "tags": [
+                "US politics",
+                "Trump",
+                "midterms",
+                "Nebraska"
+            ]
+        },
+        {
+            "id": "top-aj-south-sudan-aid",
+            "category": "top",
+            "title": "Aid crisis deepens in South Sudan as food stocks run low",
+            "summary": "Funding shortages are threatening food and nutrition assistance for hundreds of thousands of refugees and asylum seekers in South Sudan, where families who fled the war in neighboring Sudan crowd transit sites such as Renk. Aid agencies warn stocks are running low.",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low",
+            "publishedAt": "2026-10-07T06:00:00Z",
+            "tags": [
+                "South Sudan",
+                "humanitarian",
+                "refugees",
+                "Africa"
+            ]
+        },
+        {
+            "id": "top-toi-liveblog-oct7",
+            "category": "top",
+            "title": "Israel marks October 7 anniversary with day of ceremonies",
+            "summary": "Commemorations began at 6:29 a.m. local time and continue with a main evening ceremony in Tel Aviv, three years after the attack that triggered the Gaza war. Families of victims and of hostages led tributes across the country.",
+            "source": "Times of Israel",
+            "url": "https://www.timesofisrael.com/liveblog-october-07-2026/",
+            "publishedAt": "2026-10-07T00:00:00Z",
+            "tags": [
+                "Israel",
+                "October 7",
+                "memorial",
+                "Middle East"
+            ]
+        },
+        {
+            "id": "tech-spotify-audiobooks",
+            "category": "tech",
+            "title": "Spotify expands audiobooks to over 180 markets",
+            "summary": "Spotify said its audiobook catalogue is now available in more than 180 markets, a major expansion of a business it has been pushing as a growth driver beyond music and podcasts. The move steps up competition with Audible and other audiobook platforms.",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+            "publishedAt": "2026-10-07T08:00:00Z",
+            "tags": [
+                "Spotify",
+                "audiobooks",
+                "streaming"
+            ]
+        },
+        {
+            "id": "tech-ars-forged-tls",
+            "category": "tech",
+            "title": "Hackers obtain counterfeit TLS certificates for Google and other services",
+            "summary": "Attackers obtained counterfeit TLS certificates for Google and other large services, a compromise that undermines the trust model behind HTTPS encryption. Security researchers are pressing certificate authorities and browser makers to tighten issuance checks.",
+            "source": "Ars Technica",
+            "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+            "publishedAt": "2026-10-07T04:37:00Z",
+            "tags": [
+                "security",
+                "TLS",
+                "encryption",
+                "Google"
+            ]
+        },
+        {
+            "id": "tech-openai-math",
+            "category": "tech",
+            "title": "OpenAI model produces hundreds of mathematical results",
+            "summary": "OpenAI published 722 manuscripts covering 372 result families generated by an unreleased internal model, claiming progress on long-open problems including a zero-free region for the zeta function and the Hodge conjecture for CM abelian varieties. The work is on GitHub with Lean formalizations, but none of it has been peer reviewed.",
+            "source": "Firstpost",
+            "url": "https://www.firstpost.com/tech/openais-unreleased-ai-model-solves-hundreds-of-long-standing-math-problems-14050977.html",
+            "publishedAt": "2026-10-07T03:16:00Z",
+            "tags": [
+                "OpenAI",
+                "AI research",
+                "mathematics",
+                "Lean"
+            ]
+        },
+        {
+            "id": "tech-reuters-south-korea-ai-hacks",
+            "category": "tech",
+            "title": "South Korea says AI agents likely used in bank hacks",
+            "summary": "South Korean President Lee said AI agents appear to have been used to breach banking systems in South Korea, prompting government scrutiny of autonomous hacking tools. Regulators are weighing tighter security requirements for financial institutions.",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+            "publishedAt": "2026-10-06T23:50:00Z",
+            "tags": [
+                "South Korea",
+                "cybersecurity",
+                "AI agents",
+                "banks"
+            ]
+        },
+        {
+            "id": "browns-si-jets-keys",
+            "category": "browns",
+            "title": "Three keys for the Browns to make it four straight wins",
+            "summary": "Cleveland takes a 3-1 record and a three-game win streak into the game at the New York Jets, where pressuring Geno Smith and avoiding turnovers are seen as the deciding factors. A win would match the best five-game start of the Todd Monken era.",
+            "source": "Sports Illustrated",
+            "url": "https://www.si.com/nfl/browns/onsi/3-keys-to-the-browns-finding-a-fourth-straight-win-next-sunday-against-the-jets-01m425deestj",
+            "publishedAt": "2026-10-07T10:00:00Z",
+            "tags": [
+                "Browns",
+                "NFL",
+                "Jets",
+                "game preview"
+            ]
+        },
+        {
+            "id": "browns-wosu-monken",
+            "category": "browns",
+            "title": "Pluto: Monken has driven the Browns fast start",
+            "summary": "Columnist Terry Pluto credits first-year head coach Todd Monken and his emotional, detail-driven approach for the turnaround from a disastrous opener to 3-1 and first place in the AFC North. The revival of Deshaun Watson at quarterback has been central to it.",
+            "source": "WOSU",
+            "url": "https://www.wosu.org/2026-10-07/pluto-emotional-driven-monken-responsible-for-browns-fast-start",
+            "publishedAt": "2026-10-07T05:00:00Z",
+            "tags": [
+                "Browns",
+                "Todd Monken",
+                "NFL",
+                "AFC North"
+            ]
+        },
+        {
+            "id": "buckeyes-day-maryland",
+            "category": "buckeyes",
+            "title": "Ryan Day previews Maryland after Buckeyes bounce back",
+            "summary": "Ohio State coach Ryan Day met the media to review the 31-14 win over Iowa and turn attention to the home game against Maryland, where the fifth-ranked Buckeyes open as heavy favorites. Day said special teams remain the main area to fix.",
+            "source": "Buckeyes Wire",
+            "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/10/06/ohio-state-football-ryan-day-weekly-press-conference-maryland-2026/92129229007/",
+            "publishedAt": "2026-10-07T03:00:00Z",
+            "tags": [
+                "Ohio State",
+                "football",
+                "Maryland",
+                "Ryan Day"
+            ]
+        },
+        {
+            "id": "buckeyes-bball-tipoffs",
+            "category": "buckeyes",
+            "title": "Ohio State basketball tip-off times and TV announced",
+            "summary": "The Big Ten released tip times and broadcast designations for the 2026-27 season, giving Ohio State 12 games on the Big Ten Network, six on FS1 and five on CBS, plus a Nov. 13 trip to UConn on TNT or HBO Max. The Buckeyes open with an exhibition against Cincinnati on Oct. 7.",
+            "source": "247Sports",
+            "url": "https://247sports.com/college/ohio-state/article/ohio-state-basketball-announces-tip-off-times-broadcast-information-for-2026-27-season-290950225/",
+            "publishedAt": "2026-10-07T00:00:00Z",
+            "tags": [
+                "Ohio State",
+                "basketball",
+                "Big Ten",
+                "TV"
+            ]
+        },
+        {
+            "id": "f1-russell-penalty-ap",
+            "category": "f1",
+            "title": "Russell to start Singapore Grand Prix from the back",
+            "summary": "Mercedes confirmed George Russell will take a power-unit penalty at the Singapore Grand Prix and start from the back of the grid after his engine failure at the Bahrain Grand Prix in Malaysia. Overtaking is notoriously difficult around Marina Bay.",
+            "source": "AP",
+            "url": "https://apnews.com/article/russell-mercedes-f1-penalty-f18b93665ab42427d305e5f0e2e505ad",
+            "publishedAt": "2026-10-07T10:19:00Z",
+            "tags": [
+                "F1",
+                "George Russell",
+                "Mercedes",
+                "Singapore GP"
+            ]
+        },
+        {
+            "id": "f1-russell-espn",
+            "category": "f1",
+            "title": "Mercedes confirm Russell engine penalty for Singapore",
+            "summary": "Mercedes has formally confirmed a fresh power unit and the resulting grid penalty for Russell, who retired in Malaysia. The change also reshuffles the team plan to introduce an upgraded engine later in the season.",
+            "source": "ESPN",
+            "url": "https://www.espn.com/f1/story/_/id/50123509/mercedes-confirm-george-russell-engine-penalty-singapore-grand-prix",
+            "publishedAt": "2026-10-07T09:00:00Z",
+            "tags": [
+                "F1",
+                "Mercedes",
+                "George Russell",
+                "engine penalty"
+            ]
+        },
+        {
+            "id": "f1-russell-gpfans",
+            "category": "f1",
+            "title": "Russell penalty forces Mercedes engine plan rethink",
+            "summary": "Russell had hoped to delay the power-unit change until the United States Grand Prix so Mercedes could fit an upgraded engine under the ADUO rules, but the Sepang failure forced the swap in Singapore instead, GPFans reports. The penalty leaves him fighting through the field at Marina Bay.",
+            "source": "GPFans",
+            "url": "https://www.gpfans.com/en/f1-news/1091186/f1-george-russell-mercedes-grid-penatly-singapore-grand-prix-usa/",
+            "publishedAt": "2026-10-07T00:00:00Z",
+            "tags": [
+                "F1",
+                "Mercedes",
+                "ADUO",
+                "engine rules"
+            ]
+        },
+        {
+            "id": "tarkov-patch-120-pve",
+            "category": "tarkov",
+            "title": "Tarkov 1.2.0.0 rewards veterans for helping new players",
+            "summary": "The 1.2.0.0 update for Escape from Tarkov is live, adding the EXFIL Brothers referral program that pays Operators and new Candidates for raiding together, a six-level Prestige system for the PvE Zone with permanent rewards, and a rework of PMC bot behavior and faction relations. Battlestate says further server synchronization work is coming.",
+            "source": "Massively Overpowered",
+            "url": "https://massivelyop.com/2026/10/06/escape-from-tarkov-rewards-veteran-players-for-teaming-up-with-newbies-in-latest-update/",
+            "publishedAt": "2026-10-07T00:00:00Z",
+            "tags": [
+                "Escape from Tarkov",
+                "patch notes",
+                "PvE",
+                "Prestige"
+            ]
+        },
+        {
+            "id": "local-spectrum-ccs-insurance",
+            "category": "local",
+            "title": "Columbus schools face health cost hike as trust frays",
+            "summary": "Teachers in Columbus City Schools will pay more for health insurance next year as the largest district in Ohio confronts a budget shortfall and rising healthcare costs. The Columbus Education Association has already taken a no-confidence vote in the board over its handling of the issue.",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumnews1.com/oh/columbus/news/2026/10/07/ohio-s-largest-school-district-faces-health-cost-hike",
+            "publishedAt": "2026-10-07T09:00:00Z",
+            "tags": [
+                "Columbus",
+                "education",
+                "health insurance",
+                "schools"
+            ]
+        },
+        {
+            "id": "local-nbc4-flynn-sentence",
+            "category": "local",
+            "title": "Caleb Flynn sentenced to life without parole",
+            "summary": "A central Ohio man convicted of murdering his wife was sentenced to life in prison without the possibility of parole, closing a case that drew statewide attention. Prosecutors described weeks of testimony about the killing.",
+            "source": "NBC4",
+            "url": "https://www.nbc4i.com/news/state-news/caleb-flynn-to-be-sentenced-today-for-murder-of-wife/",
+            "publishedAt": "2026-10-07T09:00:00Z",
+            "tags": [
+                "Ohio",
+                "crime",
+                "courts",
+                "Columbus"
+            ]
+        },
+        {
+            "id": "local-nbc4-ballistic-2016",
+            "category": "local",
+            "title": "New ballistic evidence links three 2016 Columbus homicides",
+            "summary": "Columbus police said new ballistic analysis connects three unsolved 2016 homicide cases, reviving investigations that had gone cold. Investigators are asking the public for information as they re-examine the shootings.",
+            "source": "NBC4",
+            "url": "https://www.nbc4i.com/news/local-news/columbus/new-ballistic-evidence-connects-3-columbus-homicides-from-2016/",
+            "publishedAt": "2026-10-07T02:00:00Z",
+            "tags": [
+                "Columbus",
+                "crime",
+                "cold case",
+                "police"
+            ]
+        },
+        {
+            "id": "local-dispatch-ccs-board",
+            "category": "local",
+            "title": "Teachers pack Columbus school board meeting over insurance",
+            "summary": "More than 100 union members packed the Columbus City Schools board meeting and heckled members as the board president rejected claims that officials mishandled the district insurance crisis. The district says a $40 million figure at the center of the dispute was an estimate, not money lost.",
+            "source": "Columbus Dispatch",
+            "url": "https://www.dispatch.com/story/news/education/2026/10/06/columbus-city-schools-health-insurance-teachers-union/92126186007/",
+            "publishedAt": "2026-10-07T00:43:00Z",
+            "tags": [
+                "Columbus",
+                "schools",
+                "health insurance",
+                "union"
+            ]
+        }
+    ]
 }
