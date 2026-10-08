@@ -1,231 +1,281 @@
 {
   "meta": {
-    "updatedAt": "2026-10-08T11:04:12Z",
+    "updatedAt": "2026-10-08T19:35:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 22
+    "count": 27
   },
   "stories": [
     {
-      "id": "top-ukraine-pryluky-strike",
+      "id": "top-spain-housing",
       "category": "top",
-      "title": "Death toll hits 22 after Russian missile strike on Ukraine's Pryluky",
-      "summary": "Rescuers pulled bodies from the rubble of a residential building in the northern Ukrainian town of Pryluky, where a Russian missile strike killed 22 people including five children and injured 54. The strike was part of a mass missile and drone barrage on Kyiv and a dozen other regions that coincided with Vladimir Putin's 74th birthday.",
-      "source": "AP News | Boston Globe",
-      "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-putin-7f395d215bb67082da29f9c4467ef776",
+      "title": "Spain housing protests target 'vulture funds' in Madrid",
+      "summary": "Hundreds of protesters pitched tents in central Madrid to blame 'vulture funds' for Spain's housing crisis, as the prime minister called a snap election. Housing affordability is now a central political issue in the country.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3j4790elkx7o",
+      "publishedAt": "2026-10-08T19:10:00Z",
+      "tags": ["Spain", "housing", "protest", "Madrid"]
+    },
+    {
+      "id": "top-maduro-torture",
+      "category": "top",
+      "title": "Venezuela ex-leader Maduro charged with conspiracy to commit torture",
+      "summary": "Former Venezuelan president Nicolas Maduro was charged with conspiracy to commit torture over the alleged abuse of US citizens held in Venezuela while he was in power. The new accusations deepen his legal jeopardy.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5pvgn7xvxpzo",
+      "publishedAt": "2026-10-08T17:38:00Z",
+      "tags": ["Venezuela", "Maduro", "justice"]
+    },
+    {
+      "id": "top-kramatorsk-bus",
+      "category": "top",
+      "title": "Russian strike on buses in Kramatorsk kills at least 30",
+      "summary": "A Russian glide-bomb attack hit two crowded civilian buses in the frontline city of Kramatorsk, killing at least 30 people, Ukrainian officials said. It comes amid a surge in Russian strikes and rising civilian casualties.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c875pwq134l3o",
+      "publishedAt": "2026-10-08T16:31:00Z",
+      "tags": ["Ukraine", "Russia", "Kramatorsk", "conflict"]
+    },
+    {
+      "id": "top-qatar-tanker",
+      "category": "top",
+      "title": "Tanker hit by projectiles in Gulf off Qatar",
+      "summary": "A maritime agency reported that an oil and chemical tanker was struck by multiple projectiles in the Gulf off Qatar, with casualties reported. The area is a key shipping route, so the attack raises fresh regional security concerns.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqlydk7796wdo",
+      "publishedAt": "2026-10-08T12:11:00Z",
+      "tags": ["Qatar", "shipping", "security"]
+    },
+    {
+      "id": "tech-openai-revenue",
+      "category": "tech",
+      "title": "OpenAI revenue reportedly about $20B below earlier projections",
+      "summary": "A new report says OpenAI's annualized revenue is roughly $20 billion less than the ~$70 billion previously signaled, a gap that could weigh on its huge infrastructure commitments. The AI lab has not confirmed the figure.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "publishedAt": "2026-10-08T18:19:00Z",
+      "tags": ["OpenAI", "AI", "business"]
+    },
+    {
+      "id": "tech-gemini-agentic",
+      "category": "tech",
+      "title": "Google adds agentic AI to Gemini for businesses",
+      "summary": "Google is turning Gemini into an agent that can plan and execute tasks across business apps, delegate work to subagents, and even get its own workplace identity and email address. The move pushes Gemini from assistant toward autonomous workflow tool.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "publishedAt": "2026-10-08T18:18:00Z",
+      "tags": ["Google", "Gemini", "AI agents"]
+    },
+    {
+      "id": "tech-anthropic-policy",
+      "category": "tech",
+      "title": "Anthropic updates usage policy to ban abuse and election interference",
+      "summary": "Anthropic changed its usage policy to explicitly bar extreme abuse of Claude plus election interference, deceptive campaigns and weapons development. Ordinary frustration or criticism of the model remains allowed.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "publishedAt": "2026-10-08T18:16:00Z",
+      "tags": ["Anthropic", "Claude", "policy"]
+    },
+    {
+      "id": "tech-usa-today-openai",
+      "category": "tech",
+      "title": "USA Today sues OpenAI over copyright",
+      "summary": "USA Today and several local newspapers it owns sued OpenAI, alleging the company copied hundreds of thousands of articles to train its models. It is the latest major publisher lawsuit against the AI firm.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "publishedAt": "2026-10-08T17:58:00Z",
+      "tags": ["OpenAI", "copyright", "publishing"]
+    },
+    {
+      "id": "browns-hulu-land",
+      "category": "browns",
+      "title": "Browns-themed Hulu drama 'The Land' to premiere after Super Bowl",
+      "summary": "Hulu's Browns-themed series 'The Land', from This Is Us creator Dan Fogelman and starring Christopher Meloni and Mandy Moore, will debut with two episodes on Feb. 15, 2027, after the Super Bowl.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/entertainment/2026/10/hulus-cleveland-browns-themed-drama-the-land-to-premiere-after-super-bowl.html",
+      "publishedAt": "2026-10-08T18:42:00Z",
+      "tags": ["Browns", "Hulu", "TV"]
+    },
+    {
+      "id": "browns-four-qbs",
+      "category": "browns",
+      "title": "Browns keeping all four quarterbacks on 53-man roster",
+      "summary": "Cleveland plans to retain all four quarterbacks, treating the young passers as developmental assets and possible trade currency rather than roster cuts. The approach reflects the team's emphasis on quarterback depth.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/cleveland-browns-prioritize-quarterback-depth-over-roster-cuts.html",
+      "publishedAt": "2026-10-08T17:25:00Z",
+      "tags": ["Browns", "quarterbacks", "roster"]
+    },
+    {
+      "id": "browns-five-stars",
+      "category": "browns",
+      "title": "Five Browns stars behind Cleveland's surprising 3-1 start",
+      "summary": "Analysis highlights the players driving Cleveland's 3-1 start, from a record-setting rookie receiver to a kicker who has been reliable. The Browns sit atop the AFC North after a primetime win over Pittsburgh.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/the-5-cleveland-browns-stars-fans-should-celebrate-after-surprising-hot-start-jimmy-watkins.html",
+      "publishedAt": "2026-10-08T10:00:00Z",
+      "tags": ["Browns", "NFL", "analysis"]
+    },
+    {
+      "id": "browns-boston-rookie",
+      "category": "browns",
+      "title": "Denzel Boston emerging as Browns explosive deep threat",
+      "summary": "Rookie receiver Denzel Boston has become Cleveland's top offensive weapon, leading all first-year receivers with 284 yards and multiple plays of 46-plus yards through four games.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/how-denzel-boston-is-transforming-the-browns-offense-as-a-rookie.html",
       "publishedAt": "2026-10-08T09:00:00Z",
-      "tags": ["Ukraine","Russia","war","strike"]
+      "tags": ["Browns", "Denzel Boston", "NFL"]
     },
     {
-      "id": "top-british-consulate-jerusalem",
-      "category": "top",
-      "title": "Israel says British consulate in Jerusalem has ceased to function",
-      "summary": "Israel took down the sign outside the British consulate in East Jerusalem and said the building has stopped operating as a consulate, with about 20 diplomats leaving the country. Britain says it has reached an agreement with Israel that lets a small team of diplomats keep working there, defusing a standoff triggered by the UK ban on trade with Israeli settlements.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/israel-consulate-britain-mideast-october-8-2026-c7a446e1bd01966f19b88af07149c3d5",
-      "publishedAt": "2026-10-08T07:57:00Z",
-      "tags": ["Israel","UK","diplomacy","Middle East"]
-    },
-    {
-      "id": "top-france-school-protests",
-      "category": "top",
-      "title": "Police fire tear gas at Paris school as French student protests continue",
-      "summary": "Officers cleared fresh barricades with tear gas at a high school in northeastern Paris as nationwide student protests over education funding continued; 375 schools were fully or partly closed Thursday and more than 6,600 arrests have been made since late September. The unrest is deepening pressure on France's embattled outgoing government.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/france-school-protests-police-clashes-belgium-liege-2f8ce76dbcf1bce398b6f513d49f325f",
-      "publishedAt": "2026-10-08T06:30:00Z",
-      "tags": ["France","protests","education","Europe"]
-    },
-    {
-      "id": "top-qatar-tanker-attack",
-      "category": "top",
-      "title": "Tanker attacked off Qatar as oil tops $100",
-      "summary": "A tanker sailing off Qatar's north coast was attacked near the Strait of Hormuz, with Iran claiming the route carries oil, the latest in a run of attacks on ships. Oil rose above $100 amid reports the US is discussing military strikes before the midterms.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/08/tanker-attacked-qatar-coast-strait-of-hormuz-iran-oil-price",
-      "publishedAt": "2026-10-08T05:00:00Z",
-      "tags": ["Qatar","oil","shipping","Iran"]
-    },
-    {
-      "id": "tech-falcon-emirati",
-      "category": "tech",
-      "title": "TII releases Falcon-Emirati, an Emirati Arabic dialect model",
-      "summary": "Abu Dhabi's Technology Innovation Institute published Falcon-Emirati-7B, built on Falcon-H1-Arabic and tuned specifically for Emirati Arabic vocabulary, tone and cultural context rather than Modern Standard Arabic. The open-weights model is on Hugging Face and targets chat applications that need to sound like a native Gulf speaker.",
-      "source": "Hugging Face | TII",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "publishedAt": "2026-10-08T10:50:00Z",
-      "tags": ["AI models","Arabic","TII","open weights"]
-    },
-    {
-      "id": "tech-openai-math-results",
-      "category": "tech",
-      "title": "OpenAI says 372 new math results came mostly from one agent prompt",
-      "summary": "OpenAI disclosed 372 new mathematical results produced by an unreleased model, saying nearly all came from a single prompt to one AI agent at a fraction of the cost of the 10,000-agent swarm that worked on Navier-Stokes. The company withheld the prompts and per-problem compute times, drawing calls from advisory groups for fuller disclosure.",
-      "source": "AI Weekly",
-      "url": "https://aiweekly.co/alerts/openai-says-372-math-results-came-mostly-from-one-prompt",
-      "publishedAt": "2026-10-08T09:10:00Z",
-      "tags": ["OpenAI","AI research","mathematics"]
-    },
-    {
-      "id": "tech-openai-gpt6-intelligent-ui",
-      "category": "tech",
-      "title": "OpenAI brings GPT-6 and interactive Intelligent UI to free ChatGPT users",
-      "summary": "OpenAI rolled GPT-6 with its new Intelligent UI out to Free and Go ChatGPT users globally, a day after paid tiers, letting answers render charts, buttons, forms and small tools instead of plain text. GPT-6 can also start answering while it is still reasoning, which OpenAI says cuts average wait for search-heavy questions by about 44%.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "publishedAt": "2026-10-08T07:30:00Z",
-      "tags": ["OpenAI","ChatGPT","GPT-6","product launch"]
-    },
-    {
-      "id": "browns-dline-injury-report",
-      "category": "browns",
-      "title": "Browns thin up front as three defensive linemen miss practice",
-      "summary": "Mason Graham (knee/ankle), Mike Hall Jr. (ankle) and Derek Barnett (ankle) all sat out Wednesday's practice, leaving Cleveland's defensive front shorthanded before Sunday's trip to the Jets. Defensive tackle Kalia Davis was activated off injured reserve for a limited session, while quarterback Dillon Gabriel practiced fully as his 21-day window opened.",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/nfl/browns/onsi/browns-hit-with-brutal-injury-news-as-3-defensive-linemen-miss-practice-01m4c4cw01a9",
-      "publishedAt": "2026-10-08T09:05:00Z",
-      "tags": ["Browns","injuries","defense","Week 5"]
-    },
-    {
-      "id": "browns-monken-start-patriots-vibes",
-      "category": "browns",
-      "title": "Browns' 3-1 start draws comparisons to 2025 Patriots",
-      "summary": "Cleveland's fast start under Todd Monken, helped by decisive roster moves such as starting rookie guard Austin Barber and promoting rookie receiver Denzel Boston, is being compared to Mike Vrabel's breakout 2025 Patriots season. A run of softer road opponents (Jets, Titans, Steelers, Saints) gives the Browns a chance to keep stacking wins.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/browns-feel-good-start-is-giving-off-serious-2025-patriots-vibes-01m4btf86dyt",
-      "publishedAt": "2026-10-08T09:00:00Z",
-      "tags": ["Browns","analysis","Todd Monken"]
-    },
-    {
-      "id": "browns-monken-jets-preview",
-      "category": "browns",
-      "title": "Monken's Browns head to MetLife to face the reeling Jets",
-      "summary": "Cleveland carries a three-game win streak into Sunday's road game against a Jets team that has lost three straight, having trailed or been tied in the fourth quarter of every win. Their latest comeback ended with Andre Szmyt's 56-yard field goal with 10 seconds left to beat Pittsburgh 27-24.",
-      "source": "100.1 The Game | AP",
-      "url": "https://www.1001thegame.com/2026/10/07/fired-up-todd-monken-browns-roll-into-game-vs-struggling-jets/",
-      "publishedAt": "2026-10-08T03:21:00Z",
-      "tags": ["Browns","NFL Week 5","Jets"]
-    },
-    {
-      "id": "browns-elgton-jenkins-protocol",
-      "category": "browns",
-      "title": "Elgton Jenkins clears concussion protocol for Browns",
-      "summary": "Cleveland lineman Elgton Jenkins cleared the NFL's concussion protocol and practiced in full Wednesday, putting him on track to play Sunday against the Jets. He missed the Week 4 win over Pittsburgh after entering the protocol.",
-      "source": "CBS Sports | AP",
-      "url": "https://www.cbssports.com/fantasy/football/news/browns-elgton-jenkins-clears-concussion-protocol/",
-      "publishedAt": "2026-10-08T00:38:00Z",
-      "tags": ["Browns","injury report","offensive line"]
-    },
-    {
-      "id": "buckeyes-transfers-breaking-through",
+      "id": "osu-recruiting-visit",
       "category": "buckeyes",
-      "title": "Ohio State's transfer class breaks through in win at Iowa",
-      "summary": "Several of Ohio State's 2026 transfers had their best games in Saturday's 31-14 win at Iowa, led by safety Earl Little Jr., linebacker Alliegro and receiver Devin McCuin. Coach Ryan Day said the group is starting to build confidence as the Buckeyes move into the middle of the season.",
-      "source": "Bill Rabinowitz",
-      "url": "https://billrabinowitz.substack.com/p/after-some-early-struggles-ohio-state",
-      "publishedAt": "2026-10-08T09:30:00Z",
-      "tags": ["Ohio State","transfers","football"]
+      "title": "Five-star defensive lineman changes Ohio State visit plans",
+      "summary": "A five-star defensive line target altered his visit plans for this weekend's Maryland game, while a 2029 linebacker set a visit date. Recruiting visits are a key subplot as Ohio State hosts on homecoming weekend.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-recruiting/123399/5-star-defensive-lineman-changes-ohio-state-visit-plans-2029-linebacker-sets-date",
+      "publishedAt": "2026-10-08T14:47:00Z",
+      "tags": ["Ohio State", "recruiting"]
     },
     {
-      "id": "buckeyes-depth-chart-maryland",
+      "id": "osu-maryland-five",
       "category": "buckeyes",
-      "title": "Ohio State depth chart set for Maryland homecoming game",
-      "summary": "The Columbus Dispatch published its projected Ohio State depth chart for Saturday's 4:15 p.m. ET homecoming kickoff against Maryland on BTN. The Buckeyes are 4-1 overall and 2-0 in Big Ten play after winning at Iowa.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/08/ohio-state-football-depth-chart-projecting-every-starter/92105934007/",
-      "publishedAt": "2026-10-08T08:17:00Z",
-      "tags": ["Ohio State","depth chart","Maryland"]
+      "title": "Five things to know about Maryland before Buckeyes matchup",
+      "summary": "No. 5 Ohio State (4-1, 2-0) hosts a reeling Maryland (2-3, 0-2) that is on a three-game losing streak for homecoming on Saturday. The preview flags Maryland's quarterback situation as a key factor.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football/123156/5-things-to-know-about-maryland",
+      "publishedAt": "2026-10-08T14:44:00Z",
+      "tags": ["Ohio State", "Maryland", "football"]
     },
     {
-      "id": "buckeyes-receivers-freshmen",
+      "id": "osu-wr-injuries",
       "category": "buckeyes",
-      "title": "Banged-up receiver room opens door for Buckeyes freshmen",
-      "summary": "With Devin McCuin and Brandon Inniss listed questionable for Saturday's Maryland game, freshmen Chris Henry Jr. and Brock Boyd could see expanded targets. Day said the first-year receivers are playing with confidence, and LSU transfer Kyle Parker is expected to make his season debut.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164433/with-devin-mccuin-and-brandon-inniss-listed-as-questionable-on-initial-availability-report-chris-henry-jr-and-brock",
-      "publishedAt": "2026-10-08T03:46:00Z",
-      "tags": ["Ohio State","receivers","injuries"]
+      "title": "Ohio State receiver room banged up heading into Maryland game",
+      "summary": "Ohio State's wide receiver corps is dealing with injuries, including to Devin McCuin and Brandon Inniss, as the Buckeyes prepare for Maryland. Receiver depth is a question mark for Saturday.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-news/123377/ohio-states-wide-receiver-room-injury-maryland-devin-mccuin-brandon-inniss",
+      "publishedAt": "2026-10-08T12:53:00Z",
+      "tags": ["Ohio State", "injuries", "football"]
     },
     {
-      "id": "buckeyes-availability-report",
+      "id": "osu-homecoming-history",
       "category": "buckeyes",
-      "title": "Ohio State's first availability report: safety out, four questionable",
-      "summary": "No. 5 Ohio State will be without safety Leroy Roker III against Maryland and lists right tackle Phillip Daniels, receivers Brandon Inniss and Devin McCuin and defensive lineman Khary Wilder as questionable. Cornerback Jay Timmons was cleared, and the Buckeyes are 34.5-point favorites over the Terrapins.",
-      "source": "247Sports",
-      "url": "https://247sports.com/college/ohio-state/article/ohio-state-football-availability-report-how-healthy-are-buckeyes-heading-into-maryland-game-290980879/",
-      "publishedAt": "2026-10-08T00:25:00Z",
-      "tags": ["Ohio State","injury report","Maryland"]
+      "title": "Ohio State homecoming history ahead of Maryland game",
+      "summary": "Ohio State has faced Maryland on homecoming four times since 2000, winning each meeting by multiple touchdowns. This year's game against the Terrapins continues that homecoming pattern.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-homecoming-history-heading-into-2026-game-against-maryland/",
+      "publishedAt": "2026-10-08T12:00:00Z",
+      "tags": ["Ohio State", "homecoming", "Maryland"]
     },
     {
-      "id": "f1-singapore-preview",
+      "id": "f1-mclaren-norris-pu",
       "category": "f1",
-      "title": "Singapore Grand Prix preview: Marina Bay hosts round 17",
-      "summary": "Formula 1 moves to the Marina Bay Street Circuit for the Singapore Grand Prix, with Max Verstappen arriving in form after winning the rain-delayed race in Malaysia. The night race is the 17th round of the 2026 season and comes with an FIA heat-hazard declaration.",
-      "source": "VAVEL",
-      "url": "https://www.vavel.com/en/motorsports/2026/10/08/1274335-2026-singapore-grand-prix-preview.html",
-      "publishedAt": "2026-10-08T00:15:00Z",
-      "tags": ["F1","Singapore GP","preview"]
+      "title": "McLaren targets Norris fuel-system issue with Singapore power-unit fixes",
+      "summary": "McLaren made peripheral changes to Lando Norris's Mercedes power unit to fix a persistent fuel-system problem that slowed him on Baku's straights. The team hopes it restores pace for the Singapore Grand Prix sprint weekend.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-targets-lando-norris-fuel-system-issue-with-singapore-f1-power-unit-fixes/10863082/",
+      "publishedAt": "2026-10-08T14:07:00Z",
+      "tags": ["F1", "McLaren", "Norris", "Singapore"]
     },
     {
-      "id": "f1-verstappen-ferrari",
+      "id": "f1-mercedes-split-spec",
       "category": "f1",
-      "title": "Verstappen takes aim at Ferrari ahead of Singapore",
-      "summary": "Max Verstappen criticised Ferrari before the Singapore Grand Prix, with Red Bull arriving off a win in Malaysia following a poor start to 2026 that fuelled speculation he could leave the team at the end of the season. Verstappen has since shut down that talk.",
-      "source": "GiveMeSport",
-      "url": "https://www.givemesport.com/f1-max-verstappen-savages-ferrari-singapore-grand-prix/",
-      "publishedAt": "2026-10-08T00:10:00Z",
-      "tags": ["F1","Max Verstappen","Red Bull"]
+      "title": "Mercedes splits car specifications for Singapore, Russell runs older spec",
+      "summary": "Mercedes will run its W17 in split specifications at Singapore, with Kimi Antonelli keeping Sepang updates while George Russell reverts to his Baku car after the team's troubled aero upgrade. Russell called it a no-brainer comparison test.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/russell-no-brainer-to-run-previous-car-as-mercedes-splits-specifications-for-singapore/10863042/",
+      "publishedAt": "2026-10-08T12:36:00Z",
+      "tags": ["F1", "Mercedes", "Singapore"]
     },
     {
-      "id": "f1-singapore-heat-hazard",
+      "id": "f1-horner-payout",
       "category": "f1",
-      "title": "FIA declares heat hazard for Singapore Grand Prix",
-      "summary": "The FIA declared a heat-hazard race for the Singapore Grand Prix, the second weekend in a row and fourth time this season, after forecasts predicted a heat index above 31C and track temperatures near 56C. The designation allows driver cooling systems and gives teams cost-cap allowances for developing them.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/cm5yng71qpngo",
-      "publishedAt": "2026-10-08T00:05:00Z",
-      "tags": ["F1","Singapore GP","FIA","heat"]
+      "title": "Christian Horner nine-figure Red Bull exit payout revealed",
+      "summary": "New UK Companies House filings show former Red Bull team principal Christian Horner received about 100.5 million pounds in compensation for loss of office after his July 2025 departure. The figure ranks among the largest in F1 history.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horners-nine-figure-red-bull-exit-payout-revealed-in-financial-filings/10862962/",
+      "publishedAt": "2026-10-08T09:43:00Z",
+      "tags": ["F1", "Red Bull", "Horner"]
     },
     {
-      "id": "local-mercantile-building-sold",
+      "id": "f1-fia-malaysia",
+      "category": "f1",
+      "title": "FIA finishes investigation into Malaysia safety-car chaos",
+      "summary": "Ahead of the Singapore Grand Prix, the FIA published conclusions from its investigation into the chaotic start at Sepang, where half the field stopped behind the safety car. The governing body outlined measures to prevent a repeat.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862887/",
+      "publishedAt": "2026-10-08T08:09:00Z",
+      "tags": ["F1", "FIA", "Singapore"]
+    },
+    {
+      "id": "tarkov-scav-load",
+      "category": "tarkov",
+      "title": "Players report scav raids failing to load across many servers",
+      "summary": "Multiple r/EscapeFromTarkov threads describe scav raids stalling at 'awaiting session start' or getting kicked to the menu, while PMC raids run fine. The issue appears widespread across central and EU servers.",
+      "source": "r/EscapeFromTarkov",
+      "url": "https://www.reddit.com/r/EscapeFromTarkov/comments/1x0zncz/cannot_load_into_raids_as_a_scav_though_pmc_works/",
+      "publishedAt": "2026-10-08T19:05:00Z",
+      "tags": ["Tarkov", "bug", "servers"]
+    },
+    {
+      "id": "tarkov-ai-behavior",
+      "category": "tarkov",
+      "title": "Players debate changed PMC AI behavior after 1.2.0.0",
+      "summary": "After the 1.2.0.0 patch reworked PMC bot behavior and faction relations, players are reporting tougher, more aggressive bot encounters. The discussion reflects ongoing tuning of Tarkov's revamped AI.",
+      "source": "r/EscapeFromTarkov",
+      "url": "https://www.reddit.com/r/EscapeFromTarkov/comments/1x0y9mc/discussion_did_they_change_overall_ai_behaviour/",
+      "publishedAt": "2026-10-08T18:13:00Z",
+      "tags": ["Tarkov", "AI", "patch"]
+    },
+    {
+      "id": "tarkov-arena-roadmap",
+      "category": "tarkov",
+      "title": "Battlestate reveals Tarkov Arena Q4 2026 roadmap",
+      "summary": "Battlestate Games published its preliminary Q4 2026 roadmap for Escape from Tarkov: Arena, promising new content and features plus continued technical work. The studio cautioned that the plans may change before release.",
+      "source": "Escape from Tarkov: Arena",
+      "url": "https://arena.tarkov.com/news/preliminary-plan-for-eft-arena-q4-2026",
+      "publishedAt": "2026-10-08T15:43:00Z",
+      "tags": ["Tarkov", "Arena", "roadmap"]
+    },
+    {
+      "id": "local-hilliard-scam",
       "category": "local",
-      "title": "Historic downtown Columbus Mercantile building sells for 8.9 million",
-      "summary": "The historic Mercantile building in downtown Columbus was sold to Washington, D.C.-based Rampart Capital for 8.9 million dollars, the firm's first acquisition in Central Ohio. The deal adds to a wave of downtown office sales at steep discounts to previous values.",
+      "title": "Scam targets Hilliard residents who applied for variances",
+      "summary": "The city of Hilliard warned that scammers may be using public hearing and case information to contact variance applicants with fake invoices. Residents are urged to verify any payment requests before paying.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/scam-targets-hilliard-variance-applicants/530-813e7d18-090d-44c2-8de6-c067cfc96993",
+      "publishedAt": "2026-10-08T19:17:00Z",
+      "tags": ["Hilliard", "Columbus", "scam"]
+    },
+    {
+      "id": "local-def-leppard",
+      "category": "local",
+      "title": "Def Leppard and Goo Goo Dolls announce Columbus tour stop",
+      "summary": "Def Leppard and the Goo Goo Dolls announced a co-headlining tour that includes a Columbus date, with one dollar per ticket going to the City of Hope cancer research center.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/def-leppard-goo-goo-dolls-tour-columbus/530-aa86b5f0-751d-429b-b967-bd7694a65768",
+      "publishedAt": "2026-10-08T15:09:00Z",
+      "tags": ["Columbus", "concert", "music"]
+    },
+    {
+      "id": "local-mercantile-sale",
+      "category": "local",
+      "title": "Historic downtown Columbus Mercantile building sells for $8.9M",
+      "summary": "A Washington, D.C.-based investment firm bought the historic Mercantile building in downtown Columbus for $8.9 million, its first central Ohio acquisition. The deal adds to ongoing downtown redevelopment.",
       "source": "NBC4 WCMH",
       "url": "https://www.nbc4i.com/news/local-news/columbus/historic-downtown-columbus-building-sold-for-8-9-million/",
       "publishedAt": "2026-10-08T10:30:00Z",
-      "tags": ["Columbus","real estate","downtown"]
+      "tags": ["Columbus", "real estate", "downtown"]
     },
     {
-      "id": "local-columbus-lithium-battery-safety",
+      "id": "local-bayer-plant",
       "category": "local",
-      "title": "Columbus fire officials warn on lithium-ion battery charging",
-      "summary": "During Fire Prevention Week, Columbus and Ohio fire officials urged residents to use manufacturer-approved chargers, charge large batteries such as e-bikes and power tools outdoors, and unplug devices that get hot. Lt. Nicholas Davis warned that lithium-ion failures can spread from a garage fire to an entire building.",
-      "source": "Focal News",
-      "url": "https://focalnews.org/columbus-oh/local/columbus-firefighters-urge-safer-charging-as-battery-powered-devices-spread",
-      "publishedAt": "2026-10-08T09:10:00Z",
-      "tags": ["Columbus","fire safety","public safety"]
-    },
-    {
-      "id": "local-pickerington-school-cuts",
-      "category": "local",
-      "title": "Pickerington schools cut 3.25M with levy decision looming",
-      "summary": "Pickerington Local Schools trimmed about 3.25 million dollars from this year's budget, eliminating six administrative positions in a first phase of cuts, with further phases hinging on a 10-year, 0.75% income tax levy on the Nov. 3 ballot that would raise about 21.9 million dollars a year. Voters rejected a larger request in May.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/pickerington/pickerington-schools-face-growing-financial-strain-what-happens-next-hinges-on-levy/",
-      "publishedAt": "2026-10-08T09:05:00Z",
-      "tags": ["Pickerington","schools","levy"]
-    },
-    {
-      "id": "local-ccad-student-center",
-      "category": "local",
-      "title": "Columbus College of Art & Design opens new center for students",
-      "summary": "Columbus College of Art & Design opened a new center for students, adding space on its downtown campus. The opening continues investment in the city's Discovery District arts and education corridor.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/education/2026/10/08/columbus-college-of-art-design-opens-new-center-for-students/92122032007/",
-      "publishedAt": "2026-10-08T08:30:00Z",
-      "tags": ["Columbus","education","CCAD"]
+      "title": "Bayer to build $2.2B pharmaceutical plant in New Albany",
+      "summary": "Bayer announced a $2.2 billion pharmaceutical manufacturing plant in New Albany, Ohio, expected to create 1,500 construction jobs and 600 permanent roles. Gov. Mike DeWine called it Ohio's largest international healthcare project and the largest German direct investment in state history.",
+      "source": "Ohio Capital Journal",
+      "url": "https://ohiocapitaljournal.com/2026/10/08/bayer-will-build-a-2-2-billion-pharmaceutical-manufacturing-plant-in-central-ohio/",
+      "publishedAt": "2026-10-08T07:55:00Z",
+      "tags": ["New Albany", "Bayer", "jobs", "Ohio"]
     }
   ]
 }
