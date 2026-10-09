@@ -1,278 +1,370 @@
 {
   "meta": {
-    "updatedAt": "2026-10-09T11:03:48Z",
+    "updatedAt": "2026-10-09T19:32:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 18
+    "count": 24
   },
   "stories": [
     {
-      "id": "top-yemen-houthi-1009",
+      "id": "top-fed-cook-probe-1009",
       "category": "top",
-      "title": "Yemeni forces claim key heights as Houthi attacks go on",
-      "summary": "Yemeni government forces say they have seized strategic high ground while Houthi attacks continue, per Al Jazeera's rolling coverage. The fighting is part of a broader widening of Middle East conflict that has also disrupted Red Sea and Gulf shipping.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on",
-      "publishedAt": "2026-10-09T10:42:00Z",
+      "title": "Trump creates committee to investigate Fed Governor Lisa Cook",
+      "summary": "President Trump announced a three-person White House committee to weigh mortgage-fraud allegations against Federal Reserve Governor Lisa Cook, with a closed-door hearing set for Nov. 5. It is the latest step in his effort to remove a Fed governor the Supreme Court has so far allowed to stay in office.",
+      "source": "SCOTUSblog",
+      "url": "https://www.scotusblog.com/2026/10/trump-announces-committee-investigation-of-fed-governor-lisa-cook/",
+      "publishedAt": "2026-10-09T19:02:11Z",
       "tags": [
-        "Yemen",
-        "Houthis",
-        "Middle East",
-        "conflict"
+        "Trump",
+        "Federal Reserve",
+        "Lisa Cook",
+        "US politics"
       ]
     },
     {
-      "id": "top-lebron-76ers-debut-1009",
+      "id": "top-panama-quake-1009",
       "category": "top",
-      "title": "LeBron James loses on his Philadelphia 76ers debut",
-      "summary": "LeBron James said it is 'going to take some time' for his new team-mates to gel after he suffered defeat in his first appearance for the Philadelphia 76ers in a pre-season game. The debut caps one of the biggest player moves of the NBA offseason.",
+      "title": "Magnitude 7.6 earthquake strikes Panama, triggers tsunami warnings",
+      "summary": "A 7.6-magnitude earthquake hit near Pitaloza Arriba in southern Panama on Friday afternoon, prompting tsunami warnings along Pacific coasts in Central and South America. The USGS estimates about 1.7 million people felt strong shaking or worse.",
+      "source": "The Guardian | USGS",
+      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+      "publishedAt": "2026-10-09T17:56:05Z",
+      "tags": [
+        "Panama",
+        "earthquake",
+        "tsunami",
+        "natural disaster"
+      ]
+    },
+    {
+      "id": "top-trump-iran-midterms-1009",
+      "category": "top",
+      "title": "Trump rules out striking Iran before the US midterms",
+      "summary": "Trump said on Truth Social that the US will not attack Iran before the Nov. 3 midterm elections, saying Washington is holding 'productive discussions' with Tehran even as reports surfaced that the Pentagon drafted strike options. The remarks follow a spike in oil prices and deepening uncertainty over the US-Iran standoff.",
+      "source": "AFP via The Korea Times",
+      "url": "https://www.koreatimes.co.kr/world/20261009/trump-rules-out-new-iran-attack-before-us-midterm-elections",
+      "publishedAt": "2026-10-09T09:26:00Z",
+      "tags": [
+        "Iran",
+        "Trump",
+        "oil",
+        "Middle East"
+      ]
+    },
+    {
+      "id": "top-nobel-pillay-1009",
+      "category": "top",
+      "title": "Navi Pillay wins the 2026 Nobel Peace Prize",
+      "summary": "The Norwegian Nobel Committee awarded the 2026 Peace Prize to Navi Pillay, the former UN human rights chief and international judge, citing her work to prosecute war crimes and genocide. Israel and Trump allies attacked the choice, while UN and rights officials praised it as a defense of international law.",
       "source": "BBC",
-      "url": "https://www.bbc.com/sport/basketball/articles/cqy0r90nxneeo",
-      "publishedAt": "2026-10-09T10:16:00Z",
-      "tags": [
-        "NBA",
-        "LeBron James",
-        "76ers",
-        "basketball"
-      ]
-    },
-    {
-      "id": "top-ethiopia-unsc-letter-1009",
-      "category": "top",
-      "title": "Ethiopia tells UN it must defend itself against Eritrea's 'all-out invasion'",
-      "summary": "Ethiopia's government told the UN Security Council it has 'no choice but to defend itself against an all-out invasion' by Eritrean forces, saying troops advanced as far as 60km into northern Tigray. The letter, shared with Reuters on Friday, marks a sharp escalation in the Horn of Africa conflict.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/ethiopia-says-it-must-defend-itself-against-eritreas-all-out-invasion-2026-10-09/",
-      "publishedAt": "2026-10-09T07:00:00Z",
-      "tags": [
-        "Ethiopia",
-        "Eritrea",
-        "Tigray",
-        "United Nations"
-      ]
-    },
-    {
-      "id": "top-tigray-neighbours-1009",
-      "category": "top",
-      "title": "Will Ethiopia's neighbours be drawn into the Tigray war?",
-      "summary": "Al Jazeera examines whether regional powers will intervene as fighting escalates, noting Ethiopia closed its embassy in Eritrea and expelled Eritrean diplomats on October 1. Ethiopia has accused Asmara of backing hostile acts in the renewed conflict.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates",
-      "publishedAt": "2026-10-09T00:30:00Z",
-      "tags": [
-        "Ethiopia",
-        "Tigray",
-        "Eritrea",
-        "analysis"
-      ]
-    },
-    {
-      "id": "tech-apple-iphone18-orders-1009",
-      "category": "tech",
-      "title": "Apple cuts iPhone 18 Pro component orders on soft demand",
-      "summary": "Apple has slashed October component orders for the iPhone 18 Pro and Pro Max by at least 15% versus its original plans after demand came in below expectations, Nikkei Asia reported. Higher prices and rising memory costs are being blamed for the slowdown.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/apple-cuts-iphone-18-pro-orders-due-soft-demand-nikkei-asia-reports-2026-10-09/",
-      "publishedAt": "2026-10-09T10:13:00Z",
-      "tags": [
-        "Apple",
-        "iPhone",
-        "hardware",
-        "markets"
-      ]
-    },
-    {
-      "id": "tech-monolithos-robot-brain-1009",
-      "category": "tech",
-      "title": "Monolithos launches long-term memory system for robots",
-      "summary": "Monolithos released a public alpha of Robot Brain, a long-term memory and experience service that lets robots and embodied AI systems retain tasks, failures and human corrections across sessions. It is pitched as a drop-in memory layer that does not replace existing planning or control stacks.",
-      "source": "Robotics & Automation News",
-      "url": "https://roboticsandautomationnews.com/2026/10/09/monolithos-launches-long-term-memory-system-for-robots-and-embodied-ai/105780/",
+      "url": "https://www.bbc.com/news/articles/cm9wz5kng0x1o",
       "publishedAt": "2026-10-09T09:00:00Z",
       "tags": [
-        "robotics",
-        "embodied AI",
-        "memory",
-        "startups"
+        "Nobel Peace Prize",
+        "Navi Pillay",
+        "international law",
+        "human rights"
       ]
     },
     {
-      "id": "tech-softbank-gulf-100b-1009",
+      "id": "tech-automattic-cfo-1009",
       "category": "tech",
-      "title": "SoftBank seeks up to $100B from Gulf investors for AI buyouts",
-      "summary": "SoftBank is seeking to raise as much as $100 billion from Gulf investors for a fund that would buy companies and improve them with AI and other advanced technology, according to the Financial Times. Founder Masayoshi Son has held talks with senior UAE figures in recent weeks.",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd",
-      "publishedAt": "2026-10-09T08:00:00Z",
+      "title": "Automattic loses its interim CFO weeks after boardroom shakeup",
+      "summary": "Automattic, the parent of WordPress.com and Tumblr, has lost its interim chief financial officer just weeks after a boardroom shakeup, per TechCrunch. The departure adds to leadership churn as the company resets its executive ranks.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
+      "publishedAt": "2026-10-09T17:30:00Z",
       "tags": [
-        "SoftBank",
-        "AI",
-        "funding",
-        "Gulf"
+        "Automattic",
+        "WordPress",
+        "leadership",
+        "business"
       ]
     },
     {
-      "id": "tech-anthropic-oss-scanner-1009",
+      "id": "tech-tesla-fsd-rename-1009",
       "category": "tech",
-      "title": "Anthropic offers free AI security scans to open-source maintainers",
-      "summary": "Anthropic launched OSS Scanner, a free service that uses its strongest models to hunt for vulnerabilities in open-source software and sends findings straight to maintainers without human review. Anthropic says human validation had become a bottleneck in its vulnerability research.",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/10/09/anthropic-oss-scanner-ai-security-scans/",
-      "publishedAt": "2026-10-09T05:00:00Z",
+      "title": "Tesla renames 'Full Self-Driving' to 'Tesla Assisted Driving' in Europe",
+      "summary": "Tesla changed the name of its driver-assistance system in Europe to 'Tesla Assisted Driving' after Germany's transport ministry called 'Full Self-Driving' misleading. The retreat could ease the way for wider adoption of the paid software across the continent.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+      "publishedAt": "2026-10-09T16:07:00Z",
       "tags": [
-        "Anthropic",
-        "security",
-        "open source",
-        "AI"
+        "Tesla",
+        "autonomous driving",
+        "Europe",
+        "regulation"
       ]
     },
     {
-      "id": "browns-daily-dawg-chow-1009",
+      "id": "tech-cloudflare-deno-1009",
+      "category": "tech",
+      "title": "Cloudflare acquires Deno",
+      "summary": "Cloudflare is acquiring Deno, the runtime behind the Deno and Node-compatible JavaScript toolchain, the two companies announced. Deno says it will keep shipping the runtime for another year before ending development, with the codebase staying open source.",
+      "source": "Deno | Cloudflare",
+      "url": "https://deno.com/blog/cloudflare",
+      "publishedAt": "2026-10-09T14:30:00Z",
+      "tags": [
+        "Cloudflare",
+        "Deno",
+        "JavaScript",
+        "acquisition"
+      ]
+    },
+    {
+      "id": "tech-flock-layoffs-1009",
+      "category": "tech",
+      "title": "Licence-plate surveillance firm Flock cuts 18% of staff",
+      "summary": "Flock Safety, the AI-powered license-plate and camera surveillance company, is cutting about 270 jobs, or 18% of its workforce, via a voluntary buyout, Reuters reported. The cuts follow mounting privacy backlash and legal scrutiny of its mass-surveillance systems.",
+      "source": "TechCrunch | Reuters",
+      "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+      "publishedAt": "2026-10-09T13:40:00Z",
+      "tags": [
+        "Flock Safety",
+        "surveillance",
+        "privacy",
+        "layoffs"
+      ]
+    },
+    {
+      "id": "browns-jets-ruled-out-1009",
       "category": "browns",
-      "title": "Browns carry three-game winning streak into Jets matchup",
-      "summary": "Cleveland has been getting just enough offense while its defense keeps delivering, and rolls into Sunday's game at the New York Jets on a three-game winning streak. The October 9 notes roundup also covers the fall-out from the Week 4 win over Pittsburgh.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/134627/cleveland-browns-news-mike-rutenberg-spencer-fano-jared-verse",
+      "title": "Jets rule out Breece Hall and Adonai Mitchell for Browns game",
+      "summary": "New York Jets coach Aaron Glenn said running back Breece Hall and wide receiver Adonai Mitchell are out for Sunday's meeting with Cleveland. It knocks two of the Jets' top offensive weapons out of a Week 5 matchup against a Browns defense that has carried a 3-1 start.",
+      "source": "UPI",
+      "url": "https://www.upi.com/Sports_News/NFL/2026/10/09/Jets-Breece-Hall-Adonai-Mitchell-out-Browns/9591791565053/",
+      "publishedAt": "2026-10-09T16:30:00Z",
+      "tags": [
+        "Browns",
+        "Jets",
+        "NFL",
+        "injuries"
+      ]
+    },
+    {
+      "id": "browns-injury-live-1009",
+      "category": "browns",
+      "title": "Browns work through injury designations ahead of Jets trip",
+      "summary": "Cleveland finalized its Week 5 injury lists Friday as it prepares to visit the New York Jets, with defensive linemen Mason Graham and Mike Hall Jr. among the names being tracked. The team has already ruled Graham out, leaving its interior front shorthanded.",
+      "source": "Akron Beacon Journal",
+      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/10/09/browns-oct-9-updates-injury-mason-graham--live/92134456007/",
+      "publishedAt": "2026-10-09T14:30:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "injuries",
+        "Jets"
+      ]
+    },
+    {
+      "id": "browns-247-graham-1009",
+      "category": "browns",
+      "title": "Mason Graham ruled out for Week 5 at the Jets",
+      "summary": "The Browns declared rookie defensive tackle Mason Graham out for Sunday's game at New York after he sprained an MCL and ankle in the Week 4 win over Pittsburgh. Mike Hall Jr.'s status is also under cloud as Cleveland reshuffles its defensive front.",
+      "source": "247Sports",
+      "url": "https://247sports.com/nfl/cleveland-browns/article/browns-injury-report-mason-graham-mike-hall-jr-update-before-jets-291014889/",
+      "publishedAt": "2026-10-09T13:30:00Z",
+      "tags": [
+        "Browns",
+        "Mason Graham",
+        "NFL",
+        "injuries"
+      ]
+    },
+    {
+      "id": "browns-newswire-1009",
+      "category": "browns",
+      "title": "Browns news roundup: defense carries a 3-1 start into Week 5",
+      "summary": "Cleveland's October 9 newswire roundup notes the 3-1 Browns keep winning despite middling offensive stats, leaning on a defense that 'never rests.' Coverage also tracks the team's young receiver duo against prior rookie classes.",
+      "source": "Cleveland19 | OBR",
+      "url": "https://www.cleveland19.com/2026/10/09/cleveland-browns-news-rumors-10926-unlikely-cable-tv-shows/",
       "publishedAt": "2026-10-09T10:00:00Z",
       "tags": [
         "Browns",
         "NFL",
-        "Jets",
-        "winning streak"
+        "defense",
+        "roundup"
       ]
     },
     {
-      "id": "buckeyes-day-maryland-urgency-1009",
+      "id": "buckeyes-cfp-threat-1009",
       "category": "buckeyes",
-      "title": "Ryan Day ramps up urgency as No. 5 Ohio State faces Maryland",
-      "summary": "Ryan Day is pressing urgency as the fifth-ranked Buckeyes prepare to host Maryland before a demanding stretch of the schedule. Maryland arrives at 2-3 and 0-2 in the Big Ten on a three-game skid, with speculation growing about coach Mike Locksley's future.",
-      "source": "The Blade",
-      "url": "https://www.toledoblade.com/sports/ohio-state/2026/10/09/ryan-day-no-5-ohio-state-faces-maryland/stories/20261009025",
-      "publishedAt": "2026-10-09T07:53:00Z",
+      "title": "Buckeye Talk: which CFP hopeful is Ohio State's biggest threat?",
+      "summary": "Cleveland.com's Ohio State beat answers subscriber questions before Saturday's homecoming date with Maryland, calling this the last tune-up before a pivotal stretch at Indiana and USC and home vs. Oregon. The mailbag flags Texas as the CFP contender most worth worrying about.",
+      "source": "Cleveland.com via Journal-News",
+      "url": "https://www.journal-news.com/sports/college/ohio-state-buckeyes/why-this-college-football-playoff-hopeful-might-be-ohio-state-s-biggest-threat-hey-stefan/article_4b1c0e84-21b2-5260-a31e-55f56817afca.html",
+      "publishedAt": "2026-10-09T19:00:00Z",
+      "tags": [
+        "Ohio State",
+        "CFP",
+        "Buckeyes",
+        "analysis"
+      ]
+    },
+    {
+      "id": "buckeyes-freshmen-wr-1009",
+      "category": "buckeyes",
+      "title": "Freshman receivers could start for Ohio State vs. Maryland",
+      "summary": "With Devin McCuin and Brandon Inniss unexpectedly listed questionable, true freshmen Chris Henry Jr. and Brock Boyd could make their first career starts alongside Jeremiah Smith. It is a notable test of Ohio State's receiver depth ahead of a demanding October stretch.",
+      "source": "A to Z Sports",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-football-hit-with-unexpected-injury-news-freshmen-duo-could-be-starting-against-maryland/",
+      "publishedAt": "2026-10-09T16:00:00Z",
+      "tags": [
+        "Ohio State",
+        "wide receivers",
+        "Maryland",
+        "freshmen"
+      ]
+    },
+    {
+      "id": "buckeyes-game-theories-1009",
+      "category": "buckeyes",
+      "title": "Game theories and score picks for Ohio State vs. Maryland",
+      "summary": "The Bill & Doug Show lays out how Saturday's homecoming game could unfold, projecting a lopsided Buckeyes win (48-13 and 49-17 calls) behind Julian Sayin and Jeremiah Smith. Maryland arrives 2-3 and winless in Big Ten play, with coach Mike Locksley under pressure.",
+      "source": "The Bill & Doug Show",
+      "url": "https://www.billanddougshow.com/p/ohio-state-vs-maryland-game-theories",
+      "publishedAt": "2026-10-09T13:00:00Z",
       "tags": [
         "Ohio State",
         "Maryland",
         "Big Ten",
-        "Ryan Day"
+        "predictions"
       ]
     },
     {
-      "id": "f1-norris-mclaren-progress-1009",
-      "category": "f1",
-      "title": "Norris confident McLaren has made progress for Singapore",
-      "summary": "Lando Norris says McLaren has worked on the MCL40's straight-line speed weakness ahead of the Singapore Grand Prix, but admits the real progress will only show once the car hits the track. McLaren has been hit by technical problems and inconsistent pace through 2026.",
-      "source": "Motorsport Week",
-      "url": "https://www.motorsportweek.com/2026/10/09/lando-norris-confidence-mclaren-resolution-singapore-gp/",
-      "publishedAt": "2026-10-09T10:45:00Z",
+      "id": "buckeyes-injuries-1009",
+      "category": "buckeyes",
+      "title": "Five Ohio State starters questionable for Maryland",
+      "summary": "Ohio State's availability report lists five projected starters as questionable for Saturday, including receivers Devin McCuin and Brandon Inniss, right tackle Phillip Daniels, linebacker Christian Alliegro and nickelback Jay Timmons. The Buckeyes are heavy favorites but could be thin on both sides.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-news/123490/5-ohiostate-football-starters-questionable-maryland",
+      "publishedAt": "2026-10-09T12:01:00Z",
       "tags": [
-        "F1",
-        "McLaren",
-        "Lando Norris",
-        "Singapore GP"
+        "Ohio State",
+        "injuries",
+        "Maryland",
+        "Big Ten"
       ]
     },
     {
-      "id": "f1-russell-penalty-confirmed-1009",
+      "id": "f1-fia-human-error-1009",
       "category": "f1",
-      "title": "FIA confirms Russell's power-unit change and back-of-grid start",
-      "summary": "The FIA confirmed Mercedes fitted George Russell's W17 with seven new power-unit components for Singapore, consigning him to the back of the grid at Marina Bay. Russell trails team-mate and championship leader Kimi Antonelli by 84 points with five rounds left.",
-      "source": "RacingNews365",
-      "url": "https://www.racingnews365.com/brutal-george-russell-situation-becomes-reality-as-fia-confirm-mercedes-changes",
-      "publishedAt": "2026-10-09T09:49:00Z",
-      "tags": [
-        "F1",
-        "Mercedes",
-        "George Russell",
-        "Singapore GP"
-      ]
-    },
-    {
-      "id": "f1-singapore-fp1-russell-1009",
-      "category": "f1",
-      "title": "Singapore GP FP1: Russell fastest as pecking order stays unclear",
-      "summary": "George Russell topped the only practice session at Marina Bay ahead of Charles Leclerc and Lando Norris, with Max Verstappen sixth after radio trouble cost him running. Singapore runs the Sprint format for the first time this weekend.",
-      "source": "GrandPrix247",
-      "url": "https://www.grandprix247.com/formula-1-news/singapore-grand-prix-fp1-george-russell-fastest-pecking-order-yet-to-emerge",
-      "publishedAt": "2026-10-09T09:30:00Z",
-      "tags": [
-        "F1",
-        "Singapore GP",
-        "practice",
-        "George Russell"
-      ]
-    },
-    {
-      "id": "f1-fia-sepang-glitch-cause-1009",
-      "category": "f1",
-      "title": "FIA reveals cause of Singapore's Sepang software glitch",
-      "summary": "The FIA concluded the Sepang formation-lap power losses came from cars running low engine RPM in sectors where a 250kW power reduction was applied. The regulator will reinstate the Sepang configuration in Singapore if rain threatens and ship another wet-weather software update for the US Grand Prix.",
-      "source": "AutoAction",
-      "url": "https://autoaction.com.au/2026/10/09/fia-sepang-f1-software-glitch-investigation",
-      "publishedAt": "2026-10-09T03:00:00Z",
+      "title": "FIA admits 'human error' left overtake mode off in Singapore sprint qualifying",
+      "summary": "Formula 1's governing body confirmed that a Race Control mistake meant the new overtake mode was unavailable after the SQ1 red flag at Marina Bay, affecting cars differently depending on where they were on track. It is the second technical blunder in a week, after software glitches disrupted the Malaysian Grand Prix start.",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/f1/f1-human-error-sprint-qualifying-fia-singpore-grand-prix-b3064350.html",
+      "publishedAt": "2026-10-09T17:04:00Z",
       "tags": [
         "F1",
         "FIA",
         "Singapore GP",
-        "safety"
+        "rules"
       ]
     },
     {
-      "id": "tarkov-client-update-1009",
-      "category": "tarkov",
-      "title": "New Escape from Tarkov client build pushed for October 9",
-      "summary": "A fresh Escape from Tarkov build (25822791) was logged for October 9, 2026, indicating Battlestate Games shipped another client update. No detailed patch notes accompanied the build.",
-      "source": "SteamDB",
-      "url": "https://steamdb.info/patchnotes/25822791/",
-      "publishedAt": "2026-10-09T08:00:00Z",
+      "id": "f1-mercedes-upgrade-weakness-1009",
+      "category": "f1",
+      "title": "Mercedes' new upgrade laid bare by Singapore sprint qualifying",
+      "summary": "George Russell qualified second in the older-spec Mercedes, 0.573s ahead of team-mate Kimi Antonelli, who ran the new package. The Race reports the upgrade has a narrow balance window, leaving Mercedes with 'head scratching' over why it is not delivering the expected step.",
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/big-weakness-with-new-mercedes-upgrade-has-been-exposed/",
+      "publishedAt": "2026-10-09T15:00:00Z",
       "tags": [
-        "Tarkov",
-        "patch",
-        "PC gaming"
+        "F1",
+        "Mercedes",
+        "upgrades",
+        "Singapore GP"
       ]
     },
     {
-      "id": "tarkov-outage-reports-1009",
-      "category": "tarkov",
-      "title": "Players report Escape From Tarkov outages on October 9",
-      "summary": "Reports of Escape From Tarkov problems spiked around 3:08 a.m. ET on October 9, according to DownDetector data, with players flagging connectivity issues. No official cause had been posted by Battlestate Games.",
-      "source": "DownDetector via DesignTAXI",
-      "url": "https://community.designtaxi.com/topic/41178-is-escape-from-tarkov-down-october-9-2026/",
-      "publishedAt": "2026-10-09T07:08:00Z",
+      "id": "f1-verstappen-sprint-pole-1009",
+      "category": "f1",
+      "title": "Verstappen takes Singapore sprint pole as timing chaos hits qualifying",
+      "summary": "Max Verstappen secured provisional sprint pole at Marina Bay ahead of George Russell after a chaotic SQ1 that featured a red flag and a timing-system failure, but faces a stewards investigation over allegedly overtaking Lewis Hamilton under yellow flags. It is Verstappen's first time topping qualifying at the Singapore street circuit.",
+      "source": "GPblog",
+      "url": "https://www.gpblog.com/en/news/verstappen-beats-russell-to-sprint-pole-as-timing-chaos-hits-singapore",
+      "publishedAt": "2026-10-09T13:51:00Z",
       "tags": [
-        "Tarkov",
-        "outage",
-        "servers"
+        "F1",
+        "Max Verstappen",
+        "Singapore GP",
+        "qualifying"
       ]
     },
     {
-      "id": "local-scrubs-beyond-closing-1009",
+      "id": "f1-russell-penalty-1009",
+      "category": "f1",
+      "title": "Russell handed 40-place grid penalty for Singapore",
+      "summary": "Stewards confirmed a combined 40-place grid drop for George Russell after Mercedes fitted four additional power-unit elements, sanctioning him to the back for Sunday's Singapore Grand Prix. The penalty does not apply to his sprint starting position, where he lines up alongside Verstappen.",
+      "source": "GPblog",
+      "url": "https://www.gpblog.com/en/news/george-russell-penalty-confirmed-after-mercedes-perform-engine-change",
+      "publishedAt": "2026-10-09T12:55:00Z",
+      "tags": [
+        "F1",
+        "George Russell",
+        "Mercedes",
+        "Singapore GP"
+      ]
+    },
+    {
+      "id": "local-trump-columbus-statue-1009",
       "category": "local",
-      "title": "Scrubs & Beyond closing all stores, including two in Columbus",
-      "summary": "Healthcare-apparel retailer Scrubs & Beyond is shutting all of its locations nationwide, including two in central Ohio, though it has not announced a timeline. Both Columbus-area stores were still open as of Wednesday.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/scrubs-beyond-closing-all-stores-nationwide-including-two-in-columbus-area/",
-      "publishedAt": "2026-10-09T10:09:00Z",
+      "title": "Trump urges Columbus to restore its namesake statue",
+      "summary": "In an Oct. 9 speech, President Trump demanded that the Christopher Columbus statue 'be put back into the heart of Columbus, Ohio,' reigniting a long-running local debate over the monument. The city removed the statue in 2020 amid nationwide protests.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/politics/2026/10/09/trump-columbus-ohio-statue-debate/92170368007/",
+      "publishedAt": "2026-10-09T19:15:00Z",
       "tags": [
         "Columbus",
-        "retail",
-        "business",
-        "closures"
+        "Trump",
+        "statue",
+        "politics"
       ]
     },
     {
-      "id": "local-ohio-school-funding-1009",
+      "id": "local-affordable-housing-1009",
       "category": "local",
-      "title": "Advocates warn Ohio school funding is being 'actively undercut'",
-      "summary": "Parents, educators and policy experts argued Ohio's school funding shortfall is the result of state legislative choices rather than local mismanagement, as districts prepare to ask voters for levies next month. The panel discussion was highlighted in the Ohio Capital Journal's October 9 roundup.",
-      "source": "Ohio Capital Journal",
-      "url": "https://ohiocapitaljournal.com/2026/10/09/catching-our-eye-news-roundup-oct-9-2026/",
-      "publishedAt": "2026-10-09T07:10:00Z",
+      "title": "Columbus leaders demand an affordable-housing action plan",
+      "summary": "Community leaders, including the Columbus Urban League and NAACP, pressed city and county officials for a comprehensive affordable-housing plan, saying the region is in crisis mode. The Urban League says it has fielded more than 12,000 calls since July from residents at risk of losing their homes.",
+      "source": "National Urban League",
+      "url": "https://nul.org/news/columbus-community-leaders-demanding-more-affordable-housing",
+      "publishedAt": "2026-10-09T15:00:00Z",
       "tags": [
-        "Ohio",
-        "schools",
-        "funding",
-        "politics"
+        "Columbus",
+        "housing",
+        "homelessness",
+        "Franklin County"
+      ]
+    },
+    {
+      "id": "local-operation-unity-1009",
+      "category": "local",
+      "title": "Central Ohio sweep nets 200-plus traffic stops",
+      "summary": "A 12-hour 'Operation Unity' across Franklin County's Clinton Township area produced more than 200 traffic stops, 84 citations and 10 distracted-driving tickets, authorities said. It was the third such multi-agency operation this year, following a deadly summer of crashes.",
+      "source": "Spectrum News 1",
+      "url": "https://spectrumnews1.com/oh/cleveland/news/2026/10/09/central-ohio-operation-results-in-over-200-traffic-stops",
+      "publishedAt": "2026-10-09T11:45:00Z",
+      "tags": [
+        "Columbus",
+        "traffic safety",
+        "law enforcement",
+        "Franklin County"
+      ]
+    },
+    {
+      "id": "local-violence-intervention-1009",
+      "category": "local",
+      "title": "Columbus Council funds expansion of violence-intervention team",
+      "summary": "Columbus City Council voted to keep funding the Columbus Urban League's neighborhood violence-intervention program for another year with $725,000, doubling its on-call response team from four to eight. The program, started 13 years ago, sends responders into the community around the clock.",
+      "source": "National Urban League",
+      "url": "https://nul.org/news/columbus-city-council-passes-ordinance-expand-neighborhood-violence-intervention-program",
+      "publishedAt": "2026-10-09T10:00:00Z",
+      "tags": [
+        "Columbus",
+        "public safety",
+        "City Council",
+        "community"
       ]
     }
   ]
