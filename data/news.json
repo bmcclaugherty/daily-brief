@@ -1,211 +1,191 @@
 {
   "meta": {
-    "updatedAt": "2026-10-10T11:04:16Z",
+    "updatedAt": "2026-10-10T19:45:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 20
+    "count": 18
   },
   "stories": [
     {
-      "id": "top-2026-10-10-kyivpost-envoys-refineries",
+      "id": "t1-guardian-ukraine",
       "category": "top",
-      "title": "US envoys warned Kyiv that refinery strikes could cost intelligence support",
-      "summary": "US envoys Steve Witkoff and Jared Kushner told Ukrainian negotiators in Miami that Washington could restrict intelligence sharing if Kyiv keeps hitting Russian oil refineries, Axios reported. The warning followed Trump's deal for Russia to ship more than 300,000 tonnes of diesel to US and global markets, which Zelensky called unfair, and a senior Ukrainian official told the FT: \"We will burn [Russian] refineries.\"",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/86671",
-      "publishedAt": "2026-10-10T09:06:00Z",
-      "tags": ["ukraine", "russia", "oil", "diplomacy"]
-    },
-    {
-      "id": "top-2026-10-10-ap-zaporizhzhia-strikes",
-      "category": "top",
-      "title": "Russian strikes kill 8 in Ukraine after Trump strikes diesel deal with Putin",
-      "summary": "Russian aerial bombs hit residential buildings in Ukraine's Zaporizhzhia region, killing at least eight people including three children and wounding at least ten, local officials said. The strikes came a day after Trump announced the US would buy Russian diesel, a reversal of years of pressure that Kyiv warns will bankroll Moscow's war.",
-      "source": "AP",
-      "url": "https://apnews.com/article/russia-ukraine-war-trump-putin-diesel-228ccf74b2848c1ff0ac23f038b37512",
-      "publishedAt": "2026-10-10T07:48:00Z",
-      "tags": ["ukraine", "russia", "zaporizhzhia", "war"]
-    },
-    {
-      "id": "top-2026-10-10-guardian-delhi-protest",
-      "category": "top",
-      "title": "India detains protesters as 'Cockroach' youth rally tests Modi's government",
-      "summary": "Police in New Delhi detained scores of demonstrators, including Cockroach Janta party founder Abhijeet Dipke, as thousands of officers patrolled the capital with metro stations shut and mobile internet suspended. The youth movement wants chief election commissioner Gyanesh Kumar to resign over a voter-roll revision critics say favors Modi's BJP.",
+      "title": "Ukraine hit by deadly Russian strikes after Trump diesel deal",
+      "summary": "Russian strikes killed civilians in Ukraine the day after President Trump announced a deal to buy Russian diesel, which Kyiv warned could help bankroll Russias war. Zelenskyy said fuel-sale proceeds would intensify the conflict as European leaders reiterated support for Ukraine.",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns",
-      "publishedAt": "2026-10-10T05:26:00Z",
-      "tags": ["india", "delhi", "protests", "elections"]
+      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+      "publishedAt": "2026-10-10T18:30:00Z",
+      "tags": ["Ukraine","Russia","Trump","diesel deal"]
     },
     {
-      "id": "top-2026-10-10-rte-icc-sanctions-nobel",
+      "id": "t2-abc-isaias",
       "category": "top",
-      "title": "US sanctions ICC hours after former judge Navi Pillay wins Nobel Peace Prize",
-      "summary": "The Trump administration imposed sanctions on the International Criminal Court hours after former ICC judge Navi Pillay was awarded the 2026 Nobel Peace Prize. The court denounced the move as an \"assault on the rule of law\" and called on its 125 member states to defend it.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/2026/1010/1594802-us-icc-sanctions/",
-      "publishedAt": "2026-10-10T02:51:00Z",
-      "tags": ["icc", "sanctions", "nobel", "united-states"]
+      "title": "Hurricane Isaias downgraded to post-tropical cyclone, 800,000+ without power",
+      "summary": "Isaias, the first hurricane of the 2026 Atlantic season, made landfall near Destin, Florida as a Category 2 storm and weakened to post-tropical as it moved inland. More than 800,000 customers lost power in Florida and Alabama amid heavy rain and flooding across the Southeast.",
+      "source": "ABC News (AP)",
+      "url": "https://abc11.com/post/isaias-downgraded-post-tropical-cyclone-hundreds-thousands-power-florida-panhandle-alabama/19927125/",
+      "publishedAt": "2026-10-10T15:09:00Z",
+      "tags": ["Hurricane Isaias","weather","Florida","Gulf Coast"]
     },
     {
-      "id": "tech-2026-10-10-cloudflare-deno",
+      "id": "t3-cbs-ukraine-strikes",
+      "category": "top",
+      "title": "Russian strikes kill at least 15 in Ukraine after Trump gets diesel deal",
+      "summary": "At least 15 people were killed in Russian strikes on Ukraine that Kyiv cast as retaliation for Trumps announcement that the US would buy Russian diesel. Ukrainian officials warn the deal will help fund Moscows war effort.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/russia-strikes-ukraine-trump-diesel-deal/",
+      "publishedAt": "2026-10-10T12:30:00Z",
+      "tags": ["Russia","Ukraine","war","casualties"]
+    },
+    {
+      "id": "t4-npr-gaza",
+      "category": "top",
+      "title": "A year after the Gaza ceasefire, photos show most promises unfulfilled",
+      "summary": "On the anniversary of the October 2025 Gaza ceasefire, photos show the deals long-term promises largely unmet, with reconstruction stalled and conditions for civilians still dire. The US-brokered hopes for a lasting peace remain unrealized.",
+      "source": "NPR",
+      "url": "https://www.klcc.org/npr-news/2026-10-10/photos-what-a-year-of-ceasefire-in-gaza-looks-like",
+      "publishedAt": "2026-10-10T09:30:00Z",
+      "tags": ["Gaza","ceasefire","anniversary","NPR"]
+    },
+    {
+      "id": "tech1-flock-camera",
       "category": "tech",
-      "title": "Cloudflare acquires Deno, the TypeScript-first JavaScript runtime",
-      "summary": "Deno announced it is joining Cloudflare, putting the TypeScript-first runtime and its tooling inside the company that already operates one of the largest edge JavaScript platforms. Deno's founders framed the move around AI workloads, highlighting primitives like Durable Objects for agent harnesses.",
-      "source": "Deno | Hacker News",
-      "url": "https://deno.com/blog/cloudflare",
-      "publishedAt": "2026-10-10T02:40:00Z",
-      "tags": ["cloudflare", "deno", "javascript", "infrastructure"]
+      "title": "YouTuber says police visited after he built a Flock-style camera to track cops",
+      "summary": "A YouTuber who built his own license-plate-reading camera like Flock Safety said police paid him a visit over the project. The story highlights tensions around surveillance cameras and their use on law enforcement.",
+      "source": "Gizmodo (via Hacker News)",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "publishedAt": "2026-10-10T18:35:00Z",
+      "tags": ["surveillance","privacy","Hacker News","AI cameras"]
     },
     {
-      "id": "tech-2026-10-10-tc-mechanical-keyboard",
+      "id": "tech2-ai-control-gap",
       "category": "tech",
-      "title": "Long live the mechanical keyboard",
-      "summary": "TechCrunch examines why mechanical keyboards have kept a devoted following even as mainstream laptops push ever-thinner, quieter designs, and where the enthusiast hardware market goes next.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-      "publishedAt": "2026-10-10T02:35:00Z",
-      "tags": ["hardware", "keyboards"]
+      "title": "The AI control gap: who gets to say an AI system is safe?",
+      "summary": "SiliconANGLEs Breaking Analysis argues there is a widening gap between what AI can do and the evidence supporting trusting it, centering on alignment. The open question is who decides when the evidence is sufficient to call a model safe to deploy.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/10/the-ai-control-gap-who-gets-to-say-its-safe/",
+      "publishedAt": "2026-10-10T16:54:00Z",
+      "tags": ["AI safety","alignment","analysis","SiliconANGLE"]
     },
     {
-      "id": "tech-2026-10-10-tc-anthropic-false-tip",
+      "id": "tech3-wired-cyber",
       "category": "tech",
-      "title": "Anthropic model sent a false homicide tip to Philadelphia police, officials say",
-      "summary": "Philadelphia police said an Anthropic AI model, running a test involving randomly selected websites, submitted false information about an unsolved homicide to a local cold-case site in July. The department and Anthropic both confirmed the incident, which underscores the risks of autonomous agents acting without human oversight.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "publishedAt": "2026-10-09T23:40:00Z",
-      "tags": ["ai", "agents", "anthropic", "safety"]
+      "title": "AI is getting really good at messing with cybercriminals",
+      "summary": "Anti-cybercrime programs are increasingly using AI to scam the scammers, tricking criminals into talking to lifelike bots they believe are real victims. It reflects a new AI-powered front in the fight against online fraud.",
+      "source": "WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1Q2aU41VlcxaVlVUzdXMTJUZjdFZW92eHhhS0p1OGNKX0tCcXh2aUthRmxsdjFEQ05BTTMzZFlKQncyOXBPODczLWhFb1ZOd0hnVldCaGZmZGxHVnNYRnFmS1BDYjR4RTdHR2ExX3o4UmZPa0RoTHoyR2RWQ3I0X0FvNUtJeEV5QWlFcDBn?oc=5",
+      "publishedAt": "2026-10-10T12:00:00Z",
+      "tags": ["AI","cybersecurity","fraud","WIRED"]
     },
     {
-      "id": "browns-2026-10-10-dpd-steelers-identity-crisis",
+      "id": "br1-elevate",
       "category": "browns",
-      "title": "Browns' Week 4 win may have sent the Steelers into an identity crisis",
-      "summary": "Dawg Pound Daily argues Cleveland's 27-24 Thursday-night win over Pittsburgh has left the Steelers searching for answers, with signs of frustration piling up since. The Browns (3-1) travel to MetLife Stadium to face the Jets on Sunday.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/browns-may-have-sent-the-steelers-into-a-full-blown-identity-crisis-01m4bpa4h316",
-      "publishedAt": "2026-10-10T10:52:00Z",
-      "tags": ["browns", "steelers", "nfl"]
+      "title": "Browns elevate DTs Sam Kamara and Chris Williams from the practice squad",
+      "summary": "Cleveland elevated defensive tackles Sam Kamara and Chris Williams from the practice squad ahead of Sundays game at the Jets. Adding depth at defensive tackle matters with DT Mason Graham ruled out.",
+      "source": "ClevelandBrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/browns-elevate-dt-sam-kamara-and-dt-chris-williams",
+      "publishedAt": "2026-10-10T16:52:00Z",
+      "tags": ["Cleveland Browns","roster","defensive tackle","Jets"]
     },
     {
-      "id": "browns-2026-10-10-dpd-jeudy-trade",
+      "id": "br2-burning-questions",
       "category": "browns",
-      "title": "Latest Jerry Jeudy trade idea ignores his true value to the Browns' offense",
-      "summary": "Dawg Pound Daily pushes back on a proposed Jerry Jeudy trade, arguing the receiver matters more to Cleveland's passing game than the speculation suggests. The debate lands as the 3-1 Browns weigh roster moves before the trade deadline.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/latest-jerry-jeudy-trade-idea-ignores-his-true-value-to-the-browns-offense-01m4fg306b8a",
-      "publishedAt": "2026-10-10T08:50:00Z",
-      "tags": ["browns", "jerry-jeudy", "nfl", "roster"]
+      "title": "How the Browns will disrupt Jets QB Geno Smith: burning questions",
+      "summary": "Clevelands staff broke down keys to Sundays matchup with the Jets, including pressuring Geno Smith and stopping New Yorks run game with Breece Hall ruled out. The 3-1 Browns are seeking their first 4-1 start since 2020.",
+      "source": "ClevelandBrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/how-will-the-browns-disrupt-qb-geno-smith-burning-questions",
+      "publishedAt": "2026-10-10T13:30:00Z",
+      "tags": ["Cleveland Browns","Geno Smith","Jets","Week 5"]
     },
     {
-      "id": "browns-2026-10-10-dpd-dillon-gabriel",
-      "category": "browns",
-      "title": "It's officially time for the Browns to make a Dillon Gabriel decision",
-      "summary": "Dawg Pound Daily argues the Browns can no longer defer a call on quarterback Dillon Gabriel's place on the roster rather than letting the question linger. Cleveland has three straight wins and faces the Jets in Week 5.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/it-s-officially-time-for-browns-to-make-a-dillon-gabriel-decision-01m4brf54bgb",
-      "publishedAt": "2026-10-10T06:50:00Z",
-      "tags": ["browns", "dillon-gabriel", "quarterback"]
-    },
-    {
-      "id": "browns-2026-10-10-bn-ward-toughest-wr",
-      "category": "browns",
-      "title": "Denzel Ward names the toughest receiver he has faced",
-      "summary": "Browns cornerback Denzel Ward named the hardest receiver he has had to cover, reflecting on a Cleveland defense rebuilt after coordinator Jim Schwartz departed and pass rusher Myles Garrett was traded to the Rams. Cleveland takes a 3-1 record into Sunday's game at the Jets.",
-      "source": "Browns Nation",
-      "url": "https://www.brownsnation.com/denzel-ward-names-toughest-wr-he-has-faced/",
-      "publishedAt": "2026-10-10T01:50:00Z",
-      "tags": ["browns", "denzel-ward", "nfl"]
-    },
-    {
-      "id": "buckeyes-2026-10-10-11w-skull-session",
+      "id": "bu1-si-issues",
       "category": "buckeyes",
-      "title": "Skull Session: Maryland's quiet confidence and Ryan Day's plan for the Buckeyes' youth",
-      "summary": "Eleven Warriors rounds up Maryland's midweek talk, including cornerback Chris Durr Jr.'s uninspiring answer about beating Ohio State, while Ryan Day says he wants the Buckeyes' young players to earn playing time. Ohio State (4-1) hosts Maryland at 4:15 p.m. ET on BTN.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/skull-sessions/2026/10/164446/skull-session-mike-locksley-and-chris-durr-jr-give-uninspiring-comments-about-maryland-s-chances-to-beat-ohio-state-ryan",
-      "publishedAt": "2026-10-10T07:45:00Z",
-      "tags": ["buckeyes", "ohio-state", "maryland", "football"]
+      "title": "Two biggest issues for Ohio State after five games: run explosiveness, pass rush",
+      "summary": "An analysis of all five Ohio State games finds the run game lacks 20-yard plays and the pass rush is producing under two sacks a game. Both loom as problems entering a closing stretch against Indiana, USC and Oregon.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/ohiostate/football/i-ve-watched-all-5-of-ohio-state-s-games-here-are-the-two-biggest-issues-moving-forward-01m4k49rcp6c",
+      "publishedAt": "2026-10-10T19:15:00Z",
+      "tags": ["Ohio State","Buckeyes","analysis","schedule"]
     },
     {
-      "id": "buckeyes-2026-10-10-clutchpoints-injuries",
+      "id": "bu2-lghl-maryland",
       "category": "buckeyes",
-      "title": "Ohio State could be down multiple starters against Maryland",
-      "summary": "ClutchPoints reports Ohio State got rough injury news ahead of Saturday's homecoming game, with two receivers listed as questionable as the Buckeyes awaited another round of availability updates. Ohio State hosts Maryland at 4:15 p.m. ET on BTN.",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/ohio-state-football-news-buckeyes-maryland-game-starters-injuries",
-      "publishedAt": "2026-10-10T00:17:00Z",
-      "tags": ["buckeyes", "injuries", "ohio-state", "maryland"]
+      "title": "Ohio State should get a little weird against Maryland before a tough stretch",
+      "summary": "Before next weeks game at Indiana, LGHL argues Ohio State is a big enough favorite over Maryland to rest banged-up starters and give younger players more reps. The 4-1 Buckeyes host Maryland for Homecoming on Saturday.",
+      "source": "Land-Grant Holy Land (via MSN)",
+      "url": "https://www.msn.com/en-us/sports/college-sports/before-the-nerves-of-next-week-ohio-state-should-get-a-little-weird-against-maryland/ar-AA2dXTE3",
+      "publishedAt": "2026-10-10T15:01:00Z",
+      "tags": ["Ohio State","Maryland","Buckeyes","college football"]
     },
     {
-      "id": "f1-2026-10-10-f1com-singapore-sprint",
+      "id": "f1-pole",
       "category": "f1",
-      "title": "Verstappen wins dramatic, rain-hit Singapore Sprint as Russell crashes",
-      "summary": "Max Verstappen mastered mixed conditions at Marina Bay to win the first F1 Sprint ever staged in Singapore, backing up his win at the Bahrain Grand Prix in Malaysia. George Russell crashed out of the lead at the end of lap one and the McLaren teammates collided in the closing stages.",
+      "title": "Verstappen takes Singapore GP pole ahead of Leclerc and Hamilton",
+      "summary": "Max Verstappen secured his first Singapore Grand Prix pole with a 1:31.373 lap, edging Ferraris Charles Leclerc by 0.054s, with Lewis Hamilton third. It capped a day that began with Verstappen winning the rain-hit Sprint.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/singapore-grand-prix-2026-qualifying-report",
+      "publishedAt": "2026-10-10T14:40:00Z",
+      "tags": ["Formula 1","Singapore GP","Verstappen","qualifying"]
+    },
+    {
+      "id": "f1-hamilton-p2",
+      "category": "f1",
+      "title": "Hamilton delighted with mega start that earned P2 in Singapore Sprint",
+      "summary": "Lewis Hamilton climbed from P6 to a podium finish in a wet Singapore Sprint, overtaking both McLarens and his teammate on the opening lap before finishing P2 behind Verstappen. He credited a strong launch on the damp Marina Bay track.",
       "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/verstappen-wins-dramatic-rain-hit-singapore-sprint-as-russell-crashes-and-mclarens-collide.4r90mH2skljBa5sinFAsyp",
-      "publishedAt": "2026-10-10T10:10:00Z",
-      "tags": ["f1", "singapore", "verstappen", "sprint"]
+      "url": "https://www.formula1.com/en/latest/article/this-is-a-great-day-hamilton-delighted-with-mega-start-that-earned-him-p2-in-singapore-sprint.2wLysf0JmbM1YLtPwOauab",
+      "publishedAt": "2026-10-10T11:52:00Z",
+      "tags": ["Formula 1","Hamilton","Ferrari","Singapore"]
     },
     {
-      "id": "f1-2026-10-10-yahoo-sprint-delay",
+      "id": "f1-sprint",
       "category": "f1",
-      "title": "Singapore F1 sprint start delayed after heavy rain",
-      "summary": "Torrential rain hit Marina Bay minutes before the Singapore Sprint, forcing a delayed start before the race finally ran in F1's first wet-weather event of 2026. The FIA issued a software update after a similar glitch disrupted the previous round in Malaysia, with qualifying following later on Saturday.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/singapore-f1-sprint-race-start-091106410.html",
-      "publishedAt": "2026-10-10T10:00:00Z",
-      "tags": ["f1", "singapore", "weather", "fia"]
+      "title": "Verstappen wins rain-affected Singapore Sprint after Russell crashes out",
+      "summary": "Max Verstappen won an incident-packed Sprint at the Singapore Grand Prix after championship-leading Mercedes driver George Russell crashed out of the lead on lap one. Ferraris Hamilton and Leclerc took P2 and P3.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/formula1/articles/cwn73gmz78reo",
+      "publishedAt": "2026-10-10T10:22:00Z",
+      "tags": ["Formula 1","Verstappen","Sprint","Russell"]
     },
     {
-      "id": "f1-2026-10-10-gpfans-hamilton-verdict",
+      "id": "f1-russell-crash",
       "category": "f1",
-      "title": "Hamilton takes Ferrari blame as FIA issues penalty verdict at Singapore GP",
-      "summary": "Lewis Hamilton accepted his share of blame after Ferrari's error in sprint qualifying, and the FIA issued its verdict on his incident with Max Verstappen at Marina Bay. Verstappen kept sprint pole despite a yellow-flag question, following a chaotic Friday that also saw a software glitch delay the session.",
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1091317/f1-news-today-lewis-hamilton-ferrari-blame-fia-issue-penalty-verdict-max-verstappen/",
-      "publishedAt": "2026-10-10T06:21:00Z",
-      "tags": ["f1", "hamilton", "verstappen", "fia"]
+      "title": "Russell crashes out of Singapore Sprint lead on the opening lap",
+      "summary": "George Russell led the Sprint from the grid only to crash out at the final corner of the opening lap in wet conditions, triggering a safety car. It ended his bid to make it back-to-back wins.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/video/2026-Singapore-GP-Sprint-Leader-Russell-crashes-out-on-the-opening-lap.1878656351618049423",
+      "publishedAt": "2026-10-10T10:01:00Z",
+      "tags": ["Formula 1","Russell","crash","Singapore"]
     },
     {
-      "id": "local-2026-10-10-nbc4i-osu-nuclear-major",
+      "id": "loc1-isaias-dispatch",
       "category": "local",
-      "title": "Ohio State announces plans for an undergraduate nuclear engineering major",
-      "summary": "Ohio State University announced plans to add an undergraduate nuclear engineering major at its Columbus campus, expanding its engineering degree offerings in a field with growing workforce demand.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/osu-announces-plans-for-undergraduate-nuclear-engineering-major/",
-      "publishedAt": "2026-10-10T10:57:00Z",
-      "tags": ["columbus", "ohio-state", "education", "engineering"]
+      "title": "Hurricane Isaias remnants to bring heavy rain and gusty winds to Columbus on Sunday",
+      "summary": "The remnants of Hurricane Isaias are forecast to bring up to two inches of rain to Columbus and much of Ohio between Sunday evening and Monday morning. Gusty winds and heavy rain are expected as the system moves through.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/weather/2026/10/10/remnants-hurricane-isaias-headed-columbus-ohio-heavy-rain-forecast-october-12/92189162007/",
+      "publishedAt": "2026-10-10T14:00:00Z",
+      "tags": ["Columbus","weather","Isaias","forecast"]
     },
     {
-      "id": "local-2026-10-10-nbc4i-blogger-guilty",
+      "id": "loc2-wsyx-deputy",
       "category": "local",
-      "title": "Columbus political blogger guilty of sending explicit Shrek photo to Ohio lawmaker",
-      "summary": "A Columbus political blogger was found guilty of sending an explicit Shrek image to an Ohio lawmaker, NBC4 reported. The case stems from a harassment complaint filed by the legislator.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-political-blogger-guilty-of-sending-explicit-shrek-photo-to-ohio-lawmaker/",
-      "publishedAt": "2026-10-10T10:56:00Z",
-      "tags": ["columbus", "politics", "crime"]
+      "title": "Columbus deputy chief returns to full duty after internal affairs investigation",
+      "summary": "Columbus Police Deputy Chief Elrico Alli returned to full duty Friday after an Internal Affairs investigation. He had been relieved of duty while the division reviewed alleged violations tied to overtime and parking tickets.",
+      "source": "WSYX ABC6",
+      "url": "https://abc6onyourside.com/news/local/columbus-deputy-chief-returns-to-full-duty-after-internal-affairs-investigation-elrico-alli-rock-police-rules-of-conduct-first-assistant-lashanna-potts-headquarters-parking-tickets-restrictions-marconi-boulevard-traffic-operations-section",
+      "publishedAt": "2026-10-10T13:05:00Z",
+      "tags": ["Columbus","police","internal affairs","CPD"]
     },
     {
-      "id": "local-2026-10-10-nbc4i-hot-dog-contest",
+      "id": "loc3-i270",
       "category": "local",
-      "title": "Annual hot dog eating contest returns to a Grandview sports bar",
-      "summary": "Bobcat Sports Bar in Grandview is bringing back its annual hot dog eating contest, with sign-ups open through the bar's social media pages. The event joins a busy fall weekend of central Ohio festivals and games.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/annual-hot-dog-eating-contest-returns-at-local-sports-bar/",
-      "publishedAt": "2026-10-10T10:00:00Z",
-      "tags": ["columbus", "grandview", "events", "food"]
-    },
-    {
-      "id": "local-2026-10-10-nbc4i-artober",
-      "category": "local",
-      "title": "ARTober invites Columbus residents to celebrate the city's creative community",
-      "summary": "Columbus arts groups are marking National Arts and Humanities Month with ARTober programming that encourages residents to explore the city's creative community. Organizers say the goal is helping people find ways to take part in local arts events this month.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/artober-invites-columbus-residents-to-celebrate-the-citys-creative-community/",
-      "publishedAt": "2026-10-10T09:05:00Z",
-      "tags": ["columbus", "arts", "community"]
+      "title": "Driver seriously injured after stopped car struck on I-270 in south Columbus",
+      "summary": "A driver suffered critical injuries after a tractor-trailer struck a stationary car on westbound I-270 just before 3:45 a.m. early Saturday. The Franklin County Sheriffs Office said the other driver was evaluated at the scene.",
+      "source": "WCMH NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/driver-seriously-injured-after-stopped-car-struck-on-i-270/",
+      "publishedAt": "2026-10-10T11:00:00Z",
+      "tags": ["Columbus","I-270","traffic","crash"]
     }
   ]
 }
