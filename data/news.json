@@ -1,191 +1,27 @@
 {
-  "meta": {
-    "updatedAt": "2026-10-10T19:45:00Z",
-    "generatedBy": "hermes-cron",
-    "title": "Daily Brief",
-    "windowHours": 12,
-    "count": 18
-  },
+  "meta": {"updatedAt": "2026-10-11T11:06:42Z", "generatedBy": "hermes-cron", "title": "Daily Brief", "windowHours": 12, "count": 22},
   "stories": [
-    {
-      "id": "t1-guardian-ukraine",
-      "category": "top",
-      "title": "Ukraine hit by deadly Russian strikes after Trump diesel deal",
-      "summary": "Russian strikes killed civilians in Ukraine the day after President Trump announced a deal to buy Russian diesel, which Kyiv warned could help bankroll Russias war. Zelenskyy said fuel-sale proceeds would intensify the conflict as European leaders reiterated support for Ukraine.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-      "publishedAt": "2026-10-10T18:30:00Z",
-      "tags": ["Ukraine","Russia","Trump","diesel deal"]
-    },
-    {
-      "id": "t2-abc-isaias",
-      "category": "top",
-      "title": "Hurricane Isaias downgraded to post-tropical cyclone, 800,000+ without power",
-      "summary": "Isaias, the first hurricane of the 2026 Atlantic season, made landfall near Destin, Florida as a Category 2 storm and weakened to post-tropical as it moved inland. More than 800,000 customers lost power in Florida and Alabama amid heavy rain and flooding across the Southeast.",
-      "source": "ABC News (AP)",
-      "url": "https://abc11.com/post/isaias-downgraded-post-tropical-cyclone-hundreds-thousands-power-florida-panhandle-alabama/19927125/",
-      "publishedAt": "2026-10-10T15:09:00Z",
-      "tags": ["Hurricane Isaias","weather","Florida","Gulf Coast"]
-    },
-    {
-      "id": "t3-cbs-ukraine-strikes",
-      "category": "top",
-      "title": "Russian strikes kill at least 15 in Ukraine after Trump gets diesel deal",
-      "summary": "At least 15 people were killed in Russian strikes on Ukraine that Kyiv cast as retaliation for Trumps announcement that the US would buy Russian diesel. Ukrainian officials warn the deal will help fund Moscows war effort.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/russia-strikes-ukraine-trump-diesel-deal/",
-      "publishedAt": "2026-10-10T12:30:00Z",
-      "tags": ["Russia","Ukraine","war","casualties"]
-    },
-    {
-      "id": "t4-npr-gaza",
-      "category": "top",
-      "title": "A year after the Gaza ceasefire, photos show most promises unfulfilled",
-      "summary": "On the anniversary of the October 2025 Gaza ceasefire, photos show the deals long-term promises largely unmet, with reconstruction stalled and conditions for civilians still dire. The US-brokered hopes for a lasting peace remain unrealized.",
-      "source": "NPR",
-      "url": "https://www.klcc.org/npr-news/2026-10-10/photos-what-a-year-of-ceasefire-in-gaza-looks-like",
-      "publishedAt": "2026-10-10T09:30:00Z",
-      "tags": ["Gaza","ceasefire","anniversary","NPR"]
-    },
-    {
-      "id": "tech1-flock-camera",
-      "category": "tech",
-      "title": "YouTuber says police visited after he built a Flock-style camera to track cops",
-      "summary": "A YouTuber who built his own license-plate-reading camera like Flock Safety said police paid him a visit over the project. The story highlights tensions around surveillance cameras and their use on law enforcement.",
-      "source": "Gizmodo (via Hacker News)",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "publishedAt": "2026-10-10T18:35:00Z",
-      "tags": ["surveillance","privacy","Hacker News","AI cameras"]
-    },
-    {
-      "id": "tech2-ai-control-gap",
-      "category": "tech",
-      "title": "The AI control gap: who gets to say an AI system is safe?",
-      "summary": "SiliconANGLEs Breaking Analysis argues there is a widening gap between what AI can do and the evidence supporting trusting it, centering on alignment. The open question is who decides when the evidence is sufficient to call a model safe to deploy.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/10/the-ai-control-gap-who-gets-to-say-its-safe/",
-      "publishedAt": "2026-10-10T16:54:00Z",
-      "tags": ["AI safety","alignment","analysis","SiliconANGLE"]
-    },
-    {
-      "id": "tech3-wired-cyber",
-      "category": "tech",
-      "title": "AI is getting really good at messing with cybercriminals",
-      "summary": "Anti-cybercrime programs are increasingly using AI to scam the scammers, tricking criminals into talking to lifelike bots they believe are real victims. It reflects a new AI-powered front in the fight against online fraud.",
-      "source": "WIRED",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1Q2aU41VlcxaVlVUzdXMTJUZjdFZW92eHhhS0p1OGNKX0tCcXh2aUthRmxsdjFEQ05BTTMzZFlKQncyOXBPODczLWhFb1ZOd0hnVldCaGZmZGxHVnNYRnFmS1BDYjR4RTdHR2ExX3o4UmZPa0RoTHoyR2RWQ3I0X0FvNUtJeEV5QWlFcDBn?oc=5",
-      "publishedAt": "2026-10-10T12:00:00Z",
-      "tags": ["AI","cybersecurity","fraud","WIRED"]
-    },
-    {
-      "id": "br1-elevate",
-      "category": "browns",
-      "title": "Browns elevate DTs Sam Kamara and Chris Williams from the practice squad",
-      "summary": "Cleveland elevated defensive tackles Sam Kamara and Chris Williams from the practice squad ahead of Sundays game at the Jets. Adding depth at defensive tackle matters with DT Mason Graham ruled out.",
-      "source": "ClevelandBrowns.com",
-      "url": "https://www.clevelandbrowns.com/news/browns-elevate-dt-sam-kamara-and-dt-chris-williams",
-      "publishedAt": "2026-10-10T16:52:00Z",
-      "tags": ["Cleveland Browns","roster","defensive tackle","Jets"]
-    },
-    {
-      "id": "br2-burning-questions",
-      "category": "browns",
-      "title": "How the Browns will disrupt Jets QB Geno Smith: burning questions",
-      "summary": "Clevelands staff broke down keys to Sundays matchup with the Jets, including pressuring Geno Smith and stopping New Yorks run game with Breece Hall ruled out. The 3-1 Browns are seeking their first 4-1 start since 2020.",
-      "source": "ClevelandBrowns.com",
-      "url": "https://www.clevelandbrowns.com/news/how-will-the-browns-disrupt-qb-geno-smith-burning-questions",
-      "publishedAt": "2026-10-10T13:30:00Z",
-      "tags": ["Cleveland Browns","Geno Smith","Jets","Week 5"]
-    },
-    {
-      "id": "bu1-si-issues",
-      "category": "buckeyes",
-      "title": "Two biggest issues for Ohio State after five games: run explosiveness, pass rush",
-      "summary": "An analysis of all five Ohio State games finds the run game lacks 20-yard plays and the pass rush is producing under two sacks a game. Both loom as problems entering a closing stretch against Indiana, USC and Oregon.",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/ohiostate/football/i-ve-watched-all-5-of-ohio-state-s-games-here-are-the-two-biggest-issues-moving-forward-01m4k49rcp6c",
-      "publishedAt": "2026-10-10T19:15:00Z",
-      "tags": ["Ohio State","Buckeyes","analysis","schedule"]
-    },
-    {
-      "id": "bu2-lghl-maryland",
-      "category": "buckeyes",
-      "title": "Ohio State should get a little weird against Maryland before a tough stretch",
-      "summary": "Before next weeks game at Indiana, LGHL argues Ohio State is a big enough favorite over Maryland to rest banged-up starters and give younger players more reps. The 4-1 Buckeyes host Maryland for Homecoming on Saturday.",
-      "source": "Land-Grant Holy Land (via MSN)",
-      "url": "https://www.msn.com/en-us/sports/college-sports/before-the-nerves-of-next-week-ohio-state-should-get-a-little-weird-against-maryland/ar-AA2dXTE3",
-      "publishedAt": "2026-10-10T15:01:00Z",
-      "tags": ["Ohio State","Maryland","Buckeyes","college football"]
-    },
-    {
-      "id": "f1-pole",
-      "category": "f1",
-      "title": "Verstappen takes Singapore GP pole ahead of Leclerc and Hamilton",
-      "summary": "Max Verstappen secured his first Singapore Grand Prix pole with a 1:31.373 lap, edging Ferraris Charles Leclerc by 0.054s, with Lewis Hamilton third. It capped a day that began with Verstappen winning the rain-hit Sprint.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/singapore-grand-prix-2026-qualifying-report",
-      "publishedAt": "2026-10-10T14:40:00Z",
-      "tags": ["Formula 1","Singapore GP","Verstappen","qualifying"]
-    },
-    {
-      "id": "f1-hamilton-p2",
-      "category": "f1",
-      "title": "Hamilton delighted with mega start that earned P2 in Singapore Sprint",
-      "summary": "Lewis Hamilton climbed from P6 to a podium finish in a wet Singapore Sprint, overtaking both McLarens and his teammate on the opening lap before finishing P2 behind Verstappen. He credited a strong launch on the damp Marina Bay track.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/this-is-a-great-day-hamilton-delighted-with-mega-start-that-earned-him-p2-in-singapore-sprint.2wLysf0JmbM1YLtPwOauab",
-      "publishedAt": "2026-10-10T11:52:00Z",
-      "tags": ["Formula 1","Hamilton","Ferrari","Singapore"]
-    },
-    {
-      "id": "f1-sprint",
-      "category": "f1",
-      "title": "Verstappen wins rain-affected Singapore Sprint after Russell crashes out",
-      "summary": "Max Verstappen won an incident-packed Sprint at the Singapore Grand Prix after championship-leading Mercedes driver George Russell crashed out of the lead on lap one. Ferraris Hamilton and Leclerc took P2 and P3.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/cwn73gmz78reo",
-      "publishedAt": "2026-10-10T10:22:00Z",
-      "tags": ["Formula 1","Verstappen","Sprint","Russell"]
-    },
-    {
-      "id": "f1-russell-crash",
-      "category": "f1",
-      "title": "Russell crashes out of Singapore Sprint lead on the opening lap",
-      "summary": "George Russell led the Sprint from the grid only to crash out at the final corner of the opening lap in wet conditions, triggering a safety car. It ended his bid to make it back-to-back wins.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/video/2026-Singapore-GP-Sprint-Leader-Russell-crashes-out-on-the-opening-lap.1878656351618049423",
-      "publishedAt": "2026-10-10T10:01:00Z",
-      "tags": ["Formula 1","Russell","crash","Singapore"]
-    },
-    {
-      "id": "loc1-isaias-dispatch",
-      "category": "local",
-      "title": "Hurricane Isaias remnants to bring heavy rain and gusty winds to Columbus on Sunday",
-      "summary": "The remnants of Hurricane Isaias are forecast to bring up to two inches of rain to Columbus and much of Ohio between Sunday evening and Monday morning. Gusty winds and heavy rain are expected as the system moves through.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/weather/2026/10/10/remnants-hurricane-isaias-headed-columbus-ohio-heavy-rain-forecast-october-12/92189162007/",
-      "publishedAt": "2026-10-10T14:00:00Z",
-      "tags": ["Columbus","weather","Isaias","forecast"]
-    },
-    {
-      "id": "loc2-wsyx-deputy",
-      "category": "local",
-      "title": "Columbus deputy chief returns to full duty after internal affairs investigation",
-      "summary": "Columbus Police Deputy Chief Elrico Alli returned to full duty Friday after an Internal Affairs investigation. He had been relieved of duty while the division reviewed alleged violations tied to overtime and parking tickets.",
-      "source": "WSYX ABC6",
-      "url": "https://abc6onyourside.com/news/local/columbus-deputy-chief-returns-to-full-duty-after-internal-affairs-investigation-elrico-alli-rock-police-rules-of-conduct-first-assistant-lashanna-potts-headquarters-parking-tickets-restrictions-marconi-boulevard-traffic-operations-section",
-      "publishedAt": "2026-10-10T13:05:00Z",
-      "tags": ["Columbus","police","internal affairs","CPD"]
-    },
-    {
-      "id": "loc3-i270",
-      "category": "local",
-      "title": "Driver seriously injured after stopped car struck on I-270 in south Columbus",
-      "summary": "A driver suffered critical injuries after a tractor-trailer struck a stationary car on westbound I-270 just before 3:45 a.m. early Saturday. The Franklin County Sheriffs Office said the other driver was evaluated at the scene.",
-      "source": "WCMH NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/driver-seriously-injured-after-stopped-car-struck-on-i-270/",
-      "publishedAt": "2026-10-10T11:00:00Z",
-      "tags": ["Columbus","I-270","traffic","crash"]
-    }
+    {"id": "top-02", "category": "top", "title": "Pope Leo to have surgery after lump found on lung", "summary": "The Vatican says Pope Leo will undergo surgery after a routine check found a lump on his lung, a procedure that will briefly sideline the pontiff.", "source": "BBC News", "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo", "publishedAt": "2026-10-11T10:53:52Z", "tags": ["Pope Leo", "Vatican", "health"]},
+    {"id": "top-01", "category": "top", "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know", "summary": "A suspected Houthi missile attack on Riyadh killed 12 people and injured around 300, prompting Saudi Arabia to shut the airport and widening the conflict in Yemen.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know", "publishedAt": "2026-10-11T10:45:15Z", "tags": ["Yemen", "Saudi Arabia", "Houthis", "Middle East"]},
+    {"id": "top-03", "category": "top", "title": "Delhi protests continue after ’cockroach’ group leaders freed", "summary": "More demonstrations have hit Delhi after authorities released the leaders of a group officials have called ’cockroaches’, extending a bout of unrest in the city.", "source": "BBC News", "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o", "publishedAt": "2026-10-11T08:50:21Z", "tags": ["India", "Delhi", "protests"]},
+    {"id": "top-04", "category": "top", "title": "Trump says ’time for Ukraine to get new president’ after Zelensky condemns diesel deal", "summary": "Donald Trump suggested Ukraine should get a new president after Volodymyr Zelensky condemned a diesel deal, the latest sign of strain in relations between the two.", "source": "BBC News", "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo", "publishedAt": "2026-10-11T01:41:29Z", "tags": ["Ukraine", "Trump", "Geopolitics"]},
+    {"id": "tech-04", "category": "tech", "title": "Testing a local AI agent built on an open Hermes–Qwen model on a Mac Studio", "summary": "The Verge documents ongoing hands-on testing of a local AI agent powered by an open Hermes–Qwen model running on a Mac Studio, exploring what on-device AI can do.", "source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress", "publishedAt": "2026-10-11T11:00:00Z", "tags": ["local AI", "Hermes", "The Verge"]},
+    {"id": "tech-03", "category": "tech", "title": "Cheaper AI tokens are driving more demand — Jensen Huang’s best-case scenario", "summary": "Nvidia chief Jensen Huang argues falling AI token prices are driving more usage rather than shrinking the market, a key bet behind his growth outlook for AI chips.", "source": "The Decoder", "url": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/", "publishedAt": "2026-10-11T09:49:59Z", "tags": ["Nvidia", "AI", "economics"]},
+    {"id": "tech-01", "category": "tech", "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server", "summary": "The arXiv preprint server is limiting researchers to two submissions a month as the surge of AI papers strains the archive, underscoring how fast machine-learning output has grown.", "source": "The Decoder", "url": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/", "publishedAt": "2026-10-11T09:17:32Z", "tags": ["arXiv", "AI research", "academia"]},
+    {"id": "tech-02", "category": "tech", "title": "Microsoft’s Nadella bows to Trump language rules on ’Super Intelligence’ and hits back at OpenAI and Anthropic", "summary": "Microsoft CEO Satya Nadella said he will follow Trump-administration language guidelines on the term ’Super Intelligence’ while using the dispute to criticize OpenAI and Anthropic.", "source": "The Decoder", "url": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/", "publishedAt": "2026-10-11T09:08:35Z", "tags": ["Microsoft", "AI policy", "Nadella", "OpenAI"]},
+    {"id": "browns-01", "category": "browns", "title": "Browns face ’trap game’ test against struggling Jets", "summary": "Sunday’s road preview notes Cleveland enters as a favorite against a winless Jets team but warns it carries classic trap-game risk ahead of a stiffer schedule.", "source": "cleveland.com", "url": "https://www.cleveland.com/browns/2026/10/cleveland-browns-face-trap-game-test-against-struggling-jets.html", "publishedAt": "2026-10-11T10:00:01Z", "tags": ["Cleveland Browns", "NFL", "Jets"]},
+    {"id": "browns-02", "category": "browns", "title": "Would the Browns trade for Khalil Mack?", "summary": "Columnist Mary Kay Cabot weighs whether Cleveland should pursue Chargers edge rusher Khalil Mack in a trade to strengthen its pass rush.", "source": "cleveland.com", "url": "https://www.cleveland.com/browns/2026/10/would-the-browns-try-to-trade-for-chargers-edge-rusher-khalil-mack-hey-mary-kay.html", "publishedAt": "2026-10-11T09:10:00Z", "tags": ["Cleveland Browns", "trade", "Khalil Mack"]},
+    {"id": "browns-03", "category": "browns", "title": "Beating Jets a test for Browns’ credibility: Terry Pluto’s prediction", "summary": "Columnist Terry Pluto says a win over the Jets would prove Cleveland is a genuine contender and gives his prediction for the Week 5 road matchup.", "source": "cleveland.com", "url": "https://www.cleveland.com/browns/2026/10/beating-jets-is-a-test-for-browns-credibility-my-prediction-terry-pluto.html", "publishedAt": "2026-10-11T09:00:00Z", "tags": ["Cleveland Browns", "NFL", "Week 5"]},
+    {"id": "buckeyes-01", "category": "buckeyes", "title": "Buckeyes looking for revenge as Indiana week begins", "summary": "Ohio State turns to Indiana week seeking payback for last year’s loss, with defensive end Eddrick Houston saying the team wants back what it felt it had earned.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164509/buckeyes-looking-for-revenge-as-indiana-week-begins-they-took-something-from-us-that-we-really-wanted", "publishedAt": "2026-10-11T04:20:00Z", "tags": ["Ohio State", "Indiana", "Big Ten"]},
+    {"id": "buckeyes-02", "category": "buckeyes", "title": "College GameDay picks Notre Dame–BYU over Ohio State–Indiana rematch", "summary": "ESPN’s College GameDay chose Notre Dame vs BYU as its next show site instead of the Big Ten title-game rematch between Ohio State and Indiana.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164508/espn-s-college-gameday-chooses-notre-dame-byu-over-ohio-state-and-indiana-s-marquee-matchup-in-bloomington", "publishedAt": "2026-10-11T03:04:00Z", "tags": ["Ohio State", "College GameDay", "ESPN"]},
+    {"id": "buckeyes-03", "category": "buckeyes", "title": "Locksley: Ohio State ’really deserving’ of its ranking after 45-16 loss", "summary": "Maryland coach Mike Locksley credited the No. 5 Buckeyes after the 45-16 defeat, saying Ohio State is deserving of its ranking.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164507/maryland-head-coach-mike-locksley-ohio-state-is-really-deserving-of-their-ranking-after-buckeyes-beat-his-terrapins", "publishedAt": "2026-10-11T02:51:00Z", "tags": ["Ohio State", "Maryland", "Big Ten"]},
+    {"id": "buckeyes-04", "category": "buckeyes", "title": "Proof points from Ohio State’s blowout win over Maryland", "summary": "Eleven Warriors breaks down the numbers and highlights behind Ohio State’s 45-16 homecoming victory over Maryland.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164504/proof-points-from-ohio-states-blowout-win-over-maryland-presented-by-high-bank-distillery", "publishedAt": "2026-10-11T02:03:00Z", "tags": ["Ohio State", "Maryland", "recap"]},
+    {"id": "f1-01", "category": "f1", "title": "Gasly questions stewards for not penalising Norris after Singapore crash", "summary": "Pierre Gasly questioned why race stewards chose not to penalise Lando Norris after their Singapore GP collision, arguing a penalty was warranted.", "source": "Motorsport.com", "url": "https://www.motorsport.com/f1/news/gasly-questions-fia-stewards-decision-not-to-penalise-norris-after-singapore-crash/10864257/", "publishedAt": "2026-10-11T10:58:52Z", "tags": ["F1", "Singapore GP", "Gasly", "Norris"]},
+    {"id": "f1-02", "category": "f1", "title": "Hadjar ’pissed off’ after mechanical problems at Singapore GP", "summary": "Isack Hadjar aired his frustration after mechanical trouble again derailed his Singapore Grand Prix weekend.", "source": "Motorsport.com", "url": "https://www.motorsport.com/f1/news/isack-hadjar-pissed-off-after-mechanical-problems-strike-at-singapore-gp/10864184/", "publishedAt": "2026-10-11T08:51:23Z", "tags": ["F1", "Singapore GP", "Hadjar"]},
+    {"id": "f1-03", "category": "f1", "title": "FIA admits fairness was compromised in Singapore sprint qualifying ’mess’", "summary": "The FIA acknowledged that fairness was undermined during a chaotic Singapore GP sprint qualifying session and pledged to review how it ran the session.", "source": "Motorsport.com", "url": "https://www.motorsport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864037/", "publishedAt": "2026-10-11T06:59:21Z", "tags": ["F1", "FIA", "Singapore GP", "qualifying"]},
+    {"id": "local-01", "category": "local", "title": "Despite dropped charges, Whitehall recall effort continues", "summary": "Organizers in Whitehall are pressing ahead with a recall campaign even after charges in the matter were dropped, NBC4 reports.", "source": "NBC4", "url": "https://www.nbc4i.com/news/local-news/whitehall/despite-dropped-charges-whitehall-recall-effort-continues/", "publishedAt": "2026-10-11T10:30:00Z", "tags": ["Whitehall", "politics", "recall"]},
+    {"id": "local-02", "category": "local", "title": "Police: 1 critically injured in Newark bar shooting", "summary": "One person is in critical condition after a shooting at a Newark bar, and police are investigating what led to the overnight incident.", "source": "10TV", "url": "https://www.10tv.com/article/news/local/police-1-in-newark-bar-shooting/530-5711fbf4-2b83-4d57-8b6c-1ba37766f15b", "publishedAt": "2026-10-11T10:26:40Z", "tags": ["Newark", "crime", "shooting"]},
+    {"id": "local-03", "category": "local", "title": "Lynd Fruit Farm buys 74 acres in Licking County", "summary": "Lynd Fruit Farm, a long-running Licking County destination, is expanding after agreeing to buy 74 additional acres.", "source": "10TV", "url": "https://www.10tv.com/article/money/business/lynd-fruit-farm-licking-county/530-701c9527-0795-4145-83ef-8c1db2db4861", "publishedAt": "2026-10-11T03:12:16Z", "tags": ["Licking County", "Lynd Fruit Farm", "business"]},
+    {"id": "local-04", "category": "local", "title": "Multi-vehicle crash closes south Columbus road", "summary": "A multi-vehicle crash shut down a south Columbus road, prompting a police investigation and delays.", "source": "10TV", "url": "https://www.10tv.com/article/traffic/incidents/multi-vehicle-south-columbus-crash-south-high-street-investigation-injuries/530-ce1be669-1ce6-455d-b55f-57f184ec82b2", "publishedAt": "2026-10-11T03:12:11Z", "tags": ["Columbus", "traffic", "crash"]}
   ]
 }
