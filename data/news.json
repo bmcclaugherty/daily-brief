@@ -1,27 +1,131 @@
 {
-  "meta": {"updatedAt": "2026-10-11T11:06:42Z", "generatedBy": "hermes-cron", "title": "Daily Brief", "windowHours": 12, "count": 22},
+  "meta": {
+    "updatedAt": "2026-10-11T19:30:00Z",
+    "generatedBy": "hermes-cron",
+    "title": "Daily Brief",
+    "windowHours": 12,
+    "count": 12
+  },
   "stories": [
-    {"id": "top-02", "category": "top", "title": "Pope Leo to have surgery after lump found on lung", "summary": "The Vatican says Pope Leo will undergo surgery after a routine check found a lump on his lung, a procedure that will briefly sideline the pontiff.", "source": "BBC News", "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo", "publishedAt": "2026-10-11T10:53:52Z", "tags": ["Pope Leo", "Vatican", "health"]},
-    {"id": "top-01", "category": "top", "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know", "summary": "A suspected Houthi missile attack on Riyadh killed 12 people and injured around 300, prompting Saudi Arabia to shut the airport and widening the conflict in Yemen.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know", "publishedAt": "2026-10-11T10:45:15Z", "tags": ["Yemen", "Saudi Arabia", "Houthis", "Middle East"]},
-    {"id": "top-03", "category": "top", "title": "Delhi protests continue after ’cockroach’ group leaders freed", "summary": "More demonstrations have hit Delhi after authorities released the leaders of a group officials have called ’cockroaches’, extending a bout of unrest in the city.", "source": "BBC News", "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o", "publishedAt": "2026-10-11T08:50:21Z", "tags": ["India", "Delhi", "protests"]},
-    {"id": "top-04", "category": "top", "title": "Trump says ’time for Ukraine to get new president’ after Zelensky condemns diesel deal", "summary": "Donald Trump suggested Ukraine should get a new president after Volodymyr Zelensky condemned a diesel deal, the latest sign of strain in relations between the two.", "source": "BBC News", "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo", "publishedAt": "2026-10-11T01:41:29Z", "tags": ["Ukraine", "Trump", "Geopolitics"]},
-    {"id": "tech-04", "category": "tech", "title": "Testing a local AI agent built on an open Hermes–Qwen model on a Mac Studio", "summary": "The Verge documents ongoing hands-on testing of a local AI agent powered by an open Hermes–Qwen model running on a Mac Studio, exploring what on-device AI can do.", "source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress", "publishedAt": "2026-10-11T11:00:00Z", "tags": ["local AI", "Hermes", "The Verge"]},
-    {"id": "tech-03", "category": "tech", "title": "Cheaper AI tokens are driving more demand — Jensen Huang’s best-case scenario", "summary": "Nvidia chief Jensen Huang argues falling AI token prices are driving more usage rather than shrinking the market, a key bet behind his growth outlook for AI chips.", "source": "The Decoder", "url": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/", "publishedAt": "2026-10-11T09:49:59Z", "tags": ["Nvidia", "AI", "economics"]},
-    {"id": "tech-01", "category": "tech", "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server", "summary": "The arXiv preprint server is limiting researchers to two submissions a month as the surge of AI papers strains the archive, underscoring how fast machine-learning output has grown.", "source": "The Decoder", "url": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/", "publishedAt": "2026-10-11T09:17:32Z", "tags": ["arXiv", "AI research", "academia"]},
-    {"id": "tech-02", "category": "tech", "title": "Microsoft’s Nadella bows to Trump language rules on ’Super Intelligence’ and hits back at OpenAI and Anthropic", "summary": "Microsoft CEO Satya Nadella said he will follow Trump-administration language guidelines on the term ’Super Intelligence’ while using the dispute to criticize OpenAI and Anthropic.", "source": "The Decoder", "url": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/", "publishedAt": "2026-10-11T09:08:35Z", "tags": ["Microsoft", "AI policy", "Nadella", "OpenAI"]},
-    {"id": "browns-01", "category": "browns", "title": "Browns face ’trap game’ test against struggling Jets", "summary": "Sunday’s road preview notes Cleveland enters as a favorite against a winless Jets team but warns it carries classic trap-game risk ahead of a stiffer schedule.", "source": "cleveland.com", "url": "https://www.cleveland.com/browns/2026/10/cleveland-browns-face-trap-game-test-against-struggling-jets.html", "publishedAt": "2026-10-11T10:00:01Z", "tags": ["Cleveland Browns", "NFL", "Jets"]},
-    {"id": "browns-02", "category": "browns", "title": "Would the Browns trade for Khalil Mack?", "summary": "Columnist Mary Kay Cabot weighs whether Cleveland should pursue Chargers edge rusher Khalil Mack in a trade to strengthen its pass rush.", "source": "cleveland.com", "url": "https://www.cleveland.com/browns/2026/10/would-the-browns-try-to-trade-for-chargers-edge-rusher-khalil-mack-hey-mary-kay.html", "publishedAt": "2026-10-11T09:10:00Z", "tags": ["Cleveland Browns", "trade", "Khalil Mack"]},
-    {"id": "browns-03", "category": "browns", "title": "Beating Jets a test for Browns’ credibility: Terry Pluto’s prediction", "summary": "Columnist Terry Pluto says a win over the Jets would prove Cleveland is a genuine contender and gives his prediction for the Week 5 road matchup.", "source": "cleveland.com", "url": "https://www.cleveland.com/browns/2026/10/beating-jets-is-a-test-for-browns-credibility-my-prediction-terry-pluto.html", "publishedAt": "2026-10-11T09:00:00Z", "tags": ["Cleveland Browns", "NFL", "Week 5"]},
-    {"id": "buckeyes-01", "category": "buckeyes", "title": "Buckeyes looking for revenge as Indiana week begins", "summary": "Ohio State turns to Indiana week seeking payback for last year’s loss, with defensive end Eddrick Houston saying the team wants back what it felt it had earned.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164509/buckeyes-looking-for-revenge-as-indiana-week-begins-they-took-something-from-us-that-we-really-wanted", "publishedAt": "2026-10-11T04:20:00Z", "tags": ["Ohio State", "Indiana", "Big Ten"]},
-    {"id": "buckeyes-02", "category": "buckeyes", "title": "College GameDay picks Notre Dame–BYU over Ohio State–Indiana rematch", "summary": "ESPN’s College GameDay chose Notre Dame vs BYU as its next show site instead of the Big Ten title-game rematch between Ohio State and Indiana.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164508/espn-s-college-gameday-chooses-notre-dame-byu-over-ohio-state-and-indiana-s-marquee-matchup-in-bloomington", "publishedAt": "2026-10-11T03:04:00Z", "tags": ["Ohio State", "College GameDay", "ESPN"]},
-    {"id": "buckeyes-03", "category": "buckeyes", "title": "Locksley: Ohio State ’really deserving’ of its ranking after 45-16 loss", "summary": "Maryland coach Mike Locksley credited the No. 5 Buckeyes after the 45-16 defeat, saying Ohio State is deserving of its ranking.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164507/maryland-head-coach-mike-locksley-ohio-state-is-really-deserving-of-their-ranking-after-buckeyes-beat-his-terrapins", "publishedAt": "2026-10-11T02:51:00Z", "tags": ["Ohio State", "Maryland", "Big Ten"]},
-    {"id": "buckeyes-04", "category": "buckeyes", "title": "Proof points from Ohio State’s blowout win over Maryland", "summary": "Eleven Warriors breaks down the numbers and highlights behind Ohio State’s 45-16 homecoming victory over Maryland.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164504/proof-points-from-ohio-states-blowout-win-over-maryland-presented-by-high-bank-distillery", "publishedAt": "2026-10-11T02:03:00Z", "tags": ["Ohio State", "Maryland", "recap"]},
-    {"id": "f1-01", "category": "f1", "title": "Gasly questions stewards for not penalising Norris after Singapore crash", "summary": "Pierre Gasly questioned why race stewards chose not to penalise Lando Norris after their Singapore GP collision, arguing a penalty was warranted.", "source": "Motorsport.com", "url": "https://www.motorsport.com/f1/news/gasly-questions-fia-stewards-decision-not-to-penalise-norris-after-singapore-crash/10864257/", "publishedAt": "2026-10-11T10:58:52Z", "tags": ["F1", "Singapore GP", "Gasly", "Norris"]},
-    {"id": "f1-02", "category": "f1", "title": "Hadjar ’pissed off’ after mechanical problems at Singapore GP", "summary": "Isack Hadjar aired his frustration after mechanical trouble again derailed his Singapore Grand Prix weekend.", "source": "Motorsport.com", "url": "https://www.motorsport.com/f1/news/isack-hadjar-pissed-off-after-mechanical-problems-strike-at-singapore-gp/10864184/", "publishedAt": "2026-10-11T08:51:23Z", "tags": ["F1", "Singapore GP", "Hadjar"]},
-    {"id": "f1-03", "category": "f1", "title": "FIA admits fairness was compromised in Singapore sprint qualifying ’mess’", "summary": "The FIA acknowledged that fairness was undermined during a chaotic Singapore GP sprint qualifying session and pledged to review how it ran the session.", "source": "Motorsport.com", "url": "https://www.motorsport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864037/", "publishedAt": "2026-10-11T06:59:21Z", "tags": ["F1", "FIA", "Singapore GP", "qualifying"]},
-    {"id": "local-01", "category": "local", "title": "Despite dropped charges, Whitehall recall effort continues", "summary": "Organizers in Whitehall are pressing ahead with a recall campaign even after charges in the matter were dropped, NBC4 reports.", "source": "NBC4", "url": "https://www.nbc4i.com/news/local-news/whitehall/despite-dropped-charges-whitehall-recall-effort-continues/", "publishedAt": "2026-10-11T10:30:00Z", "tags": ["Whitehall", "politics", "recall"]},
-    {"id": "local-02", "category": "local", "title": "Police: 1 critically injured in Newark bar shooting", "summary": "One person is in critical condition after a shooting at a Newark bar, and police are investigating what led to the overnight incident.", "source": "10TV", "url": "https://www.10tv.com/article/news/local/police-1-in-newark-bar-shooting/530-5711fbf4-2b83-4d57-8b6c-1ba37766f15b", "publishedAt": "2026-10-11T10:26:40Z", "tags": ["Newark", "crime", "shooting"]},
-    {"id": "local-03", "category": "local", "title": "Lynd Fruit Farm buys 74 acres in Licking County", "summary": "Lynd Fruit Farm, a long-running Licking County destination, is expanding after agreeing to buy 74 additional acres.", "source": "10TV", "url": "https://www.10tv.com/article/money/business/lynd-fruit-farm-licking-county/530-701c9527-0795-4145-83ef-8c1db2db4861", "publishedAt": "2026-10-11T03:12:16Z", "tags": ["Licking County", "Lynd Fruit Farm", "business"]},
-    {"id": "local-04", "category": "local", "title": "Multi-vehicle crash closes south Columbus road", "summary": "A multi-vehicle crash shut down a south Columbus road, prompting a police investigation and delays.", "source": "10TV", "url": "https://www.10tv.com/article/traffic/incidents/multi-vehicle-south-columbus-crash-south-high-street-investigation-injuries/530-ce1be669-1ce6-455d-b55f-57f184ec82b2", "publishedAt": "2026-10-11T03:12:11Z", "tags": ["Columbus", "traffic", "crash"]}
+    {
+      "id": "f1-singapore-verstappen-20261011",
+      "category": "f1",
+      "title": "Verstappen wins Singapore Grand Prix for the first time",
+      "summary": "Max Verstappen led the 62-lap race from pole to take his 73rd career win and first ever in Singapore on his 250th Grand Prix start, 7.3s clear of Charles Leclerc. The result completes a perfect weekend (sprint + pole + race) and confirms Red Bull's return to the front after back-to-back wins.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-seals-commanding-singapore-grand-prix-victory-from-leclerc-and-antonelli.49wDzysiVqi5cloGjle40A",
+      "publishedAt": "2026-10-11T14:06:00Z",
+      "tags": ["formula1","singapore","verstappen","redbull"]
+    },
+    {
+      "id": "f1-hamilton-antonelli-title-20261011",
+      "category": "f1",
+      "title": "Hamilton apologises to Ferrari as Antonelli nears title",
+      "summary": "Lewis Hamilton apologised after overriding Ferrari's call and staying out on fading tyres, dropping from podium contention to sixth in Singapore. Kimi Antonelli's third place extends his championship lead to 102 points, meaning he could clinch his first F1 title at the US Grand Prix on 25 October.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/formula1/articles/c65yn9kn47eko",
+      "publishedAt": "2026-10-11T16:00:00Z",
+      "tags": ["formula1","hamilton","antonelli","mercedes"]
+    },
+    {
+      "id": "top-ukr-energy-ceasefire-20261011",
+      "category": "top",
+      "title": "Trump announces Russia-Ukraine 'energy ceasefire'; Zelensky backs it",
+      "summary": "US President Donald Trump said Russia and Ukraine had agreed to an immediate 'energy ceasefire'; Zelensky says Ukraine supports it, and Russia has yet to comment. Trump's announcement caught Ukraine by surprise, and French and EU leaders warned Moscow is still striking Ukrainian infrastructure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/live/cqe8ry0xxp85t",
+      "publishedAt": "2026-10-11T15:10:00Z",
+      "tags": ["ukraine","russia","ceasefire","trump"]
+    },
+    {
+      "id": "top-houthi-riyadh-airport-20261011",
+      "category": "top",
+      "title": "Houthis warn airlines off Saudi airports after deadly Riyadh strike",
+      "summary": "Yemen's Houthis warned airlines and passengers not to use Saudi airports and airspace after an attack on Riyadh's King Khalid International Airport killed 12 and injured more than 300. The strike has shaken Saudi Arabia's standing as a regional safe haven, and the US has said it may join offensive strikes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/live/cqy7lxd104xet",
+      "publishedAt": "2026-10-11T12:00:00Z",
+      "tags": ["saudi-arabia","yemen","houthis","security"]
+    },
+    {
+      "id": "top-yandex-drone-20261011",
+      "category": "top",
+      "title": "Ukraine strikes Yandex data centre in third attack this week",
+      "summary": "Ukraine hit a Yandex data centre near Moscow with a drone, forcing Russia's biggest tech firm to suspend operations there. It was the third Ukrainian attack on Yandex sites within a week, underscoring how the war increasingly targets civilian tech infrastructure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cw0k0g57mk3zo",
+      "publishedAt": "2026-10-11T13:00:00Z",
+      "tags": ["ukraine","russia","yandex","cyber"]
+    },
+    {
+      "id": "top-djibouti-shipwreck-20261011",
+      "category": "top",
+      "title": "139 migrants, 15 children, dead after boat capsizes off Djibouti",
+      "summary": "At least 139 migrants, including 15 children, died and 84 remain missing after an overcrowded boat carrying 305 people capsized while heading from Djibouti to Yemen, the UN migration agency said on Sunday. The vessel was mostly carrying Ethiopian migrants and is one of the deadliest shipwrecks on this route in years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy7lxx60dg5o",
+      "publishedAt": "2026-10-11T09:00:00Z",
+      "tags": ["djibouti","migration","shipwreck","un"]
+    },
+    {
+      "id": "tech-meta-sierra-pap-20261011",
+      "category": "tech",
+      "title": "Meta and Sierra launch Personal Agent Protocol for AI assistants",
+      "summary": "Meta and Sierra, with partners like Shopify, Stripe and Walmart, announced the Personal Agent Protocol — an open OAuth-based standard for how AI personal assistants authenticate and interact with businesses. OpenAI, Anthropic, Amazon and Google are not yet signatories; a v0.1 spec is due later this month.",
+      "source": "NewsLantern / FourWeekMBA",
+      "url": "https://newslantern.com/news/18041/2026-10-11/meta-and-sierra-launch-personal-agent-protocol-to-create-open",
+      "publishedAt": "2026-10-11T14:30:00Z",
+      "tags": ["ai","ai-agents","meta","standard"]
+    },
+    {
+      "id": "tech-odyssey3-worldmodel-20261011",
+      "category": "tech",
+      "title": "Odyssey releases Odyssey-3 world model as free public preview",
+      "summary": "Odyssey released Odyssey-3, a 14-billion-parameter generative world model, as a free research preview. It builds real-time interactive environments from text prompts and can reportedly control robots, drones and even a running copy of GTA V, though its benchmark claims are unverified by outsiders.",
+      "source": "AI In Context",
+      "url": "https://aiincontext.com/articles/odyssey-3-world-model-opens-as-free-public-research-preview-df3ddf08",
+      "publishedAt": "2026-10-11T16:00:00Z",
+      "tags": ["ai","world-model","robotics","research"]
+    },
+    {
+      "id": "tech-context-lms-20261011",
+      "category": "tech",
+      "title": "Researchers unveil 'context language models' that manage their own context",
+      "summary": "Researchers from Meta, MIT and UW introduced Context Language Models (CLMs), which let a model edit its own context instead of relying on fixed summarization or compression. They report higher accuracy with up to 59% fewer FLOPs on benchmarks like BrowseComp-Plus.",
+      "source": "InfoQ",
+      "url": "https://www.infoq.com/news/2026/10/context-language-models/",
+      "publishedAt": "2026-10-11T10:00:00Z",
+      "tags": ["ai","llm","research","efficiency"]
+    },
+    {
+      "id": "browns-concepcion-hit-20261011",
+      "category": "browns",
+      "title": "KC Concepcion knocked out of Browns-Jets by Minkah Fitzpatrick hit",
+      "summary": "Browns rookie receiver KC Concepcion was knocked out of Sunday's game at the Jets after a hit that drew a personal foul on safety Minkah Fitzpatrick. The Browns trailed in a game where they were chasing their best start since 2020.",
+      "source": "Akron Beacon Journal",
+      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/10/11/minkah-fitzpatrick-personal-foul-dirty-player-kc-concepcion-head-injury-browns-vs-jets/91908167007/",
+      "publishedAt": "2026-10-11T17:44:00Z",
+      "tags": ["browns","jets","injury","nfl"]
+    },
+    {
+      "id": "buckeyes-ap-poll-4-20261011",
+      "category": "buckeyes",
+      "title": "Ohio State moves up to No. 4 in AP Top 25 after Maryland win",
+      "summary": "Ohio State rose to No. 4 in the AP Top 25 (with Georgia back at No. 1) after beating Maryland 45-16. The Buckeyes now face a brutal stretch, visiting No. 5 Indiana next weekend before USC and Oregon.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-ap-top-25-poll-week-6-2026/530-e8ac36bb-0359-4c6e-a83b-cd0b97977498",
+      "publishedAt": "2026-10-11T18:00:00Z",
+      "tags": ["ohio-state","ap-poll","college-football","maryland"]
+    },
+    {
+      "id": "local-east-columbus-shooting-20261011",
+      "category": "local",
+      "title": "Suspect in custody after fatal east Columbus shooting",
+      "summary": "Columbus police say the man who allegedly shot and killed one person and injured another in east Columbus on Sunday turned himself in. Officers took him into custody, closing the search for the suspect.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/video/news/local/suspect-taken-into-custody-after-fatal-east-columbus-shooting/530-435d3d97-f22e-43c9-a991-8af45a66d211",
+      "publishedAt": "2026-10-11T15:00:00Z",
+      "tags": ["columbus","crime","shooting","police"]
+    }
   ]
 }
