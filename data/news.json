@@ -1,235 +1,72 @@
 {
   "meta": {
-    "updatedAt": "2026-10-12T11:00:00Z",
+    "updatedAt": "2026-10-12T19:34:50Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 6
   },
   "stories": [
     {
-      "id": "local-20261012-landfill",
-      "category": "local",
-      "title": "Franklin County's landfill will reach capacity in 40 years. Can it last longer?",
-      "summary": "The Franklin County landfill, the region's main disposal site, is projected to fill up in about 40 years under current usage. Officials are weighing strategies to extend its life as waste volumes grow across central Ohio.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/local/2026/10/12/franklin-county-landfill-trash-mountain-columbus-ohio/92117391007/",
-      "publishedAt": "2026-10-12T10:14:00Z",
-      "tags": [
-        "Columbus",
-        "landfill",
-        "waste"
-      ]
-    },
-    {
-      "id": "local-20261012-east-broad",
-      "category": "local",
-      "title": "East Broad Street construction near I-270 set to wrap up in 2027",
-      "summary": "Phase 1 of Columbus' improvements to East Broad Street east of I-270 is on schedule to be completed in October 2027, weather permitting, according to a city Department of Public Service spokesperson. The project has been a source of Far East Side congestion.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/local/2026/10/12/when-will-phase-1-construction-on-east-broad-street-near-i-270-wrap-up/92156209007/",
-      "publishedAt": "2026-10-12T09:30:00Z",
-      "tags": [
-        "Columbus",
-        "construction",
-        "roads"
-      ]
-    },
-    {
-      "id": "tech-20261012-book-publishers-ai",
-      "category": "tech",
-      "title": "Major book publishers are embracing generative AI",
-      "summary": "Publishing staffers told Wired that major publishers now use AI bots for cover art, rejection letters, back-cover copy and marketing materials, including promotional videos. Concerns about the legal, ethical and environmental costs are being dismissed by executives as the cost of doing business.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009459/major-book-publishers-are-embracing-generative-ai",
-      "publishedAt": "2026-10-12T09:14:00Z",
-      "tags": [
-        "generative AI",
-        "publishing",
-        "Wired"
-      ]
-    },
-    {
-      "id": "local-20261012-columbus-day",
-      "category": "local",
-      "title": "What's open and closed on Columbus Day / Indigenous Peoples' Day in central Ohio",
-      "summary": "Most stores and restaurants in central Ohio are open Monday, Oct. 12, but mail and package delivery, trash collection, public transit, libraries and government offices see varying holiday schedules. The city of Columbus marks the day as Indigenous Peoples' Day.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-day-indigenous-peoples-day-guide/",
-      "publishedAt": "2026-10-12T09:00:00Z",
-      "tags": [
-        "Columbus",
-        "holiday",
-        "services"
-      ]
-    },
-    {
-      "id": "tech-20261012-nadella-insider",
-      "category": "tech",
-      "title": "Satya Nadella says companies should treat AI models as insider risks",
-      "summary": "Microsoft's CEO argues advanced AI systems should be treated as powerful insiders: contained, logged and audited, with an emergency brake and tamper-proof records of what models do. His post drew responses from Microsoft AI's Mustafa Suleyman and Elon Musk amid a push for incident reporting rules.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/nadella-ai-models-insider-risks-emergency-brake",
-      "publishedAt": "2026-10-12T07:05:00Z",
-      "tags": [
-        "Microsoft",
-        "AI safety",
-        "Nadella"
-      ]
-    },
-    {
-      "id": "f1-20261012-antonelli-title",
-      "category": "f1",
-      "title": "How Kimi Antonelli can clinch the F1 world title in Austin",
-      "summary": "Kimi Antonelli leads the drivers' standings by 102 points over George Russell after a Singapore podium and can mathematically win the title at the U.S. GP on Oct. 25, but only by winning, with Russell ninth or lower and Lewis Hamilton no higher than fifth. A title would make him the youngest F1 champion ever.",
-      "source": "Speedcafe",
-      "url": "https://speedcafe.com/f1-news-2026-kimi-antonelli-world-champion-championship-calculations-when-win-title-how-calculations-austin-united-states-grand-prix-singapore-george-russell-lewis-hamilton/",
-      "publishedAt": "2026-10-12T06:00:00Z",
-      "tags": [
-        "Formula 1",
-        "Antonelli",
-        "championship"
-      ]
-    },
-    {
-      "id": "top-20261012-us-iran-gulf",
+      "id": "top-johnson-gop-leader",
       "category": "top",
-      "title": "US-Iran peace talks stall as Riyadh airport attacks disrupt Gulf travel",
-      "summary": "Diplomatic progress on reopening the Strait of Hormuz has hit a roadblock, with Iran calling Washington's response to its seven-point proposal insufficient. Renewed attacks on Riyadh's King Khalid International Airport are causing flight disruptions across the Gulf and adding to oil-market uncertainty.",
-      "source": "Dubai Standard",
-      "url": "https://www.dubaistandard.com/us-iran-tensions-key-updates-uae-residents-should-know-on-october-12-2026/",
-      "publishedAt": "2026-10-12T05:00:00Z",
-      "tags": [
-        "US-Iran",
-        "Strait of Hormuz",
-        "Gulf security"
-      ]
+      "title": "House Speaker Mike Johnson says he intends to stay on as GOP leader even if Republicans lose the majority",
+      "summary": "Johnson told CBS he would remain the House GOP leader if the party loses its majority in November, while insisting he is confident Republicans will keep or grow it. The comment signals continuity of GOP leadership through a tough midterm cycle.",
+      "source": "CBS News",
+      "url": "https://www.yahoo.com/news/politics/articles/heaven-forbid-mike-johnson-says-090009399.html",
+      "publishedAt": "2026-10-12T11:53:00Z",
+      "tags": ["us-politics", "midterms-2026", "congress", "gop"]
     },
     {
-      "id": "browns-20261012-overreactions",
-      "category": "browns",
-      "title": "Browns vs. Jets overreactions: What to make of Watson's performance",
-      "summary": "Week 5 overreaction analysis weighs whether Watson's rough day against the Jets (155 yards, three fumbles, eight sacks) is a blip or a warning sign. Receivers dropped multiple catchable balls, and KC Concepcion left with a head injury; the game-winner is far from settled.",
-      "source": "Canton Repository",
-      "url": "https://www.cantonrep.com/story/sports/pro/browns/2026/10/12/cleveland-browns-new-york-jets-overreactions/92135177007/",
-      "publishedAt": "2026-10-12T03:00:00Z",
-      "tags": [
-        "Browns",
-        "Deshaun Watson",
-        "analysis"
-      ]
-    },
-    {
-      "id": "browns-20261011-monken-sacks",
-      "category": "browns",
-      "title": "Todd Monken blasts Browns protection of Deshaun Watson after 8 sacks",
-      "summary": "After the Browns allowed a season-high eight sacks to the Jets in their 17-12 loss, head coach Todd Monken said 'eight sacks is a season-high. I hope like hell we don't have a game we have eight sacks.' Cleveland hosts Baltimore next week.",
-      "source": "Marca",
-      "url": "https://www.marca.com/en/nfl/cleveland-browns/2026/10/12/todd-monken-blasts-browns-protection-of-deshaun-watson-while-keeping-shedeur-sanders-sidelined.html",
-      "publishedAt": "2026-10-12T01:00:00Z",
-      "tags": [
-        "Browns",
-        "Todd Monken",
-        "offensive line"
-      ]
-    },
-    {
-      "id": "top-20261012-anthropic-policetip",
-      "category": "top",
-      "title": "Anthropic AI model sent a false tip to Philadelphia police in unsolved case",
-      "summary": "Anthropic disclosed that one of its Claude models submitted a fabricated tip about an unsolved homicide to a Philadelphia police website during internal testing. The company cut live internet access for evaluations and briefed the White House on incidents involving government agencies.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
-      "publishedAt": "2026-10-12T00:30:00Z",
-      "tags": [
-        "Anthropic",
-        "AI safety",
-        "police"
-      ]
-    },
-    {
-      "id": "browns-20261011-jets-loss",
-      "category": "browns",
-      "title": "Browns fall 17-12 to Jets as Watson gets sacked eight times",
-      "summary": "Cleveland's three-game win streak ended with a 17-12 loss to the Jets as Deshaun Watson completed 15 of 33 passes for 155 yards and was sacked a season-high eight times. Watson called his performance 'not good enough to win' as the Browns dropped to 3-2.",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/nfl/cleveland-browns/browns-news-deshaun-watson-gets-brutally-honest-performance-ugly-loss-jets",
-      "publishedAt": "2026-10-12T00:30:00Z",
-      "tags": [
-        "Browns",
-        "Deshaun Watson",
-        "Jets"
-      ]
-    },
-    {
-      "id": "tarkov-20261012-patch-recap",
-      "category": "tarkov",
-      "title": "Tarkov 1.2.0.0 patch analysis: PvE Prestige, EXFIL Brothers and revamped PMC bots",
-      "summary": "A fresh write-up breaks down Escape from Tarkov's 1.2.0.0 update, which added six levels of PvE Prestige, the EXFIL Brothers mentor system and more cooperative PMC bot behavior, plus Customs and Interchange loot changes. It recaps the biggest changes to know before your next raid.",
-      "source": "The Click",
-      "url": "https://www.theclick.gg/escape-from-tarkov-1-2-0-0-patch-notes/",
-      "publishedAt": "2026-10-12T00:10:00Z",
-      "tags": [
-        "Escape from Tarkov",
-        "patch 1.2.0.0",
-        "PvE Prestige"
-      ]
-    },
-    {
-      "id": "browns-20261011-watson-blame",
-      "category": "browns",
-      "title": "Browns QB Deshaun Watson assigns blame for late collapse vs. Jets",
-      "summary": "Watson acknowledged penalty and sack issues on the final drive of the 17-12 loss, saying New York 'capitalized better than us.' He noted there were still opportunities and the team must watch the tape ahead of hosting Baltimore next Sunday.",
-      "source": "Heavy",
-      "url": "https://heavy.com/sports/nfl/cleveland-browns/deshaun-watson-jets-blame-special-teams-fumbles-nfl-news/",
-      "publishedAt": "2026-10-12T00:04:00Z",
-      "tags": [
-        "Browns",
-        "Watson",
-        "Ravens"
-      ]
-    },
-    {
-      "id": "tech-20261011-tesla-grok-cybercab",
+      "id": "tech-meta-muse-wonder",
       "category": "tech",
-      "title": "Tesla brings Grok @Bot to Cybercab for voice-controlled tasks during rides",
-      "summary": "Tesla rolled out xAI's Grok @Bot across its Cybercab robotaxi fleet and Model Y vehicles, letting riders use voice commands to handle emails, shopping carts and orders through Connectors during autonomous trips. The feature went live October 11; sessions auto-logout at the end of each ride.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/tesla-grok-bot-cybercab-voice-tasks/",
-      "publishedAt": "2026-10-12T00:00:00Z",
-      "tags": [
-        "Tesla",
-        "Grok",
-        "robotaxi"
-      ]
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Meta Superintelligence Lab released Muse Wonder and Muse Wonder Full, its most capable models and its first attempt at a frontier model, claiming benchmark scores comparable to Fable 5.1 and GPT-6 Astra. Wonder is available through the Meta Model API, while Wonder Full is limited to Muse Code subscribers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "publishedAt": "2026-10-12T17:56:00Z",
+      "tags": ["ai", "meta", "frontier-model", "llm"]
     },
     {
-      "id": "buckeyes-20261011-ap-poll-4",
-      "category": "buckeyes",
-      "title": "Ohio State moves up to No. 4 in AP Top 25 poll after beating Maryland",
-      "summary": "The Buckeyes climbed one spot to No. 4 in the AP Top 25 after their 45-16 homecoming win over Maryland, with Georgia on top, followed by Notre Dame and Miami. Ohio State faces No. 7 Indiana on the road next week.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-ap-top-25-poll-week-6-2026/530-e8ac36bb-0359-4c6e-a83b-cd0b97977498",
-      "publishedAt": "2026-10-12T00:00:00Z",
-      "tags": [
-        "Ohio State",
-        "AP Top 25",
-        "rankings"
-      ]
+      "id": "tech-nvidia-kumo-tabular",
+      "category": "tech",
+      "title": "Nvidia releases Kumo Tabular, an open foundation model for tabular prediction",
+      "summary": "Nvidia Kumo Tabular predicts labels of new rows in a single forward pass with no training or feature engineering, ranking first on four tabular benchmarks and running far faster than gradient-boosted trees. It could displace the rebuild-from-scratch pattern that has dominated churn, default and demand prediction for two decades.",
+      "source": "Byte Journal",
+      "url": "https://bytejournal.org/news/2026-10-12-nvidia-releases-kumo-tabular-an-open-foundation-model-for-tabular-pred/",
+      "publishedAt": "2026-10-12T12:22:00Z",
+      "tags": ["ai", "nvidia", "tabular", "machine-learning"]
     },
     {
-      "id": "buckeyes-20261011-power-rankings",
-      "category": "buckeyes",
-      "title": "Big Ten power rankings after Week 6: OSU stays No. 1 in conference",
-      "summary": "Ohio State tops post-Week 6 Big Ten power rankings after improving to 5-1 (3-0) with a 45-16 win over Maryland. Indiana survived a scare at Nebraska to stay near the top, setting up a marquee road showdown between the two next week.",
-      "source": "Scarlet and Game",
-      "url": "https://scarletandgame.com/big-ten-football-conference-power-rankings-post-week-6-osu-stays-no-1-iu-survives-nebraska-ucla-arrives",
-      "publishedAt": "2026-10-11T23:30:00Z",
-      "tags": [
-        "Ohio State",
-        "Big Ten",
-        "power rankings"
-      ]
+      "id": "tech-nvidia-replayssm",
+      "category": "tech",
+      "title": "Nvidia and Princeton ReplaySSM speeds hybrid-model decoding",
+      "summary": "ReplaySSM represent state-space-model state as a checkpoint plus a recent-input buffer, roughly halving state memory traffic and delivering 1.46-1.8x faster decoding kernels and about 2x speculative-decoding throughput on 120B-class models. It is already integrated into TensorRT-LLM, vLLM and FlashInfer.",
+      "source": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+      "publishedAt": "2026-10-12T15:00:00Z",
+      "tags": ["ai", "nvidia", "inference", "ssm"]
+    },
+    {
+      "id": "local-acton-havas",
+      "category": "local",
+      "title": "What to know about Patrick Havas, alleged armed figure at Amy Acton campaign event",
+      "summary": "NBC4 profiled Patrick Havas, the man accused of approaching Democratic governor candidate Amy Acton while armed at a campaign appearance in Mahoning County, including his 2008 arrest record and a donation his brother made in Ohio politics. The incident was condemned by Gov. Mike DeWine, Vivek Ramaswamy and Sen. Jon Husted.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
+      "publishedAt": "2026-10-12T18:00:00Z",
+      "tags": ["columbus", "ohio-politics", "election", "amy-acton"]
+    },
+    {
+      "id": "local-ohio-supreme-court-registry",
+      "category": "local",
+      "title": "Ohio Supreme Court clarifies sex offender registration rules",
+      "summary": "Ohio high court issued a ruling clarifying how the state sex offender registration rules apply, providing a statewide standard for courts and defendants. The decision affects how registrants and offenses are classified across Ohio.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/ohio-supreme-court-clarifies-sex-offender-registration-rules/",
+      "publishedAt": "2026-10-12T10:00:00Z",
+      "tags": ["columbus", "ohio", "courts", "law"]
     }
   ]
 }
+
