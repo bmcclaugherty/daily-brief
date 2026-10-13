@@ -1,161 +1,356 @@
 {
   "meta": {
-    "updatedAt": "2026-10-13T11:00:00Z",
+    "updatedAt": "2026-10-13T19:34:48Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 15
+    "count": 23
   },
   "stories": [
     {
-      "id": "top-imf-flags",
+      "id": "top-bulgaria-drones",
       "category": "top",
-      "title": "IMF flags AI selloff, war and debt as risks to global economy",
-      "summary": "The IMF warned of complacency in financial markets, citing risks from an AI-driven market correction, rising government-bond yields and cyberattacks as threats to otherwise-resilient markets.",
+      "title": "Drone strikes sink cargo ship off Bulgaria; 11 crew missing",
+      "summary": "Two merchant vessels were hit by drones off Bulgaria's Black Sea coast and one, the Guinea-Bissau-flagged HS Dignity, sank near Krapets with 11 sailors missing. Sofia summoned Russia's ambassador and called the attacks 'absolutely unacceptable' as the war's Black Sea spillover reaches EU and NATO waters.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/",
-      "publishedAt": "2026-10-13T10:39:00Z",
-      "tags": ["IMF", "economy", "markets"]
+      "url": "https://www.reuters.com/world/europe/drone-sinks-ship-off-bulgaria-coast-prime-minister-says-2026-10-13/",
+      "publishedAt": "2026-10-13T19:00:00Z",
+      "tags": [
+        "Black Sea",
+        "Ukraine war",
+        "Bulgaria",
+        "shipping"
+      ]
     },
     {
-      "id": "top-nyt-israel",
+      "id": "top-hormuz-attacks",
       "category": "top",
-      "title": "The Oct. 7 attack changed Israel, but not its politics",
-      "summary": "As Israelis head to the polls this month, the NYT reports the 2023 Hamas attack has left the country more polarized than ever rather than producing political transformation.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
-      "publishedAt": "2026-10-13T10:00:00Z",
-      "tags": ["Israel", "elections", "Oct 7"]
+      "title": "Hormuz shipping attacks hit wartime high as oil flows halve",
+      "summary": "At least 24 vessels have been struck around the Strait of Hormuz in two weeks, the heaviest rate of the Iran war, with oil exports falling to less than half pre-war levels. Iran's IRGC claimed a fresh tanker strike, while UK maritime authorities logged 18 attacks between Oct. 1 and Oct. 11.",
+      "source": "New York Post | AP",
+      "url": "https://nypost.com/2026/10/13/world-news/hormuz-ships-pummeled-with-worst-attacks-of-the-iran-war-as-oil-flows-plummet/",
+      "publishedAt": "2026-10-13T18:43:00Z",
+      "tags": [
+        "Iran",
+        "Strait of Hormuz",
+        "oil",
+        "shipping"
+      ]
     },
     {
-      "id": "top-imf-china-india",
+      "id": "top-kyiv-missile-warning",
       "category": "top",
-      "title": "IMF: AI boom boosted global trade growth, benefiting China and India",
-      "summary": "The IMF chief economist said strong AI demand has outpaced overall global-trade growth and lifted China, India and other Asian economies.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/ai-boom-bolstered-growth-global-trade-benefiting-china-india-imf-says-2026-10-13/",
-      "publishedAt": "2026-10-13T07:00:00Z",
-      "tags": ["IMF", "AI", "global trade"]
+      "title": "Zelenskyy says Ukraine got no warning before Kyiv missile strike",
+      "summary": "President Volodymyr Zelenskyy said Ukraine received no early intelligence from partners before five Russian ballistic missiles hit Kyiv infrastructure, alongside more than 100 drones. He called intelligence sharing 'precisely what helps prevent people from being killed,' amid rising friction with Washington over the Trump-Putin energy truce.",
+      "source": "PBS NewsHour | AP",
+      "url": "https://www.pbs.org/newshour/world/ukraine-had-no-intelligence-from-partners-about-missiles-headed-to-kyiv-zelenskyy-says",
+      "publishedAt": "2026-10-13T17:39:00Z",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Kyiv",
+        "intelligence"
+      ]
     },
     {
-      "id": "top-imf-weo",
+      "id": "top-russia-energy-ceasefire",
       "category": "top",
-      "title": "IMF: AI investment keeps global growth above 3% despite war and debt",
-      "summary": "The IMF World Economic Outlook, released at its annual meetings in Bangkok, sees global GDP topping 3% this year as AI investment offsets the Middle East energy shock, but warns downside risks are mounting.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/imf-says-ai-investment-propping-up-global-growth-war-debt-threaten-outlook-2026-10-13/",
-      "publishedAt": "2026-10-13T02:35:00Z",
-      "tags": ["IMF", "global growth", "World Economic Outlook"]
+      "title": "Russia pounds Ukrainian cities but spares energy targets",
+      "summary": "Russian strikes killed at least four people in Kharkiv and damaged sites in 17 locations overnight, but no energy facilities were hit for the first time since Trump announced a weekend 'energy ceasefire.' Zelenskyy said Ukraine has held off refinery strikes for two days while Russia kept attacking critical infrastructure across 19 regions.",
+      "source": "France 24 | AFP",
+      "url": "https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire",
+      "publishedAt": "2026-10-13T13:39:00Z",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "ceasefire",
+        "energy"
+      ]
     },
     {
-      "id": "tech-scaleway",
+      "id": "tech-google-play-vibe-apps",
       "category": "tech",
-      "title": "Scaleway to build AMD-powered AI supercomputer in Sweden",
-      "summary": "The French cloud company announced its first AI supercomputer outside France, built on AMD chips, at its annual AI conference in Paris.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/scaleway-build-amd-powered-ai-supercomputer-sweden-2026-10-13/",
-      "publishedAt": "2026-10-13T10:58:00Z",
-      "tags": ["AI", "supercomputer", "AMD"]
+      "title": "Google now lets you ship vibe-coded apps straight from Play",
+      "summary": "Google announced a US feature letting people launch personal Android apps built in AI Studio directly through the Play Store, without connecting a phone to a computer. The apps stay private and separate from the public catalog, with a path to graduate to a professional developer account.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+      "publishedAt": "2026-10-13T17:00:00Z",
+      "tags": [
+        "Google",
+        "Android",
+        "AI coding",
+        "Google Play"
+      ]
     },
     {
-      "id": "tech-apple-smarthome",
+      "id": "tech-x-subscription-bundle",
       "category": "tech",
-      "title": "Apple to unveil new smart home products showcasing updated Siri AI",
-      "summary": "Apple is set to reveal fresh smart home hardware that highlights its overhauled, AI-based Siri assistant.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/apple-unveil-new-smart-home-products-showcasing-updated-siri-ai-2026-10-13/",
-      "publishedAt": "2026-10-13T10:13:00Z",
-      "tags": ["Apple", "smart home", "Siri"]
+      "title": "SpaceXSI bundles X Premium, Grok and Cursor into one plan",
+      "summary": "The company now known as SpaceX Super Intelligence rolled its subscriptions, including X Premium, Grok and the Cursor coding tool, into a single 'The X Subscription' tier to attract more sign-ups. It consolidates the Musk-affiliated AI and social products under one bill.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "publishedAt": "2026-10-13T13:50:00Z",
+      "tags": [
+        "Grok",
+        "Cursor",
+        "subscriptions",
+        "xAI"
+      ]
     },
     {
-      "id": "tech-scientists-body",
+      "id": "tech-apple-tv-4k-siri",
       "category": "tech",
-      "title": "Scientists call for international body to oversee advanced AI",
-      "summary": "Researchers are urging the creation of an international governance body to oversee the development of frontier AI systems.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/",
-      "publishedAt": "2026-10-13T10:11:00Z",
-      "tags": ["AI governance", "regulation"]
+      "title": "Apple launches $299 Apple TV 4K with Siri AI and no-remote commands",
+      "summary": "Apple unveiled a new $299 Apple TV 4K with an upgraded chip, tighter integration with the updated Siri AI for content discovery, and microphones that accept voice commands without the remote. Pre-orders opened today with availability set for November 13.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+      "publishedAt": "2026-10-13T13:16:00Z",
+      "tags": [
+        "Apple",
+        "Siri",
+        "streaming",
+        "hardware"
+      ]
     },
     {
-      "id": "tech-character-ai",
+      "id": "tech-amex-agentic-payments",
       "category": "tech",
-      "title": "Character.AI files for bankruptcy, agrees to sell assets for $20M",
-      "summary": "The AI chatbot startup has filed for bankruptcy and reached a deal to sell some assets for about $20 million.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/",
-      "publishedAt": "2026-10-13T10:00:00Z",
-      "tags": ["Character.AI", "AI startup", "bankruptcy"]
+      "title": "Amex debuts framework to police AI agent purchases",
+      "summary": "American Express introduced an 'Intent Intelligence Framework' that captures and authenticates a customer's purchase intent before an AI agent completes a transaction. It is an early attempt to set standards for agentic commerce as AI assistants gain the ability to spend money on users' behalf.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "publishedAt": "2026-10-13T13:00:00Z",
+      "tags": [
+        "AI agents",
+        "payments",
+        "Amex",
+        "agentic commerce"
+      ]
+    },
+    {
+      "id": "browns-watson-jets-loss",
+      "category": "browns",
+      "title": "Watson's fourth straight game-winning drive bid falls short in 17-12 loss to Jets",
+      "summary": "Deshaun Watson was sacked eight times and Cleveland's final-drive comeback fell short in a 17-12 home loss to the New York Jets, dropping the Browns to 3-2. Receiver KC Concepcion was also lost to a head injury, deepening concerns about a passing game leaning on late heroics.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/deshaun-watson-comes-up-short-on-a-4th-straight-gamewinning-drive-as-browns-lose-17-12-to-the-jets-to-fall-to-3-2-kc-concepcion-lost-to-head-injury.html",
+      "publishedAt": "2026-10-13T14:47:00Z",
+      "tags": [
+        "Browns",
+        "Deshaun Watson",
+        "NFL",
+        "Jets"
+      ]
+    },
+    {
+      "id": "browns-obr-rumors-1013",
+      "category": "browns",
+      "title": "Browns news and rumors: offensive identity still under construction",
+      "summary": "Offensive coordinator Todd Monken addressed Cleveland's heavy shotgun usage and defended Quinshon Judkins against criticism, noting the back is 'so often hit in the backfield.' The Browns (3-2) now turn to a pivotal AFC North home game against Baltimore on Oct. 18.",
+      "source": "cleveland19.com | The OBR",
+      "url": "https://www.cleveland19.com/2026/10/13/cleveland-browns-news-rumors-101326-endless-construction/",
+      "publishedAt": "2026-10-13T12:30:00Z",
+      "tags": [
+        "Browns",
+        "Todd Monken",
+        "Quinshon Judkins",
+        "NFL"
+      ]
     },
     {
       "id": "browns-kosar-day",
       "category": "browns",
-      "title": "Cleveland City Council designates Oct. 13 as Bernie Kosar Day",
-      "summary": "Cleveland is honoring the Browns legend with an official Bernie Kosar Day resolution to recognize his contributions to the team and city.",
+      "title": "Cleveland names Oct. 13 'Bernie Kosar Day'",
+      "summary": "Cleveland City Council designated Tuesday, Oct. 13, 2026 as Bernie Kosar Day, honoring the Browns quarterback legend on the 41st anniversary of his first regular-season start. Councilman Brian Kazy sponsored the resolution recognizing Kosar's ties to the city.",
       "source": "WKYC",
       "url": "https://www.wkyc.com/article/news/local/cleveland/bernie-kosar-day-cleveland-city-council-resolution-tuesday-october-13-browns-legend/95-1b428cc3-d524-4dbc-a2e1-7f54e9afdfe3",
-      "publishedAt": "2026-10-13T09:00:00Z",
-      "tags": ["Browns", "Bernie Kosar", "Cleveland"]
+      "publishedAt": "2026-10-13T11:30:00Z",
+      "tags": [
+        "Browns",
+        "Bernie Kosar",
+        "Cleveland",
+        "history"
+      ]
     },
     {
-      "id": "f1-betting-lessons",
-      "category": "f1",
-      "title": "5 betting lessons after Verstappen wins Singapore GP",
-      "summary": "Analysis of the wagering takeaways from Max Verstappen's victory in the Singapore Grand Prix.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-max-verstappen-wins-the-singapore-grand-prix.47zBFhP59tE7pkyPZxt9Tb",
-      "publishedAt": "2026-10-13T10:55:00Z",
-      "tags": ["Singapore GP", "Verstappen", "Red Bull"]
+      "id": "buckeyes-daniels-return",
+      "category": "buckeyes",
+      "title": "Ryan Day confirms Phillip Daniels will return for Indiana showdown",
+      "summary": "Ohio State starting right tackle Phillip Daniels will play Saturday at Indiana after missing four games since the Texas loss, Day said at his weekly press conference. Right guard/tackle Austin Siereveld's status remains unsettled for a top-five rematch in Bloomington.",
+      "source": "Scarlet and Game",
+      "url": "https://scarletandgame.com/ryan-day-confirms-ohio-state-will-have-phillip-daniels-back-vs-iu-other-ol-up-in-the-air",
+      "publishedAt": "2026-10-13T16:33:00Z",
+      "tags": [
+        "Ohio State",
+        "Ryan Day",
+        "injuries",
+        "Indiana"
+      ]
     },
     {
-      "id": "f1-norris-apology",
-      "category": "f1",
-      "title": "Norris concedes he let down McLaren with Piastri clash",
-      "summary": "Lando Norris apologized to McLaren after an intra-team collision with Oscar Piastri in the Singapore sprint, saying he let the team down.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/i-let-down-the-team-norris-apologises-to-mclaren-for-singapore-sprint-intra-team-clash.4ZzwKsV0z0lmQWXrlwAbV2",
-      "publishedAt": "2026-10-13T10:23:00Z",
-      "tags": ["McLaren", "Norris", "Piastri"]
+      "id": "buckeyes-special-teams",
+      "category": "buckeyes",
+      "title": "Ohio State's special teams problems linger into Indiana week",
+      "summary": "Ahead of a rematch of last December's Big Ten Championship loss, Ohio State still has not fixed the kicking and special-teams errors that haunted it. Transfer kicker Connor Hawkins has made just 75% of his field goals in 2026, including misses against Texas and Iowa.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football-basketball-recruiting-news/123746/im-still-thinking-about-ohio-state-special-teams-vs-indiana",
+      "publishedAt": "2026-10-13T13:31:00Z",
+      "tags": [
+        "Ohio State",
+        "special teams",
+        "kicking",
+        "Big Ten"
+      ]
     },
     {
-      "id": "f1-antonelli-title",
+      "id": "buckeyes-injury-update",
+      "category": "buckeyes",
+      "title": "Day hopeful most of six missing starters return against Indiana",
+      "summary": "Ryan Day said he expects 'a good portion' of the six starters who sat out the Maryland win, including receivers Brandon Inniss and Devin McCuin and linebacker Christian Alliegro, back for Indiana. He also acknowledged a 'strange week' with non-football-related issues in the program.",
+      "source": "Scarlet and Game",
+      "url": "https://scarletandgame.com/osu-medical-updates-curt-cignetti-s-championship-blueprint-set-up-high-tension-week-7-at-indiana",
+      "publishedAt": "2026-10-13T13:00:00Z",
+      "tags": [
+        "Ohio State",
+        "Ryan Day",
+        "injuries",
+        "Indiana"
+      ]
+    },
+    {
+      "id": "buckeyes-skull-session",
+      "category": "buckeyes",
+      "title": "Big Ten coach says Ohio State is 'head and shoulders ahead' of the league",
+      "summary": "Eleven Warriors' Skull Session relayed a Big Ten offensive position coach calling the Buckeyes 'head and shoulders ahead of the next-best Big Ten team' and praising Julian Sayin's Iowa performance. The piece also flags Indiana's narrow wins over Northwestern and Nebraska as exploitable weaknesses.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/10/164555/skull-session-charlie-becker-s-shot-at-ohio-state-resurfaces-at-the-perfect-time-a-big-ten-position-coach-says-the",
+      "publishedAt": "2026-10-13T08:55:00Z",
+      "tags": [
+        "Ohio State",
+        "Julian Sayin",
+        "Big Ten",
+        "Indiana"
+      ]
+    },
+    {
+      "id": "f1-rwanda-circuit-plan",
       "category": "f1",
-      "title": "How Hamilton's call helped put Antonelli in reach of the title",
-      "summary": "Breakdown of how Lewis Hamilton's Singapore strategy call put Mercedes teammate Andrea Kimi Antonelli within reach of the drivers' title.",
+      "title": "Inside Rwanda's circuit plan: 6km, 17 corners, 197m of elevation",
+      "summary": "F1 detailed the planned Bugesera circuit that will host the African Grand Prix: a 6km anti-clockwise layout with 17 corners designed by Tilke Engineering and ex-driver Alex Wurz, plus a karting facility and driving centre. It sits next to Kigali's new international airport, due to open in early 2028.",
       "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/how-hamiltons-singapore-strategy-call-helped-put-antonelli-in-reach-of-the-title.2NeqeR8lkz3zom8MtJ2EE0",
+      "url": "https://www.formula1.com/en/latest/article/hills-a-lake-and-a-roller-coaster-inside-rwandas-plan-for-the-african-grand-prix.76LEZDItQYH362QElcHoY1",
+      "publishedAt": "2026-10-13T15:40:00Z",
+      "tags": [
+        "F1",
+        "Rwanda",
+        "circuit",
+        "African Grand Prix"
+      ]
+    },
+    {
+      "id": "f1-rwanda-ap-reaction",
+      "category": "f1",
+      "title": "Rwanda lands F1 as South Africa insists it 'will get' a race too",
+      "summary": "Rwanda's 10-year deal makes it the first confirmed new F1 host since Qatar and Saudi Arabia joined in 2021, fulfilling Lewis Hamilton's long push for a race in Africa. South Africa's sports minister congratulated Rwanda but insisted South Africa 'will get F1, even before 2030.'",
+      "source": "New York Post | AP",
+      "url": "https://nypost.com/2026/10/13/sports/formula-1-announces-return-to-africa-with-grand-prix-in-rwanda-in-early-2030s/",
+      "publishedAt": "2026-10-13T14:19:00Z",
+      "tags": [
+        "F1",
+        "Rwanda",
+        "South Africa",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "id": "f1-rwanda-deal",
+      "category": "f1",
+      "title": "F1 returns to Africa as Rwanda signs 10-year Grand Prix deal",
+      "summary": "Formula One confirmed a 10-year agreement to race in Rwanda from the early 2030s, ending a 33-year absence from the African continent. The African Grand Prix will run at a purpose-built track in Bugesera, 25 miles south of Kigali, once construction is complete.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s",
+      "publishedAt": "2026-10-13T09:50:00Z",
+      "tags": [
+        "F1",
+        "Rwanda",
+        "African Grand Prix",
+        "Liberty Media"
+      ]
+    },
+    {
+      "id": "f1-rwanda-explainer",
+      "category": "f1",
+      "title": "What we know about F1's new Rwanda race",
+      "summary": "F1's explainer confirmed the race will be branded the Formula 1 African Grand Prix, presented by Visit Rwanda, with the race date, circuit milestones and weekend plans still to be announced. F1 reiterated its commitment to keep the calendar at no more than 24 races.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/everything-we-know-about-f1s-all-new-race-in-rwanda.3Mde3s9FqIOTbkzKs0Puwo",
+      "publishedAt": "2026-10-13T09:45:00Z",
+      "tags": [
+        "F1",
+        "Rwanda",
+        "calendar",
+        "African Grand Prix"
+      ]
+    },
+    {
+      "id": "local-ccs-closures",
+      "category": "local",
+      "title": "Columbus City Schools plans more building closures",
+      "summary": "Facing a multimillion-dollar shortfall, Columbus City Schools outlined another round of building closures and transportation changes, with more than $30 million in additional cuts needed for 2028. Proposals go to the Board of Education in December and no final decisions have been made.",
+      "source": "WOSU 89.7 NPR News",
+      "url": "https://www.wosu.org/politics-government/2026-10-13/columbus-city-schools-plan-more-building-closures-amid-ongoing-financial-crunch",
+      "publishedAt": "2026-10-13T15:17:00Z",
+      "tags": [
+        "Columbus",
+        "Columbus City Schools",
+        "budget",
+        "education"
+      ]
+    },
+    {
+      "id": "local-breeze-myrtle-beach",
+      "category": "local",
+      "title": "Breeze Airways adds year-round Columbus to Myrtle Beach route",
+      "summary": "Breeze Airways announced a new year-round nonstop between Columbus and Myrtle Beach starting May 28, 2027, flying Mondays and Fridays with fares from $59 one-way. It is the 13th new flight announced by the Columbus Regional Airport Authority in 2026.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/local/2026/10/13/breeze-airways-announces-new-year-round-nonstop-route-from-columbus-to-myrtle-beach/92157357007/",
+      "publishedAt": "2026-10-13T15:00:00Z",
+      "tags": [
+        "Columbus",
+        "air travel",
+        "Breeze Airways",
+        "John Glenn International"
+      ]
+    },
+    {
+      "id": "local-columbus-marathon",
+      "category": "local",
+      "title": "Columbus Marathon: route, closures and schedule for race weekend",
+      "summary": "10TV published race-weekend logistics for the Nationwide Children's Hospital Columbus Marathon, set for Oct. 17-18 with more than 15,000 athletes and a 7:30 a.m. start on Oct. 18. Downtown roads along Long Street and the 26.2-mile course face rolling closures.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/2026-columbus-marathon-what-to-know-route-closures-schedule-parking/530-b00a30ac-3f67-4519-93ef-d22e549a7f01",
+      "publishedAt": "2026-10-13T10:45:00Z",
+      "tags": [
+        "Columbus",
+        "Columbus Marathon",
+        "road closures",
+        "events"
+      ]
+    },
+    {
+      "id": "local-violence-intervention",
+      "category": "local",
+      "title": "Columbus Council funds expansion of violence intervention program",
+      "summary": "Columbus City Council approved $725,000 to fund the Columbus Urban League's neighborhood violence and intervention program for another year, doubling its team from four to eight people. The program has operated for 13 years.",
+      "source": "National Urban League",
+      "url": "https://nul.org/news/columbus-city-council-passes-ordinance-expand-neighborhood-violence-intervention-program",
       "publishedAt": "2026-10-13T10:00:00Z",
-      "tags": ["Hamilton", "Antonelli", "title race"]
-    },
-    {
-      "id": "local-flock-cameras",
-      "category": "local",
-      "title": "Central Ohio cities debate Flock camera usage",
-      "summary": "Columbus-area communities are weighing how to use Flock automatic license-plate camera systems as privacy and effectiveness questions persist.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-10-13T06:00:00Z",
-      "tags": ["Columbus", "surveillance", "privacy"]
-    },
-    {
-      "id": "local-south-side-shooting",
-      "category": "local",
-      "title": "One killed in South Side Columbus shooting",
-      "summary": "A person was found dead in an alley on Columbus's South Side, the latest fatal shooting in the city.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
-      "publishedAt": "2026-10-13T02:00:00Z",
-      "tags": ["Columbus", "shooting", "crime"]
-    },
-    {
-      "id": "local-gas-prices",
-      "category": "local",
-      "title": "Dip in Columbus gas prices doesn't erase $4 per gallon average",
-      "summary": "A recent slide in local pump prices has not brought the Columbus average below $4 a gallon.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/recent-dip-in-columbus-gas-prices-doesnt-erase-4-per-gallon-average/",
-      "publishedAt": "2026-10-13T00:00:00Z",
-      "tags": ["Columbus", "gas prices", "cost of living"]
+      "tags": [
+        "Columbus",
+        "City Council",
+        "public safety",
+        "Columbus Urban League"
+      ]
     }
   ]
 }
