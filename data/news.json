@@ -1,72 +1,161 @@
 {
   "meta": {
-    "updatedAt": "2026-10-12T19:34:50Z",
+    "updatedAt": "2026-10-13T11:00:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 6
+    "count": 15
   },
   "stories": [
     {
-      "id": "top-johnson-gop-leader",
+      "id": "top-imf-flags",
       "category": "top",
-      "title": "House Speaker Mike Johnson says he intends to stay on as GOP leader even if Republicans lose the majority",
-      "summary": "Johnson told CBS he would remain the House GOP leader if the party loses its majority in November, while insisting he is confident Republicans will keep or grow it. The comment signals continuity of GOP leadership through a tough midterm cycle.",
-      "source": "CBS News",
-      "url": "https://www.yahoo.com/news/politics/articles/heaven-forbid-mike-johnson-says-090009399.html",
-      "publishedAt": "2026-10-12T11:53:00Z",
-      "tags": ["us-politics", "midterms-2026", "congress", "gop"]
+      "title": "IMF flags AI selloff, war and debt as risks to global economy",
+      "summary": "The IMF warned of complacency in financial markets, citing risks from an AI-driven market correction, rising government-bond yields and cyberattacks as threats to otherwise-resilient markets.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/",
+      "publishedAt": "2026-10-13T10:39:00Z",
+      "tags": ["IMF", "economy", "markets"]
     },
     {
-      "id": "tech-meta-muse-wonder",
+      "id": "top-nyt-israel",
+      "category": "top",
+      "title": "The Oct. 7 attack changed Israel, but not its politics",
+      "summary": "As Israelis head to the polls this month, the NYT reports the 2023 Hamas attack has left the country more polarized than ever rather than producing political transformation.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
+      "publishedAt": "2026-10-13T10:00:00Z",
+      "tags": ["Israel", "elections", "Oct 7"]
+    },
+    {
+      "id": "top-imf-china-india",
+      "category": "top",
+      "title": "IMF: AI boom boosted global trade growth, benefiting China and India",
+      "summary": "The IMF chief economist said strong AI demand has outpaced overall global-trade growth and lifted China, India and other Asian economies.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/ai-boom-bolstered-growth-global-trade-benefiting-china-india-imf-says-2026-10-13/",
+      "publishedAt": "2026-10-13T07:00:00Z",
+      "tags": ["IMF", "AI", "global trade"]
+    },
+    {
+      "id": "top-imf-weo",
+      "category": "top",
+      "title": "IMF: AI investment keeps global growth above 3% despite war and debt",
+      "summary": "The IMF World Economic Outlook, released at its annual meetings in Bangkok, sees global GDP topping 3% this year as AI investment offsets the Middle East energy shock, but warns downside risks are mounting.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/imf-says-ai-investment-propping-up-global-growth-war-debt-threaten-outlook-2026-10-13/",
+      "publishedAt": "2026-10-13T02:35:00Z",
+      "tags": ["IMF", "global growth", "World Economic Outlook"]
+    },
+    {
+      "id": "tech-scaleway",
       "category": "tech",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Meta Superintelligence Lab released Muse Wonder and Muse Wonder Full, its most capable models and its first attempt at a frontier model, claiming benchmark scores comparable to Fable 5.1 and GPT-6 Astra. Wonder is available through the Meta Model API, while Wonder Full is limited to Muse Code subscribers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "publishedAt": "2026-10-12T17:56:00Z",
-      "tags": ["ai", "meta", "frontier-model", "llm"]
+      "title": "Scaleway to build AMD-powered AI supercomputer in Sweden",
+      "summary": "The French cloud company announced its first AI supercomputer outside France, built on AMD chips, at its annual AI conference in Paris.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/scaleway-build-amd-powered-ai-supercomputer-sweden-2026-10-13/",
+      "publishedAt": "2026-10-13T10:58:00Z",
+      "tags": ["AI", "supercomputer", "AMD"]
     },
     {
-      "id": "tech-nvidia-kumo-tabular",
+      "id": "tech-apple-smarthome",
       "category": "tech",
-      "title": "Nvidia releases Kumo Tabular, an open foundation model for tabular prediction",
-      "summary": "Nvidia Kumo Tabular predicts labels of new rows in a single forward pass with no training or feature engineering, ranking first on four tabular benchmarks and running far faster than gradient-boosted trees. It could displace the rebuild-from-scratch pattern that has dominated churn, default and demand prediction for two decades.",
-      "source": "Byte Journal",
-      "url": "https://bytejournal.org/news/2026-10-12-nvidia-releases-kumo-tabular-an-open-foundation-model-for-tabular-pred/",
-      "publishedAt": "2026-10-12T12:22:00Z",
-      "tags": ["ai", "nvidia", "tabular", "machine-learning"]
+      "title": "Apple to unveil new smart home products showcasing updated Siri AI",
+      "summary": "Apple is set to reveal fresh smart home hardware that highlights its overhauled, AI-based Siri assistant.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/apple-unveil-new-smart-home-products-showcasing-updated-siri-ai-2026-10-13/",
+      "publishedAt": "2026-10-13T10:13:00Z",
+      "tags": ["Apple", "smart home", "Siri"]
     },
     {
-      "id": "tech-nvidia-replayssm",
+      "id": "tech-scientists-body",
       "category": "tech",
-      "title": "Nvidia and Princeton ReplaySSM speeds hybrid-model decoding",
-      "summary": "ReplaySSM represent state-space-model state as a checkpoint plus a recent-input buffer, roughly halving state memory traffic and delivering 1.46-1.8x faster decoding kernels and about 2x speculative-decoding throughput on 120B-class models. It is already integrated into TensorRT-LLM, vLLM and FlashInfer.",
-      "source": "NVIDIA",
-      "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
-      "publishedAt": "2026-10-12T15:00:00Z",
-      "tags": ["ai", "nvidia", "inference", "ssm"]
+      "title": "Scientists call for international body to oversee advanced AI",
+      "summary": "Researchers are urging the creation of an international governance body to oversee the development of frontier AI systems.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/",
+      "publishedAt": "2026-10-13T10:11:00Z",
+      "tags": ["AI governance", "regulation"]
     },
     {
-      "id": "local-acton-havas",
+      "id": "tech-character-ai",
+      "category": "tech",
+      "title": "Character.AI files for bankruptcy, agrees to sell assets for $20M",
+      "summary": "The AI chatbot startup has filed for bankruptcy and reached a deal to sell some assets for about $20 million.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/",
+      "publishedAt": "2026-10-13T10:00:00Z",
+      "tags": ["Character.AI", "AI startup", "bankruptcy"]
+    },
+    {
+      "id": "browns-kosar-day",
+      "category": "browns",
+      "title": "Cleveland City Council designates Oct. 13 as Bernie Kosar Day",
+      "summary": "Cleveland is honoring the Browns legend with an official Bernie Kosar Day resolution to recognize his contributions to the team and city.",
+      "source": "WKYC",
+      "url": "https://www.wkyc.com/article/news/local/cleveland/bernie-kosar-day-cleveland-city-council-resolution-tuesday-october-13-browns-legend/95-1b428cc3-d524-4dbc-a2e1-7f54e9afdfe3",
+      "publishedAt": "2026-10-13T09:00:00Z",
+      "tags": ["Browns", "Bernie Kosar", "Cleveland"]
+    },
+    {
+      "id": "f1-betting-lessons",
+      "category": "f1",
+      "title": "5 betting lessons after Verstappen wins Singapore GP",
+      "summary": "Analysis of the wagering takeaways from Max Verstappen's victory in the Singapore Grand Prix.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-max-verstappen-wins-the-singapore-grand-prix.47zBFhP59tE7pkyPZxt9Tb",
+      "publishedAt": "2026-10-13T10:55:00Z",
+      "tags": ["Singapore GP", "Verstappen", "Red Bull"]
+    },
+    {
+      "id": "f1-norris-apology",
+      "category": "f1",
+      "title": "Norris concedes he let down McLaren with Piastri clash",
+      "summary": "Lando Norris apologized to McLaren after an intra-team collision with Oscar Piastri in the Singapore sprint, saying he let the team down.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/i-let-down-the-team-norris-apologises-to-mclaren-for-singapore-sprint-intra-team-clash.4ZzwKsV0z0lmQWXrlwAbV2",
+      "publishedAt": "2026-10-13T10:23:00Z",
+      "tags": ["McLaren", "Norris", "Piastri"]
+    },
+    {
+      "id": "f1-antonelli-title",
+      "category": "f1",
+      "title": "How Hamilton's call helped put Antonelli in reach of the title",
+      "summary": "Breakdown of how Lewis Hamilton's Singapore strategy call put Mercedes teammate Andrea Kimi Antonelli within reach of the drivers' title.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/how-hamiltons-singapore-strategy-call-helped-put-antonelli-in-reach-of-the-title.2NeqeR8lkz3zom8MtJ2EE0",
+      "publishedAt": "2026-10-13T10:00:00Z",
+      "tags": ["Hamilton", "Antonelli", "title race"]
+    },
+    {
+      "id": "local-flock-cameras",
       "category": "local",
-      "title": "What to know about Patrick Havas, alleged armed figure at Amy Acton campaign event",
-      "summary": "NBC4 profiled Patrick Havas, the man accused of approaching Democratic governor candidate Amy Acton while armed at a campaign appearance in Mahoning County, including his 2008 arrest record and a donation his brother made in Ohio politics. The incident was condemned by Gov. Mike DeWine, Vivek Ramaswamy and Sen. Jon Husted.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
-      "publishedAt": "2026-10-12T18:00:00Z",
-      "tags": ["columbus", "ohio-politics", "election", "amy-acton"]
+      "title": "Central Ohio cities debate Flock camera usage",
+      "summary": "Columbus-area communities are weighing how to use Flock automatic license-plate camera systems as privacy and effectiveness questions persist.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
+      "publishedAt": "2026-10-13T06:00:00Z",
+      "tags": ["Columbus", "surveillance", "privacy"]
     },
     {
-      "id": "local-ohio-supreme-court-registry",
+      "id": "local-south-side-shooting",
       "category": "local",
-      "title": "Ohio Supreme Court clarifies sex offender registration rules",
-      "summary": "Ohio high court issued a ruling clarifying how the state sex offender registration rules apply, providing a statewide standard for courts and defendants. The decision affects how registrants and offenses are classified across Ohio.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/ohio-supreme-court-clarifies-sex-offender-registration-rules/",
-      "publishedAt": "2026-10-12T10:00:00Z",
-      "tags": ["columbus", "ohio", "courts", "law"]
+      "title": "One killed in South Side Columbus shooting",
+      "summary": "A person was found dead in an alley on Columbus's South Side, the latest fatal shooting in the city.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
+      "publishedAt": "2026-10-13T02:00:00Z",
+      "tags": ["Columbus", "shooting", "crime"]
+    },
+    {
+      "id": "local-gas-prices",
+      "category": "local",
+      "title": "Dip in Columbus gas prices doesn't erase $4 per gallon average",
+      "summary": "A recent slide in local pump prices has not brought the Columbus average below $4 a gallon.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/recent-dip-in-columbus-gas-prices-doesnt-erase-4-per-gallon-average/",
+      "publishedAt": "2026-10-13T00:00:00Z",
+      "tags": ["Columbus", "gas prices", "cost of living"]
     }
   ]
 }
-
