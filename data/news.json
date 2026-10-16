@@ -1,333 +1,211 @@
 {
   "meta": {
-    "updatedAt": "2026-10-15T19:35:39Z",
+    "updatedAt": "2026-10-16T11:05:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 23
+    "count": 20
   },
   "stories": [
     {
-      "id": "top-aden-palace",
+      "id": "top-nidal-hasan-firing-squad",
       "category": "top",
-      "title": "Houthi missiles strike the presidential palace in Aden, killing two",
-      "summary": "At least five ballistic missiles hit the al-Maashiq Palace in Aden, the seat of the internationally recognised government of Yemen, killing two guards from the security detail of the prime minister. The attack is the latest in an escalating Houthi campaign against Saudi-linked targets in the region.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/15/middleeast/yemeni-houthi-strikes-on-aden-presidential-palace-kill-two-latam-intl",
-      "publishedAt": "2026-10-15T15:52:00Z",
-      "tags": [
-        "Yemen",
-        "Houthis",
-        "Middle East"
-      ]
+      "title": "Trump approves firing-squad execution for Fort Hood shooter, cancels livestream",
+      "summary": "President Trump overruled Defense Secretary Pete Hegseth's plan to broadcast the December execution of Nidal Hasan, the former Army major who killed 13 people at Fort Hood in 2009. The execution will still proceed by firing squad, with victims' immediate family allowed to attend.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/6130802-nidal-hasan-death-firing-squad/",
+      "publishedAt": "2026-10-16T10:24:00Z",
+      "tags": ["politics", "justice", "military"]
     },
     {
-      "id": "top-suspicious-letters",
+      "id": "top-trump-nebraska-rally",
       "category": "top",
-      "title": "FBI investigates letters with unknown substances sent to US election and congressional offices",
-      "summary": "The FBI and the US Postal Inspection Service are investigating suspicious letters mailed to state election officials and congressional offices nationwide, and Senate staff received a warning on Thursday. The mailings come weeks before the midterm elections and follow a rise in threats against election workers.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
-      "publishedAt": "2026-10-15T15:46:00Z",
-      "tags": [
-        "FBI",
-        "Elections",
-        "United States"
-      ]
+      "title": "Trump rallies Nebraska voters as midterm push intensifies",
+      "summary": "Trump campaigned in Nebraska with GOP Senate candidate Pete Ricketts, part of a late push to defend Republican seats before next month's midterm elections. The rally came as the White House also faced a court order to pull taxpayer-funded promotional ads.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6130114-watch-live-donald-trump-nebraska-rally-midterms-pete-ricketts/",
+      "publishedAt": "2026-10-16T08:00:00Z",
+      "tags": ["politics", "elections", "midterms"]
     },
     {
-      "id": "top-fort-hood-livestream",
+      "id": "top-yemen-houthi-palace-strike",
       "category": "top",
-      "title": "Trump cancels livestream of Fort Hood attacker execution by firing squad",
-      "summary": "Trump said in a Truth Social post that the December 3 execution of Nidal Hasan by firing squad will still go ahead but will not be streamed, reversing a plan announced last week by Defence Secretary Pete Hegseth. The reversal followed bipartisan backlash and polling that showed most Americans opposed broadcasting the execution.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/crx23qlnj27qo",
-      "publishedAt": "2026-10-15T13:30:00Z",
-      "tags": [
-        "Trump",
-        "Justice",
-        "United States"
-      ]
+      "title": "Houthi missile strike on Yemen's presidential palace kills five",
+      "summary": "Ballistic missiles hit al-Maashiq Palace in Aden, killing at least five people, Yemen's information minister said; the prime minister and other ministers were unhurt. The attack is the latest in a widening exchange of strikes between the Houthis and Saudi-backed forces.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cm62y6lp73zdo",
+      "publishedAt": "2026-10-16T03:00:00Z",
+      "tags": ["yemen", "houthis", "conflict"]
     },
     {
-      "id": "top-medicare-drug-rule",
+      "id": "top-oregon-school-shooting",
       "category": "top",
-      "title": "Trump administration proposes rule it says would save Medicare patients $1.1 billion on drugs",
-      "summary": "The proposed rule would stop hospitals from charging markups on discounted drugs for Medicare patients, which the administration estimates could save consumers $1.1 billion next year. It is the latest in a series of White House drug-pricing moves.",
-      "source": "AP",
-      "url": "https://apnews.com/article/trump-drug-prices-medicare-hospitals-discounts-savings-5126a1e044ffe48f8a6a27710eb00293",
-      "publishedAt": "2026-10-15T13:00:00Z",
-      "tags": [
-        "Medicare",
-        "Health",
-        "Policy"
-      ]
+      "title": "Teen kills three children and a teacher at Bend, Oregon elementary school",
+      "summary": "A 16-year-old shot through locked doors at Silver Rail Elementary and killed three children and a teacher before a bystander followed him inside and shot him dead, police said. Two others were critically wounded and investigators have not identified a motive.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "tags": ["oregon", "school-shooting", "us"]
     },
     {
-      "id": "tech-bluesky-attie",
+      "id": "tech-youtube-music-ai-labels",
       "category": "tech",
-      "title": "Bluesky expands AI-powered Attie app so anyone can build websites and games",
-      "summary": "Announced at TechCrunch Disrupt 2026, the Attie tool from Bluesky now lets creators build websites, quizzes, games and polls for their communities. CEO Toni Schneider described it as social vibe coding as the company expands beyond its flagship app.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "publishedAt": "2026-10-15T17:00:00Z",
-      "tags": [
-        "Bluesky",
-        "AI",
-        "Apps"
-      ]
+      "title": "YouTube Music adds labels for AI-generated content",
+      "summary": "YouTube Music now tags tracks it believes were made with AI, extending the platform's AI-disclosure rules from video to its streaming app. Listeners can see the label, but cannot yet filter AI tracks out of their feeds.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2286764/youtube-music-adds-new-labels-for-ai-generated-content/",
+      "publishedAt": "2026-10-16T03:00:00Z",
+      "tags": ["youtube", "ai", "music"]
     },
     {
-      "id": "tech-rivian-ai-agents",
+      "id": "tech-meta-terms-news-scraping",
       "category": "tech",
-      "title": "AI agents are coming to Rivian vehicles",
-      "summary": "Rivian says it built an in-house agentic framework that routes each spoken request to a local on-vehicle model or to the cloud depending on complexity. It handles tasks such as climate control, seat warmers and news summaries.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "publishedAt": "2026-10-15T15:00:00Z",
-      "tags": [
-        "Rivian",
-        "AI agents",
-        "EVs"
-      ]
+      "title": "Meta's new commercial terms open the door to scraping news sites",
+      "summary": "Legal experts say an upcoming Meta commercial terms update gives the company broad rights to scrape news publishers' sites, and virtually every newsroom holds a Meta business account. Publishers warn the change undercuts the licensing deals they have negotiated with AI companies.",
+      "source": "Nieman Lab",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "publishedAt": "2026-10-16T01:00:00Z",
+      "tags": ["meta", "ai", "news", "publishers"]
     },
     {
-      "id": "tech-google-universal-cart",
+      "id": "tech-amazon-panay-devices",
       "category": "tech",
-      "title": "Google Universal Cart shopping tool launches in the US",
-      "summary": "Google said Universal Cart, which lets users collect and track products found across Search and in the Gemini app, is now available to US users. It is the latest push by Google to fold shopping into AI-driven search.",
+      "title": "Amazon devices chief says AI devices will replace the need for apps",
+      "summary": "Panos Panay, who runs Amazon's devices group, argued that AI assistants will eventually make hunting through apps obsolete, with hardware doing the work for users. His comments preview Amazon's next wave of Alexa-driven products after a rocky stretch for the unit.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "publishedAt": "2026-10-15T13:50:00Z",
-      "tags": [
-        "Google",
-        "Shopping",
-        "Gemini"
-      ]
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "tags": ["amazon", "ai", "hardware"]
     },
     {
-      "id": "tech-amazon-bee",
-      "category": "tech",
-      "title": "Amazon Bee launches two new personal AI devices starting at $75",
-      "summary": "Bee unveiled the $74.99 Frontier, a wrist-worn or clipped-on recorder, and the $99.99 Eclipse, a card-sized device that attaches to a phone. Both summarise conversations and now tie into Alexa+ and Amazon shopping.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "tags": [
-        "Amazon",
-        "Wearables",
-        "AI hardware"
-      ]
-    },
-    {
-      "id": "browns-boston-limited",
+      "id": "browns-thursday-injury-report",
       "category": "browns",
-      "title": "Browns rookie Denzel Boston limited in practice with a foot injury",
-      "summary": "Boston, who caught three passes for 46 yards and a touchdown against the Jets, appeared on the Wednesday injury report with a foot issue but practised in a limited capacity. He looks on track to play on Sunday against Baltimore.",
-      "source": "USA Today (Huskies Wire)",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/10/15/denzel-boston-injury-cleveland-browns-nfl-uw-football/92255876007/",
-      "publishedAt": "2026-10-15T18:30:00Z",
-      "tags": [
-        "Browns",
-        "Injury",
-        "Denzel Boston"
-      ]
+      "title": "Browns' injury picture improves ahead of Ravens matchup",
+      "summary": "Several key Browns starters moved in the right direction on Thursday's practice report after 11 players sat out Wednesday, a boost before Cleveland hosts Baltimore in Week 6. The Ravens added Zay Flowers and Mike Green to their own injury list Thursday.",
+      "source": "Browns Wire",
+      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/10/15/thursday-injury-report-for-the-browns-in-week-6/92273620007/",
+      "publishedAt": "2026-10-16T03:00:00Z",
+      "tags": ["browns", "nfl", "injury-report"]
     },
     {
-      "id": "browns-coordinators-ravens",
+      "id": "browns-five-week-concerns",
       "category": "browns",
-      "title": "Browns coordinators preview the Ravens and explain the Jets loss",
-      "summary": "The Cleveland coordinators met the media on Thursday ahead of the Week 6 AFC North home game against Baltimore, discussing the injury situation and what went wrong on offense against the Jets. Sunday carries the division lead.",
-      "source": "Akron Beacon Journal",
-      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/10/15/browns-oct-15-updates-coordinators-ravens-injuries--live/92261012007/",
-      "publishedAt": "2026-10-15T14:00:00Z",
-      "tags": [
-        "Browns",
-        "Ravens",
-        "AFC North"
-      ]
+      "title": "Cleveland's biggest concern through five weeks: a sputtering offense",
+      "summary": "A Cleveland-focused SI column argues the Browns' most pressing problem is an offense that cannot sustain drives, leaving too much work for a defense that has been the team's strength. Baltimore visits Cleveland on Sunday.",
+      "source": "SI / NBC4",
+      "url": "https://www.nbc4i.com/sports/sports-illustrated/arena-nfl/si-cleveland-browns-nfl/26f53da3/im-most-concerned-about-this-one-thing-with-the-browns-through-five-weeks",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "tags": ["browns", "analysis", "nfl"]
     },
     {
-      "id": "browns-daily-dawg-chow",
-      "category": "browns",
-      "title": "Browns and Ravens injury lists plus Shedeur Sanders trade chatter lead the news",
-      "summary": "The Thursday roundup centres on the 36 combined names on the Browns and Ravens injury reports and on speculation that Shedeur Sanders hiring an agent signals trade interest. Both teams enter Week 6 with serious health questions.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/135205/cleveland-browns-news-injuries-shedeur-sanders-rumors-trade-ravens-lamar-jackson",
-      "publishedAt": "2026-10-15T13:00:00Z",
-      "tags": [
-        "Browns",
-        "Injuries",
-        "Shedeur Sanders"
-      ]
-    },
-    {
-      "id": "browns-week6-injury-report",
-      "category": "browns",
-      "title": "Eleven Browns sit out the first Week 6 injury report before the Ravens game",
-      "summary": "The initial Week 6 report lists 11 players who did not practise on Wednesday, leaving the roster thin on both sides of the ball. Quarterback Dillon Gabriel was a full participant as he works back from a back injury.",
-      "source": "Browns Wire (USA Today)",
-      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/10/15/wednesday-injury-report-for-the-browns-ahead-of-week-6/92257646007/",
-      "publishedAt": "2026-10-15T10:30:00Z",
-      "tags": [
-        "Browns",
-        "Injury report",
-        "Week 6"
-      ]
-    },
-    {
-      "id": "buckeyes-keys-to-win",
+      "id": "buckeyes-indiana-betting-lines",
       "category": "buckeyes",
-      "title": "Three keys for Ohio State to beat Indiana in Bloomington",
-      "summary": "The Ohio State offensive line, again without Austin Siereveld, must protect the Julian Sayin to Jeremiah Smith connection if the Buckeyes are to win the top-five rematch of the Big Ten title game from last season. The winner takes control of the conference race.",
+      "title": "No. 4 Ohio State favored on the road at No. 5 Indiana",
+      "summary": "ESPN's Week 7 top-25 betting lines make Ohio State a road favorite at Indiana in Saturday's rematch of last season's Big Ten Championship Game, while Notre Dame is a double-digit favorite at BYU. The Buckeyes are looking for revenge after the Hoosiers took last year's conference title.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50166976/2026-college-football-week-7-top-25-betting-lines-odds",
+      "publishedAt": "2026-10-16T07:00:00Z",
+      "tags": ["buckeyes", "football", "odds"]
+    },
+    {
+      "id": "buckeyes-indiana-keys-stakes",
+      "category": "buckeyes",
+      "title": "Keys to Ohio State-Indiana and what it means for the playoff race",
+      "summary": "USA Today frames Saturday's Ohio State-Indiana game (noon ET, Fox, Bloomington) as a clash that will settle Big Ten supremacy and shape the College Football Playoff picture. Ohio State leads the all-time series 81-13-5.",
       "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/college/football/2026/10/15/ohio-state-football-indiana-keys-to-win/92220196007/",
-      "publishedAt": "2026-10-15T14:30:00Z",
-      "tags": [
-        "Buckeyes",
-        "Indiana",
-        "Big Ten"
-      ]
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/16/ohio-state-indiana-preview-keys-to-victory-big-ten-cfp/92264539007/",
+      "publishedAt": "2026-10-16T06:00:00Z",
+      "tags": ["buckeyes", "indiana", "cfp"]
     },
     {
-      "id": "buckeyes-dispatch-predictions",
-      "category": "buckeyes",
-      "title": "Columbus Dispatch writers split on the Ohio State and Indiana final score",
-      "summary": "Dispatch experts offered differing score predictions for the top-five showdown between No. 4 Ohio State and undefeated Indiana. It is the first top-five matchup ever played in Bloomington.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/15/ohio-state-vs-indiana-football-predictions-final-score/92203802007/",
-      "publishedAt": "2026-10-15T13:38:00Z",
-      "tags": [
-        "Buckeyes",
-        "Indiana",
-        "Predictions"
-      ]
-    },
-    {
-      "id": "buckeyes-espn-predictor",
-      "category": "buckeyes",
-      "title": "ESPN model gives Ohio State a slim 52.1 percent edge at Indiana",
-      "summary": "The ESPN matchup predictor calls the game nearly a coin flip, giving Ohio State a 52.1 percent chance to end the long Indiana win streak. The Buckeyes moved up to No. 4 in the AP poll this week.",
-      "source": "Buckeyes Wire (USA Today)",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/10/15/ohio-state-vs-indiana-espn-predicts-winner-buckeyes/92258527007/",
-      "publishedAt": "2026-10-15T13:30:00Z",
-      "tags": [
-        "Buckeyes",
-        "Indiana",
-        "ESPN"
-      ]
-    },
-    {
-      "id": "f1-colapinto-sepang-penalty",
+      "id": "f1-colapinto-penalty-baku",
       "category": "f1",
-      "title": "Colapinto handed a Sepang penalty for causing the Baku pile-up",
-      "summary": "Stewards penalised Alpine driver Franco Colapinto for triggering the multi-car crash at the Azerbaijan Grand Prix, with the sanction carried over to the next round at Sepang. The incident eliminated Pierre Gasly and Lando Norris.",
+      "title": "Colapinto handed penalty for causing the Baku pile-up",
+      "summary": "Stewards penalized Alpine's Franco Colapinto for triggering the multi-car crash that eliminated Pierre Gasly and Lando Norris at the Azerbaijan Grand Prix. The incident overshadowed George Russell's win over Max Verstappen.",
       "source": "Autosport",
       "url": "https://www.autosport.com/f1/news/franco-colapinto-penalty-revealed-for-causing-baku-f1-pile-up/10859374/",
-      "publishedAt": "2026-10-15T12:30:00Z",
-      "tags": [
-        "F1",
-        "Colapinto",
-        "Penalty"
-      ]
+      "publishedAt": "2026-10-16T04:00:00Z",
+      "tags": ["f1", "alpine", "penalty"]
     },
     {
-      "id": "f1-briatore-colapinto",
+      "id": "f1-baku-late-race-chaos",
       "category": "f1",
-      "title": "Briatore blasts Colapinto over a very poor Baku move",
-      "summary": "Alpine boss Flavio Briatore said he will reflect on what action is necessary after the Colapinto crash, describing the move as very poor. The incident puts the future of Colapinto at the team under renewed scrutiny.",
+      "title": "Baku's late-race chaos nearly cost Russell the win over Verstappen",
+      "summary": "Autosport walks through the closing laps of the Azerbaijan Grand Prix, where late-race incidents and traffic briefly put George Russell's lead over Max Verstappen in doubt. Russell held on for a win that trims the gap at the top of the standings.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/not-quite-plain-sailing-bakus-late-race-chaos-almost-cost-russell-victory-over-verstappen/10859340/",
+      "publishedAt": "2026-10-16T03:30:00Z",
+      "tags": ["f1", "mercedes", "red-bull"]
+    },
+    {
+      "id": "f1-briatore-colapinto-blunder",
+      "category": "f1",
+      "title": "Briatore to weigh action after Colapinto's \"very poor\" Baku move",
+      "summary": "Alpine advisor Flavio Briatore called Franco Colapinto's crash a \"very poor\" piece of driving and said the team will reflect on what action is needed. Colapinto has now been involved in multiple costly incidents this season.",
       "source": "Autosport",
       "url": "https://www.autosport.com/f1/news/alpines-flavio-briatore-rips-into-franco-colapintos-baku-blunder-a-very-poor-move/10859341/",
-      "publishedAt": "2026-10-15T11:40:00Z",
-      "tags": [
-        "F1",
-        "Alpine",
-        "Briatore"
-      ]
+      "publishedAt": "2026-10-16T03:00:00Z",
+      "tags": ["f1", "alpine", "briatore"]
     },
     {
-      "id": "f1-norris-ban-call",
+      "id": "f1-norris-ban-colapinto",
       "category": "f1",
-      "title": "Norris demands a ban for Colapinto after the Azerbaijan GP crash",
-      "summary": "Lando Norris called for a ban after the Colapinto collision in Baku put him out of the race, an incident that also eliminated Pierre Gasly. Norris had been running in contention before the crash.",
+      "title": "Norris calls for a ban on Colapinto after Azerbaijan GP crash",
+      "summary": "Lando Norris said Franco Colapinto should face a suspension after the Alpine driver's error took both of them out of the Azerbaijan Grand Prix. Norris' race ended on the spot while Colapinto continued to be a talking point in the paddock.",
       "source": "Autosport",
       "url": "https://www.autosport.com/f1/news/norris-demands-ban-for-colapinto-after-azerbaijan-gp-crash/10859259/",
-      "publishedAt": "2026-10-15T09:40:00Z",
-      "tags": [
-        "F1",
-        "Norris",
-        "Colapinto"
-      ]
+      "publishedAt": "2026-10-16T01:00:00Z",
+      "tags": ["f1", "mclaren", "norris"]
     },
     {
-      "id": "f1-russell-baku-win",
-      "category": "f1",
-      "title": "Russell wins chaotic Azerbaijan Grand Prix ahead of Verstappen",
-      "summary": "George Russell took his third win of the 2026 season with a pole to flag drive in Baku, overcoming two safety cars to hold off Max Verstappen. The race was defined by a mid-race pile-up and late-race chaos.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/f1-azerbaijan-gp-russell-fends-off-verstappen-for-victory-colapinto-takes-out-gasly-and-norris/10859225/",
-      "publishedAt": "2026-10-15T09:30:00Z",
-      "tags": [
-        "F1",
-        "Azerbaijan GP",
-        "Russell"
-      ]
+      "id": "tarkov-arena-patch-061",
+      "category": "tarkov",
+      "title": "Tarkov Arena goes offline for patch 0.6.1",
+      "summary": "Battlestate Games took Escape from Tarkov: Arena offline early Friday to install patch 0.6.1, with maintenance expected to run about four hours from 3 a.m. ET (8 a.m. BST). The update follows the team's posted Q4 2026 Arena plan of new content alongside technical fixes.",
+      "source": "Tarkov Arena / Battlestate Games",
+      "url": "https://www.instagram.com/p/DehZCJjBEh0/",
+      "publishedAt": "2026-10-16T07:00:00Z",
+      "tags": ["tarkov", "arena", "patch"]
     },
     {
-      "id": "local-hague-shooting",
+      "id": "tarkov-scourge-incursion-event",
+      "category": "tarkov",
+      "title": "\"Scourge Incursion\" event launches on The Lab",
+      "summary": "A new Escape from Tarkov event drops a heavily armed unidentified squad into the TerraGroup complex on The Lab, running through October 20 at 7 a.m. UTC. Rumors link the squad's commander to the Arena champions, an identity Battlestate has not confirmed.",
+      "source": "Tarkov Market / Battlestate Games",
+      "url": "https://tarkov-market.com/events/scourge-incursion",
+      "publishedAt": "2026-10-16T06:34:00Z",
+      "tags": ["tarkov", "event", "the-lab"]
+    },
+    {
+      "id": "local-bayer-new-albany-plant",
       "category": "local",
-      "title": "Two shot on South Hague Avenue, one critically injured",
-      "summary": "Columbus police are investigating a shooting near 843 South Hague Avenue that left two people wounded, one in critical condition and the other stable. No information on suspects has been released.",
-      "source": "ABC6/WSYX",
-      "url": "https://abc6onyourside.com/news/local/two-shot-on-hague-avenue-one-in-critical-condition-another-stable-story-developing",
-      "publishedAt": "2026-10-15T16:34:00Z",
-      "tags": [
-        "Columbus",
-        "Crime",
-        "Shooting"
-      ]
+      "title": "Bayer to build $2.2 billion manufacturing plant in New Albany",
+      "summary": "Bayer plans a pharmaceutical manufacturing campus in the New Albany International Business Park, a project state officials say brings about 1,500 construction jobs and more than 600 permanent positions. JobsOhio is putting up to $30 million behind the site as Ohio courts more life-sciences investment.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/new-albany/bayer-announces-manufacturing-plant-for-new-albany/",
+      "publishedAt": "2026-10-16T10:49:00Z",
+      "tags": ["columbus", "new-albany", "jobs", "biotech"]
     },
     {
-      "id": "local-weekend-events",
+      "id": "local-caleb-flynn-life-sentence",
       "category": "local",
-      "title": "Columbus Marathon, Blue Jackets games and concerts fill the October 15 to 18 weekend",
-      "summary": "The NBC4 weekend roundup highlights the Nationwide Childrens Hospital Columbus Marathon and half marathon downtown on Saturday and Sunday, plus Blue Jackets games and live concerts. Expect road closures and heavy crowds downtown.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-weekend-activities-lineup/",
-      "publishedAt": "2026-10-15T16:30:00Z",
-      "tags": [
-        "Columbus",
-        "Events",
-        "Marathon"
-      ]
+      "title": "Caleb Flynn sentenced to life without parole for killing his wife",
+      "summary": "An Ohio judge sentenced Caleb Flynn to life in prison without the possibility of parole after his conviction for murdering his wife, ending a case that drew attention across the state.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/state-news/caleb-flynn-to-be-sentenced-today-for-murder-of-wife/",
+      "publishedAt": "2026-10-16T09:00:00Z",
+      "tags": ["ohio", "courts", "crime"]
     },
     {
-      "id": "local-ohio-sos-powder",
+      "id": "local-juvenile-moving-car-injury",
       "category": "local",
-      "title": "FBI investigating suspicious white powder mailed to the Ohio elections office",
-      "summary": "Ohio Secretary of State Frank LaRose said the FBI is investigating a suspicious white powder mailed to his office and told voters they can have absolute confidence in the Ohio election process. It is part of a wave of similar letters sent to election and congressional offices nationwide.",
-      "source": "10TV (WBNS)",
-      "url": "https://www.10tv.com/article/news/politics/elections/fbi-investigation-white-powder-ohio-secretary-of-states-frank-larose/530-3fca8093-4a55-4200-8b35-50f83e2157a2",
-      "publishedAt": "2026-10-15T15:00:00Z",
-      "tags": [
-        "Ohio",
-        "Elections",
-        "FBI"
-      ]
-    },
-    {
-      "id": "local-flock-cameras",
-      "category": "local",
-      "title": "Central Ohio cities debate Flock license plate camera usage",
-      "summary": "Several central Ohio communities are weighing whether to keep or expand their Flock safety cameras amid privacy concerns. The debate follows national scrutiny of the automated license plate reader network.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-10-15T14:30:00Z",
-      "tags": [
-        "Columbus",
-        "Surveillance",
-        "Privacy"
-      ]
+      "title": "Juvenile seriously injured after falling from roof of moving car",
+      "summary": "A juvenile was seriously injured in Columbus after falling from the roof of a moving vehicle, police said. No further details on the circumstances were released.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/juvenile-seriously-injured-after-falling-from-roof-of-moving-car/",
+      "publishedAt": "2026-10-16T02:00:00Z",
+      "tags": ["columbus", "safety"]
     }
   ]
 }
