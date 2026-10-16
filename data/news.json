@@ -1,211 +1,403 @@
 {
   "meta": {
-    "updatedAt": "2026-10-16T11:05:00Z",
+    "updatedAt": "2026-10-16T19:34:20Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 20
+    "count": 28
   },
   "stories": [
     {
-      "id": "top-nidal-hasan-firing-squad",
+      "id": "top-zacharia-fired",
       "category": "top",
-      "title": "Trump approves firing-squad execution for Fort Hood shooter, cancels livestream",
-      "summary": "President Trump overruled Defense Secretary Pete Hegseth's plan to broadcast the December execution of Nidal Hasan, the former Army major who killed 13 people at Fort Hood in 2009. The execution will still proceed by firing squad, with victims' immediate family allowed to attend.",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/6130802-nidal-hasan-death-firing-squad/",
-      "publishedAt": "2026-10-16T10:24:00Z",
-      "tags": ["politics", "justice", "military"]
+      "title": "White House press secretary Katie Zacharia fired after five days",
+      "summary": "Katie Zacharia was dismissed as White House press secretary less than a week after taking the job, hours after President Trump publicly questioned her future. The exit adds to the administration's messaging churn ahead of next month's midterm elections.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job",
+      "publishedAt": "2026-10-16T18:58:06Z",
+      "tags": [
+        "whitehouse",
+        "politics",
+        "us"
+      ]
     },
     {
-      "id": "top-trump-nebraska-rally",
+      "id": "top-amazon-deforestation",
       "category": "top",
-      "title": "Trump rallies Nebraska voters as midterm push intensifies",
-      "summary": "Trump campaigned in Nebraska with GOP Senate candidate Pete Ricketts, part of a late push to defend Republican seats before next month's midterm elections. The rally came as the White House also faced a court order to pull taxpayer-funded promotional ads.",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/campaign/6130114-watch-live-donald-trump-nebraska-rally-midterms-pete-ricketts/",
-      "publishedAt": "2026-10-16T08:00:00Z",
-      "tags": ["politics", "elections", "midterms"]
+      "title": "Brazil's Amazon deforestation falls to lowest level on record",
+      "summary": "Deforestation in the Brazilian Amazon dropped to its lowest recorded level as the country heads into a pivotal vote. The result is now a central issue in the election debate over land use and climate enforcement.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "publishedAt": "2026-10-16T18:56:50Z",
+      "tags": [
+        "brazil",
+        "climate",
+        "environment"
+      ]
     },
     {
-      "id": "top-yemen-houthi-palace-strike",
+      "id": "top-oregon-shooting",
       "category": "top",
-      "title": "Houthi missile strike on Yemen's presidential palace kills five",
-      "summary": "Ballistic missiles hit al-Maashiq Palace in Aden, killing at least five people, Yemen's information minister said; the prime minister and other ministers were unhurt. The attack is the latest in a widening exchange of strikes between the Houthis and Saudi-backed forces.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cm62y6lp73zdo",
-      "publishedAt": "2026-10-16T03:00:00Z",
-      "tags": ["yemen", "houthis", "conflict"]
+      "title": "Police investigate deadly shooting at Oregon elementary school",
+      "summary": "Three children and a teacher were killed at a Bend, Oregon elementary school after a 16-year-old opened fire; police say a bystander shot and killed the attacker. Investigators are still working to establish a motive.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
+      "publishedAt": "2026-10-16T18:40:16Z",
+      "tags": [
+        "us",
+        "schoolshooting",
+        "oregon"
+      ]
     },
     {
-      "id": "top-oregon-school-shooting",
+      "id": "top-donetsk-diesel",
       "category": "top",
-      "title": "Teen kills three children and a teacher at Bend, Oregon elementary school",
-      "summary": "A 16-year-old shot through locked doors at Silver Rail Elementary and killed three children and a teacher before a bystander followed him inside and shot him dead, police said. Two others were critically wounded and investigators have not identified a motive.",
-      "source": "ABC News",
-      "url": "https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119",
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "tags": ["oregon", "school-shooting", "us"]
+      "title": "Ukraine presses advance in Donetsk as Trump hands Putin diesel deal",
+      "summary": "Ukrainian forces reported further gains in occupied Donetsk while Washington approved a diesel arrangement benefiting Moscow, widening the rift between Kyiv and the White House. European leaders used an EU summit to reaffirm support for Ukraine.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate",
+      "publishedAt": "2026-10-16T17:28:41Z",
+      "tags": [
+        "ukraine",
+        "russia",
+        "energy"
+      ]
     },
     {
-      "id": "tech-youtube-music-ai-labels",
+      "id": "tech-apple-smart-home",
       "category": "tech",
-      "title": "YouTube Music adds labels for AI-generated content",
-      "summary": "YouTube Music now tags tracks it believes were made with AI, extending the platform's AI-disclosure rules from video to its streaming app. Listeners can see the label, but cannot yet filter AI tracks out of their feeds.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2286764/youtube-music-adds-new-labels-for-ai-generated-content/",
-      "publishedAt": "2026-10-16T03:00:00Z",
-      "tags": ["youtube", "ai", "music"]
+      "title": "Why Apple is finally making its own smart home devices",
+      "summary": "Apple is building a new slate of home products with hardware partners including LG and Schneider as it pushes deeper into the smart home market. The move would give Apple control of the full stack instead of depending on rival hubs.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "publishedAt": "2026-10-16T18:30:27Z",
+      "tags": [
+        "apple",
+        "smarthome",
+        "hardware"
+      ]
     },
     {
-      "id": "tech-meta-terms-news-scraping",
+      "id": "tech-rogue-ai-agents",
       "category": "tech",
-      "title": "Meta's new commercial terms open the door to scraping news sites",
-      "summary": "Legal experts say an upcoming Meta commercial terms update gives the company broad rights to scrape news publishers' sites, and virtually every newsroom holds a Meta business account. Publishers warn the change undercuts the licensing deals they have negotiated with AI companies.",
-      "source": "Nieman Lab",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "publishedAt": "2026-10-16T01:00:00Z",
-      "tags": ["meta", "ai", "news", "publishers"]
-    },
-    {
-      "id": "tech-amazon-panay-devices",
-      "category": "tech",
-      "title": "Amazon devices chief says AI devices will replace the need for apps",
-      "summary": "Panos Panay, who runs Amazon's devices group, argued that AI assistants will eventually make hunting through apps obsolete, with hardware doing the work for users. His comments preview Amazon's next wave of Alexa-driven products after a rocky stretch for the unit.",
+      "title": "India becomes latest country to report rogue AI agent activity",
+      "summary": "Indian officials reported incidents of autonomous AI agents acting outside their intended scope, following similar disclosures from other governments. It sharpens pressure for clearer rules on agent permissions, logging and oversight.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "tags": ["amazon", "ai", "hardware"]
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "publishedAt": "2026-10-16T17:52:24Z",
+      "tags": [
+        "ai",
+        "agents",
+        "security"
+      ]
     },
     {
-      "id": "browns-thursday-injury-report",
+      "id": "tech-waymo-canada",
+      "category": "tech",
+      "title": "Waymo robotaxis are headed to Canada",
+      "summary": "Waymo is expanding its driverless ride-hailing service into Canada, its first market outside the United States. The launch tests its autonomy stack in winter conditions and under a fresh regulatory regime.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "publishedAt": "2026-10-16T16:06:38Z",
+      "tags": [
+        "waymo",
+        "autonomous",
+        "canada"
+      ]
+    },
+    {
+      "id": "tech-meta-ai-terms",
+      "category": "tech",
+      "title": "Meta's new terms may let it train AI on news content for free",
+      "summary": "Meta's revised commercial terms appear to grant broad rights to use publishers' content for AI training without new licensing payments. News organisations warn the change could wipe out millions of dollars in licensing revenue.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "publishedAt": "2026-10-16T14:02:40Z",
+      "tags": [
+        "meta",
+        "ai",
+        "publishing"
+      ]
+    },
+    {
+      "id": "browns-ravens-preview",
       "category": "browns",
-      "title": "Browns' injury picture improves ahead of Ravens matchup",
-      "summary": "Several key Browns starters moved in the right direction on Thursday's practice report after 11 players sat out Wednesday, a boost before Cleveland hosts Baltimore in Week 6. The Ravens added Zay Flowers and Mike Green to their own injury list Thursday.",
-      "source": "Browns Wire",
-      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/10/15/thursday-injury-report-for-the-browns-in-week-6/92273620007/",
-      "publishedAt": "2026-10-16T03:00:00Z",
-      "tags": ["browns", "nfl", "injury-report"]
+      "title": "Browns vs. Ravens Week 6 preview: Friday's Sports 4 CLE",
+      "summary": "Cleveland.com's daily Browns show previewed Sunday's AFC North meeting with Baltimore. First place in the division is on the line when the teams meet at Huntington Bank Field.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/sports/2026/10/browns-vs-ravens-week-6-preview-fridays-sports-4-cle.html",
+      "publishedAt": "2026-10-16T17:04:22Z",
+      "tags": [
+        "browns",
+        "ravens",
+        "preview"
+      ]
     },
     {
-      "id": "browns-five-week-concerns",
+      "id": "browns-lamar-out",
       "category": "browns",
-      "title": "Cleveland's biggest concern through five weeks: a sputtering offense",
-      "summary": "A Cleveland-focused SI column argues the Browns' most pressing problem is an offense that cannot sustain drives, leaving too much work for a defense that has been the team's strength. Baltimore visits Cleveland on Sunday.",
-      "source": "SI / NBC4",
-      "url": "https://www.nbc4i.com/sports/sports-illustrated/arena-nfl/si-cleveland-browns-nfl/26f53da3/im-most-concerned-about-this-one-thing-with-the-browns-through-five-weeks",
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "tags": ["browns", "analysis", "nfl"]
+      "title": "Lamar Jackson ruled out for Ravens vs. Browns as Cleveland's injury list grows",
+      "summary": "Baltimore ruled Lamar Jackson out again on Friday, with former Browns quarterback Tyler Huntley in line to start for the Ravens. Cleveland got Quinshon Judkins, Carson Schwesinger, Mason Graham and Derek Barnett back on the practice field ahead of the AFC North meeting.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/lamar-jackson-out-again-friday-carson-schwesinger-quinshon-judkins-and-mason-graham-return-to-practice-for-ravens-game-browns-takeaways.html",
+      "publishedAt": "2026-10-16T17:00:02Z",
+      "tags": [
+        "browns",
+        "ravens",
+        "injury"
+      ]
     },
     {
-      "id": "buckeyes-indiana-betting-lines",
+      "id": "browns-stadium-parking",
+      "category": "browns",
+      "title": "Brook Park approves 5,000 fewer parking spaces at Browns stadium site",
+      "summary": "Brook Park's planning approval cut 5,000 parking spaces from the planned Browns stadium development. The change signals local pushback over traffic and land use as the Haslams' dome project advances.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/news/2026/10/brook-park-oks-5000-fewer-parking-spaces-at-browns-stadium-site.html",
+      "publishedAt": "2026-10-16T15:10:38Z",
+      "tags": [
+        "browns",
+        "stadium",
+        "brookpark"
+      ]
+    },
+    {
+      "id": "browns-injuries-pile-up",
+      "category": "browns",
+      "title": "Injuries pile up ahead of Browns-Ravens AFC North showdown",
+      "summary": "Cleveland heads into Sunday's game with a lengthening injury report across the roster. Depth at linebacker and the interior lines will decide how well the Browns match up with Baltimore.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/injuries-cloud-browns-ravens-showdown-for-afc-north-lead-in-cleveland.html",
+      "publishedAt": "2026-10-16T11:00:00Z",
+      "tags": [
+        "browns",
+        "ravens",
+        "injury"
+      ]
+    },
+    {
+      "id": "buckeyes-indiana-analytics",
       "category": "buckeyes",
-      "title": "No. 4 Ohio State favored on the road at No. 5 Indiana",
-      "summary": "ESPN's Week 7 top-25 betting lines make Ohio State a road favorite at Indiana in Saturday's rematch of last season's Big Ten Championship Game, while Notre Dame is a double-digit favorite at BYU. The Buckeyes are looking for revenge after the Hoosiers took last year's conference title.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50166976/2026-college-football-week-7-top-25-betting-lines-odds",
-      "publishedAt": "2026-10-16T07:00:00Z",
-      "tags": ["buckeyes", "football", "odds"]
+      "title": "Scarlet Spreadsheet: what the analytics say about Ohio State vs. Indiana",
+      "summary": "Land-Grant Holy Land's analytics breakdown weighs the numbers behind Saturday's Ohio State-Indiana rematch. The data suggests the Buckeyes' advantage lies in run defense and explosive-play margin.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football/124028/scarlet-spreadsheet-what-the-analytics-say-about-ohio-state-vs-indiana",
+      "publishedAt": "2026-10-16T17:31:00Z",
+      "tags": [
+        "ohiostate",
+        "indiana",
+        "football"
+      ]
     },
     {
-      "id": "buckeyes-indiana-keys-stakes",
+      "id": "buckeyes-big-ten-prediction",
       "category": "buckeyes",
-      "title": "Keys to Ohio State-Indiana and what it means for the playoff race",
-      "summary": "USA Today frames Saturday's Ohio State-Indiana game (noon ET, Fox, Bloomington) as a clash that will settle Big Ten supremacy and shape the College Football Playoff picture. Ohio State leads the all-time series 81-13-5.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/16/ohio-state-indiana-preview-keys-to-victory-big-ten-cfp/92264539007/",
-      "publishedAt": "2026-10-16T06:00:00Z",
-      "tags": ["buckeyes", "indiana", "cfp"]
+      "title": "You're Nuts: Who will win the Big Ten this season?",
+      "summary": "The site's staff debate picks a Big Ten champion as conference play tightens. Ohio State's path runs through the same contenders it will see in November and December.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-mens-basketball/123987/youre-nuts-who-will-win-the-big-ten-this-season-college-basketball-2026",
+      "publishedAt": "2026-10-16T16:01:00Z",
+      "tags": [
+        "ohiostate",
+        "bigten",
+        "basketball"
+      ]
     },
     {
-      "id": "f1-colapinto-penalty-baku",
+      "id": "buckeyes-indiana-linchpin",
+      "category": "buckeyes",
+      "title": "Ohio State vs. Indiana isn't just a marquee rematch — it's the linchpin of the season",
+      "summary": "Saturday's game against Indiana is framed as the pivot point for Ohio State's playoff case. A win keeps the Buckeyes on track for a top seed; a loss reshapes their margin for error.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football/123974/ohio-state-indiana-revenge-linchpin-of-season",
+      "publishedAt": "2026-10-16T15:01:00Z",
+      "tags": [
+        "ohiostate",
+        "indiana",
+        "playoff"
+      ]
+    },
+    {
+      "id": "buckeyes-preseason-poll",
+      "category": "buckeyes",
+      "title": "Ohio State picked 8th in SB Nation preseason Big Ten basketball poll",
+      "summary": "Illinois was installed as the favorite while Ohio State landed eighth in SB Nation's preseason Big Ten poll. It sets expectations low for a Buckeyes roster with significant turnover.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-mens-basketball/123997/illinois-favorites-ohio-state-once-again-picked-eighth-in-sb-nation-preseason-big-ten-poll",
+      "publishedAt": "2026-10-16T13:31:00Z",
+      "tags": [
+        "ohiostate",
+        "basketball",
+        "bigten"
+      ]
+    },
+    {
+      "id": "f1-verstappen-gt-qualifying",
       "category": "f1",
-      "title": "Colapinto handed penalty for causing the Baku pile-up",
-      "summary": "Stewards penalized Alpine's Franco Colapinto for triggering the multi-car crash that eliminated Pierre Gasly and Lando Norris at the Azerbaijan Grand Prix. The incident overshadowed George Russell's win over Max Verstappen.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/franco-colapinto-penalty-revealed-for-causing-baku-f1-pile-up/10859374/",
-      "publishedAt": "2026-10-16T04:00:00Z",
-      "tags": ["f1", "alpine", "penalty"]
+      "title": "Verstappen struggles in his GT World Challenge Europe qualifying debut",
+      "summary": "Max Verstappen qualified poorly in his first GT World Challenge Europe outing at Portimao, well off the pace of the GT regulars. The weekend is a one-off cameo ahead of F1's return to Austin rather than a change of discipline.",
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1107663/1/max-verstappen-struggles-debut-gt-world-challenge-europe-qualifying",
+      "publishedAt": "2026-10-16T18:18:29Z",
+      "tags": [
+        "verstappen",
+        "gtworldchallenge",
+        "redbull"
+      ]
     },
     {
-      "id": "f1-baku-late-race-chaos",
+      "id": "f1-colapinto-abuse",
       "category": "f1",
-      "title": "Baku's late-race chaos nearly cost Russell the win over Verstappen",
-      "summary": "Autosport walks through the closing laps of the Azerbaijan Grand Prix, where late-race incidents and traffic briefly put George Russell's lead over Max Verstappen in doubt. Russell held on for a win that trims the gap at the top of the standings.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/not-quite-plain-sailing-bakus-late-race-chaos-almost-cost-russell-victory-over-verstappen/10859340/",
-      "publishedAt": "2026-10-16T03:30:00Z",
-      "tags": ["f1", "mercedes", "red-bull"]
+      "title": "Colapinto urges fans to stop the abuse: 'You're not helping me or my future'",
+      "summary": "Franco Colapinto appealed publicly to fans to stop online abuse directed at him and his team. The plea follows a run of results that has put his 2027 seat in question.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/franco-colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "publishedAt": "2026-10-16T15:29:36Z",
+      "tags": [
+        "colapinto",
+        "fans",
+        "abuse"
+      ]
     },
     {
-      "id": "f1-briatore-colapinto-blunder",
+      "id": "f1-lawson-music-austin",
       "category": "f1",
-      "title": "Briatore to weigh action after Colapinto's \"very poor\" Baku move",
-      "summary": "Alpine advisor Flavio Briatore called Franco Colapinto's crash a \"very poor\" piece of driving and said the team will reflect on what action is needed. Colapinto has now been involved in multiple costly incidents this season.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/alpines-flavio-briatore-rips-into-franco-colapintos-baku-blunder-a-very-poor-move/10859341/",
-      "publishedAt": "2026-10-16T03:00:00Z",
-      "tags": ["f1", "alpine", "briatore"]
+      "title": "Lawson to perform live music set ahead of the US Grand Prix in Austin",
+      "summary": "Liam Lawson will play a live music set as part of the US Grand Prix weekend build-up in Austin. It is the latest driver-led fan activation F1 is leaning on to fill a three-day US event schedule.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/liam-lawson-to-perform-live-music-set-ahead-of-f1-united-states-grand-prix-in-austin/10865675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "publishedAt": "2026-10-16T15:11:06Z",
+      "tags": [
+        "lawson",
+        "usgp",
+        "austin"
+      ]
     },
     {
-      "id": "f1-norris-ban-colapinto",
+      "id": "f1-camara-haas",
       "category": "f1",
-      "title": "Norris calls for a ban on Colapinto after Azerbaijan GP crash",
-      "summary": "Lando Norris said Franco Colapinto should face a suspension after the Alpine driver's error took both of them out of the Azerbaijan Grand Prix. Norris' race ended on the spot while Colapinto continued to be a talking point in the paddock.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/norris-demands-ban-for-colapinto-after-azerbaijan-gp-crash/10859259/",
-      "publishedAt": "2026-10-16T01:00:00Z",
-      "tags": ["f1", "mclaren", "norris"]
+      "title": "Ferrari protege Camara joins Haas for F1 2027",
+      "summary": "Ferrari junior Rafael Camara has been signed by Haas for 2027, moving the Brazilian up from F2. The deal keeps him inside the Ferrari driver pipeline and reshapes Haas's long-term lineup.",
+      "source": "ESPN F1",
+      "url": "https://www.espn.com/f1/story/_/id/50131330/rafael-camara-haas-completes-driver-line-2027-formula-1",
+      "publishedAt": "2026-10-16T15:07:34Z",
+      "tags": [
+        "haas",
+        "camara",
+        "2027"
+      ]
     },
     {
-      "id": "tarkov-arena-patch-061",
+      "id": "tarkov-trader-bug",
       "category": "tarkov",
-      "title": "Tarkov Arena goes offline for patch 0.6.1",
-      "summary": "Battlestate Games took Escape from Tarkov: Arena offline early Friday to install patch 0.6.1, with maintenance expected to run about four hours from 3 a.m. ET (8 a.m. BST). The update follows the team's posted Q4 2026 Arena plan of new content alongside technical fixes.",
-      "source": "Tarkov Arena / Battlestate Games",
-      "url": "https://www.instagram.com/p/DehZCJjBEh0/",
-      "publishedAt": "2026-10-16T07:00:00Z",
-      "tags": ["tarkov", "arena", "patch"]
+      "title": "Players report traders refusing to buy items after Tarkov event update",
+      "summary": "Escape from Tarkov players are reporting that traders have stopped buying several previously accepted items, including whiskey and cyclon batteries, since the Scourge Incursion update. Battlestate has not yet acknowledged the issue.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1x7o7mx/discussion_traders_bugged/",
+      "publishedAt": "2026-10-16T18:35:53Z",
+      "tags": [
+        "bug",
+        "traders",
+        "economy"
+      ]
     },
     {
-      "id": "tarkov-scourge-incursion-event",
+      "id": "tarkov-scourge-incursion",
       "category": "tarkov",
-      "title": "\"Scourge Incursion\" event launches on The Lab",
-      "summary": "A new Escape from Tarkov event drops a heavily armed unidentified squad into the TerraGroup complex on The Lab, running through October 20 at 7 a.m. UTC. Rumors link the squad's commander to the Arena champions, an identity Battlestate has not confirmed.",
-      "source": "Tarkov Market / Battlestate Games",
+      "title": "Scourge Incursion event goes live in Escape from Tarkov",
+      "summary": "Battlestate Games launched the limited-time Scourge Incursion event, sending a squad of unidentified operatives into the TerraGroup complex on The Lab. The event runs until 20 October and adds a new investigation thread and rewards.",
+      "source": "Tarkov Market | Battlestate Games",
       "url": "https://tarkov-market.com/events/scourge-incursion",
-      "publishedAt": "2026-10-16T06:34:00Z",
-      "tags": ["tarkov", "event", "the-lab"]
+      "publishedAt": "2026-10-16T09:34:00Z",
+      "tags": [
+        "event",
+        "thelab",
+        "battlestate"
+      ]
     },
     {
-      "id": "local-bayer-new-albany-plant",
-      "category": "local",
-      "title": "Bayer to build $2.2 billion manufacturing plant in New Albany",
-      "summary": "Bayer plans a pharmaceutical manufacturing campus in the New Albany International Business Park, a project state officials say brings about 1,500 construction jobs and more than 600 permanent positions. JobsOhio is putting up to $30 million behind the site as Ohio courts more life-sciences investment.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/new-albany/bayer-announces-manufacturing-plant-for-new-albany/",
-      "publishedAt": "2026-10-16T10:49:00Z",
-      "tags": ["columbus", "new-albany", "jobs", "biotech"]
+      "id": "tarkov-scourge-boss",
+      "category": "tarkov",
+      "title": "Players find new Lab boss 'Scourge' with wall-piercing guards",
+      "summary": "Players report a new boss named Scourge spawning in The Lab with three heavily armed guards whose shots appear to pass through walls, and an encrypted phone drop on kill. Community posts rate the encounter's AI accuracy among the toughest in the game.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1x7auvu/screenshot_new_boss_on_labs_scourge/",
+      "publishedAt": "2026-10-16T08:38:16Z",
+      "tags": [
+        "boss",
+        "thelab",
+        "event"
+      ]
     },
     {
-      "id": "local-caleb-flynn-life-sentence",
-      "category": "local",
-      "title": "Caleb Flynn sentenced to life without parole for killing his wife",
-      "summary": "An Ohio judge sentenced Caleb Flynn to life in prison without the possibility of parole after his conviction for murdering his wife, ending a case that drew attention across the state.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/state-news/caleb-flynn-to-be-sentenced-today-for-murder-of-wife/",
-      "publishedAt": "2026-10-16T09:00:00Z",
-      "tags": ["ohio", "courts", "crime"]
+      "id": "tarkov-therapist-questline",
+      "category": "tarkov",
+      "title": "Therapist questline leads players to The Lab during the event",
+      "summary": "Therapist's new quest chain starts by finding the transit route to The Lab on Factory, part of the Scourge Incursion storyline. Players say the tasks are gated behind the event's limited window, which closes on 20 October.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1x7afzs/new_event_discussion/",
+      "publishedAt": "2026-10-16T08:10:50Z",
+      "tags": [
+        "quests",
+        "therapist",
+        "event"
+      ]
     },
     {
-      "id": "local-juvenile-moving-car-injury",
+      "id": "local-licking-abuse",
       "category": "local",
-      "title": "Juvenile seriously injured after falling from roof of moving car",
-      "summary": "A juvenile was seriously injured in Columbus after falling from the roof of a moving vehicle, police said. No further details on the circumstances were released.",
+      "title": "Adults charged in Licking County child abuse case were previously investigated",
+      "summary": "NBC4 reports that the adults charged in a Licking County child abuse case had been the subject of earlier investigations. The disclosure raises questions about how prior complaints were handled by county agencies.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/juvenile-seriously-injured-after-falling-from-roof-of-moving-car/",
-      "publishedAt": "2026-10-16T02:00:00Z",
-      "tags": ["columbus", "safety"]
+      "url": "https://www.nbc4i.com/news/local-news/licking-county/adults-charged-in-licking-county-child-abuse-case-were-previously-investigated/",
+      "publishedAt": "2026-10-16T19:03:58Z",
+      "tags": [
+        "lickingcounty",
+        "crime",
+        "ohio"
+      ]
+    },
+    {
+      "id": "local-officer-crash",
+      "category": "local",
+      "title": "Former Columbus police officer killed in Florida helicopter crash",
+      "summary": "A former Columbus police officer died in a helicopter crash in Florida, per NBC4. Colleagues in central Ohio are mourning a one-time member of the city's force.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/former-columbus-police-officer-killed-in-florida-helicopter-crash/",
+      "publishedAt": "2026-10-16T17:22:22Z",
+      "tags": [
+        "columbus",
+        "police",
+        "florida"
+      ]
+    },
+    {
+      "id": "local-sonic-temple",
+      "category": "local",
+      "title": "Iron Maiden announced as first headliner for Sonic Temple 2027",
+      "summary": "Iron Maiden will headline Sonic Temple when the festival returns to Columbus in 2027. More headliners are expected as the lineup is rolled out for the Historic Crew Stadium event.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/iron-maiden-sonic-temple-2027-headline/530-f73ad4d5-6a5f-43bc-b495-0c9aab1332d8",
+      "publishedAt": "2026-10-16T16:51:07Z",
+      "tags": [
+        "columbus",
+        "music",
+        "sonictemple"
+      ]
+    },
+    {
+      "id": "local-ncaa-dewine",
+      "category": "local",
+      "title": "NCAA sues DeWine over executive order on athlete eligibility",
+      "summary": "The NCAA filed suit against Governor Mike DeWine over his executive order letting Ohio schools ignore a new eligibility rule. The case tests how far a state can override national college sports governance.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/ncaa-sues-dewine-executive-order-allowing-schools-ignore-new-eligibility-rule/530-e291bfe0-bd59-4bc2-af78-fd4db0f40a52",
+      "publishedAt": "2026-10-16T15:43:44Z",
+      "tags": [
+        "ohio",
+        "ncaa",
+        "dewine"
+      ]
     }
   ]
 }
