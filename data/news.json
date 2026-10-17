@@ -1,402 +1,334 @@
 {
   "meta": {
-    "updatedAt": "2026-10-16T19:34:20Z",
+    "updatedAt": "2026-10-17T11:06:27Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 28
+    "count": 23
   },
   "stories": [
     {
-      "id": "top-zacharia-fired",
+      "id": "top-1-pope-leo-discharged-hospital",
       "category": "top",
-      "title": "White House press secretary Katie Zacharia fired after five days",
-      "summary": "Katie Zacharia was dismissed as White House press secretary less than a week after taking the job, hours after President Trump publicly questioned her future. The exit adds to the administration's messaging churn ahead of next month's midterm elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job",
-      "publishedAt": "2026-10-16T18:58:06Z",
+      "title": "Pope Leo XIV to leave hospital Saturday after lung cancer surgery",
+      "summary": "The Vatican said Pope Leo XIV will be discharged from Rome's Gemelli Hospital on Saturday, days after surgery for lung cancer. The pontiff's recovery has renewed scrutiny of how candid the Vatican is about papal health.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+      "publishedAt": "2026-10-17T10:03:58Z",
       "tags": [
-        "whitehouse",
-        "politics",
+        "vatican",
+        "pope",
+        "health"
+      ]
+    },
+    {
+      "id": "top-2-cv98zw1k8kp3o",
+      "category": "top",
+      "title": "Oregon teacher fought school attacker before armed dad killed suspect",
+      "summary": "An Oregon teacher threw her phone and tackled a teenage gunman who opened fire on a special educational needs class in Bend, before an armed parent shot the suspect multiple times, police said. Bend's police chief credited the interveners with preventing a worse toll.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o",
+      "publishedAt": "2026-10-17T09:58:17Z",
+      "tags": [
+        "oregon",
+        "school-shooting",
         "us"
       ]
     },
     {
-      "id": "top-amazon-deforestation",
+      "id": "top-3-cxr5yvzv7rp0o",
       "category": "top",
-      "title": "Brazil's Amazon deforestation falls to lowest level on record",
-      "summary": "Deforestation in the Brazilian Amazon dropped to its lowest recorded level as the country heads into a pivotal vote. The result is now a central issue in the election debate over land use and climate enforcement.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
-      "publishedAt": "2026-10-16T18:56:50Z",
+      "title": "Trump waives several Russian sanctions as new US law takes effect",
+      "summary": "President Trump signed a new Russia sanctions bill but waived several of its provisions, saying the waiver is in the US national interest, as his row with Ukraine's Volodymyr Zelensky intensifies. Lawmakers urged the law's full implementation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
+      "publishedAt": "2026-10-17T09:42:13Z",
       "tags": [
-        "brazil",
-        "climate",
-        "environment"
-      ]
-    },
-    {
-      "id": "top-oregon-shooting",
-      "category": "top",
-      "title": "Police investigate deadly shooting at Oregon elementary school",
-      "summary": "Three children and a teacher were killed at a Bend, Oregon elementary school after a 16-year-old opened fire; police say a bystander shot and killed the attacker. Investigators are still working to establish a motive.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
-      "publishedAt": "2026-10-16T18:40:16Z",
-      "tags": [
-        "us",
-        "schoolshooting",
-        "oregon"
-      ]
-    },
-    {
-      "id": "top-donetsk-diesel",
-      "category": "top",
-      "title": "Ukraine presses advance in Donetsk as Trump hands Putin diesel deal",
-      "summary": "Ukrainian forces reported further gains in occupied Donetsk while Washington approved a diesel arrangement benefiting Moscow, widening the rift between Kyiv and the White House. European leaders used an EU summit to reaffirm support for Ukraine.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate",
-      "publishedAt": "2026-10-16T17:28:41Z",
-      "tags": [
-        "ukraine",
+        "trump",
         "russia",
-        "energy"
+        "sanctions",
+        "ukraine"
       ]
     },
     {
-      "id": "tech-apple-smart-home",
-      "category": "tech",
-      "title": "Why Apple is finally making its own smart home devices",
-      "summary": "Apple is building a new slate of home products with hardware partners including LG and Schneider as it pushes deeper into the smart home market. The move would give Apple control of the full stack instead of depending on rival hubs.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "publishedAt": "2026-10-16T18:30:27Z",
+      "id": "top-4-iran-backed-houthis-strike-y",
+      "category": "top",
+      "title": "Houthis strike Yemen's Aden",
+      "summary": "Iran-backed Houthi forces struck Yemen's southern city of Aden, widening their fight with the internationally recognised government. The attack comes as government forces press an offensive against the Houthis.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means",
+      "publishedAt": "2026-10-17T09:16:48Z",
       "tags": [
-        "apple",
-        "smarthome",
-        "hardware"
+        "yemen",
+        "houthis",
+        "middle-east"
       ]
     },
     {
-      "id": "tech-rogue-ai-agents",
+      "id": "tech-6-mcp-protocol-smart-decentral",
       "category": "tech",
-      "title": "India becomes latest country to report rogue AI agent activity",
-      "summary": "Indian officials reported incidents of autonomous AI agents acting outside their intended scope, following similar disclosures from other governments. It sharpens pressure for clearer rules on agent permissions, logging and oversight.",
+      "title": "Is MCP becoming the foundation of decentralised search?",
+      "summary": "An article circulating on Hacker News argues that the Model Context Protocol is emerging as a common layer for AI agents to query decentralised search services, rather than every vendor building custom integrations. Standardisation would speed up agent adoption while concentrating influence over the spec.",
+      "source": "Contexte via Hacker News",
+      "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+      "publishedAt": "2026-10-17T09:01:30Z",
+      "tags": [
+        "mcp",
+        "search",
+        "ai-agents"
+      ]
+    },
+    {
+      "id": "tech-5-deepseek-v4.1-flash-1017",
+      "category": "tech",
+      "title": "DeepSeek ships v4.1 Flash 1017 model",
+      "summary": "DeepSeek released its v4.1 Flash 1017 model, which hit the front page of Hacker News with links to OpenRouter and Hugging Face. It continues the rapid cadence of cheap, fast Chinese models pressuring US AI labs on price.",
+      "source": "OpenRouter via Hacker News",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "publishedAt": "2026-10-17T08:37:46Z",
+      "tags": [
+        "deepseek",
+        "llm",
+        "open-models"
+      ]
+    },
+    {
+      "id": "tech-8-mark-wahlberg-wants-to-take-",
+      "category": "tech",
+      "title": "Mark Wahlberg takes on longevity startups with budget gyms",
+      "summary": "Mark Wahlberg is launching an affordable gym concept aimed at the longevity-startup crowd, pitching low-cost fitness against expensive biohacking clinics. The move shows celebrity brands pushing further into the longevity market.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "publishedAt": "2026-10-16T17:52:24Z",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "publishedAt": "2026-10-17T02:36:18Z",
       "tags": [
-        "ai",
-        "agents",
-        "security"
+        "fitness",
+        "longevity",
+        "startups"
       ]
     },
     {
-      "id": "tech-waymo-canada",
+      "id": "tech-7-507-15f4508e-ac09-4ec8-9165-",
       "category": "tech",
-      "title": "Waymo robotaxis are headed to Canada",
-      "summary": "Waymo is expanding its driverless ride-hailing service into Canada, its first market outside the United States. The launch tests its autonomy stack in winter conditions and under a fresh regulatory regime.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "publishedAt": "2026-10-16T16:06:38Z",
+      "title": "States sue OpenAI, saying ChatGPT hurts children and deceives adults",
+      "summary": "A group of US states sued OpenAI, alleging that ChatGPT harms children and misleads adults about its risks. It is the latest legal front over how AI products affect minors.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/nation-world/states-sue-openai-chatgpt-hurting-children-deceiving-adults/507-15f4508e-ac09-4ec8-9165-4d11b8085e35",
+      "publishedAt": "2026-10-17T00:07:59Z",
       "tags": [
-        "waymo",
-        "autonomous",
-        "canada"
+        "openai",
+        "litigation",
+        "ai-safety"
       ]
     },
     {
-      "id": "tech-meta-ai-terms",
-      "category": "tech",
-      "title": "Meta's new terms may let it train AI on news content for free",
-      "summary": "Meta's revised commercial terms appear to grant broad rights to use publishers' content for AI training without new licensing payments. News organisations warn the change could wipe out millions of dollars in licensing revenue.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "publishedAt": "2026-10-16T14:02:40Z",
-      "tags": [
-        "meta",
-        "ai",
-        "publishing"
-      ]
-    },
-    {
-      "id": "browns-ravens-preview",
+      "id": "browns-9-cleveland-browns-news-injuri",
       "category": "browns",
-      "title": "Browns vs. Ravens Week 6 preview: Friday's Sports 4 CLE",
-      "summary": "Cleveland.com's daily Browns show previewed Sunday's AFC North meeting with Baltimore. First place in the division is on the line when the teams meet at Huntington Bank Field.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/sports/2026/10/browns-vs-ravens-week-6-preview-fridays-sports-4-cle.html",
-      "publishedAt": "2026-10-16T17:04:22Z",
+      "title": "Cleveland Browns news: injuries dominate the headlines",
+      "summary": "Dawgs By Nature's Saturday roundup leads with Cleveland's injury situation and the Deshaun Watson debate over holding the ball too long, a day before the Browns host Baltimore. The AFC North game is a chance for Cleveland to steady a struggling offense.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/135330/cleveland-browns-news-injuries-dominate-the-headlines",
+      "publishedAt": "2026-10-17T10:30:00Z",
+      "tags": [
+        "browns",
+        "injuries",
+        "nfl"
+      ]
+    },
+    {
+      "id": "browns-10-ravens-vs-browns-week-6-pick",
+      "category": "browns",
+      "title": "Week 6 picks: no one believes in Cleveland against Baltimore",
+      "summary": "Analysts are overwhelmingly picking the Ravens to beat the Browns in Sunday's AFC North matchup in Cleveland. The consensus reflects how little faith predictors have in the Browns' offense.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-betting-odds-gambling/135344/ravens-vs-browns-week-6-picks-no-one-believes-in-cleveland",
+      "publishedAt": "2026-10-17T01:53:16Z",
       "tags": [
         "browns",
         "ravens",
+        "predictions"
+      ]
+    },
+    {
+      "id": "browns-11-ravens-rule-qb-jackson-huntl",
+      "category": "browns",
+      "title": "Ravens rule out Lamar Jackson; Tyler Huntley to start against Browns",
+      "summary": "Baltimore ruled out quarterback Lamar Jackson (ankle) for a second straight game, so Tyler Huntley starts Sunday against the Browns. Huntley faces a Cleveland defense coached by Todd Monken, Baltimore's former offensive coordinator.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50197342/ravens-rule-qb-jackson-huntley-start-browns",
+      "publishedAt": "2026-10-16T23:47:32Z",
+      "tags": [
+        "browns",
+        "ravens",
+        "nfl"
+      ]
+    },
+    {
+      "id": "buckeyes-13-indiana-skull-session-get-du",
+      "category": "buckeyes",
+      "title": "Indiana Skull Session: Get Dumped Then, Hoosiers",
+      "summary": "Eleven Warriors' game-day Skull Session sets the tone for Ohio State's top-five matchup with Indiana, blending injury notes, playoff stakes and bulletin-board material. It is the staff's last word before kickoff.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/10/164618/indiana-skull-session-get-dumped-then-hoosiers",
+      "publishedAt": "2026-10-17T08:55:00Z",
+      "tags": [
+        "buckeyes",
+        "indiana",
         "preview"
       ]
     },
     {
-      "id": "browns-lamar-out",
-      "category": "browns",
-      "title": "Lamar Jackson ruled out for Ravens vs. Browns as Cleveland's injury list grows",
-      "summary": "Baltimore ruled Lamar Jackson out again on Friday, with former Browns quarterback Tyler Huntley in line to start for the Ravens. Cleveland got Quinshon Judkins, Carson Schwesinger, Mason Graham and Derek Barnett back on the practice field ahead of the AFC North meeting.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/lamar-jackson-out-again-friday-carson-schwesinger-quinshon-judkins-and-mason-graham-return-to-practice-for-ravens-game-browns-takeaways.html",
-      "publishedAt": "2026-10-16T17:00:02Z",
-      "tags": [
-        "browns",
-        "ravens",
-        "injury"
-      ]
-    },
-    {
-      "id": "browns-stadium-parking",
-      "category": "browns",
-      "title": "Brook Park approves 5,000 fewer parking spaces at Browns stadium site",
-      "summary": "Brook Park's planning approval cut 5,000 parking spaces from the planned Browns stadium development. The change signals local pushback over traffic and land use as the Haslams' dome project advances.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/news/2026/10/brook-park-oks-5000-fewer-parking-spaces-at-browns-stadium-site.html",
-      "publishedAt": "2026-10-16T15:10:38Z",
-      "tags": [
-        "browns",
-        "stadium",
-        "brookpark"
-      ]
-    },
-    {
-      "id": "browns-injuries-pile-up",
-      "category": "browns",
-      "title": "Injuries pile up ahead of Browns-Ravens AFC North showdown",
-      "summary": "Cleveland heads into Sunday's game with a lengthening injury report across the roster. Depth at linebacker and the interior lines will decide how well the Browns match up with Baltimore.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/injuries-cloud-browns-ravens-showdown-for-afc-north-lead-in-cleveland.html",
-      "publishedAt": "2026-10-16T11:00:00Z",
-      "tags": [
-        "browns",
-        "ravens",
-        "injury"
-      ]
-    },
-    {
-      "id": "buckeyes-indiana-analytics",
+      "id": "buckeyes-14-connelly-week-7-notre-dame-o",
       "category": "buckeyes",
-      "title": "Scarlet Spreadsheet: what the analytics say about Ohio State vs. Indiana",
-      "summary": "Land-Grant Holy Land's analytics breakdown weighs the numbers behind Saturday's Ohio State-Indiana rematch. The data suggests the Buckeyes' advantage lies in run defense and explosive-play margin.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/124028/scarlet-spreadsheet-what-the-analytics-say-about-ohio-state-vs-indiana",
-      "publishedAt": "2026-10-16T17:31:00Z",
+      "title": "Connelly breaks down loaded Week 7, headlined by Ohio State-Indiana",
+      "summary": "ESPN's Bill Connelly previews Week 7, with Ohio State's top-five meeting with Indiana among the marquee games alongside Notre Dame-BYU. The stakes extend to the wider playoff picture.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50189757/connelly-week-7-notre-dame-ohio-state-indiana",
+      "publishedAt": "2026-10-17T05:27:56Z",
       "tags": [
-        "ohiostate",
-        "indiana",
-        "football"
+        "buckeyes",
+        "cfb",
+        "week-7"
       ]
     },
     {
-      "id": "buckeyes-big-ten-prediction",
+      "id": "buckeyes-15-college-football-ohio-state-",
       "category": "buckeyes",
-      "title": "You're Nuts: Who will win the Big Ten this season?",
-      "summary": "The site's staff debate picks a Big Ten champion as conference play tightens. Ohio State's path runs through the same contenders it will see in November and December.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-mens-basketball/123987/youre-nuts-who-will-win-the-big-ten-this-season-college-basketball-2026",
-      "publishedAt": "2026-10-16T16:01:00Z",
+      "title": "Is Ohio State's Jeremiah Smith the best WR college football has ever seen?",
+      "summary": "ESPN debated whether Ohio State's Jeremiah Smith is the greatest receiver in college football history as the Buckeyes prepare for Indiana. The argument underlines how dominant Smith has been in Columbus.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50175070/college-football-ohio-state-jeremiah-smith-best-ever",
+      "publishedAt": "2026-10-17T05:23:15Z",
       "tags": [
-        "ohiostate",
-        "bigten",
-        "basketball"
+        "buckeyes",
+        "jeremiah-smith",
+        "cfb"
       ]
     },
     {
-      "id": "buckeyes-indiana-linchpin",
+      "id": "buckeyes-12-ohio-state-injury-report-aus",
       "category": "buckeyes",
-      "title": "Ohio State vs. Indiana isn't just a marquee rematch — it's the linchpin of the season",
-      "summary": "Saturday's game against Indiana is framed as the pivot point for Ohio State's playoff case. A win keeps the Buckeyes on track for a top seed; a loss reshapes their margin for error.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/123974/ohio-state-indiana-revenge-linchpin-of-season",
-      "publishedAt": "2026-10-16T15:01:00Z",
+      "title": "Ohio State injury report: Siereveld, Ja'Kobi Jackson out; Brock Boyd doubtful",
+      "summary": "Ohio State ruled out Austin Siereveld and Ja'Kobi Jackson and listed Brock Boyd doubtful for Saturday's top-five showdown with Indiana. The absences test the Buckeyes' depth against the Hoosiers.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164584/ohio-state-injury-report-austin-siereveld-ja-kobi-jackson-out-for-buckeyes-top-five-showdown-vs-indiana",
+      "publishedAt": "2026-10-17T00:12:44Z",
       "tags": [
-        "ohiostate",
-        "indiana",
-        "playoff"
+        "buckeyes",
+        "ohio-state",
+        "injuries"
       ]
     },
     {
-      "id": "buckeyes-preseason-poll",
-      "category": "buckeyes",
-      "title": "Ohio State picked 8th in SB Nation preseason Big Ten basketball poll",
-      "summary": "Illinois was installed as the favorite while Ohio State landed eighth in SB Nation's preseason Big Ten poll. It sets expectations low for a Buckeyes roster with significant turnover.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-mens-basketball/123997/illinois-favorites-ohio-state-once-again-picked-eighth-in-sb-nation-preseason-big-ten-poll",
-      "publishedAt": "2026-10-16T13:31:00Z",
-      "tags": [
-        "ohiostate",
-        "basketball",
-        "bigten"
-      ]
-    },
-    {
-      "id": "f1-verstappen-gt-qualifying",
+      "id": "f1-16-10865830",
       "category": "f1",
-      "title": "Verstappen struggles in his GT World Challenge Europe qualifying debut",
-      "summary": "Max Verstappen qualified poorly in his first GT World Challenge Europe outing at Portimao, well off the pace of the GT regulars. The weekend is a one-off cameo ahead of F1's return to Austin rather than a change of discipline.",
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1107663/1/max-verstappen-struggles-debut-gt-world-challenge-europe-qualifying",
-      "publishedAt": "2026-10-16T18:18:29Z",
-      "tags": [
-        "verstappen",
-        "gtworldchallenge",
-        "redbull"
-      ]
-    },
-    {
-      "id": "f1-colapinto-abuse",
-      "category": "f1",
-      "title": "Colapinto urges fans to stop the abuse: 'You're not helping me or my future'",
-      "summary": "Franco Colapinto appealed publicly to fans to stop online abuse directed at him and his team. The plea follows a run of results that has put his 2027 seat in question.",
+      "title": "Zak Brown warns Norris and Piastri after Singapore collision",
+      "summary": "McLaren CEO Zak Brown gave a stern warning to Lando Norris and Oscar Piastri after their Singapore sprint collision, telling his drivers not to repeat the contact. McLaren is protecting its position with both drivers fighting for wins.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/franco-colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "publishedAt": "2026-10-16T15:29:36Z",
+      "url": "https://www.motorsport.com/f1/news/zak-brown-orders-mclaren-drivers-not-to-repeat-singapore-sprint-collision/10865830/",
+      "publishedAt": "2026-10-17T10:54:03Z",
       "tags": [
-        "colapinto",
-        "fans",
-        "abuse"
+        "f1",
+        "mclaren",
+        "norris",
+        "piastri"
       ]
     },
     {
-      "id": "f1-lawson-music-austin",
+      "id": "f1-17-10865680",
       "category": "f1",
-      "title": "Lawson to perform live music set ahead of the US Grand Prix in Austin",
-      "summary": "Liam Lawson will play a live music set as part of the US Grand Prix weekend build-up in Austin. It is the latest driver-led fan activation F1 is leaning on to fill a three-day US event schedule.",
+      "title": "Christian Horner calls for F1 budget cap rethink",
+      "summary": "Christian Horner called for a rethink of Formula 1's budget cap, claiming teams are spending $500-600m, well beyond the cost-cap figure. His comments land as the sport debates financial rules for the next regulatory era.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-to-perform-live-music-set-ahead-of-f1-united-states-grand-prix-in-austin/10865675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "publishedAt": "2026-10-16T15:11:06Z",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-calls-for-f1-budget-cap-rethink-teams-are-spending-500-or-600m/10865680/",
+      "publishedAt": "2026-10-17T10:34:41Z",
       "tags": [
-        "lawson",
-        "usgp",
-        "austin"
+        "f1",
+        "budget-cap",
+        "horner"
       ]
     },
     {
-      "id": "f1-camara-haas",
+      "id": "f1-18-10865823",
       "category": "f1",
-      "title": "Ferrari protege Camara joins Haas for F1 2027",
-      "summary": "Ferrari junior Rafael Camara has been signed by Haas for 2027, moving the Brazilian up from F2. The deal keeps him inside the Ferrari driver pipeline and reshapes Haas's long-term lineup.",
-      "source": "ESPN F1",
-      "url": "https://www.espn.com/f1/story/_/id/50131330/rafael-camara-haas-completes-driver-line-2027-formula-1",
-      "publishedAt": "2026-10-16T15:07:34Z",
+      "title": "Mercedes F1 accounts reveal \u00a3633m revenue and \u00a3125m shareholder payout",
+      "summary": "Newly filed accounts for Mercedes' F1 operation show \u00a3633m in revenue and a \u00a3125m payout to shareholders. The figures underline the commercial scale of the sport's leading teams.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-f1-accounts-reveal-633m-revenue-and-125m-payout-to-shareholders/10865823/",
+      "publishedAt": "2026-10-17T10:27:45Z",
       "tags": [
-        "haas",
-        "camara",
-        "2027"
+        "f1",
+        "mercedes",
+        "business"
       ]
     },
     {
-      "id": "tarkov-trader-bug",
-      "category": "tarkov",
-      "title": "Players report traders refusing to buy items after Tarkov event update",
-      "summary": "Escape from Tarkov players are reporting that traders have stopped buying several previously accepted items, including whiskey and cyclon batteries, since the Scourge Incursion update. Battlestate has not yet acknowledged the issue.",
-      "source": "r/EscapefromTarkov",
-      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1x7o7mx/discussion_traders_bugged/",
-      "publishedAt": "2026-10-16T18:35:53Z",
+      "id": "f1-19-10865819",
+      "category": "f1",
+      "title": "Ferrari expected to bring new floor to United States GP",
+      "summary": "Ferrari is expected to introduce a new floor at the United States Grand Prix in Austin as part of its final major upgrade of the 2026 season. The goal is similar or greater downforce with a less stiff set-up, widening the car's operating window.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-expected-to-introduce-major-upgrade-package-at-united-states-gp/10865819/",
+      "publishedAt": "2026-10-17T10:27:45Z",
       "tags": [
-        "bug",
-        "traders",
-        "economy"
+        "f1",
+        "ferrari",
+        "upgrade"
       ]
     },
     {
-      "id": "tarkov-scourge-incursion",
-      "category": "tarkov",
-      "title": "Scourge Incursion event goes live in Escape from Tarkov",
-      "summary": "Battlestate Games launched the limited-time Scourge Incursion event, sending a squad of unidentified operatives into the TerraGroup complex on The Lab. The event runs until 20 October and adds a new investigation thread and rewards.",
-      "source": "Tarkov Market | Battlestate Games",
-      "url": "https://tarkov-market.com/events/scourge-incursion",
-      "publishedAt": "2026-10-16T09:34:00Z",
-      "tags": [
-        "event",
-        "thelab",
-        "battlestate"
-      ]
-    },
-    {
-      "id": "tarkov-scourge-boss",
-      "category": "tarkov",
-      "title": "Players find new Lab boss 'Scourge' with wall-piercing guards",
-      "summary": "Players report a new boss named Scourge spawning in The Lab with three heavily armed guards whose shots appear to pass through walls, and an encrypted phone drop on kill. Community posts rate the encounter's AI accuracy among the toughest in the game.",
-      "source": "r/EscapefromTarkov",
-      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1x7auvu/screenshot_new_boss_on_labs_scourge/",
-      "publishedAt": "2026-10-16T08:38:16Z",
-      "tags": [
-        "boss",
-        "thelab",
-        "event"
-      ]
-    },
-    {
-      "id": "tarkov-therapist-questline",
-      "category": "tarkov",
-      "title": "Therapist questline leads players to The Lab during the event",
-      "summary": "Therapist's new quest chain starts by finding the transit route to The Lab on Factory, part of the Scourge Incursion storyline. Players say the tasks are gated behind the event's limited window, which closes on 20 October.",
-      "source": "r/EscapefromTarkov",
-      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1x7afzs/new_event_discussion/",
-      "publishedAt": "2026-10-16T08:10:50Z",
-      "tags": [
-        "quests",
-        "therapist",
-        "event"
-      ]
-    },
-    {
-      "id": "local-licking-abuse",
+      "id": "local-20-pedestrian-dead-after-being-",
       "category": "local",
-      "title": "Adults charged in Licking County child abuse case were previously investigated",
-      "summary": "NBC4 reports that the adults charged in a Licking County child abuse case had been the subject of earlier investigations. The disclosure raises questions about how prior complaints were handled by county agencies.",
+      "title": "Pedestrian dead after being hit by vehicle in Brewery District",
+      "summary": "One person died after being struck by a vehicle while crossing the street in Columbus's Brewery District on Friday night, police said. The collision closed part of the district just south of downtown during the overnight hours.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/licking-county/adults-charged-in-licking-county-child-abuse-case-were-previously-investigated/",
-      "publishedAt": "2026-10-16T19:03:58Z",
-      "tags": [
-        "lickingcounty",
-        "crime",
-        "ohio"
-      ]
-    },
-    {
-      "id": "local-officer-crash",
-      "category": "local",
-      "title": "Former Columbus police officer killed in Florida helicopter crash",
-      "summary": "A former Columbus police officer died in a helicopter crash in Florida, per NBC4. Colleagues in central Ohio are mourning a one-time member of the city's force.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/former-columbus-police-officer-killed-in-florida-helicopter-crash/",
-      "publishedAt": "2026-10-16T17:22:22Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/pedestrian-dead-after-being-hit-by-vehicle-in-brewery-district/",
+      "publishedAt": "2026-10-17T10:40:59Z",
       "tags": [
         "columbus",
-        "police",
-        "florida"
+        "traffic",
+        "public-safety"
       ]
     },
     {
-      "id": "local-sonic-temple",
+      "id": "local-21-two-ohio-airman-killed-in-wo",
       "category": "local",
-      "title": "Iron Maiden announced as first headliner for Sonic Temple 2027",
-      "summary": "Iron Maiden will headline Sonic Temple when the festival returns to Columbus in 2027. More headliners are expected as the lineup is rolled out for the Historic Crew Stadium event.",
+      "title": "Two Ohio airmen killed in World War II laid to rest this month",
+      "summary": "Two Ohio airmen killed in World War II are being laid to rest this month, with services in central Ohio. The burials bring long-awaited closure to their families.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/two-ohio-airman-killed-in-world-war-ii-laid-to-rest-this-month/",
+      "publishedAt": "2026-10-17T10:30:00Z",
+      "tags": [
+        "central-ohio",
+        "history",
+        "military"
+      ]
+    },
+    {
+      "id": "local-22-530-25972f5a-9a18-42c1-9412-",
+      "category": "local",
+      "title": "Twenty One Pilots fans take over Columbus for Ohio Stadium show",
+      "summary": "Twenty One Pilots play a sold-out hometown show at Ohio Stadium on Saturday night, drawing tens of thousands of fans to Columbus. Fans lined up early, singing and swapping friendship bracelets near campus.",
       "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/iron-maiden-sonic-temple-2027-headline/530-f73ad4d5-6a5f-43bc-b495-0c9aab1332d8",
-      "publishedAt": "2026-10-16T16:51:07Z",
+      "url": "https://www.10tv.com/article/news/local/twenty-one-pilots-fans-columbus-concert/530-25972f5a-9a18-42c1-9412-8d39daa04d3c",
+      "publishedAt": "2026-10-17T03:38:32Z",
       "tags": [
         "columbus",
         "music",
-        "sonictemple"
+        "events"
       ]
     },
     {
-      "id": "local-ncaa-dewine",
+      "id": "local-23-columbus-restaurant-closed-a",
       "category": "local",
-      "title": "NCAA sues DeWine over executive order on athlete eligibility",
-      "summary": "The NCAA filed suit against Governor Mike DeWine over his executive order letting Ohio schools ignore a new eligibility rule. The case tests how far a state can override national college sports governance.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/ncaa-sues-dewine-executive-order-allowing-schools-ignore-new-eligibility-rule/530-e291bfe0-bd59-4bc2-af78-fd4db0f40a52",
-      "publishedAt": "2026-10-16T15:43:44Z",
+      "title": "Columbus restaurant closed by car crash lands on Yelp 2026 best list",
+      "summary": "A Columbus restaurant temporarily closed after a car crashed into it still made Yelp's 2026 best-restaurants list. The listing is a bright spot for the business as it deals with the damage.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-restaurant-closed-after-car-crash-lands-on-yelp-2026-best-list/",
+      "publishedAt": "2026-10-17T03:09:42Z",
       "tags": [
-        "ohio",
-        "ncaa",
-        "dewine"
+        "columbus",
+        "dining",
+        "yelp"
       ]
     }
   ]
