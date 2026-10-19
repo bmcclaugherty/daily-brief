@@ -1,265 +1,261 @@
 {
   "meta": {
-    "updatedAt": "2026-10-19T11:12:08Z",
+    "updatedAt": "2026-10-19T19:35:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 17
+    "count": 25
   },
   "stories": [
     {
-      "id": "top-kyiv-missile-strike-20261019",
+      "id": "top-ukraine-us-intel-warnings",
       "category": "top",
-      "title": "Russian missiles and drones hit Kyiv overnight, killing one and injuring eight",
-      "summary": "Russia attacked Kyiv with ballistic missiles and drones overnight, killing one person and wounding eight, according to Ukrainian officials. The strike came as Ukrainian President Volodymyr Zelenskyy said Kyiv received no early warning from partners, deepening a dispute with Washington over intelligence and satellite support.",
-      "source": "AP | US News",
-      "url": "https://www.usnews.com/news/world/articles/2026-10-19/russian-missiles-and-drones-hit-kyiv-overnight-killing-1-and-injuring-8",
-      "publishedAt": "2026-10-19T07:28:00Z",
-      "tags": [
-        "ukraine",
-        "russia",
-        "kyiv",
-        "missile-strike"
-      ]
+      "title": "Zelensky adviser: Ukrainians dying as US missile warnings lag",
+      "summary": "A senior adviser to President Zelensky told the BBC that Ukrainians have died because US warnings of incoming ballistic missiles remain incomplete and can arrive as little as a minute before impact. The White House says intelligence sharing is unchanged, while Kyiv also reports unresolved restrictions on Starlink and Starshield.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
+      "publishedAt": "2026-10-19T18:23:00Z",
+      "tags": ["Ukraine", "Russia", "intelligence", "Starlink"]
     },
     {
-      "id": "top-france-violence-spreads-europe-20261019",
+      "id": "top-canada-cfb-wainwright-fire",
       "category": "top",
-      "title": "Analysis: France reels from its most violent weekend in years as unrest spreads",
-      "summary": "CNN reported that protests over education and living costs spiralled into deadly, country-wide violence, prompting blame-trading between the French government and police over the response. Similar cost-of-living demonstrations have been reported in Italy and elsewhere in Europe, raising questions about how far the unrest could spread.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
-      "publishedAt": "2026-10-19T00:30:00Z",
-      "tags": [
-        "france",
-        "europe",
-        "protests",
-        "politics"
-      ]
+      "title": "Four Canadian troops killed as wildfire overruns Alberta base",
+      "summary": "Four Canadian service members died and 39 were injured when a grass fire swept a live-fire training area at CFB Wainwright in Alberta, with a commander saying wind drove the blaze a kilometre in 30 to 60 seconds. Officials ruled out terrorism; 19 of the injured are in critical condition.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo",
+      "publishedAt": "2026-10-19T18:22:00Z",
+      "tags": ["Canada", "military", "wildfire", "Alberta"]
     },
     {
-      "id": "top-france-unrest-macron-20261019",
+      "id": "top-kenya-shakahola-cult-verdict",
       "category": "top",
-      "title": "France hit by worst unrest in years as Macron condemns violence",
-      "summary": "Cost-of-living and school protests across France turned into riots and looting, with authorities reporting at least 1,800 arrests over the weekend, including roughly 550,000 marchers nationwide on Saturday. Macron vowed an “uncompromising” response ahead of a critical budget vote as his government faced questions over policing failures.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "tags": [
-        "france",
-        "protests",
-        "macron",
-        "budget"
-      ]
+      "title": "Kenyan court convicts starvation cult leader over 191 child deaths",
+      "summary": "A Kenyan court found doomsday preacher Paul Mackenzie and followers guilty in the starvation deaths of 191 children, whose bodies were found in shallow graves in Shakahola forest. Prosecutors said his doctrine barred education and modern medicine and told parents to let children die to 'meet Jesus'.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
+      "publishedAt": "2026-10-19T17:18:00Z",
+      "tags": ["Kenya", "courts", "cult", "Shakahola"]
     },
     {
-      "id": "tech-verge-amazon-luna-prime-video-20261019",
+      "id": "top-australia-mp-hit-by-car",
+      "category": "top",
+      "title": "Australian MP critically injured in apparent car attack",
+      "summary": "Independent MP Helen Haines, 65, is critically ill after being hit by a car outside her Wangaratta office in Victoria, an incident Prime Minister Anthony Albanese called a deliberate act. A 43-year-old man was detained at the scene, a knife was found in the vehicle and counter-terror police are assisting.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o",
+      "publishedAt": "2026-10-19T14:09:00Z",
+      "tags": ["Australia", "politics", "crime"]
+    },
+    {
+      "id": "tech-opencode-api-key-breach",
       "category": "tech",
-      "title": "Amazon Luna cloud gaming expands inside Prime Video to 12 more countries",
-      "summary": "Amazon began letting Prime subscribers in Canada, France, Italy and Spain stream Luna games directly inside the Prime Video app on Fire TV at no extra cost, with eight more European countries following in November. The move weaves gaming into the same app Prime members already use for video, part of Amazon’s push at casual players rather than core gamers.",
-      "source": "The Verge | Amazon Game Studios",
-      "url": "https://www.theverge.com/games/1011669/amazon-luna-in-prime-video-is-coming-to-more-countries",
-      "publishedAt": "2026-10-19T07:00:00Z",
-      "tags": [
-        "amazon",
-        "cloud-gaming",
-        "prime-video",
-        "streaming"
-      ]
+      "title": "Hackers breach OpenCode, run up charges on users' AI accounts",
+      "summary": "Open-source AI coding agent OpenCode said attackers broke into an older system overnight and affected 1.4% of users on OpenCode Console, where some store AI service API keys. Anthropic and Google blocked exposed keys, and OpenAI refunded credits spent during the intrusion.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "publishedAt": "2026-10-19T19:28:00Z",
+      "tags": ["security", "AI", "OpenCode", "API keys"]
     },
     {
-      "id": "tech-openai-opencode-access-restored-20261019",
+      "id": "tech-tenstorrent-6-2b-valuation",
       "category": "tech",
-      "title": "OpenAI restores OpenCode access and refunds credits after model-distillation attack",
-      "summary": "OpenAI restored API access and refunded credits for OpenCode users who were also OpenAI API customers following an attack tied to model distillation. The company also promoted Daybreak Blue, an identity-verified, advanced-security tier for authorized cybersecurity work, and said those conversations are not used for model training.",
-      "source": "OpenAI (via headsupai.io)",
-      "url": "https://headsupai.io/updates/openai-restores-opencode-access-promotes-daybreak-blue-cyber-defense",
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "tags": [
-        "openai",
-        "security",
-        "agents",
-        "api"
-      ]
+      "title": "Tenstorrent raises $1.5B at $6.2B valuation for open-weight AI chips",
+      "summary": "Inference chip startup Tenstorrent raised $1.5 billion at a $6.2 billion valuation, more than doubling its late-2024 mark, to scale silicon built for serving open-weight models. CEO Jim Keller said the company stayed independent after showing its Galaxy servers could run DeepSeek models.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "publishedAt": "2026-10-19T18:37:00Z",
+      "tags": ["AI chips", "funding", "Tenstorrent", "Nvidia"]
     },
     {
-      "id": "tech-opencode-breach-distillation-20261019",
+      "id": "tech-apple-macbook-pro-event",
       "category": "tech",
-      "title": "OpenCode says AI distillation attack reached 1.4% of its Console users",
-      "summary": "OpenCode disclosed on X that a large-scale distillation attack — which harvests a model’s outputs to reproduce its capabilities — affected users who had connected external AI providers, about 1.4% of its Console base. The company said it notified those users and is working with Anthropic, OpenAI and Google as its investigation continues.",
-      "source": "The Neuron",
-      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-october-19-2026/",
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "tags": [
-        "ai-security",
-        "distillation",
-        "developers",
-        "breach"
-      ]
+      "title": "Apple teases MacBook Pro event for next week",
+      "summary": "Apple is teasing a product launch next week, with the headline expected to be a lighter MacBook Pro featuring an OLED touchscreen and an iPhone-style Dynamic Island. A 14-inch MacBook Pro and an iMac running the new M6 chip are also expected.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "publishedAt": "2026-10-19T16:10:00Z",
+      "tags": ["Apple", "MacBook Pro", "hardware"]
     },
     {
-      "id": "tech-vercel-agent-browser-delta-20261019",
+      "id": "tech-nvidia-nemotron-3-5-open-models",
       "category": "tech",
-      "title": "Vercel Labs adds delta snapshots to its agent-browser CLI",
-      "summary": "Vercel Labs shipped a snapshot --delta flag for the agent-browser CLI that returns only what changed since the previous snapshot instead of the whole page, cutting token use by up to 73x on form-filling tasks. Snapshots can be saved to a baseline file so diffs survive across sessions.",
-      "source": "Vercel (via headsupai.io)",
-      "url": "https://headsupai.io/updates/vercel-labs-updates-agent-browser-cli-with-delta-snapshot-capability",
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "tags": [
-        "vercel",
-        "ai-agents",
-        "developer-tools",
-        "tokens"
-      ]
+      "title": "Nvidia ships open models for enterprise and on-device agents",
+      "summary": "Nvidia released the 120-billion-parameter Nemotron 3.5 Super VL for enterprise agents plus two small Bolt models that run locally on RTX Spark AI PCs and DGX Spark workstations. Nvidia claims Super VL finishes agentic tasks faster than rival flagship models when post-trained on specific workflows.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "publishedAt": "2026-10-19T15:37:00Z",
+      "tags": ["Nvidia", "open weights", "AI agents", "edge computing"]
     },
     {
-      "id": "browns-takeaways-defense-first-place-20261019",
+      "id": "browns-defense-grades-ravens",
       "category": "browns",
-      "title": "Browns takeaways: defense stuffs Ravens for first place in AFC North",
-      "summary": "Post-game takeaways credited another dominant Cleveland defensive performance for the 13-10 comeback win that pushed the Browns back atop the AFC North at 4-2. Cleveland leaned on its defense for long stretches while the offense sputtered until the final drive.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/6-immediate-takeaways-as-browns-defense-stuffs-ravens-for-first-place-in-afc-north-01m589f9x17v",
-      "publishedAt": "2026-10-19T01:00:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "defense",
-        "takeaways"
-      ]
+      "title": "Browns defense grades: the unit that kept Cleveland in it",
+      "summary": "cleveland.com graded Cleveland's defense after the 13-10 comeback over Baltimore, breaking down Carson Schwesinger, Denzel Ward and the rest of a group that forced the late Derrick Henry fumble setting up the tying score. The Ravens went scoreless on their final nine possessions.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/how-carson-schwesinger-denzel-ward-and-the-rest-of-the-browns-defense-graded-vs-the-ravens.html",
+      "publishedAt": "2026-10-19T18:29:00Z",
+      "tags": ["Browns", "Ravens", "defense", "grades"]
     },
     {
-      "id": "browns-ravens-walkoff-szmyt-20261019",
+      "id": "browns-offense-grades-ravens",
       "category": "browns",
-      "title": "Browns beat Ravens 13-10 on Andre Szmyt’s walk-off field goal, take first in AFC North",
-      "summary": "Deshaun Watson connected with Jerry Jeudy for 33 yards to set up Andre Szmyt’s 37-yard field goal on an untimed final snap, giving Cleveland a 13-10 win over Baltimore. The Browns improved to 4-2 and moved into first place in the AFC North; Derrick Henry’s late fumble cost the Ravens, who are also 4-2, and rookie head coach Todd Monken beat the team he coordinated for three seasons.",
-      "source": "AP | CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/browns-rally-past-ravens-13-10-on-andre-szmyts-walk-off-field-goal/",
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "ravens",
-        "afc-north"
-      ]
+      "title": "Browns offense grades: a late drive rescues a rough afternoon",
+      "summary": "cleveland.com's position-by-position grades cover an offense that had 107 yards through three quarters before Deshaun Watson's 10-play, 62-yard march set up the winning field goal. Watson finished 16-of-26 for 164 yards, with Jerry Jeudy's 33-yard catch the key play.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/how-deshaun-watson-jerry-jeudy-and-the-rest-of-the-browns-offense-graded-vs-the-ravens.html",
+      "publishedAt": "2026-10-19T18:29:00Z",
+      "tags": ["Browns", "Deshaun Watson", "Jerry Jeudy", "offense"]
     },
     {
-      "id": "f1-verstappen-hits-back-2026-regulations-20261019",
+      "id": "browns-obr-daily-appeal-denied",
+      "category": "browns",
+      "title": "OBR daily: Browns 4-2 after another fourth-quarter escape",
+      "summary": "The Orange and Brown Report's Monday column revisited a first half in which Watson went 3-of-9 for 24 yards and Cleveland trailed 10-0, before Todd Monken's team produced a fourth win decided in the closing moments. The Browns are 4-2 and tied with Baltimore and Pittsburgh atop the AFC North.",
+      "source": "The Orange and Brown Report via cleveland19",
+      "url": "https://www.cleveland19.com/2026/10/19/cleveland-browns-news-rumors-101926-appeal-denied/",
+      "publishedAt": "2026-10-19T12:03:00Z",
+      "tags": ["Browns", "Todd Monken", "AFC North"]
+    },
+    {
+      "id": "browns-estime-first-week",
+      "category": "browns",
+      "title": "From practice squad to hero: Audric Estimé's first week with Browns",
+      "summary": "Cleveland's official site detailed how Estimé signed off Minnesota's practice squad on Oct. 13 and scored the game-tying 2-yard touchdown against Baltimore five days later. He arrived with the backfield depleted by injuries to Quinshon Judkins, Dylan Sampson and Raheim Sanders.",
+      "source": "clevelandbrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/inside-audric-estime-s-1st-week-with-the-browns-ahead-of-game-tying-touchdown-in-week-6",
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "tags": ["Browns", "Audric Estime", "running backs"]
+    },
+    {
+      "id": "buckeyes-usc-kickoff-time",
+      "category": "buckeyes",
+      "title": "Ohio State-USC set for 7:30 p.m. on NBC4 on Halloween",
+      "summary": "The Oct. 31 Big Ten game between No. 3 Ohio State and No. 16 USC will kick off at 7:30 p.m. ET at Los Angeles Memorial Coliseum on NBC4. Ohio State is on a bye this week while the 6-1 Trojans host Wisconsin.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-plays-at-usc-on-nbc4-kickoff-time-announced-for-halloween-game/",
+      "publishedAt": "2026-10-19T17:00:00Z",
+      "tags": ["Ohio State", "USC", "Big Ten", "kickoff"]
+    },
+    {
+      "id": "buckeyes-lghl-indiana-takeaways",
+      "category": "buckeyes",
+      "title": "How Ohio State survived Indiana without its starting QB",
+      "summary": "Land-Grant Holy Land's breakdown credited the defense with holding Indiana to 73 rushing yards and forcing two fumbles in the 19-15 win, while noting Julian Sayin struggled before a fourth-quarter injury expected to cost him several weeks. True freshman Luke Fahey now takes over with a bye week to prepare.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football/124172/off-script-ohio-ohio-state-survives-indiana-but-loses-julian-sayin",
+      "publishedAt": "2026-10-19T16:27:00Z",
+      "tags": ["Ohio State", "Julian Sayin", "Luke Fahey", "Indiana"]
+    },
+    {
+      "id": "buckeyes-bigten-recap-indiana",
+      "category": "buckeyes",
+      "title": "Big Ten recap: Buckeyes snap Indiana's 22-game streak, lose Sayin",
+      "summary": "The Big Ten's weekly review of Ohio State's 19-15 win at Indiana focused on Jeremiah Smith's 38-yard fourth-down touchdown, his 39th career scoring catch, tying Braylon Edwards' conference record. Sayin exited with an upper-body injury Ryan Day said will keep him out several weeks, and Nick Marsh's last-minute catch landed out of bounds to end Indiana's threat.",
+      "source": "Big Ten Conference",
+      "url": "https://bigten.org/news/2026/10/19/football-ohio-state-gets-revenge-ucla-stands-alone.aspx",
+      "publishedAt": "2026-10-19T13:58:00Z",
+      "tags": ["Ohio State", "Indiana", "Jeremiah Smith", "Big Ten"]
+    },
+    {
+      "id": "buckeyes-hoover-takes-blame",
+      "category": "buckeyes",
+      "title": "Indiana's Hoover takes blame for the throw that decided it",
+      "summary": "Indiana quarterback Josh Hoover said his ball placement, not Nick Marsh's footwork, cost the Hoosiers a game-winning touchdown on fourth down against Ohio State. Coach Curt Cignetti was blunt about the play: 'We had it and we just didn't make it.'",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/10/19/josh-hoover-nick-marsh-touchdown-indiana-ohio-state-out-of-bounds/92308843007/",
+      "publishedAt": "2026-10-19T11:40:00Z",
+      "tags": ["Indiana", "Ohio State", "Josh Hoover", "Curt Cignetti"]
+    },
+    {
+      "id": "f1-bottas-helmet-charity",
       "category": "f1",
-      "title": "Verstappen hits back at ex-F1 drivers over criticism of 2026 regulations",
-      "summary": "Max Verstappen responded to former drivers’ criticism of Formula 1’s 2026 rules package, defending the current regulations. The exchange keeps alive a paddock debate over car characteristics and racing quality heading into the United States Grand Prix weekend in Austin.",
+      "title": "Bottas raises nearly €50,000 for rhino charity with helmet auction",
+      "summary": "Valtteri Bottas has raised almost €50,000 for rhino conservation through an F1 helmet fundraiser, with the sport heading into the United States Grand Prix weekend in Austin. The total turns a race-weekend collectible into a five-figure donation.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-hits-back-at-former-f1-drivers-over-criticism-of-2026-regulations/10866045/",
-      "publishedAt": "2026-10-19T10:15:00Z",
-      "tags": [
-        "f1",
-        "verstappen",
-        "regulations",
-        "2026-season"
-      ]
+      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-raises-almost-50000-for-rhino-charity-with-f1-helmet-fundraiser/10866360/",
+      "publishedAt": "2026-10-19T17:15:00Z",
+      "tags": ["F1", "Valtteri Bottas", "charity"]
     },
     {
-      "id": "f1-bbc-radio-rights-20261019",
+      "id": "f1-perez-cadillac-best-year",
       "category": "f1",
-      "title": "BBC could lose F1 radio rights after 32 years as rival broadcaster weighs a bid",
-      "summary": "Motorsport.com reported the BBC may lose its long-running Formula 1 radio commentary rights, with a rival broadcaster considering a bid. The BBC has carried F1 radio coverage for 32 years, so a change would alter how UK fans follow races.",
+      "title": "Pérez calls debut Cadillac season 'one of my best years'",
+      "summary": "In an interview with Motorsport.com, Sergio Pérez rejected the idea that 2026 is his worst season, pointing to his driving level and leadership role in shaping Cadillac's first car despite the team sitting last in the constructors' standings. He said people inside the sport know the level he is operating at.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/bbc-could-lose-f1-radio-rights-after-32-years-as-rival-broadcaster-considers-bid/10866051/",
-      "publishedAt": "2026-10-19T10:00:00Z",
-      "tags": [
-        "f1",
-        "broadcast",
-        "bbc",
-        "uk"
-      ]
+      "url": "https://www.motorsport.com/f1/news/sergio-perez-debut-cadillac-season-without-a-doubt-one-of-my-best-years/10866353/",
+      "publishedAt": "2026-10-19T16:42:00Z",
+      "tags": ["F1", "Sergio Perez", "Cadillac"]
     },
     {
-      "id": "f1-us-grand-prix-austin-schedule-20261019",
+      "id": "f1-mclaren-upgrades-2027-concepts",
       "category": "f1",
-      "title": "F1 heads to Austin with Antonelli able to clinch the title at COTA",
-      "summary": "RacingNews365 published the full United States Grand Prix schedule with Kimi Antonelli 102 points clear of George Russell and in position to become the youngest world champion. Antonelli clinches in Austin only if he wins and Russell finishes ninth or lower and Lewis Hamilton fifth or lower; the weekend uses three practice sessions, qualifying Saturday and the race Sunday, October 25.",
-      "source": "RacingNews365",
-      "url": "https://racingnews365.com/2026-f1-united-states-grand-prix-austin-time-schedule",
-      "publishedAt": "2026-10-19T05:00:00Z",
-      "tags": [
-        "f1",
-        "united-states-gp",
-        "antonelli",
-        "championship"
-      ]
+      "title": "McLaren's last 2026 upgrades double as 2027 concept tests",
+      "summary": "McLaren will roll out its final 2026 updates across Austin, Mexico City and São Paulo, deliberately spreading them over three different track types. Team principal Andrea Stella said the parts also test 'fundamental concepts' that will carry into next year's car while McLaren fights for constructors' points now.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-to-use-final-2026-developments-to-test-2027-f1-car-concepts/10866094/",
+      "publishedAt": "2026-10-19T16:11:00Z",
+      "tags": ["F1", "McLaren", "upgrades", "2027 regulations"]
     },
     {
-      "id": "f1-sepang-night-race-mercedes-20261019",
+      "id": "f1-singapore-track-changes",
       "category": "f1",
-      "title": "Mercedes backs a Malaysian F1 return as Sepang night-race idea gathers pace",
-      "summary": "Mercedes deputy team principal Bradley Lord said Malaysia feels “like a home race” and the team would love to return to Sepang, while lighting supplier Signify said technology would not block a night race. Malaysia, Thailand, Vietnam and South Korea are all in the mix as F1 weighs Asian expansion, with Asia set to host nine races in 2027.",
-      "source": "Malay Mail | Bernama",
-      "url": "https://www.malaymail.com/news/sports/2026/10/19/lights-on-at-sepang-mercedes-backs-malaysian-f1-return-as-night-race-idea-gathers-pace/239562",
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "tags": [
-        "f1",
-        "malaysia",
-        "sepang",
-        "calendar"
-      ]
+      "title": "Hamilton and Verstappen want Marina Bay layout changed",
+      "summary": "Lewis Hamilton and Max Verstappen both say Singapore's Marina Bay circuit needs a longer straight or a proper hairpin to create better racing. Hamilton, who loves the venue, said the pair had discussed layout tweaks after a street-circuit weekend that drew criticism over overtaking.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-call-for-singapore-f1-track-changes/10866335/",
+      "publishedAt": "2026-10-19T14:51:00Z",
+      "tags": ["F1", "Singapore GP", "Lewis Hamilton", "Max Verstappen"]
     },
     {
-      "id": "local-cmh-gateside-program-20261019",
-      "category": "local",
-      "title": "Columbus airport lets non-ticketed visitors through security with new GateSide program",
-      "summary": "John Glenn Columbus International Airport rolled out GateSide clearance, giving people without a ticket permission to pass through security and meet travelers at the gate. The program is aimed at people seeing off or greeting passengers, and requires an application in advance.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-airport-security-access-program/",
-      "publishedAt": "2026-10-19T10:28:00Z",
-      "tags": [
-        "columbus",
-        "airport",
-        "travel",
-        "cmh"
-      ]
+      "id": "tarkov-desync-lag-complaints",
+      "category": "tarkov",
+      "title": "Tarkov players report fresh wave of desync and connection problems",
+      "summary": "A r/EscapefromTarkov thread declaring desync 'hasn't been this bad in years' drew quick agreement, with a parallel thread reporting lag and connection drops across raids. The complaints land with the game on patch 1.2.0.0, which added PvE Prestige levels and reworked PMC bot behaviour on Oct. 6.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xa5cx0/bug_desync_hasnt_been_this_bad_in_years/",
+      "publishedAt": "2026-10-19T18:47:00Z",
+      "tags": ["Escape from Tarkov", "desync", "community", "patch 1.2.0.0"]
     },
     {
-      "id": "local-ohio-election-betting-10m-20261019",
+      "id": "local-columbus-festival-season-shift",
       "category": "local",
-      "title": "More than $10 million bet on Ohio governor and U.S. Senate races",
-      "summary": "The Columbus Dispatch reported that betting markets have taken in more than $10 million on Ohio’s governor and U.S. Senate races, on top of record campaign spending. The story examines whether those odds carry any predictive signal as Election Day approaches.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/politics/elections/2026/10/19/ohio-election-betting-tops-10m-in-governor-senate-races/92222093007/",
-      "publishedAt": "2026-10-19T07:22:00Z",
-      "tags": [
-        "columbus",
-        "ohio",
-        "elections",
-        "politics"
-      ]
+      "title": "Columbus festivals shift from haunted houses to holidays",
+      "summary": "NBC4's roundup marks the handoff from Halloween to the winter season: Boo at the Zoo and the Ohio Renaissance Festival close out Oct. 25, while an all-new Christkindlmarkt, Wildlights and Fashion Week Columbus fill November. Haunted Fest takes over KEMBA Live on Oct. 30.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-festivals-october-november-2026/",
+      "publishedAt": "2026-10-19T18:59:00Z",
+      "tags": ["Columbus", "events", "holidays"]
     },
     {
-      "id": "local-juvenile-injured-moving-car-20261019",
+      "id": "local-cooper-stadium-violations",
       "category": "local",
-      "title": "Juvenile seriously injured after falling from the roof of a moving car in Columbus",
-      "summary": "Columbus police reported a juvenile was seriously injured after falling from the roof of a moving vehicle. The incident is under investigation; authorities have not released further details on the circumstances or the driver.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/juvenile-seriously-injured-after-falling-from-roof-of-moving-car/",
-      "publishedAt": "2026-10-19T02:00:00Z",
-      "tags": [
-        "columbus",
-        "public-safety",
-        "investigation"
-      ]
+      "title": "Cooper Stadium owner answers city code and zoning citations",
+      "summary": "Columbus has issued several notices to the owner of the long-vacant Cooper Stadium site over overgrown weeds, graffiti, unsecured buildings, unapproved dumpsters and shipping containers stacked two-high around the surviving grandstand. The developer has now responded to the violations.",
+      "source": "Columbus Underground",
+      "url": "https://columbusunderground.com/developer-responds-to-code-zoning-violations-at-cooper-stadium-site-bw1/",
+      "publishedAt": "2026-10-19T18:57:00Z",
+      "tags": ["Columbus", "development", "Cooper Stadium"]
     },
     {
-      "id": "local-madison-township-levies-20261019",
+      "id": "local-licking-county-bonds-upheld",
       "category": "local",
-      "title": "Madison Township asks voters for police and fire levies as call volume climbs",
-      "summary": "Madison Township’s police and fire chiefs pointed to rising costs as they seek additional levies, with the fire department citing 4-5% annual growth in call volume and more than 11,300 calls for service in 2025 across three stations. The levies go before township voters in the November election.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/politics/elections/local/2026/10/19/madison-township-seeks-additional-levies-for-police-and-fire-departments/92220508007/",
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "tags": [
-        "columbus",
-        "ohio",
-        "levies",
-        "elections"
-      ]
+      "title": "Judge keeps bonds in place for parents in Licking County child case",
+      "summary": "A judge upheld bonds for the parents arrested after nine children were removed from a Licking County home, a case that began with a school district tip to child protective services. Deputies had reported possible abuse and substandard living conditions at the property.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/licking-county/licking-county-children-rescued-judge-upholds-bonds-for-arrested-parents/",
+      "publishedAt": "2026-10-19T18:00:00Z",
+      "tags": ["Licking County", "courts", "child welfare"]
+    },
+    {
+      "id": "local-columbus-frankfurt-nonstop",
+      "category": "local",
+      "title": "Columbus lands first nonstop Europe flight, to Frankfurt in 2027",
+      "summary": "Columbus will get its first nonstop route to Europe in May 2027, with Frankfurt flights leaving at 4:20 p.m. and landing at 6:15 a.m. local time. Tickets go on sale Tuesday, Oct. 20; Mayor Andrew Ginther said the deal was years in the making.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/new-columbus-germany-air-route/",
+      "publishedAt": "2026-10-19T15:30:00Z",
+      "tags": ["Columbus", "travel", "Frankfurt", "airport"]
     }
   ]
 }
