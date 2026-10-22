@@ -1,369 +1,379 @@
 {
   "meta": {
-    "updatedAt": "2026-10-21T19:34:58Z",
+    "updatedAt": "2026-10-22T11:05:08Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 24
+    "count": 26
   },
   "stories": [
     {
-      "id": "meta-25b-new-mexico-fine",
+      "id": "niger-hostages-freed-libya",
       "category": "top",
-      "title": "Judge orders Meta to pay $25bn over data-privacy 'lies'",
-      "summary": "A federal judge in New Mexico ordered Meta to pay $25bn after a trial found the company intentionally misled the public about how it handled Facebook user data. The judge said the deception went to the heart of Meta's core business practices.",
+      "title": "Two European women held captive in Niger freed in Libya",
+      "summary": "An Austrian woman and a Swiss woman kidnapped in Niger more than a year ago have been freed in Libya, where officials said they would be handed to their home authorities. The case underscores the kidnapping risk across the Sahel, where jihadist groups linked to al-Qaeda and Islamic State operate.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo",
-      "publishedAt": "2026-10-21T19:30:00Z",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo",
+      "publishedAt": "2026-10-22T10:26:06Z",
       "tags": [
-        "Meta",
-        "privacy",
-        "courts",
-        "big tech"
+        "Niger",
+        "Sahel",
+        "kidnapping",
+        "Libya"
       ]
     },
     {
-      "id": "russia-ready-resume-talks",
+      "id": "bukele-threatens-haitian-gangs",
       "category": "top",
-      "title": "Russia says it is ready to resume Ukraine talks with US",
-      "summary": "The Kremlin said Russia is 'ready in principle' to restart trilateral talks with the US and Ukraine, with a new round possibly around 10 November in Abu Dhabi. The statement followed a three-hour meeting between Putin and US envoy Steve Witkoff in St Petersburg.",
+      "title": "El Salvador's Bukele threatens Haitian gangs over military hostages",
+      "summary": "El Salvador's President Nayib Bukele threatened Haiti's gangs after Salvadoran soldiers were taken hostage there, warning the groups would pay if the troops are harmed. The standoff raises the stakes for El Salvador's role in the international security mission in Haiti.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
-      "publishedAt": "2026-10-21T17:42:00Z",
+      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o",
+      "publishedAt": "2026-10-22T10:17:48Z",
       "tags": [
-        "Russia",
+        "Haiti",
+        "El Salvador",
+        "gangs",
+        "security"
+      ]
+    },
+    {
+      "id": "saudi-airport-attack",
+      "category": "top",
+      "title": "Two killed in attack on airport in eastern Saudi Arabia",
+      "summary": "Two people were killed in an attack on an airport in eastern Saudi Arabia, authorities said, as Houthi attacks on the kingdom escalate. The US has ordered some diplomats to leave the country and the UK is deploying jets to help defend Saudi airspace.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro",
+      "publishedAt": "2026-10-22T09:14:48Z",
+      "tags": [
+        "Saudi Arabia",
+        "Houthis",
+        "Yemen",
+        "conflict"
+      ]
+    },
+    {
+      "id": "kyiv-strikes-after-witkoff-putin",
+      "category": "top",
+      "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "summary": "Russian missile strikes hit Kyiv and destroyed a residential house, hours after US envoy Steve Witkoff met Vladimir Putin in Moscow. Washington is pushing to restart Ukraine peace talks even as attacks continue on both sides.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin",
+      "publishedAt": "2026-10-22T08:18:39Z",
+      "tags": [
         "Ukraine",
-        "diplomacy",
-        "Putin"
+        "Russia",
+        "Kyiv",
+        "diplomacy"
       ]
     },
     {
-      "id": "macron-foreign-leaders-riots",
-      "category": "top",
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "summary": "Emmanuel Macron accused unnamed foreign leaders of using France's riots for electoral gain and of amplifying AI-generated fakes about the unrest. He appeared to point at Benjamin Netanyahu and Donald Trump, both facing elections in the coming weeks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo",
-      "publishedAt": "2026-10-21T14:04:00Z",
-      "tags": [
-        "France",
-        "Macron",
-        "riots",
-        "disinformation"
-      ]
-    },
-    {
-      "id": "nigeria-ebola-case-abuja",
-      "category": "top",
-      "title": "Nigeria confirms Ebola case linked to East Africa outbreak",
-      "summary": "Nigeria reported an Ebola case in a woman who travelled from Uganda to Abuja, the first West African case tied to the East African outbreak. Authorities have isolated the patient and identified 44 close contacts for tracing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo",
-      "publishedAt": "2026-10-21T12:39:00Z",
-      "tags": [
-        "Nigeria",
-        "Ebola",
-        "public health",
-        "Africa"
-      ]
-    },
-    {
-      "id": "walmart-agent-gateway-ai-agents",
+      "id": "eiliko-robot-security-firm",
       "category": "tech",
-      "title": "Walmart opens its shelves to AI shopping agents",
-      "summary": "Walmart launched an Agent Gateway MCP server that lets approved AI agents search its inventory and buy on a shopper's behalf across Walmart and Sam's Club. The move contrasts with Amazon, which has been blocking outside agents from its store.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "publishedAt": "2026-10-21T19:30:00Z",
-      "tags": [
-        "AI agents",
-        "Walmart",
-        "e-commerce",
-        "MCP"
-      ]
-    },
-    {
-      "id": "php-critical-flaw-ai-discovered",
-      "category": "tech",
-      "title": "AI-found PHP flaws force government sites offline",
-      "summary": "Government websites in Europe and elsewhere went dark on Wednesday after researchers, using AI tools, disclosed critical vulnerabilities in PHP, the language underpinning much of the web. Emergency patches were rushed out as the FBI and NSA warned operators to update immediately.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/",
-      "publishedAt": "2026-10-21T19:06:00Z",
+      "title": "Eiliko maker hires independent security firm after Verge robot-hack report",
+      "summary": "The company behind the Eiliko companion robot said it is bringing in an independent security firm after The Verge reported serious security flaws in its robots. It acknowledged that \"words alone will not earn that trust back.\"",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "publishedAt": "2026-10-22T11:00:00Z",
       "tags": [
         "security",
+        "robotics",
+        "privacy"
+      ]
+    },
+    {
+      "id": "php-flaw-global-scramble",
+      "category": "tech",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "Governments and cyber agencies urged website operators to install an emergency fix for a critical PHP flaw, or take their sites offline, because PHP underpins WordPress, Wikipedia and countless online shops. The rush to patch has knocked services offline across the internet.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+      "publishedAt": "2026-10-22T06:24:59Z",
+      "tags": [
         "PHP",
-        "vulnerability",
-        "AI"
+        "security",
+        "patching",
+        "WordPress"
       ]
     },
     {
-      "id": "ea-shuts-down-bioware",
+      "id": "tesla-cybercab-sales",
       "category": "tech",
-      "title": "EA is shutting down BioWare",
-      "summary": "EA confirmed it is closing BioWare, the studio behind Mass Effect, Dragon Age and Star Wars: Knights of the Old Republic. The publisher also ended development on the next Mass Effect game that had been in the works.",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "summary": "Tesla said it will begin selling its purpose-built Cybercab robotaxi to customers before the end of the year, the same week it reported a 43% drop in quarterly profit. The plan bets that buyers will pay for a two-seat vehicle designed to drive itself.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "publishedAt": "2026-10-22T00:17:54Z",
+      "tags": [
+        "Tesla",
+        "robotaxi",
+        "autonomous driving"
+      ]
+    },
+    {
+      "id": "youtube-dislike-button-denial",
+      "category": "tech",
+      "title": "YouTube says it isn't testing hiding the dislike button",
+      "summary": "YouTube denied that it is testing a change that hides the dislike button on videos, after creators reported seeing the button disappear. The dislike count has long been a flashpoint between the platform and its users.",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "publishedAt": "2026-10-21T17:19:00Z",
+      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "publishedAt": "2026-10-21T23:46:45Z",
       "tags": [
-        "EA",
-        "BioWare",
-        "gaming",
-        "Mass Effect"
+        "YouTube",
+        "product",
+        "creators"
       ]
     },
     {
-      "id": "starship-catch-weekly-cadence",
-      "category": "tech",
-      "title": "SpaceX to try a Starship catch, eyeing weekly launches",
-      "summary": "SpaceX will attempt another tower catch of Starship on its next flight as it pushes toward weekly Starship launches by early 2027. The company is betting a faster cadence on the vehicle it sees as central to its satellite and AI-infrastructure ambitions.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
-      "publishedAt": "2026-10-21T16:46:00Z",
-      "tags": [
-        "SpaceX",
-        "Starship",
-        "space",
-        "launch cadence"
-      ]
-    },
-    {
-      "id": "browns-jeudy-trade-talk-titans",
+      "id": "obt-podcast-chemistry-offense",
       "category": "browns",
-      "title": "Jeudy says Titans game, not trade talk, is his focus",
-      "summary": "Browns receiver Jerry Jeudy is again the subject of trade speculation but said his only concern is Sunday's game at Tennessee. Cleveland enters Week 7 at 3-1 and tied atop the AFC North.",
-      "source": "Yahoo Sports / Akron Beacon Journal",
-      "url": "https://sports.yahoo.com/articles/whats-jerry-jeudys-future-browns-185616002.html",
-      "publishedAt": "2026-10-21T18:56:00Z",
+      "title": "Does chemistry matter for this Browns team? Finding answers on offense",
+      "summary": "Cleveland.com's Orange and Brown Talk podcast debates whether chemistry matters for a 3-2 Browns team and where the offense can find answers before Sunday's game at Tennessee.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/orange-and-brown-talk-podcast/2026/10/does-chemistry-matter-for-this-browns-team-finding-answers-on-offense-orange-and-brown-talk-podcast.html",
+      "publishedAt": "2026-10-22T10:00:01Z",
       "tags": [
         "Browns",
-        "Jerry Jeudy",
-        "trade deadline",
-        "NFL"
+        "podcast",
+        "offense"
       ]
     },
     {
-      "id": "browns-titans-how-to-watch",
+      "id": "dbn-victory-party-roundup",
       "category": "browns",
-      "title": "Browns head to Tennessee with pass game in focus",
-      "summary": "The Browns' official preview for Sunday's game at Tennessee centers on whether Deshaun Watson can move the ball through the air against a Titans defense allowing 220.6 yards per game. Cleveland is averaging 173.5 passing yards per game, 25th in the league.",
-      "source": "clevelandbrowns.com",
-      "url": "https://www.clevelandbrowns.com/news/browns-vs-titans-how-to-watch-listen-live-stream-x7029",
-      "publishedAt": "2026-10-21T18:22:00Z",
-      "tags": [
-        "Browns",
-        "Titans",
-        "Week 7",
-        "Deshaun Watson"
-      ]
-    },
-    {
-      "id": "browns-sign-eric-johnson-practice-squad",
-      "category": "browns",
-      "title": "Browns add DT Eric Johnson II to practice squad",
-      "summary": "Cleveland signed defensive tackle Eric Johnson II to the practice squad and released defensive end Nadame Tucker from it. The move adds interior depth ahead of Sunday's trip to Tennessee.",
-      "source": "clevelandbrowns.com",
-      "url": "https://www.clevelandbrowns.com/news/browns-sign-dt-eric-johnson-ii-to-the-practice-squad",
-      "publishedAt": "2026-10-21T13:34:00Z",
+      "title": "Browns hoping to keep the victory party going",
+      "summary": "Dawgs By Nature's morning roundup looks at the Browns trying to build on their Week 6 win, with notes on Harold Fannin, Quincy Williams and Deshaun Watson ahead of the Titans game.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/135802/cleveland-browns-news-harold-fannin-quincy-williams-deshaun-watson",
+      "publishedAt": "2026-10-22T10:00:00Z",
       "tags": [
         "Browns",
         "roster",
-        "practice squad",
-        "defense"
+        "Week 7"
       ]
     },
     {
-      "id": "osu-jakobi-jackson-foot-surgery",
-      "category": "buckeyes",
-      "title": "Ohio State RB Ja'Kobi Jackson has foot surgery",
-      "summary": "Ohio State running back Ja'Kobi Jackson underwent foot surgery, a source confirmed to ESPN, adding to the Buckeyes' injury list during their bye week. No return timeline was given.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50240019/sources-ohio-state-rb-jakobi-jackson-foot-surgery",
-      "publishedAt": "2026-10-21T19:27:00Z",
+      "id": "browns-defense-ravens-film-review",
+      "category": "browns",
+      "title": "The key stops that sealed Cleveland's Week 6 win over Baltimore",
+      "summary": "A film review breaks down the defensive stops that closed out the Browns' Week 6 win over the Ravens. Cleveland's defense again carried the day in a division game.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/what-the-browns-defense-did-to-slow-down-the-ravens-in-week-6-win-film-review.html",
+      "publishedAt": "2026-10-22T09:00:00Z",
       "tags": [
-        "Ohio State",
-        "injury",
-        "running back",
-        "Buckeyes"
+        "Browns",
+        "defense",
+        "film review"
       ]
     },
     {
-      "id": "osu-big-ten-power-rankings-no1",
+      "id": "osu-bye-week-guide",
       "category": "buckeyes",
-      "title": "Buckeyes climb to No. 1 in Big Ten power rankings",
-      "summary": "CBS Sports moved Ohio State to the top of its Week 8 Big Ten rankings after the 19-15 win at Indiana, but flagged the quarterback uncertainty created by Julian Sayin's injury. The Buckeyes have a bye before facing USC on Halloween.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/big-ten-power-rankings-week-8-ohio-state-qb-issues/",
-      "publishedAt": "2026-10-21T17:54:00Z",
+      "title": "Guide to Ohio State's bye week: 10 games to watch and Michigan's QB problem",
+      "summary": "With Ohio State idle, cleveland.com's bye-week guide lists 10 games worth watching and digs into Michigan's quarterback situation with Bryce Underwood. It also covers the Big Ten storylines to track while the Buckeyes rest.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/osu/2026/10/guide-to-ohio-states-bye-week-10-games-to-watch-michigans-bryce-underwood-problem-and-more.html",
+      "publishedAt": "2026-10-22T10:00:01Z",
       "tags": [
         "Ohio State",
         "Big Ten",
-        "rankings",
-        "Julian Sayin"
+        "bye week"
       ]
     },
     {
-      "id": "osu-fahey-stclair-qb-battle",
+      "id": "jordan-hall-commitment-friday",
       "category": "buckeyes",
-      "title": "Fahey or St. Clair? Ohio State weighs its options at QB",
-      "summary": "With Julian Sayin injured, Ohio State is evaluating freshman Luke Fahey and Tavien St. Clair, and Ryan Day plans to give both first-team reps during the bye. Fahey finished the Indiana win after Sayin went down.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50238335/ohio-state-backup-quarterback",
-      "publishedAt": "2026-10-21T17:20:00Z",
+      "title": "Jordan Hall is set to commit Friday — and Ohio State is in his top 3",
+      "summary": "Recruit Jordan Hall plans to announce his college commitment on Friday, with Ohio State among his three finalists. A pledge would give the Buckeyes a recruiting win during their bye week.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/osu/2026/10/ohio-state-football-standout-named-finalist-for-academic-heisman-during-bye-week-buckeye-breakfast.html",
+      "publishedAt": "2026-10-22T09:00:00Z",
       "tags": [
         "Ohio State",
-        "quarterbacks",
-        "Luke Fahey",
-        "Tavien St. Clair"
+        "recruiting"
       ]
     },
     {
-      "id": "osu-day-sayin-out-postseason",
+      "id": "massillon-four-star-recruit",
       "category": "buckeyes",
-      "title": "Ryan Day planning to be without Sayin through postseason",
-      "summary": "Ryan Day said Ohio State is preparing to play without quarterback Julian Sayin through the postseason after he injured his throwing arm against Indiana. The Buckeyes host USC on Oct. 31 after their bye.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50232936/ohio-state-plans-julian-sayin-rest-season",
-      "publishedAt": "2026-10-21T15:55:00Z",
+      "title": "Four-star Ohio State recruit cherishing final games at Massillon",
+      "summary": "A four-star Ohio State commit is savoring his last games at Massillon, one of Ohio's most storied high school programs, before he enrolls with the Buckeyes.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/highschoolsports/2026/10/there-is-no-place-like-massillon-4-star-ohio-state-football-recruit-is-cherishing-his-final-games-at-legendary-program.html",
+      "publishedAt": "2026-10-22T09:00:00Z",
       "tags": [
         "Ohio State",
-        "Julian Sayin",
+        "recruiting",
+        "high school"
+      ]
+    },
+    {
+      "id": "jakobi-jackson-foot-surgery",
+      "category": "buckeyes",
+      "title": "Sources: Ohio State RB Ja'Kobi Jackson has foot surgery",
+      "summary": "Ohio State running back Ja'Kobi Jackson has had foot surgery, sources told ESPN, adding to the Buckeyes' injury questions during their bye week. The program did not offer a timeline for his return.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50240019/sources-ohio-state-rb-jakobi-jackson-foot-surgery",
+      "publishedAt": "2026-10-21T23:32:14Z",
+      "tags": [
+        "Ohio State",
         "injury",
-        "Ryan Day"
+        "running back"
       ]
     },
     {
-      "id": "norris-better-decisions-piastri",
+      "id": "cadillac-perez-special-edition",
       "category": "f1",
-      "title": "Norris vows 'better decisions' after Piastri clash talks",
-      "summary": "Lando Norris said he will make better decisions going forward after further talks with McLaren about his Singapore collision with teammate Oscar Piastri. The title fight resumes at the United States Grand Prix this weekend with six rounds left.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/50239688/lando-norris-vows-make-better-decisions-oscar-piastri-clash",
-      "publishedAt": "2026-10-21T17:24:00Z",
-      "tags": [
-        "F1",
-        "McLaren",
-        "Lando Norris",
-        "Oscar Piastri"
-      ]
-    },
-    {
-      "id": "mercedes-usgp-special-livery",
-      "category": "f1",
-      "title": "Mercedes unveils dramatic new look for US Grand Prix",
-      "summary": "Mercedes revealed a dramatically different livery for the United States Grand Prix at Circuit of the Americas. Kimi Antonelli arrives in Austin with a 102-point lead and a first shot at the drivers' title.",
+      "title": "Cadillac unveils $222,500 Sergio Perez special-edition ahead of 300th F1 start",
+      "summary": "Cadillac marked Sergio Perez's 300th Formula 1 start with a $222,500 special-edition road car carrying his name. Perez is racing in the new Cadillac team's debut F1 season.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-f1-unveils-dramatic-new-look-for-united-states-grand-prix/10866765/",
-      "publishedAt": "2026-10-21T16:48:00Z",
+      "url": "https://www.motorsport.com/f1/news/cadillac-unveils-222500-sergio-perez-special-edition-ahead-of-300th-f1-start/10866891/",
+      "publishedAt": "2026-10-22T09:26:59Z",
       "tags": [
         "F1",
-        "Mercedes",
-        "USGP",
+        "Cadillac",
+        "Perez"
+      ]
+    },
+    {
+      "id": "ferrari-us-gp-blueprint-livery",
+      "category": "f1",
+      "title": "Ferrari reveals blueprint-style livery for United States GP",
+      "summary": "Ferrari will run a blueprint-style livery at this weekend's United States Grand Prix in Austin. It is one of several special US GP looks teams have unveiled this week.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-reveals-blueprint-style-livery-for-united-states-gp/10866813/",
+      "publishedAt": "2026-10-21T23:18:26Z",
+      "tags": [
+        "F1",
+        "Ferrari",
+        "US GP",
         "livery"
       ]
     },
     {
-      "id": "f1-usgp-five-things-watch",
+      "id": "f1-leica-limited-camera",
       "category": "f1",
-      "title": "Five things to watch as F1 lands in Austin",
-      "summary": "Motorsport.com's USGP preview says Kimi Antonelli can clinch the title in Texas, while Mercedes' constructors' crown will likely wait until Mexico, where it needs a 215-point gap against a current 134. Austin opens a triple-header with Mexico City and Sao Paulo.",
+      "title": "F1 unveils limited-edition Leica camera with $9,950 price tag",
+      "summary": "Formula 1 launched a limited-edition Leica camera priced at $9,950, timed to the United States Grand Prix weekend in Austin. It is the latest branded collectible aimed at F1's growing US fan base.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-united-states-gp/10866706/",
-      "publishedAt": "2026-10-21T16:01:00Z",
+      "url": "https://www.motorsport.com/f1/news/f1-unveils-limited-edition-leica-camera-with-eye-watering-9950-price-tag/10866811/",
+      "publishedAt": "2026-10-21T23:13:11Z",
       "tags": [
         "F1",
-        "USGP",
-        "COTA",
-        "championship"
+        "Leica",
+        "merchandise"
       ]
     },
     {
-      "id": "fia-cost-cap-loophole-rules",
-      "category": "f1",
-      "title": "FIA moves to close F1 cost-cap loophole",
-      "summary": "The FIA's World Motor Sport Council approved rules requiring teams to clearly separate F1 and non-F1 staff from next season. The change targets teams that used personnel nominally assigned to other projects to work around the budget cap.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649/",
-      "publishedAt": "2026-10-21T08:52:00Z",
-      "tags": [
-        "F1",
-        "FIA",
-        "cost cap",
-        "regulations"
-      ]
-    },
-    {
-      "id": "tarkov-error-in-post-fix",
+      "id": "arena-bp-crates-complaint",
       "category": "tarkov",
-      "title": "Players find fix for Tarkov 'Error in Post' failures",
-      "summary": "Escape from Tarkov players hit by 'Error in Post (Error 0)' when posting offers shared a workaround: back up and reset the BSG Launcher settings file, then relaunch the game through Steam. The thread points to a Steam authentication issue rather than a server-wide outage.",
+      "title": "Arena BP crates are just a scam, players say",
+      "summary": "Players are venting that Escape from Tarkov Arena battle-pass crates feel like a rip-off, arguing the rewards do not match the time or money they cost. The thread feeds wider complaints about Arena's economy.",
       "source": "r/EscapefromTarkov",
-      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xbvois/in_case_anyone_is_running_into_error_in_post/",
-      "publishedAt": "2026-10-21T18:44:00Z",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xcd6op/discussion_arena_bp_crates_are_just_a_scam/",
+      "publishedAt": "2026-10-22T08:44:27Z",
       "tags": [
-        "Escape from Tarkov",
-        "bug",
-        "launcher",
-        "community"
+        "Tarkov",
+        "Arena",
+        "economy"
       ]
     },
     {
-      "id": "columbus-medicaid-fraud-plea",
+      "id": "engine-update-october-question",
+      "category": "tarkov",
+      "title": "Are we still getting the engine update this October?",
+      "summary": "With October winding down, players are asking whether Battlestate Games will still ship the promised Unity engine upgrade this month. BSG's 2026 roadmap had pointed to October for the engine move.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xc8cnq/discussion_are_we_still_getting_the_engine_update/",
+      "publishedAt": "2026-10-22T03:56:47Z",
+      "tags": [
+        "Tarkov",
+        "engine",
+        "roadmap"
+      ]
+    },
+    {
+      "id": "labs-ai-behavior-change",
+      "category": "tarkov",
+      "title": "New AI on Labs has players comparing notes",
+      "summary": "Players report the AI on Labs behaving differently after the latest patch and are comparing notes on whether enemies got sharper or just more erratic. Labs raids remain the flashpoint for AI tuning complaints.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xc7w09/discussion_new_ai_on_labs/",
+      "publishedAt": "2026-10-22T03:32:02Z",
+      "tags": [
+        "Tarkov",
+        "Labs",
+        "AI"
+      ]
+    },
+    {
+      "id": "support-tickets-php-outage",
+      "category": "tarkov",
+      "title": "Players suspect support desk is down amid the PHP security scramble",
+      "summary": "Players waiting on support tickets suspect Battlestate's help desk is offline because of the global rush to patch a critical PHP vulnerability. The thread landed as sites across the web went down for emergency fixes.",
+      "source": "r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xc3nmp/support_is_likey_closed_becuase_the_entire_web_is/",
+      "publishedAt": "2026-10-22T00:05:46Z",
+      "tags": [
+        "Tarkov",
+        "support",
+        "outage"
+      ]
+    },
+    {
+      "id": "columbus-retention-pond-safety",
       "category": "local",
-      "title": "Columbus doctor, clinic manager plead guilty in $1.6M fraud",
-      "summary": "A Columbus doctor and a clinic manager pleaded guilty in a Medicaid fraud case involving about $1.6 million, 10TV reported. Sentencing details were not immediately available.",
+      "title": "Columbus City Council seeks public input on retention pond safety",
+      "summary": "Columbus City Council opened public comment on retention pond safety, inviting residents to weigh in on how the ponds that dot neighborhoods and new developments should be secured.",
       "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/columbus-doctor-clinic-manager-plead-guilty-medicaid-fraud-case/530-27e69406-2525-4fdf-8663-9241db27b254",
-      "publishedAt": "2026-10-21T17:38:00Z",
+      "url": "https://www.10tv.com/article/news/local/columbus-city-council-seeks-public-input-on-retention-pond-safety-ohio/530-5a30b490-050d-467a-939f-4b841232b3db",
+      "publishedAt": "2026-10-22T10:20:27Z",
       "tags": [
         "Columbus",
-        "fraud",
-        "Medicaid",
-        "courts"
+        "safety",
+        "city council"
       ]
     },
     {
-      "id": "central-ohio-fog-school-delays",
+      "id": "columbus-asphalt-plant-neighbors",
       "category": "local",
-      "title": "Dense fog closes or delays central Ohio schools",
-      "summary": "Several central Ohio districts closed or pushed back start times Wednesday morning as dense fog cut visibility across the region. The fog burned off later in the day.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/central-ohio-schools-closed-delayed-dense-fog-weather/530-fceeebbb-ae6a-4a1c-ae08-ab735a35167d",
-      "publishedAt": "2026-10-21T13:40:00Z",
-      "tags": [
-        "Columbus",
-        "weather",
-        "schools",
-        "fog"
-      ]
-    },
-    {
-      "id": "columbus-crew-open-cup-final",
-      "category": "local",
-      "title": "Crew chase U.S. Open Cup title against St. Louis City",
-      "summary": "The Columbus Crew meet St. Louis City in the U.S. Open Cup final, the club's first final in 16 years and fourth overall. The Crew reached it by beating Orlando City 2-1 in September behind goals from Josef Martinez and Brais Mendez.",
+      "title": "Concerned neighbors speak out against proposed asphalt plant",
+      "summary": "Neighbors raised concerns about a proposed asphalt plant in Columbus, citing worries over traffic, dust and air quality. Residents got their say as the project moves through the city's review process.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/mls/columbus-crew/columbus-crew-faces-st-louis-city-in-u-s-open-cup-final-things-to-know/",
-      "publishedAt": "2026-10-21T13:30:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/concerned-neighbors-speak-out-against-proposed-asphalt-plant/",
+      "publishedAt": "2026-10-22T03:30:00Z",
+      "tags": [
+        "Columbus",
+        "development",
+        "environment"
+      ]
+    },
+    {
+      "id": "crew-open-cup-final-loss",
+      "category": "local",
+      "title": "St. Louis City beats Columbus Crew on penalties in U.S. Open Cup final",
+      "summary": "St. Louis City won the U.S. Open Cup final over the Columbus Crew in a penalty shootout, denying Columbus the trophy. The Crew had pushed the final to spot kicks after a tight match.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/mls/columbus-crew/st-louis-city-wins-u-s-open-cup-final-over-columbus-crew-in-penalty-shootout/",
+      "publishedAt": "2026-10-22T03:02:09Z",
       "tags": [
         "Columbus Crew",
         "soccer",
-        "U.S. Open Cup",
-        "MLS"
+        "U.S. Open Cup"
       ]
     },
     {
-      "id": "east-columbus-hit-and-run",
+      "id": "columbus-fire-chief-search-reopens",
       "category": "local",
-      "title": "Pedestrian critical after east Columbus hit-and-run",
-      "summary": "A pedestrian was in critical condition after being struck at East Broad Street and North Ohio Avenue in east Columbus just after 6 a.m. Wednesday. Police said the driver did not stop.",
+      "title": "Columbus reopens fire chief search with Nov. 1 deadline",
+      "summary": "Columbus has reopened its search for a fire chief and set a Nov. 1 application deadline. The city is extending a hiring process that began earlier this year.",
       "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/pedestrian-in-critical-condition-after-hit-and-run-crash-in-east-columbus-broad-ohio-avenue/530-ceb4a871-965f-47a1-905f-abfe830e910b",
-      "publishedAt": "2026-10-21T11:13:00Z",
+      "url": "https://www.10tv.com/article/news/local/columbus-reopens-search-fire-chief-sets-application-deadline/530-3be0e503-f07f-4cb6-8745-b01ce22127e9",
+      "publishedAt": "2026-10-21T23:43:43Z",
       "tags": [
         "Columbus",
-        "hit-and-run",
-        "public safety"
+        "fire department",
+        "hiring"
       ]
     }
   ]
