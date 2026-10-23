@@ -1,353 +1,340 @@
 {
   "meta": {
-    "updatedAt": "2026-10-22T19:36:58Z",
+    "updatedAt": "2026-10-23T11:05:23Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 23
+    "count": 22
   },
   "stories": [
     {
-      "id": "top-germany-espionage-20261022",
+      "id": "top-cq4g1p974wxko-1023",
       "category": "top",
-      "title": "Germany is target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "summary": "German Chancellor Friedrich Merz said Germany is the target of 'intensive' espionage after a suspected Russian spy was arrested, with several people alleged to have acted for Russia and other foreign powers detained in Germany this year. Germany has been one of Europe's biggest arms suppliers to Ukraine since Russia's full-scale invasion in 2022.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cmx28y5e04ggo",
-      "publishedAt": "2026-10-22T17:07:03Z",
+      "title": "Five Israelis wounded as two suspected attackers killed in West Bank shooting",
+      "summary": "A shooting in the occupied West Bank wounded five Israelis and Israeli forces killed two suspected Palestinian attackers. The violence comes amid heightened tensions four days before Israel's general election.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq4g1p974wxko",
+      "publishedAt": "2026-10-23T10:26:06Z",
       "tags": [
-        "germany",
-        "russia",
-        "espionage",
-        "security"
-      ]
-    },
-    {
-      "id": "top-trump-bbc-deposition-20261022",
-      "category": "top",
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "summary": "A US judge ordered President Donald Trump to sit for a deposition by 11 December in his defamation suit against the BBC over a Panorama episode that stitched together two parts of his speech before the 2021 Capitol riot. Trump cancelled a 16 October deposition citing 'matters of national importance', and his lawyers have proposed a January window instead.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cmy0ryjx7741o",
-      "publishedAt": "2026-10-22T16:24:14Z",
-      "tags": [
-        "trump",
-        "bbc",
-        "courts",
-        "media"
-      ]
-    },
-    {
-      "id": "top-yemen-twins-hunger-20261022",
-      "category": "top",
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "summary": "The BBC reports on newborn twins struggling to survive in Yemen as conflict drives worsening hunger across the country. The story highlights how years of war have left hospitals and families short of the resources needed to keep malnourished infants alive.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr5ynl63v0pyo",
-      "publishedAt": "2026-10-22T15:56:36Z",
-      "tags": [
-        "yemen",
-        "hunger",
+        "israel",
+        "west-bank",
         "conflict",
-        "humanitarian"
+        "elections"
       ]
     },
     {
-      "id": "top-france-storm-flooding-20261022",
+      "id": "top-c54g1kxw4nvvo-1023",
       "category": "top",
-      "title": "At least four dead after Storm Adam brings flooding to southern France",
-      "summary": "At least four people died and one was injured after Storm Adam triggered widespread flooding across southern France, including two women aged 86 and 26 found drowned in a cellar in the Bouches-du-Rhône region. Dozens of residents were moved into emergency shelters in Mouriès and Saint-Martin-de-Crau, and roads and rail lines were disrupted.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm5ynl4v4wgwo",
-      "publishedAt": "2026-10-22T11:23:16Z",
+      "title": "Sudan's RSF fighters deliberately targeted hospitals, BBC investigation finds",
+      "summary": "A BBC investigation found that RSF fighters deliberately attacked hospitals in Sudan. UN human rights chief Volker T\u00fcrk said the multiple attacks may amount to war crimes.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c54g1kxw4nvvo",
+      "publishedAt": "2026-10-23T10:23:07Z",
       "tags": [
-        "france",
-        "weather",
-        "flooding",
-        "storm"
+        "sudan",
+        "rsf",
+        "war-crimes",
+        "health"
       ]
     },
     {
-      "id": "tech-microsoft-dxo-diagnosis-20261022",
-      "category": "tech",
-      "title": "Microsoft says its AI diagnostic system outperforms doctors on hard cases",
-      "summary": "A study published in Science found Microsoft's MAI-DxO system, which runs several AI agents as a panel of doctors, diagnosed complex New England Journal of Medicine cases correctly 83% of the time versus 36% for generalist physicians working alone. Microsoft is now testing the system with Boston's Beth Israel Deaconess and building a healthcare foundation model with Mayo Clinic.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "publishedAt": "2026-10-22T18:43:00Z",
+      "id": "top-south-korea-invites-north-for-military-t-1023",
+      "category": "top",
+      "title": "South Korea invites North to military talks over tense border",
+      "summary": "Seoul proposed military talks with Pyongyang days after North Korea said it had moved new units into \"firing positions\" along the border. The overture is a rare attempt to lower tension on the heavily armed frontier.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border",
+      "publishedAt": "2026-10-23T10:20:31Z",
       "tags": [
-        "microsoft",
-        "ai",
-        "healthcare",
-        "research"
+        "korea",
+        "diplomacy",
+        "border",
+        "military"
       ]
     },
     {
-      "id": "tech-php-flaw-exploits-20261022",
+      "id": "top-ck5ynd1z6e83o-1023",
+      "category": "top",
+      "title": "Magnitude 7 earthquake in Tibet kills at least 16 and collapses hundreds of homes",
+      "summary": "A magnitude 7.0 earthquake struck China's Nagqu area in the Tibet Autonomous Region, a mountainous and sparsely populated region, killing at least 16 people. Rescuers are working through collapsed housing in remote villages.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ck5ynd1z6e83o",
+      "publishedAt": "2026-10-23T05:16:37Z",
+      "tags": [
+        "china",
+        "tibet",
+        "earthquake",
+        "disaster"
+      ]
+    },
+    {
+      "id": "tech-hacking-php-flaws-1023",
       "category": "tech",
-      "title": "Websites worldwide hit by millions of attempts to exploit PHP flaw",
-      "summary": "Cybersecurity firms reported millions of exploitation attempts against a newly disclosed flaw in PHP, the language underpinning roughly 70% of websites, after governments and companies pulled sites offline to patch. The UK took 32 government services offline as a precaution and its NCSC sent 50,000 alerts while saying it had no reports of successful hacks.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
-      "publishedAt": "2026-10-22T16:42:54Z",
+      "title": "Hacking attempts rise after flaws found in software used by most of the web",
+      "summary": "Attack attempts are climbing after the disclosure of vulnerabilities in PHP, the server-side scripting language that underpins roughly 70 percent of websites. Defenders are racing to patch systems before exploitation broadens.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+      "publishedAt": "2026-10-23T09:37:38Z",
       "tags": [
         "security",
         "php",
-        "internet",
-        "vulnerability"
+        "vulnerabilities",
+        "web"
       ]
     },
     {
-      "id": "tech-anthropic-claude-duet-20261022",
+      "id": "tech-oura-sues-rival-ultrahuman-again-threate-1023",
       "category": "tech",
-      "title": "Anthropic launches Claude Duet, an agent built for work tasks",
-      "summary": "Anthropic released Claude Duet, an agent app on Claude Opus 5.5 that works in the background to build daily briefings and dashboards and suggest actions from a user's data. It is in research preview via waitlist for Pro and Max customers, connects to over 6,000 marketplace connectors, and requires approval for purchases made through Stripe Link or Shop Pay.",
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "summary": "Oura filed a new lawsuit alleging Ultrahuman's Ring Pro infringes two of its patents. The case complicates Ultrahuman's push back into the U.S. smart ring market.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "publishedAt": "2026-10-22T13:53:00Z",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "publishedAt": "2026-10-23T04:22:57Z",
       "tags": [
-        "anthropic",
-        "ai-agents",
-        "claude",
-        "product"
+        "wearables",
+        "patents",
+        "lawsuits",
+        "hardware"
       ]
     },
     {
-      "id": "tech-deepseek-15b-raise-20261022",
+      "id": "tech-uber-rival-indrive-eyes-2027-robotaxi-te-1023",
       "category": "tech",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "summary": "Bloomberg reported that DeepSeek raised about $15 billion, one of China's largest funding rounds, two days after Washington ordered federal civilian agencies to remove its technology over security concerns. CATL and Tencent are among potential investors as the lab boosts spending on infrastructure and open models.",
+      "title": "inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "summary": "Uber rival inDrive plans to begin testing Pony.ai robotaxis in Kazakhstan's capital in the first half of 2027, with Nvidia supplying compute. It marks an early push to bring autonomous ride-hailing to Central Asia.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "publishedAt": "2026-10-22T13:11:00Z",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "publishedAt": "2026-10-23T04:00:00Z",
       "tags": [
-        "deepseek",
-        "china",
-        "funding",
-        "ai"
+        "robotaxi",
+        "autonomous-driving",
+        "ai",
+        "central-asia"
       ]
     },
     {
-      "id": "browns-monken-culture-20261022",
+      "id": "tech-us-tech-stocks-tumble-as-investors-fret--1023",
+      "category": "tech",
+      "title": "US tech stocks tumble as investors fret over AI spending",
+      "summary": "US technology shares dropped sharply as investors questioned whether massive capital spending on AI infrastructure can be sustained. The sell-off underscores how sensitive markets have become to AI capex guidance.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending",
+      "publishedAt": "2026-10-23T03:13:13Z",
+      "tags": [
+        "markets",
+        "ai",
+        "stocks",
+        "investing"
+      ]
+    },
+    {
+      "id": "browns-browns-at-titans-storylines-scouting-rep-1023",
       "category": "browns",
-      "title": "Why Todd Monken's culture may explain the Browns' 4-2 start",
-      "summary": "cleveland.com examines how Todd Monken's leadership has reshaped the Browns' locker room, framing that culture as a major reason Cleveland is 4-2 and alone atop the AFC North. The piece lands as the team prepares for a home game against the one-win Titans.",
+      "title": "Browns at Titans: storylines, scouting report and picks",
+      "summary": "Cleveland.com's Orange and Brown Talk previews Sunday's Browns trip to Tennessee, with Mary Kay Cabot, Ashley Bastock and Dan Labbe on storylines and Lance Reisland scouting the Titans.",
       "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/todd-monkens-leadership-shapes-browns-locker-room-culture-in-4-2-start.html",
-      "publishedAt": "2026-10-22T18:04:44Z",
-      "tags": [
-        "browns",
-        "todd-monken",
-        "culture",
-        "afc-north"
-      ]
-    },
-    {
-      "id": "browns-power-ranking-spread-20261022",
-      "category": "browns",
-      "title": "Browns sit first in AFC North but land anywhere from 11th to 23rd in power rankings",
-      "summary": "The 4-2 Browns lead the AFC North and own the tiebreaker over the teams tied with them, yet national power rankings this week range from 11th at Pro Football Talk to 23rd at NFL Trade Rumors, averaging out to 17th. Cleveland19's newswire notes the 12-spot spread as the strangest part of the weekly exercise.",
-      "source": "Cleveland 19 / The OBR",
-      "url": "https://www.cleveland19.com/2026/10/22/cleveland-browns-news-rumors-102226-first-place-last-place/",
-      "publishedAt": "2026-10-22T12:33:38Z",
-      "tags": [
-        "browns",
-        "power-rankings",
-        "afc-north"
-      ]
-    },
-    {
-      "id": "browns-daily-dawg-chow-20261022",
-      "category": "browns",
-      "title": "Browns look to keep the victory party going against the Titans",
-      "summary": "Dawgs By Nature's Daily Dawg Chow notes the Browns are in first place in the AFC North and face the one-win Tennessee Titans next, with Cleveland playing watchable football outside of Week 1. The roundup also covers Harold Fannin's quiet-but-steady role and Quincy Williams' value as a free-agent signing.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/135802/cleveland-browns-news-harold-fannin-quincy-williams-deshaun-watson",
-      "publishedAt": "2026-10-22T10:00:00Z",
+      "url": "https://www.cleveland.com/orange-and-brown-talk-podcast/2026/10/browns-at-titans-storylines-scouting-report-and-picks-orange-and-brown-talk-podcast.html",
+      "publishedAt": "2026-10-23T10:00:01Z",
       "tags": [
         "browns",
         "titans",
-        "afc-north",
-        "roster"
+        "preview",
+        "nfl"
       ]
     },
     {
-      "id": "buckeyes-day-radio-show-20261022",
-      "category": "buckeyes",
-      "title": "Ryan Day: 'Everybody's got to step up' with Julian Sayin injured",
-      "summary": "On his weekly radio show, Ohio State coach Ryan Day said everyone has to step up with quarterback Julian Sayin out indefinitely, and reiterated 'a foul is a foul' when discussing the treatment of receiver Jeremiah Smith. The Buckeyes are on a bye before visiting USC on Oct. 31.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164810/ryan-day-radio-show-ryan-day-says-everybody-s-got-to-step-up-with-julian-sayin-injured-a-foul-is-a-foul-on-jeremiah",
-      "publishedAt": "2026-10-22T17:11:00Z",
+      "id": "browns-how-the-browns-yac-production-has-been-u-1023",
+      "category": "browns",
+      "title": "Browns' yards-after-catch production uneven but clutch when it counts",
+      "summary": "A third of the way into the season, Cleveland's receiving corps has been inconsistent after the catch but has delivered in key moments. The breakdown looks at where the YAC yards are coming from.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/how-the-browns-yac-production-has-been-uneven-but-clutch-when-it-counts.html",
+      "publishedAt": "2026-10-23T09:00:00Z",
       "tags": [
+        "browns",
+        "offense",
+        "receivers",
+        "analysis"
+      ]
+    },
+    {
+      "id": "browns-browns-jared-verse-unfazed-by-sack-droug-1023",
+      "category": "browns",
+      "title": "Browns' pass rush thrives even as Jared Verse waits for his first sack",
+      "summary": "Jared Verse is sackless through six games but remains upbeat, and Cleveland's defense ranks second in the NFL with 19 sacks under new coordinator Mike Rutenberg. The production has come from a collective effort rather than one edge rusher.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/browns-jared-verse-unfazed-by-sack-drought-as-defense-thrives-in-2026.html",
+      "publishedAt": "2026-10-23T09:00:00Z",
+      "tags": [
+        "browns",
+        "defense",
+        "pass-rush",
+        "nfl"
+      ]
+    },
+    {
+      "id": "browns-quincy-williams-sits-out-thursday-with-a-1023",
+      "category": "browns",
+      "title": "Quincy Williams sits out with neck injury, but two key defenders return to practice",
+      "summary": "Linebacker Quincy Williams missed Thursday's session with a neck injury, leaving his status for Sunday's game at Tennessee uncertain. Carson Schwesinger and Grant Delpit were back in limited practice.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/quincy-williams-sits-out-thursday-with-a-neck-injury-but-two-key-defenders-return-to-practice-for-the-titans-game-browns-takeaways.html",
+      "publishedAt": "2026-10-23T00:11:30Z",
+      "tags": [
+        "browns",
+        "injuries",
+        "defense",
+        "titans"
+      ]
+    },
+    {
+      "id": "buckeyes-530-7c8d9fdf-17f0-4536-a56f-20bee9997743-1023",
+      "category": "buckeyes",
+      "title": "The Beat: Ohio State's quarterback situation overfills the mailbag",
+      "summary": "10TV's Austin & Birm Show devoted Friday's mailbag to Ohio State's quarterback plans with Julian Sayin out indefinitely. The discussion centered on how the Buckeyes sort through options during the bye week.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/video/sports/football/ohio-state-football/the-beat-ohio-state-quarterback-situation-overfills-the-mailbag-as-buckeyes-sort-through-plan/530-7c8d9fdf-17f0-4536-a56f-20bee9997743",
+      "publishedAt": "2026-10-23T09:00:00Z",
+      "tags": [
+        "buckeyes",
+        "quarterbacks",
         "ohio-state",
-        "ryan-day",
-        "julian-sayin",
         "football"
       ]
     },
     {
-      "id": "buckeyes-film-study-indiana-20261022",
+      "id": "buckeyes-skull-session-ohio-state-has-yet-to-play-1023",
       "category": "buckeyes",
-      "title": "Film study: what Ohio State can learn from the Indiana win without Sayin",
-      "summary": "Eleven Warriors' film study breaks down the 19-15 win at Indiana and what it revealed about Ohio State's offense as the Buckeyes prepare for life without Julian Sayin. It focuses on the adjustments that will matter when the schedule stiffens after the bye.",
+      "title": "Skull Session: Ohio State still hasn't played its 'A' game this season",
+      "summary": "Eleven Warriors' Friday roundup argues the Buckeyes have yet to put together a complete performance in 2026. It also notes Jeremiah Smith was named an AP midseason All-American.",
       "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/film-study/2026/10/164799/film-study-what-ohio-state-can-learn-from-the-win-over-indiana-as-it-prepares-for-life-without-julian",
-      "publishedAt": "2026-10-22T15:35:00Z",
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/10/164815/skull-session-ohio-state-has-yet-to-play-its-a-game-this-season-jeremiah-smith-is-an-ap-midseason-all-american-and-the",
+      "publishedAt": "2026-10-23T08:56:02Z",
       "tags": [
+        "buckeyes",
         "ohio-state",
-        "film-study",
-        "offense",
-        "big-ten"
+        "analysis",
+        "jeremiah-smith"
       ]
     },
     {
-      "id": "buckeyes-simple-passing-offense-20261022",
+      "id": "buckeyes-2026-buckeyes-black-stripe-tracker-1023",
       "category": "buckeyes",
-      "title": "Ohio State likely to keep passing offense simple for Fahey or St. Clair",
-      "summary": "With Luke Fahey and Tavien St. Clair splitting first-team reps, Eleven Warriors reports Ohio State will likely simplify its passing game to make things easier for whoever starts at quarterback. The Buckeyes visit No. 16 USC on Halloween in their first game without Sayin.",
+      "title": "Two more freshmen shed their black stripes at Ohio State",
+      "summary": "Favour Akih and Nick Lautar became the 13th and 14th Ohio State freshmen to have their black stripes removed in 2026. The tradition marks a freshman's transition into full standing with the program.",
       "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164803/ohio-state-will-likely-keep-its-passing-offense-to-make-things-easier-for-luke-fahey-or-tavien-st-clair",
-      "publishedAt": "2026-10-22T13:35:00Z",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/03/162054/2026-buckeyes-black-stripe-tracker",
+      "publishedAt": "2026-10-23T00:23:00Z",
       "tags": [
+        "buckeyes",
+        "freshmen",
         "ohio-state",
-        "quarterback",
-        "luke-fahey",
-        "tavien-st-clair"
+        "football"
       ]
     },
     {
-      "id": "buckeyes-espn-predictor-20261022",
-      "category": "buckeyes",
-      "title": "ESPN updates Ohio State game predictions after loss of Julian Sayin",
-      "summary": "ESPN's Matchup Predictor refreshed Ohio State's game-by-game win probabilities after Week 7 and the loss of Julian Sayin. The Buckeyes' remaining slate includes road trips to USC and Nebraska plus home games against Oregon and Michigan.",
-      "source": "Buckeyes Wire",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/10/22/ohio-state-football-updated-espn-game-predictions-loss-julian-sayin/92374716007/",
-      "publishedAt": "2026-10-22T11:03:00Z",
-      "tags": [
-        "ohio-state",
-        "espn",
-        "predictions",
-        "schedule"
-      ]
-    },
-    {
-      "id": "f1-piastri-techniques-20261022",
+      "id": "f1-10867332-1023",
       "category": "f1",
-      "title": "Piastri: what made me fast last season is now my 'downfall'",
-      "summary": "Oscar Piastri said the driving techniques that helped him challenge for the 2025 title have become a liability under the 2026 regulations, speaking at the FIA press conference in Austin. He said the last triple-header felt closer to his old form after a difficult stretch in the McLaren MCL40.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-what-made-me-fast-last-season-is-now-my-downfall/10867108/",
-      "publishedAt": "2026-10-22T19:23:15Z",
+      "title": "Renault agrees to sell Viry-Ch\u00e2tillon F1 engine facility to Belgium's Dumarey Group",
+      "summary": "Renault has agreed to sell its Viry-Ch\u00e2tillon powertrain site to Dumarey Group, a Belgian engineering firm focused on powertrains and components. The deal closes a chapter on Renault's works engine operation in France.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/renault-to-sell-former-f1-engine-facility-in-viry/10867332/",
+      "publishedAt": "2026-10-23T09:39:18Z",
       "tags": [
         "f1",
-        "mclaren",
-        "piastri",
-        "us-grand-prix"
+        "renault",
+        "alpine",
+        "engines"
       ]
     },
     {
-      "id": "f1-usgp-friday-schedule-20261022",
+      "id": "f1-10867192-1023",
       "category": "f1",
-      "title": "United States GP: Friday schedule, weather forecast and how to watch",
-      "summary": "Motorsport.com has the full Friday run-down for the United States Grand Prix at Circuit of the Americas, including practice session times, the Austin weather forecast and how to watch. The weekend opens F1's latest triple-header in the Americas.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-friday-schedule-weather-forecast-and-how-to-watch/10867077/",
-      "publishedAt": "2026-10-22T19:04:56Z",
+      "title": "Norris says COTA bumps are so bad he takes headache tablets before driving",
+      "summary": "Lando Norris backed Max Verstappen's criticism of the Circuit of the Americas surface, saying he uses headache tablets before getting in the car. Verstappen had called the bumps \"unacceptable\" and \"out of control\" ahead of the U.S. Grand Prix.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/its-pretty-bad-why-norris-needs-headache-tablets-for-bumpy-austin-circuit/10867192/",
+      "publishedAt": "2026-10-23T09:17:33Z",
       "tags": [
         "f1",
-        "us-grand-prix",
+        "norris",
         "cota",
-        "schedule"
+        "us-gp"
       ]
     },
     {
-      "id": "f1-slater-audi-fp1-20261022",
+      "id": "f1-10867132-1023",
       "category": "f1",
-      "title": "Freddie Slater to make F1 weekend debut in Audi FP1 sessions",
-      "summary": "Audi will put 18-year-old British F3 runner-up Freddie Slater in the car for first practice at the Mexico City and Sao Paulo Grands Prix, his first F1 race-weekend running. Slater, the first driver signed to Audi's development programme, also steps up to F2 with Invicta in 2027.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/50131368/british-teenager-freddie-slater-make-formula-1-practice-debut-audi-mexico-grand-prix-brazil",
-      "publishedAt": "2026-10-22T17:55:00Z",
-      "tags": [
-        "f1",
-        "audi",
-        "freddie-slater",
-        "rookies"
-      ]
-    },
-    {
-      "id": "f1-horner-red-bull-exit-20261022",
-      "category": "f1",
-      "title": "Horner calls his Red Bull exit 'abrupt and quite brutal'",
-      "summary": "Christian Horner described his Red Bull departure as 'pretty abrupt and quite brutal' while speaking at the Autosport Business Exchange in New York. He was removed as team principal and CEO in July 2025 after 20 years and replaced by Laurent Mekies.",
+      "title": "It's now Bearman versus Camara for the next Ferrari vacancy",
+      "summary": "Ferrari's succession planning has narrowed to Oliver Bearman and Rafael Camara as the two candidates for its next race seat. Timing and academy politics will decide which driver gets the opportunity.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-what-led-up-to-his-abrupt-and-brutal-red-bull-f1-exit/10867047/",
-      "publishedAt": "2026-10-22T17:07:02Z",
+      "url": "https://www.motorsport.com/f1/news/oliver-bearman-versus-rafael-camara-for-the-next-ferrari-vacancy/10867132/",
+      "publishedAt": "2026-10-23T07:48:54Z",
       "tags": [
         "f1",
-        "red-bull",
-        "christian-horner"
+        "ferrari",
+        "drivers",
+        "bearman"
       ]
     },
     {
-      "id": "local-westerville-sextortion-guilty-20261022",
+      "id": "local-two-ohio-polls-put-amy-acton-sherrod-bro-1023",
       "category": "local",
-      "title": "Westerville man pleads guilty to sextortion, exploitation crimes involving minors",
-      "summary": "A Westerville man pleaded guilty to sextortion and exploitation crimes involving minors, 10TV reports. The case adds to a growing run of federal and local prosecutions over online child exploitation in central Ohio.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/westerville-man-pleads-guilty-sextortion-exploitation-crimes-minors/530-2f120752-1d4c-4249-af3b-00685ce4ae8e",
-      "publishedAt": "2026-10-22T18:55:26Z",
-      "tags": [
-        "columbus",
-        "crime",
-        "courts",
-        "westerville"
-      ]
-    },
-    {
-      "id": "local-weekend-events-oct22-25-20261022",
-      "category": "local",
-      "title": "Columbus-area weekend events for Oct. 22-25: pumpkin show, MMA and spooky fun",
-      "summary": "NBC4 rounds up central Ohio events for Oct. 22-25, led by the Circleville Pumpkin Show along with MMA and Halloween-themed happenings. It is the paper's weekly guide to what is worth leaving the house for around Columbus.",
+      "title": "Two Ohio polls put Acton and Sherrod Brown ahead in statewide races",
+      "summary": "Two new Ohio polls show Democrats Amy Acton and Sherrod Brown leading their Republican opponents in the governor's and Senate races. Voters cited cost of living and President Trump's performance ahead of the Nov. 3 election.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/central-ohio-october-festivities/",
-      "publishedAt": "2026-10-22T16:00:00Z",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/two-ohio-polls-put-amy-acton-sherrod-brown-ahead-in-ohios-senate-governors-races/",
+      "publishedAt": "2026-10-23T10:30:00Z",
       "tags": [
-        "columbus",
-        "events",
-        "weekend",
-        "halloween"
+        "ohio",
+        "elections",
+        "polls",
+        "politics"
       ]
     },
     {
-      "id": "local-hilltop-hot-chicken-expansion-20261022",
+      "id": "local-after-recent-pond-drownings-columbus-cit-1023",
       "category": "local",
-      "title": "Hilltop hot chicken joint expands to northeast Columbus",
-      "summary": "A hot chicken restaurant that started on the Hilltop is opening a second location in northeast Columbus, NBC4 reports. The expansion follows steady demand on the west side and puts the concept closer to the city's fast-growing northeast corridor.",
+      "title": "Columbus council weighs new rules after retention pond drownings",
+      "summary": "After a toddler drowned in a north Columbus retention pond, City Council held a hearing on legislation intended to prevent similar tragedies. Members reviewed local drowning statistics and proposals to improve warning and safety measures at ponds.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/hilltop-hot-chicken-joint-expands-to-northeast-columbus/",
-      "publishedAt": "2026-10-22T14:30:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/after-recent-pond-drownings-columbus-city-council-considers-new-legislation/",
+      "publishedAt": "2026-10-23T09:30:00Z",
       "tags": [
         "columbus",
-        "restaurants",
-        "business",
-        "hilltop"
+        "city-council",
+        "safety",
+        "public-policy"
       ]
     },
     {
-      "id": "local-ice-protest-walk-20261022",
+      "id": "local-proposed-new-albany-power-plant-draws-cr-1023",
       "category": "local",
-      "title": "Haitians and advocates walk from Springfield to Columbus to protest ICE",
-      "summary": "Haitians and their advocates marched from Springfield to Columbus in protest of ICE enforcement, NBC4 reports. The walk follows months of heightened immigration enforcement and rhetoric aimed at Springfield's Haitian community.",
+      "title": "New Albany data center power plant draws backers and critics at hearing",
+      "summary": "The Ohio Power Siting Board held a public hearing on a proposed power plant serving a data center in New Albany's business park. Residents, environmental advocates and business leaders split over the project.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/haitians-advocates-walk-from-springfield-to-columbus-in-protest-of-ice/",
-      "publishedAt": "2026-10-22T12:00:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/new-albany/proposed-new-albany-power-plant-draws-critics-supporters-to-hearing/",
+      "publishedAt": "2026-10-23T03:00:00Z",
+      "tags": [
+        "new-albany",
+        "data-centers",
+        "energy",
+        "columbus"
+      ]
+    },
+    {
+      "id": "local-columbus-emergency-shelter-looking-for-p-1023",
+      "category": "local",
+      "title": "Columbus emergency shelter seeks new partners as YMCA tie-up ends",
+      "summary": "The Van Buren Center's partnership with the YMCA of Central Ohio is ending after more than a decade. The Community Shelter Board is looking for organizations to provide services at the emergency shelter.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-emergency-shelter-looking-for-partners-as-ymca-partnership-ends/",
+      "publishedAt": "2026-10-23T00:30:00Z",
       "tags": [
         "columbus",
-        "immigration",
-        "protest",
-        "springfield"
+        "homelessness",
+        "shelter",
+        "community"
       ]
     }
   ]
