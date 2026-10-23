@@ -1,340 +1,399 @@
 {
   "meta": {
-    "updatedAt": "2026-10-23T11:05:23Z",
+    "updatedAt": "2026-10-23T19:36:28Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 22
+    "count": 26
   },
   "stories": [
     {
-      "id": "top-cq4g1p974wxko-1023",
+      "id": "bbc-melania-ukraine-truce",
       "category": "top",
-      "title": "Five Israelis wounded as two suspected attackers killed in West Bank shooting",
-      "summary": "A shooting in the occupied West Bank wounded five Israelis and Israeli forces killed two suspected Palestinian attackers. The violence comes amid heightened tensions four days before Israel's general election.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cq4g1p974wxko",
-      "publishedAt": "2026-10-23T10:26:06Z",
+      "title": "Melania Trump brokers truce for besieged Ukraine city of Oleshky",
+      "summary": "Ukraine and Russia both confirmed a truce in Russian-occupied Oleshky, a city the White House said was 'on the brink of disaster' after residents were left eating garden weeds. It is a rare locally agreed pause in fighting brokered through the US first lady.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+      "publishedAt": "2026-10-23T19:30:00Z",
       "tags": [
-        "israel",
-        "west-bank",
-        "conflict",
-        "elections"
-      ]
-    },
-    {
-      "id": "top-c54g1kxw4nvvo-1023",
-      "category": "top",
-      "title": "Sudan's RSF fighters deliberately targeted hospitals, BBC investigation finds",
-      "summary": "A BBC investigation found that RSF fighters deliberately attacked hospitals in Sudan. UN human rights chief Volker T\u00fcrk said the multiple attacks may amount to war crimes.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c54g1kxw4nvvo",
-      "publishedAt": "2026-10-23T10:23:07Z",
-      "tags": [
-        "sudan",
-        "rsf",
-        "war-crimes",
-        "health"
-      ]
-    },
-    {
-      "id": "top-south-korea-invites-north-for-military-t-1023",
-      "category": "top",
-      "title": "South Korea invites North to military talks over tense border",
-      "summary": "Seoul proposed military talks with Pyongyang days after North Korea said it had moved new units into \"firing positions\" along the border. The overture is a rare attempt to lower tension on the heavily armed frontier.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border",
-      "publishedAt": "2026-10-23T10:20:31Z",
-      "tags": [
-        "korea",
+        "Ukraine",
+        "Russia",
         "diplomacy",
-        "border",
+        "ceasefire"
+      ]
+    },
+    {
+      "id": "bbc-paris-shooting-macron",
+      "category": "top",
+      "title": "Macron calls deadly shooting near Paris a 'racist terrorist attack'",
+      "summary": "One person was killed and five wounded in a series of attacks near Paris, and the suspected gunman has been apprehended. Macron's framing makes the case a national security and hate-crime matter days after nationwide protests over policing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
+      "publishedAt": "2026-10-23T19:20:00Z",
+      "tags": [
+        "France",
+        "Macron",
+        "shooting",
+        "extremism"
+      ]
+    },
+    {
+      "id": "bbc-ukraine-starlink-restricted",
+      "category": "top",
+      "title": "Ukraine says Starlink is still restricted despite Trump saying limits were lifted",
+      "summary": "Ukrainian officials say Starlink service remains curtailed even after Trump said he would 'get it straightened out' if there was a problem, with the network used by Ukraine's military. The gap between Washington's statements and the ground reality leaves a key battlefield link in limbo.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+      "publishedAt": "2026-10-23T18:52:00Z",
+      "tags": [
+        "Ukraine",
+        "Starlink",
+        "Musk",
         "military"
       ]
     },
     {
-      "id": "top-ck5ynd1z6e83o-1023",
+      "id": "bbc-jordan-funeral-shooting",
       "category": "top",
-      "title": "Magnitude 7 earthquake in Tibet kills at least 16 and collapses hundreds of homes",
-      "summary": "A magnitude 7.0 earthquake struck China's Nagqu area in the Tibet Autonomous Region, a mountainous and sparsely populated region, killing at least 16 people. Rescuers are working through collapsed housing in remote villages.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ck5ynd1z6e83o",
-      "publishedAt": "2026-10-23T05:16:37Z",
+      "title": "Seven shot dead by gunmen at a church funeral in Jordan",
+      "summary": "Gunmen killed seven people and wounded 34 at a funeral in southern Karak governorate, Jordanian officials said, and a manhunt is under way. The attack on a religious gathering is one of the deadliest security incidents in Jordan in years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
+      "publishedAt": "2026-10-23T18:10:00Z",
       "tags": [
-        "china",
-        "tibet",
-        "earthquake",
-        "disaster"
+        "Jordan",
+        "attack",
+        "security",
+        "Middle East"
       ]
     },
     {
-      "id": "tech-hacking-php-flaws-1023",
+      "id": "verge-spacex-80000-cell-sites",
       "category": "tech",
-      "title": "Hacking attempts rise after flaws found in software used by most of the web",
-      "summary": "Attack attempts are climbing after the disclosure of vulnerabilities in PHP, the server-side scripting language that underpins roughly 70 percent of websites. Defenders are racing to patch systems before exploitation broadens.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-      "publishedAt": "2026-10-23T09:37:38Z",
+      "title": "SpaceX's carrier push reportedly taps 80,000 US cell sites",
+      "summary": "SpaceX is reportedly in talks to access at least 80,000 US cell sites to underpin Starlink Mobile as a fourth nationwide carrier. The move would put Starlink Mobile directly against AT&T, Verizon and T-Mobile.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+      "publishedAt": "2026-10-23T17:14:00Z",
+      "tags": [
+        "SpaceX",
+        "Starlink",
+        "telecom",
+        "wireless"
+      ]
+    },
+    {
+      "id": "verge-google-gmail-photos-ads",
+      "category": "tech",
+      "title": "Google says Gmail and Photos data may now be used to target ads",
+      "summary": "A revised Google privacy policy states that opting in to better AI recommendations also opens that data to more personalised advertising. It is a notable expansion of how consumer data feeds Google's ad business as assistant features grow more personal.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "publishedAt": "2026-10-23T16:52:00Z",
+      "tags": [
+        "Google",
+        "privacy",
+        "advertising",
+        "AI"
+      ]
+    },
+    {
+      "id": "tc-daytona-1b-valuation",
+      "category": "tech",
+      "title": "Agent cloud startup Daytona hits $1B valuation",
+      "summary": "Daytona, which gives each AI agent its own cloud computer, raised a round led by FirstMark at a $1 billion valuation with angels including founders of Stripe, Perplexity and Datadog. The deal signals investor appetite for infrastructure built specifically for autonomous agents.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "publishedAt": "2026-10-23T16:26:00Z",
+      "tags": [
+        "AI agents",
+        "startups",
+        "funding",
+        "cloud"
+      ]
+    },
+    {
+      "id": "tc-quest-diagnostics-breach",
+      "category": "tech",
+      "title": "Quest Diagnostics confirms patient health data stolen in breach",
+      "summary": "Quest Diagnostics confirmed that patients' personal and health information was compromised in a breach affecting its Quanum health records platform. It is the latest in a run of hacks at healthcare technology companies holding sensitive medical data.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "publishedAt": "2026-10-23T15:00:00Z",
       "tags": [
         "security",
-        "php",
-        "vulnerabilities",
-        "web"
+        "healthcare",
+        "data breach",
+        "Quest Diagnostics"
       ]
     },
     {
-      "id": "tech-oura-sues-rival-ultrahuman-again-threate-1023",
-      "category": "tech",
-      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-      "summary": "Oura filed a new lawsuit alleging Ultrahuman's Ring Pro infringes two of its patents. The case complicates Ultrahuman's push back into the U.S. smart ring market.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "publishedAt": "2026-10-23T04:22:57Z",
-      "tags": [
-        "wearables",
-        "patents",
-        "lawsuits",
-        "hardware"
-      ]
-    },
-    {
-      "id": "tech-uber-rival-indrive-eyes-2027-robotaxi-te-1023",
-      "category": "tech",
-      "title": "inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "summary": "Uber rival inDrive plans to begin testing Pony.ai robotaxis in Kazakhstan's capital in the first half of 2027, with Nvidia supplying compute. It marks an early push to bring autonomous ride-hailing to Central Asia.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "publishedAt": "2026-10-23T04:00:00Z",
-      "tags": [
-        "robotaxi",
-        "autonomous-driving",
-        "ai",
-        "central-asia"
-      ]
-    },
-    {
-      "id": "tech-us-tech-stocks-tumble-as-investors-fret--1023",
-      "category": "tech",
-      "title": "US tech stocks tumble as investors fret over AI spending",
-      "summary": "US technology shares dropped sharply as investors questioned whether massive capital spending on AI infrastructure can be sustained. The sell-off underscores how sensitive markets have become to AI capex guidance.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending",
-      "publishedAt": "2026-10-23T03:13:13Z",
-      "tags": [
-        "markets",
-        "ai",
-        "stocks",
-        "investing"
-      ]
-    },
-    {
-      "id": "browns-browns-at-titans-storylines-scouting-rep-1023",
+      "id": "cle-browns-injury-report-questionable",
       "category": "browns",
-      "title": "Browns at Titans: storylines, scouting report and picks",
-      "summary": "Cleveland.com's Orange and Brown Talk previews Sunday's Browns trip to Tennessee, with Mary Kay Cabot, Ashley Bastock and Dan Labbe on storylines and Lance Reisland scouting the Titans.",
+      "title": "Ward, Williams and Delpit all questionable for Browns vs Titans",
+      "summary": "Cleveland added cornerback Denzel Ward to the injury report as limited with a hand injury, leaving him questionable along with Quincy Williams and Grant Delpit for Sunday in Tennessee. Losing three defensive starters would test a defense carrying a 4-2 team.",
       "source": "cleveland.com",
-      "url": "https://www.cleveland.com/orange-and-brown-talk-podcast/2026/10/browns-at-titans-storylines-scouting-report-and-picks-orange-and-brown-talk-podcast.html",
-      "publishedAt": "2026-10-23T10:00:01Z",
+      "url": "https://www.cleveland.com/browns/2026/10/browns-defenders-denzel-ward-quincy-williams-and-grant-delpit-all-questionable-for-the-titans-game.html",
+      "publishedAt": "2026-10-23T17:38:00Z",
       "tags": [
-        "browns",
-        "titans",
-        "preview",
-        "nfl"
-      ]
-    },
-    {
-      "id": "browns-how-the-browns-yac-production-has-been-u-1023",
-      "category": "browns",
-      "title": "Browns' yards-after-catch production uneven but clutch when it counts",
-      "summary": "A third of the way into the season, Cleveland's receiving corps has been inconsistent after the catch but has delivered in key moments. The breakdown looks at where the YAC yards are coming from.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/how-the-browns-yac-production-has-been-uneven-but-clutch-when-it-counts.html",
-      "publishedAt": "2026-10-23T09:00:00Z",
-      "tags": [
-        "browns",
-        "offense",
-        "receivers",
-        "analysis"
-      ]
-    },
-    {
-      "id": "browns-browns-jared-verse-unfazed-by-sack-droug-1023",
-      "category": "browns",
-      "title": "Browns' pass rush thrives even as Jared Verse waits for his first sack",
-      "summary": "Jared Verse is sackless through six games but remains upbeat, and Cleveland's defense ranks second in the NFL with 19 sacks under new coordinator Mike Rutenberg. The production has come from a collective effort rather than one edge rusher.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/browns-jared-verse-unfazed-by-sack-drought-as-defense-thrives-in-2026.html",
-      "publishedAt": "2026-10-23T09:00:00Z",
-      "tags": [
-        "browns",
-        "defense",
-        "pass-rush",
-        "nfl"
-      ]
-    },
-    {
-      "id": "browns-quincy-williams-sits-out-thursday-with-a-1023",
-      "category": "browns",
-      "title": "Quincy Williams sits out with neck injury, but two key defenders return to practice",
-      "summary": "Linebacker Quincy Williams missed Thursday's session with a neck injury, leaving his status for Sunday's game at Tennessee uncertain. Carson Schwesinger and Grant Delpit were back in limited practice.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/quincy-williams-sits-out-thursday-with-a-neck-injury-but-two-key-defenders-return-to-practice-for-the-titans-game-browns-takeaways.html",
-      "publishedAt": "2026-10-23T00:11:30Z",
-      "tags": [
-        "browns",
+        "Browns",
         "injuries",
-        "defense",
-        "titans"
+        "Denzel Ward",
+        "Week 7"
       ]
     },
     {
-      "id": "buckeyes-530-7c8d9fdf-17f0-4536-a56f-20bee9997743-1023",
-      "category": "buckeyes",
-      "title": "The Beat: Ohio State's quarterback situation overfills the mailbag",
-      "summary": "10TV's Austin & Birm Show devoted Friday's mailbag to Ohio State's quarterback plans with Julian Sayin out indefinitely. The discussion centered on how the Buckeyes sort through options during the bye week.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/video/sports/football/ohio-state-football/the-beat-ohio-state-quarterback-situation-overfills-the-mailbag-as-buckeyes-sort-through-plan/530-7c8d9fdf-17f0-4536-a56f-20bee9997743",
-      "publishedAt": "2026-10-23T09:00:00Z",
+      "id": "cle-browns-jeffery-simmons-challenge",
+      "category": "browns",
+      "title": "Browns must solve Titans' game-wrecking Jeffery Simmons",
+      "summary": "Todd Monken got to know Jeffery Simmons' older brother at Southern Miss, and now has to scheme around the Titans defensive tackle with Deshaun Watson and a struggling pass game. Keeping Simmons out of the backfield is the central matchup of Sunday's trip to Tennessee.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/todd-monken-knew-jeffery-simmons-before-he-became-a-game-wrecker-now-the-browns-have-to-stop-him.html",
+      "publishedAt": "2026-10-23T17:12:00Z",
       "tags": [
-        "buckeyes",
+        "Browns",
+        "Titans",
+        "Jeffery Simmons",
+        "matchup"
+      ]
+    },
+    {
+      "id": "dbn-browns-win-total-85",
+      "category": "browns",
+      "title": "Browns' season win total climbs to 8.5 as respect lags",
+      "summary": "Cleveland is tied for first in the AFC North, yet the market has moved its preseason win over/under from the 5.5-6.5 range to 8.5. A win at Tennessee would push the Browns to 5-2 and likely force more national acknowledgement.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-betting-odds-gambling/135664/browns-betting-lines-over-under-week-7-2026-season",
+      "publishedAt": "2026-10-23T14:22:00Z",
+      "tags": [
+        "Browns",
+        "betting",
+        "AFC North",
+        "expectations"
+      ]
+    },
+    {
+      "id": "cle19-browns-titans-scouting-trap",
+      "category": "browns",
+      "title": "Browns warned Tennessee is 'the ultimate trap opponent'",
+      "summary": "Cleveland's Friday newswire framed Sunday as a trap game: the Titans are 1-5 and last in the league in offense at 236 yards a game, and Cam Ward is 4-19 as a starter. The Browns have already lost once this season as a heavy favourite, to the Jets.",
+      "source": "cleveland19.com",
+      "url": "https://www.cleveland19.com/2026/10/23/cleveland-browns-news-rumors-102326-scouting-trap/",
+      "publishedAt": "2026-10-23T13:22:00Z",
+      "tags": [
+        "Browns",
+        "Titans",
+        "Cam Ward",
+        "preview"
+      ]
+    },
+    {
+      "id": "bi-patricia-defense-level-up",
+      "category": "buckeyes",
+      "title": "Matt Patricia says Ohio State's defense must 'level up' in bye week",
+      "summary": "With Ohio State off for the only time in a 13-week stretch, defensive coordinator Matt Patricia is using the week to push improvement rather than rest. The Buckeyes next play at No. 16 USC on Oct. 31 with Luke Fahey at quarterback.",
+      "source": "Buckeyes Insider",
+      "url": "https://www.bucksinsider.com/2026/10/23/defensive-coordinator-matt-patrica-says-ohio-states-defense-must-level-up-during-off-week/",
+      "publishedAt": "2026-10-23T18:26:00Z",
+      "tags": [
+        "Ohio State",
+        "football",
+        "bye week",
+        "Matt Patricia"
+      ]
+    },
+    {
+      "id": "bi-osu-qb-plan-bm5",
+      "category": "buckeyes",
+      "title": "Buckeyes weigh one quarterback or two after Julian Sayin's injury",
+      "summary": "Buckeyes coverage focused Friday on how Ryan Day will handle the position with Sayin out several weeks: ride Luke Fahey alone or use Tavien St. Clair in packages. The decision looms before a road trip to USC following the bye.",
+      "source": "Buckeyes Insider",
+      "url": "https://www.bucksinsider.com/2026/10/23/bm5-both-qbs-or-just-fahey-the-pencil-drawing-up-success-jordan-hall-vibes/",
+      "publishedAt": "2026-10-23T17:37:00Z",
+      "tags": [
+        "Ohio State",
         "quarterbacks",
-        "ohio-state",
-        "football"
+        "Luke Fahey",
+        "Julian Sayin"
       ]
     },
     {
-      "id": "buckeyes-skull-session-ohio-state-has-yet-to-play-1023",
+      "id": "bi-scarlet-spreadsheet-bye-week",
       "category": "buckeyes",
-      "title": "Skull Session: Ohio State still hasn't played its 'A' game this season",
-      "summary": "Eleven Warriors' Friday roundup argues the Buckeyes have yet to put together a complete performance in 2026. It also notes Jeremiah Smith was named an AP midseason All-American.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/skull-sessions/2026/10/164815/skull-session-ohio-state-has-yet-to-play-its-a-game-this-season-jeremiah-smith-is-an-ap-midseason-all-american-and-the",
-      "publishedAt": "2026-10-23T08:56:02Z",
+      "title": "Where Ohio State stands analytically heading into the bye",
+      "summary": "A numbers review of Ohio State's season to date lands after Ohio State moved up to No. 2 in the Coaches Poll and No. 3 in the AP Top 25 following its win over Indiana. It frames what the off week needs to fix before the closing stretch against USC and Oregon.",
+      "source": "Buckeyes Insider",
+      "url": "https://www.bucksinsider.com/2026/10/23/scarlet-spreadsheet-where-ohio-state-stands-analytically-heading-into-the-bye-week/",
+      "publishedAt": "2026-10-23T15:24:00Z",
       "tags": [
-        "buckeyes",
-        "ohio-state",
-        "analysis",
-        "jeremiah-smith"
+        "Ohio State",
+        "analytics",
+        "bye week",
+        "rankings"
       ]
     },
     {
-      "id": "buckeyes-2026-buckeyes-black-stripe-tracker-1023",
+      "id": "bi-osu-bye-week-guide",
       "category": "buckeyes",
-      "title": "Two more freshmen shed their black stripes at Ohio State",
-      "summary": "Favour Akih and Nick Lautar became the 13th and 14th Ohio State freshmen to have their black stripes removed in 2026. The tradition marks a freshman's transition into full standing with the program.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/03/162054/2026-buckeyes-black-stripe-tracker",
-      "publishedAt": "2026-10-23T00:23:00Z",
+      "title": "Guide to Ohio State's bye week: 10 games to watch and Michigan's QB problem",
+      "summary": "A weekend viewing guide highlights the matchups that matter to the Buckeyes' resume and dips into Michigan's issues with Bryce Underwood at quarterback. With no game Saturday, other results shape the playoff picture around Ohio State.",
+      "source": "Buckeyes Insider",
+      "url": "https://www.bucksinsider.com/2026/10/23/guide-to-ohio-states-bye-week-10-games-to-watch-michigans-bryce-underwood-problem-and-more/",
+      "publishedAt": "2026-10-23T13:23:00Z",
       "tags": [
-        "buckeyes",
-        "freshmen",
-        "ohio-state",
-        "football"
+        "Ohio State",
+        "bye week",
+        "Michigan",
+        "college football"
       ]
     },
     {
-      "id": "f1-10867332-1023",
+      "id": "motorsport-ferrari-upgrade-verdict",
       "category": "f1",
-      "title": "Renault agrees to sell Viry-Ch\u00e2tillon F1 engine facility to Belgium's Dumarey Group",
-      "summary": "Renault has agreed to sell its Viry-Ch\u00e2tillon powertrain site to Dumarey Group, a Belgian engineering firm focused on powertrains and components. The deal closes a chapter on Renault's works engine operation in France.",
+      "title": "Ferrari drivers play down much-hyped Austin upgrade",
+      "summary": "Lewis Hamilton and Charles Leclerc tempered expectations for Ferrari's United States Grand Prix upgrade package despite a promising first practice. Leclerc has said a bigger prize than second in the teams' championship is what he is chasing.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-drivers-deliver-disappointing-verdict-on-much-hyped-united-states-gp-upgrade/10867525/",
+      "publishedAt": "2026-10-23T19:14:00Z",
+      "tags": [
+        "F1",
+        "Ferrari",
+        "US GP",
+        "upgrades"
+      ]
+    },
+    {
+      "id": "f1com-fp1-leclerc-fastest-austin",
+      "category": "f1",
+      "title": "Leclerc fastest in FP1 for the United States GP",
+      "summary": "Charles Leclerc topped first practice at Circuit of The Americas with a 1m36.052s, edging Max Verstappen by 0.084s and Lando Norris by 0.245s. Kimi Antonelli, fifth on the day, can clinch his first title this weekend in Austin.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/fp1-leclerc-fastest-in-first-practice-for-the-united-states-gp-ahead-of-verstappen-and-norris.125WlaFK7K1mXXyLgb93ui",
+      "publishedAt": "2026-10-23T18:51:00Z",
+      "tags": [
+        "F1",
+        "US GP",
+        "Charles Leclerc",
+        "practice"
+      ]
+    },
+    {
+      "id": "motorsport-norris-mclaren-warning",
+      "category": "f1",
+      "title": "Norris warns McLaren his car is 'one of the hardest I've ever had to drive'",
+      "summary": "Despite poles and wins this season, Lando Norris called his McLaren a nightmare to handle at times ahead of the US GP. The admission complicates McLaren's push to close out the championship in the closing rounds.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/",
+      "publishedAt": "2026-10-23T17:56:00Z",
+      "tags": [
+        "F1",
+        "McLaren",
+        "Lando Norris",
+        "US GP"
+      ]
+    },
+    {
+      "id": "autosport-renault-viry-sale",
+      "category": "f1",
+      "title": "Renault to sell its former F1 engine facility at Viry",
+      "summary": "Renault has secured a buyer for the Viry factory after winding down its Formula 1 engine programme. The sale closes a chapter on one of the sport's longest-running engine operations as the 2026 regulations reshaped powertrain strategy.",
       "source": "Autosport",
       "url": "https://www.autosport.com/f1/news/renault-to-sell-former-f1-engine-facility-in-viry/10867332/",
-      "publishedAt": "2026-10-23T09:39:18Z",
+      "publishedAt": "2026-10-23T09:39:00Z",
       "tags": [
-        "f1",
-        "renault",
-        "alpine",
+        "F1",
+        "Renault",
+        "Viry",
         "engines"
       ]
     },
     {
-      "id": "f1-10867192-1023",
-      "category": "f1",
-      "title": "Norris says COTA bumps are so bad he takes headache tablets before driving",
-      "summary": "Lando Norris backed Max Verstappen's criticism of the Circuit of the Americas surface, saying he uses headache tablets before getting in the car. Verstappen had called the bumps \"unacceptable\" and \"out of control\" ahead of the U.S. Grand Prix.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/its-pretty-bad-why-norris-needs-headache-tablets-for-bumpy-austin-circuit/10867192/",
-      "publishedAt": "2026-10-23T09:17:33Z",
+      "id": "reddit-tarkov-active-raid-loadins",
+      "category": "tarkov",
+      "title": "Players report being loaded into raids already in progress",
+      "summary": "Escape from Tarkov players are reporting that matchmaking is dropping them into raids that are already underway, leaving late arrivals on an already-looted map. The complaints follow the recent patch wave and the Scourge Incursion event in The Lab.",
+      "source": "Reddit r/EscapefromTarkov",
+      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xdilwp/loading_into_already_active_raids_feedback/",
+      "publishedAt": "2026-10-23T16:20:00Z",
       "tags": [
-        "f1",
-        "norris",
-        "cota",
-        "us-gp"
-      ]
-    },
-    {
-      "id": "f1-10867132-1023",
-      "category": "f1",
-      "title": "It's now Bearman versus Camara for the next Ferrari vacancy",
-      "summary": "Ferrari's succession planning has narrowed to Oliver Bearman and Rafael Camara as the two candidates for its next race seat. Timing and academy politics will decide which driver gets the opportunity.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-versus-rafael-camara-for-the-next-ferrari-vacancy/10867132/",
-      "publishedAt": "2026-10-23T07:48:54Z",
-      "tags": [
-        "f1",
-        "ferrari",
-        "drivers",
-        "bearman"
-      ]
-    },
-    {
-      "id": "local-two-ohio-polls-put-amy-acton-sherrod-bro-1023",
-      "category": "local",
-      "title": "Two Ohio polls put Acton and Sherrod Brown ahead in statewide races",
-      "summary": "Two new Ohio polls show Democrats Amy Acton and Sherrod Brown leading their Republican opponents in the governor's and Senate races. Voters cited cost of living and President Trump's performance ahead of the Nov. 3 election.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/two-ohio-polls-put-amy-acton-sherrod-brown-ahead-in-ohios-senate-governors-races/",
-      "publishedAt": "2026-10-23T10:30:00Z",
-      "tags": [
-        "ohio",
-        "elections",
-        "polls",
-        "politics"
-      ]
-    },
-    {
-      "id": "local-after-recent-pond-drownings-columbus-cit-1023",
-      "category": "local",
-      "title": "Columbus council weighs new rules after retention pond drownings",
-      "summary": "After a toddler drowned in a north Columbus retention pond, City Council held a hearing on legislation intended to prevent similar tragedies. Members reviewed local drowning statistics and proposals to improve warning and safety measures at ponds.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/after-recent-pond-drownings-columbus-city-council-considers-new-legislation/",
-      "publishedAt": "2026-10-23T09:30:00Z",
-      "tags": [
-        "columbus",
-        "city-council",
-        "safety",
-        "public-policy"
-      ]
-    },
-    {
-      "id": "local-proposed-new-albany-power-plant-draws-cr-1023",
-      "category": "local",
-      "title": "New Albany data center power plant draws backers and critics at hearing",
-      "summary": "The Ohio Power Siting Board held a public hearing on a proposed power plant serving a data center in New Albany's business park. Residents, environmental advocates and business leaders split over the project.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/new-albany/proposed-new-albany-power-plant-draws-critics-supporters-to-hearing/",
-      "publishedAt": "2026-10-23T03:00:00Z",
-      "tags": [
-        "new-albany",
-        "data-centers",
-        "energy",
-        "columbus"
-      ]
-    },
-    {
-      "id": "local-columbus-emergency-shelter-looking-for-p-1023",
-      "category": "local",
-      "title": "Columbus emergency shelter seeks new partners as YMCA tie-up ends",
-      "summary": "The Van Buren Center's partnership with the YMCA of Central Ohio is ending after more than a decade. The Community Shelter Board is looking for organizations to provide services at the emergency shelter.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-emergency-shelter-looking-for-partners-as-ymca-partnership-ends/",
-      "publishedAt": "2026-10-23T00:30:00Z",
-      "tags": [
-        "columbus",
-        "homelessness",
-        "shelter",
+        "Escape from Tarkov",
+        "matchmaking",
+        "bugs",
         "community"
+      ]
+    },
+    {
+      "id": "arena-patch-0615-wildcard-ammo",
+      "category": "tarkov",
+      "title": "Tarkov Arena patch 0.6.1.5 strips high-tier ammo from Wildcard class",
+      "summary": "Battlestate's 0.6.1.5 update removes top-tier rounds such as M995, M61, BS and AP-20 from weapons available to the Wildcard class during its event. The aim is to lengthen time-to-kill and restore armor's value, with a player survey to follow.",
+      "source": "Escape from Tarkov: Arena",
+      "url": "https://arena.tarkov.com/news/patch-0615",
+      "publishedAt": "2026-10-23T11:20:00Z",
+      "tags": [
+        "Tarkov Arena",
+        "patch notes",
+        "balance",
+        "Wildcard event"
+      ]
+    },
+    {
+      "id": "nbc4-cbus-hsfb-week-final",
+      "category": "local",
+      "title": "Final week of central Ohio high school football regular season",
+      "summary": "Football Friday Nite's last regular-season edition pairs Gahanna Lincoln and Pickerington North as the game of the week, with playoff berths on the line across central Ohio. Scores and highlights are being updated through Friday night.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/ffn/columbus-area-high-school-football-scores-and-highlights-oct-23-2026/",
+      "publishedAt": "2026-10-23T19:30:00Z",
+      "tags": [
+        "Columbus",
+        "high school football",
+        "Gahanna",
+        "Pickerington"
+      ]
+    },
+    {
+      "id": "10tv-amazon-sunbury-data-center",
+      "category": "local",
+      "title": "Amazon answers questions on $2B Sunbury data center before vote",
+      "summary": "Amazon public policy VP Shannon Kellogg addressed electricity and water use concerns ahead of a November vote on the proposed $2 billion Sunbury data center. The project has become a test case for how central Ohio weighs data-center growth against utility costs.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/amazon-executive-sunbury-data-center/530-49dfdf90-c535-472d-83b2-c318432c9361",
+      "publishedAt": "2026-10-23T15:53:00Z",
+      "tags": [
+        "Columbus",
+        "data centers",
+        "Amazon",
+        "Sunbury"
+      ]
+    },
+    {
+      "id": "nbc4-ohio-housing-affordability",
+      "category": "local",
+      "title": "Ohio posts the nation's biggest five-year drop in housing affordability",
+      "summary": "A National Housing Conference report found Ohio had the largest loss of homeownership affordability in the US between 2020 and 2025. The finding lands as Columbus-area buyers face higher prices and rates heading into next month's elections.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/ohio-had-biggest-five-year-loss-in-housing-affordability-in-the-u-s-per-national-report/",
+      "publishedAt": "2026-10-23T15:00:00Z",
+      "tags": [
+        "Ohio",
+        "housing",
+        "affordability",
+        "economy"
+      ]
+    },
+    {
+      "id": "10tv-juvenile-struck-ne-columbus",
+      "category": "local",
+      "title": "Juvenile struck by vehicle in northeast Columbus",
+      "summary": "A juvenile was hit by a vehicle near Stelzer Road in northeast Columbus, according to a public safety dispatcher, who said the driver remained at the scene. No further details on the child's condition were immediately released.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/juvenile-struck-by-vehicle-in-northeast-columbus-ohio-stelzer-road/530-384f704f-35e5-476d-92f6-08e4796f7319",
+      "publishedAt": "2026-10-23T12:54:00Z",
+      "tags": [
+        "Columbus",
+        "traffic",
+        "public safety"
       ]
     }
   ]
