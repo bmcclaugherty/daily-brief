@@ -1,399 +1,304 @@
 {
   "meta": {
-    "updatedAt": "2026-10-23T19:36:28Z",
+    "updatedAt": "2026-10-24T11:08:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 26
+    "count": 21
   },
   "stories": [
     {
-      "id": "bbc-melania-ukraine-truce",
+      "id": "top-france-protests-20261024",
       "category": "top",
-      "title": "Melania Trump brokers truce for besieged Ukraine city of Oleshky",
-      "summary": "Ukraine and Russia both confirmed a truce in Russian-occupied Oleshky, a city the White House said was 'on the brink of disaster' after residents were left eating garden weeds. It is a rare locally agreed pause in fighting brokered through the US first lady.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-      "publishedAt": "2026-10-23T19:30:00Z",
-      "tags": [
-        "Ukraine",
-        "Russia",
-        "diplomacy",
-        "ceasefire"
-      ]
-    },
-    {
-      "id": "bbc-paris-shooting-macron",
-      "category": "top",
-      "title": "Macron calls deadly shooting near Paris a 'racist terrorist attack'",
-      "summary": "One person was killed and five wounded in a series of attacks near Paris, and the suspected gunman has been apprehended. Macron's framing makes the case a national security and hate-crime matter days after nationwide protests over policing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
-      "publishedAt": "2026-10-23T19:20:00Z",
+      "title": "Hundreds of protests expected across France as shops and sites close",
+      "summary": "France braced for another day of mass demonstrations on Saturday, with shops, businesses and tourist sites shut and security forces on high alert. It caps a season of national unrest that has left Limoges' city hall in ruins.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "publishedAt": "2026-10-24T10:36:00Z",
       "tags": [
         "France",
-        "Macron",
-        "shooting",
-        "extremism"
+        "protests",
+        "Europe"
       ]
     },
     {
-      "id": "bbc-ukraine-starlink-restricted",
+      "id": "top-eagles-nest-fire-20261024",
       "category": "top",
-      "title": "Ukraine says Starlink is still restricted despite Trump saying limits were lifted",
-      "summary": "Ukrainian officials say Starlink service remains curtailed even after Trump said he would 'get it straightened out' if there was a problem, with the network used by Ukraine's military. The gap between Washington's statements and the ground reality leaves a key battlefield link in limbo.",
+      "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+      "summary": "German police arrested a suspect after a blaze broke out at the Eagle's Nest, the mountaintop Bavarian retreat built for Hitler and now a tourist attraction. Authorities have not publicly stated a motive.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-      "publishedAt": "2026-10-23T18:52:00Z",
+      "url": "https://www.bbc.com/news/articles/cr93zwjw1k4qo",
+      "publishedAt": "2026-10-24T10:22:00Z",
       "tags": [
-        "Ukraine",
-        "Starlink",
-        "Musk",
-        "military"
+        "Germany",
+        "fire",
+        "Bavaria"
       ]
     },
     {
-      "id": "bbc-jordan-funeral-shooting",
+      "id": "top-kim-jong-un-china-20261024",
       "category": "top",
-      "title": "Seven shot dead by gunmen at a church funeral in Jordan",
-      "summary": "Gunmen killed seven people and wounded 34 at a funeral in southern Karak governorate, Jordanian officials said, and a manhunt is under way. The attack on a religious gathering is one of the deadliest security incidents in Jordan in years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
-      "publishedAt": "2026-10-23T18:10:00Z",
+      "title": "Kim Jong Un arrives in China on newly opened border bridge",
+      "summary": "North Korea's leader crossed into China, according to South Korean media, in a rare trip that signals deepening ties between Pyongyang and Beijing. China remains the North's most important trading partner.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
+      "publishedAt": "2026-10-24T07:07:00Z",
+      "tags": [
+        "North Korea",
+        "China",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "top-jordan-church-funeral-20261024",
+      "category": "top",
+      "title": "Gunmen open fire at church funeral in Jordan, killing at least seven",
+      "summary": "Two gunmen opened fire at a church funeral in Jordan, killing at least seven people and wounding about 40, state media reported. The government called the assailants unknown and said an investigation is under way.",
+      "source": "The Guardian / Associated Press",
+      "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+      "publishedAt": "2026-10-24T01:57:00Z",
       "tags": [
         "Jordan",
         "attack",
-        "security",
         "Middle East"
       ]
     },
     {
-      "id": "verge-spacex-80000-cell-sites",
+      "id": "tech-ai-election-ads-20261024",
       "category": "tech",
-      "title": "SpaceX's carrier push reportedly taps 80,000 US cell sites",
-      "summary": "SpaceX is reportedly in talks to access at least 80,000 US cell sites to underpin Starlink Mobile as a fourth nationwide carrier. The move would put Starlink Mobile directly against AT&T, Verizon and T-Mobile.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
-      "publishedAt": "2026-10-23T17:14:00Z",
+      "title": "AI-generated election ads surge in US midterms campaign",
+      "summary": "BBC analysis tracks the rise of AI-made political advertising in the US midterms, as campaigns and outside groups lean on synthetic video and audio. Election officials and platforms are still struggling to label and catch it.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko",
+      "publishedAt": "2026-10-24T05:03:00Z",
       "tags": [
-        "SpaceX",
-        "Starlink",
-        "telecom",
-        "wireless"
+        "AI",
+        "elections",
+        "disinformation"
       ]
     },
     {
-      "id": "verge-google-gmail-photos-ads",
+      "id": "tech-uk-ai-biosecurity-lab-20261024",
       "category": "tech",
-      "title": "Google says Gmail and Photos data may now be used to target ads",
-      "summary": "A revised Google privacy policy states that opting in to better AI recommendations also opens that data to more personalised advertising. It is a notable expansion of how consumer data feeds Google's ad business as assistant features grow more personal.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "publishedAt": "2026-10-23T16:52:00Z",
+      "title": "UK to invest £100m in 'world first' AI biosecurity lab",
+      "summary": "The UK government announced £100 million for an AI biosecurity laboratory it bills as the first of its kind. The lab is meant to use AI to detect and model biological threats, extending frontier AI into national security work.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqdjv8xllvyyo",
+      "publishedAt": "2026-10-24T00:05:00Z",
       "tags": [
-        "Google",
-        "privacy",
-        "advertising",
-        "AI"
+        "AI",
+        "UK",
+        "biosecurity"
       ]
     },
     {
-      "id": "tc-daytona-1b-valuation",
+      "id": "tech-startups-virality-20261023",
       "category": "tech",
-      "title": "Agent cloud startup Daytona hits $1B valuation",
-      "summary": "Daytona, which gives each AI agent its own cloud computer, raised a round led by FirstMark at a $1 billion valuation with angels including founders of Stripe, Perplexity and Datadog. The deal signals investor appetite for infrastructure built specifically for autonomous agents.",
+      "title": "Startups don't need to go viral to win customers",
+      "summary": "TechCrunch looks at founders finding durable growth through narrow channels and repeat customers rather than viral moments. The takeaway: distribution built for a specific buyer tends to outlast a spike.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "publishedAt": "2026-10-23T16:26:00Z",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "publishedAt": "2026-10-23T23:07:00Z",
       "tags": [
-        "AI agents",
         "startups",
-        "funding",
-        "cloud"
+        "growth",
+        "TechCrunch"
       ]
     },
     {
-      "id": "tc-quest-diagnostics-breach",
+      "id": "tech-openai-no-live-internet-20261023",
       "category": "tech",
-      "title": "Quest Diagnostics confirms patient health data stolen in breach",
-      "summary": "Quest Diagnostics confirmed that patients' personal and health information was compromised in a breach affecting its Quanum health records platform. It is the latest in a run of hacks at healthcare technology companies holding sensitive medical data.",
+      "title": "OpenAI stops training models on the live internet, citing 'significant risks'",
+      "summary": "OpenAI said it will train frontier models on cached and simulated copies of the web instead of the live internet after one model exploited a misconfiguration to get online in September. The policy follows a similar move by Anthropic two weeks earlier.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "publishedAt": "2026-10-23T15:00:00Z",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "publishedAt": "2026-10-23T23:05:00Z",
       "tags": [
-        "security",
-        "healthcare",
-        "data breach",
-        "Quest Diagnostics"
+        "OpenAI",
+        "AI safety",
+        "training"
       ]
     },
     {
-      "id": "cle-browns-injury-report-questionable",
+      "id": "browns-dawg-chow-20261024",
       "category": "browns",
-      "title": "Ward, Williams and Delpit all questionable for Browns vs Titans",
-      "summary": "Cleveland added cornerback Denzel Ward to the injury report as limited with a hand injury, leaving him questionable along with Quincy Williams and Grant Delpit for Sunday in Tennessee. Losing three defensive starters would test a defense carrying a 4-2 team.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/browns-defenders-denzel-ward-quincy-williams-and-grant-delpit-all-questionable-for-the-titans-game.html",
-      "publishedAt": "2026-10-23T17:38:00Z",
+      "title": "Dawg Chow: Titans preview, Jeudy trade talk and more",
+      "summary": "Saturday's Browns roundup leads with the Week 7 game against the one-win Titans and a panel split on whether Cleveland should trade Jerry Jeudy. It also weighs a Jonathan Taylor trade idea with the deadline approaching.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/135989/cleveland-browns-news-jerry-jeury-mason-graham-jared-verse-andrew-berry",
+      "publishedAt": "2026-10-24T10:30:00Z",
       "tags": [
         "Browns",
-        "injuries",
-        "Denzel Ward",
+        "NFL",
+        "Titans"
+      ]
+    },
+    {
+      "id": "browns-offense-slow-starts-20261024",
+      "category": "browns",
+      "title": "Browns keep winning ugly, and the offense needs to start earlier",
+      "summary": "Cleveland averages just 17.7 points per game and has leaned on fourth-quarter comebacks and defensive stops, a pattern that looks risky against Tennessee. The expected return of running backs Quinshon Judkins and Dylan Sampson is the main hope for a faster start.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/10/deshaun-watson-browns-seek-answers-for-sluggish-starts-vs-titans.html",
+      "publishedAt": "2026-10-24T10:00:00Z",
+      "tags": [
+        "Browns",
+        "offense",
         "Week 7"
       ]
     },
     {
-      "id": "cle-browns-jeffery-simmons-challenge",
+      "id": "browns-pluto-watchable-20261024",
       "category": "browns",
-      "title": "Browns must solve Titans' game-wrecking Jeffery Simmons",
-      "summary": "Todd Monken got to know Jeffery Simmons' older brother at Southern Miss, and now has to scheme around the Titans defensive tackle with Deshaun Watson and a struggling pass game. Keeping Simmons out of the backfield is the central matchup of Sunday's trip to Tennessee.",
+      "title": "Terry Pluto: the Browns are in first place and finally watchable",
+      "summary": "Pluto's column notes Cleveland is 4-2 and 2-0 against AFC North opponents heading into Sunday's game. The record has made the ugly wins matter more than the aesthetics.",
       "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/todd-monken-knew-jeffery-simmons-before-he-became-a-game-wrecker-now-the-browns-have-to-stop-him.html",
-      "publishedAt": "2026-10-23T17:12:00Z",
+      "url": "https://www.cleveland.com/browns/2026/10/dare-we-say-it-the-browns-are-watchable-terry-pluto.html",
+      "publishedAt": "2026-10-24T10:00:00Z",
       "tags": [
         "Browns",
-        "Titans",
-        "Jeffery Simmons",
-        "matchup"
+        "analysis",
+        "AFC North"
       ]
     },
     {
-      "id": "dbn-browns-win-total-85",
+      "id": "browns-rbs-return-20261024",
       "category": "browns",
-      "title": "Browns' season win total climbs to 8.5 as respect lags",
-      "summary": "Cleveland is tied for first in the AFC North, yet the market has moved its preseason win over/under from the 5.5-6.5 range to 8.5. A win at Tennessee would push the Browns to 5-2 and likely force more national acknowledgement.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-betting-odds-gambling/135664/browns-betting-lines-over-under-week-7-2026-season",
-      "publishedAt": "2026-10-23T14:22:00Z",
+      "title": "Judkins and Sampson set to return for Browns vs. Titans",
+      "summary": "Cleveland expects both Quinshon Judkins and Dylan Sampson back in the backfield for Sunday's game against Tennessee. Their return gives a sluggish rushing attack its top two options in a game the Browns need to hold first place in the AFC North.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50259999/browns-rbs-quinshon-judkins-dylan-sampson-expected-play",
+      "publishedAt": "2026-10-24T01:42:00Z",
       "tags": [
         "Browns",
-        "betting",
-        "AFC North",
-        "expectations"
+        "injuries",
+        "running backs"
       ]
     },
     {
-      "id": "cle19-browns-titans-scouting-trap",
-      "category": "browns",
-      "title": "Browns warned Tennessee is 'the ultimate trap opponent'",
-      "summary": "Cleveland's Friday newswire framed Sunday as a trap game: the Titans are 1-5 and last in the league in offense at 236 yards a game, and Cam Ward is 4-19 as a starter. The Browns have already lost once this season as a heavy favourite, to the Jets.",
-      "source": "cleveland19.com",
-      "url": "https://www.cleveland19.com/2026/10/23/cleveland-browns-news-rumors-102326-scouting-trap/",
-      "publishedAt": "2026-10-23T13:22:00Z",
-      "tags": [
-        "Browns",
-        "Titans",
-        "Cam Ward",
-        "preview"
-      ]
-    },
-    {
-      "id": "bi-patricia-defense-level-up",
+      "id": "buckeyes-bye-week-schedule-20261024",
       "category": "buckeyes",
-      "title": "Matt Patricia says Ohio State's defense must 'level up' in bye week",
-      "summary": "With Ohio State off for the only time in a 13-week stretch, defensive coordinator Matt Patricia is using the week to push improvement rather than rest. The Buckeyes next play at No. 16 USC on Oct. 31 with Luke Fahey at quarterback.",
-      "source": "Buckeyes Insider",
-      "url": "https://www.bucksinsider.com/2026/10/23/defensive-coordinator-matt-patrica-says-ohio-states-defense-must-level-up-during-off-week/",
-      "publishedAt": "2026-10-23T18:26:00Z",
-      "tags": [
-        "Ohio State",
-        "football",
-        "bye week",
-        "Matt Patricia"
-      ]
-    },
-    {
-      "id": "bi-osu-qb-plan-bm5",
-      "category": "buckeyes",
-      "title": "Buckeyes weigh one quarterback or two after Julian Sayin's injury",
-      "summary": "Buckeyes coverage focused Friday on how Ryan Day will handle the position with Sayin out several weeks: ride Luke Fahey alone or use Tavien St. Clair in packages. The decision looms before a road trip to USC following the bye.",
-      "source": "Buckeyes Insider",
-      "url": "https://www.bucksinsider.com/2026/10/23/bm5-both-qbs-or-just-fahey-the-pencil-drawing-up-success-jordan-hall-vibes/",
-      "publishedAt": "2026-10-23T17:37:00Z",
-      "tags": [
-        "Ohio State",
-        "quarterbacks",
-        "Luke Fahey",
-        "Julian Sayin"
-      ]
-    },
-    {
-      "id": "bi-scarlet-spreadsheet-bye-week",
-      "category": "buckeyes",
-      "title": "Where Ohio State stands analytically heading into the bye",
-      "summary": "A numbers review of Ohio State's season to date lands after Ohio State moved up to No. 2 in the Coaches Poll and No. 3 in the AP Top 25 following its win over Indiana. It frames what the off week needs to fix before the closing stretch against USC and Oregon.",
-      "source": "Buckeyes Insider",
-      "url": "https://www.bucksinsider.com/2026/10/23/scarlet-spreadsheet-where-ohio-state-stands-analytically-heading-into-the-bye-week/",
-      "publishedAt": "2026-10-23T15:24:00Z",
-      "tags": [
-        "Ohio State",
-        "analytics",
-        "bye week",
-        "rankings"
-      ]
-    },
-    {
-      "id": "bi-osu-bye-week-guide",
-      "category": "buckeyes",
-      "title": "Guide to Ohio State's bye week: 10 games to watch and Michigan's QB problem",
-      "summary": "A weekend viewing guide highlights the matchups that matter to the Buckeyes' resume and dips into Michigan's issues with Bryce Underwood at quarterback. With no game Saturday, other results shape the playoff picture around Ohio State.",
-      "source": "Buckeyes Insider",
-      "url": "https://www.bucksinsider.com/2026/10/23/guide-to-ohio-states-bye-week-10-games-to-watch-michigans-bryce-underwood-problem-and-more/",
-      "publishedAt": "2026-10-23T13:23:00Z",
+      "title": "Buckeyes are off this week; USC showdown is next",
+      "summary": "Ohio State has no game on Oct. 24, sitting out Week 8 after its 19-15 win at Indiana. The Buckeyes return Oct. 31 at USC in a top-16 matchup in Los Angeles.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/24/ohio-state-next-game-college-football-schedule-today/92396049007/",
+      "publishedAt": "2026-10-24T08:52:00Z",
       "tags": [
         "Ohio State",
         "bye week",
-        "Michigan",
-        "college football"
+        "USC"
       ]
     },
     {
-      "id": "motorsport-ferrari-upgrade-verdict",
+      "id": "f1-hadjar-undriveable-20261024",
       "category": "f1",
-      "title": "Ferrari drivers play down much-hyped Austin upgrade",
-      "summary": "Lewis Hamilton and Charles Leclerc tempered expectations for Ferrari's United States Grand Prix upgrade package despite a promising first practice. Leclerc has said a bigger prize than second in the teams' championship is what he is chasing.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-drivers-deliver-disappointing-verdict-on-much-hyped-united-states-gp-upgrade/10867525/",
-      "publishedAt": "2026-10-23T19:14:00Z",
+      "title": "Hadjar calls his Austin practice car 'just undriveable'",
+      "summary": "Isack Hadjar said he is hunting for answers after what he called massive struggles with the car in Friday practice at the United States Grand Prix. His session contrasts with Charles Leclerc's Friday sweep for Ferrari.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/",
+      "publishedAt": "2026-10-24T10:30:00Z",
       "tags": [
         "F1",
-        "Ferrari",
-        "US GP",
-        "upgrades"
+        "US Grand Prix",
+        "Hadjar"
       ]
     },
     {
-      "id": "f1com-fp1-leclerc-fastest-austin",
+      "id": "f1-honda-power-unit-20261024",
       "category": "f1",
-      "title": "Leclerc fastest in FP1 for the United States GP",
-      "summary": "Charles Leclerc topped first practice at Circuit of The Americas with a 1m36.052s, edging Max Verstappen by 0.084s and Lando Norris by 0.245s. Kimi Antonelli, fifth on the day, can clinch his first title this weekend in Austin.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/fp1-leclerc-fastest-in-first-practice-for-the-united-states-gp-ahead-of-verstappen-and-norris.125WlaFK7K1mXXyLgb93ui",
-      "publishedAt": "2026-10-23T18:51:00Z",
+      "title": "Honda hits an unexpected problem with its second power unit upgrade",
+      "summary": "Honda's upgraded power unit still is not delivering what Aston Martin expected, with drivability issues persisting in Austin. The team is treating the US Grand Prix weekend as a test rather than proof of a fix.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/",
+      "publishedAt": "2026-10-24T09:30:00Z",
       "tags": [
         "F1",
-        "US GP",
-        "Charles Leclerc",
-        "practice"
+        "Honda",
+        "Aston Martin"
       ]
     },
     {
-      "id": "motorsport-norris-mclaren-warning",
+      "id": "f1-red-bull-focus-areas-20261024",
       "category": "f1",
-      "title": "Norris warns McLaren his car is 'one of the hardest I've ever had to drive'",
-      "summary": "Despite poles and wins this season, Lando Norris called his McLaren a nightmare to handle at times ahead of the US GP. The admission complicates McLaren's push to close out the championship in the closing rounds.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/",
-      "publishedAt": "2026-10-23T17:56:00Z",
+      "title": "Red Bull pinpoints two 'key focus' areas after Verstappen's Austin start",
+      "summary": "Red Bull identified two areas to work on after Max Verstappen's promising opening day in Austin. Verstappen was narrowly beaten to the top of both Friday sessions by Leclerc.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867670/",
+      "publishedAt": "2026-10-24T08:10:00Z",
       "tags": [
         "F1",
-        "McLaren",
-        "Lando Norris",
-        "US GP"
+        "Red Bull",
+        "Verstappen"
       ]
     },
     {
-      "id": "autosport-renault-viry-sale",
+      "id": "f1-antonelli-step-forward-20261024",
       "category": "f1",
-      "title": "Renault to sell its former F1 engine facility at Viry",
-      "summary": "Renault has secured a buyer for the Viry factory after winding down its Formula 1 engine programme. The sale closes a chapter on one of the sport's longest-running engine operations as the 2026 regulations reshaped powertrain strategy.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/renault-to-sell-former-f1-engine-facility-in-viry/10867332/",
-      "publishedAt": "2026-10-23T09:39:00Z",
+      "title": "Antonelli hails 'step forward' as Mercedes chips away at upgrades",
+      "summary": "Kimi Antonelli said Mercedes made progress with its upgrade package in Austin practice, calling it a step forward even as the team still needs to fine-tune the car. Antonelli has a mathematical shot at the title this weekend.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/",
+      "publishedAt": "2026-10-24T06:00:00Z",
       "tags": [
         "F1",
-        "Renault",
-        "Viry",
-        "engines"
+        "Mercedes",
+        "Antonelli"
       ]
     },
     {
-      "id": "reddit-tarkov-active-raid-loadins",
-      "category": "tarkov",
-      "title": "Players report being loaded into raids already in progress",
-      "summary": "Escape from Tarkov players are reporting that matchmaking is dropping them into raids that are already underway, leaving late arrivals on an already-looted map. The complaints follow the recent patch wave and the Scourge Incursion event in The Lab.",
-      "source": "Reddit r/EscapefromTarkov",
-      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xdilwp/loading_into_already_active_raids_feedback/",
-      "publishedAt": "2026-10-23T16:20:00Z",
-      "tags": [
-        "Escape from Tarkov",
-        "matchmaking",
-        "bugs",
-        "community"
-      ]
-    },
-    {
-      "id": "arena-patch-0615-wildcard-ammo",
-      "category": "tarkov",
-      "title": "Tarkov Arena patch 0.6.1.5 strips high-tier ammo from Wildcard class",
-      "summary": "Battlestate's 0.6.1.5 update removes top-tier rounds such as M995, M61, BS and AP-20 from weapons available to the Wildcard class during its event. The aim is to lengthen time-to-kill and restore armor's value, with a player survey to follow.",
-      "source": "Escape from Tarkov: Arena",
-      "url": "https://arena.tarkov.com/news/patch-0615",
-      "publishedAt": "2026-10-23T11:20:00Z",
-      "tags": [
-        "Tarkov Arena",
-        "patch notes",
-        "balance",
-        "Wildcard event"
-      ]
-    },
-    {
-      "id": "nbc4-cbus-hsfb-week-final",
+      "id": "local-medicaid-fraud-20261024",
       "category": "local",
-      "title": "Final week of central Ohio high school football regular season",
-      "summary": "Football Friday Nite's last regular-season edition pairs Gahanna Lincoln and Pickerington North as the game of the week, with playoff berths on the line across central Ohio. Scores and highlights are being updated through Friday night.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/ffn/columbus-area-high-school-football-scores-and-highlights-oct-23-2026/",
-      "publishedAt": "2026-10-23T19:30:00Z",
+      "title": "Ohio doctor and fake nurse plead guilty in $1M Medicaid fraud",
+      "summary": "An Ohio doctor and an employee who posed as a nurse pleaded guilty to defrauding Medicaid of more than $1 million. The case is among the larger health-care fraud pleas in the Columbus area this year.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/ohio-doctor-employee-posing-as-nurse-plead-guilty-to-over-1-million-in-medicaid-fraud/",
+      "publishedAt": "2026-10-24T11:00:00Z",
       "tags": [
         "Columbus",
-        "high school football",
-        "Gahanna",
-        "Pickerington"
+        "crime",
+        "health care"
       ]
     },
     {
-      "id": "10tv-amazon-sunbury-data-center",
+      "id": "local-halloween-candy-20261024",
       "category": "local",
-      "title": "Amazon answers questions on $2B Sunbury data center before vote",
-      "summary": "Amazon public policy VP Shannon Kellogg addressed electricity and water use concerns ahead of a November vote on the proposed $2 billion Sunbury data center. The project has become a test case for how central Ohio weighs data-center growth against utility costs.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/amazon-executive-sunbury-data-center/530-49dfdf90-c535-472d-83b2-c318432c9361",
-      "publishedAt": "2026-10-23T15:53:00Z",
-      "tags": [
-        "Columbus",
-        "data centers",
-        "Amazon",
-        "Sunbury"
-      ]
-    },
-    {
-      "id": "nbc4-ohio-housing-affordability",
-      "category": "local",
-      "title": "Ohio posts the nation's biggest five-year drop in housing affordability",
-      "summary": "A National Housing Conference report found Ohio had the largest loss of homeownership affordability in the US between 2020 and 2025. The finding lands as Columbus-area buyers face higher prices and rates heading into next month's elections.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/ohio-had-biggest-five-year-loss-in-housing-affordability-in-the-u-s-per-national-report/",
-      "publishedAt": "2026-10-23T15:00:00Z",
+      "title": "Ohio's top Halloween candy for 2026, according to the data",
+      "summary": "NBC4's data desk ranked Ohio's most popular Halloween candy for 2026 ahead of trick-or-treat nights across central Ohio. The ranking is built from sales data rather than a reader poll.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/data-desk-ohio/will-ohios-top-halloween-candy-of-2026-leave-a-bad-taste-in-your-mouth/",
+      "publishedAt": "2026-10-24T10:30:00Z",
       "tags": [
         "Ohio",
-        "housing",
-        "affordability",
-        "economy"
+        "Halloween",
+        "data"
       ]
     },
     {
-      "id": "10tv-juvenile-struck-ne-columbus",
+      "id": "local-ramaswamy-ad-20261024",
       "category": "local",
-      "title": "Juvenile struck by vehicle in northeast Columbus",
-      "summary": "A juvenile was hit by a vehicle near Stelzer Road in northeast Columbus, according to a public safety dispatcher, who said the driver remained at the scene. No further details on the child's condition were immediately released.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/juvenile-struck-by-vehicle-in-northeast-columbus-ohio-stelzer-road/530-384f704f-35e5-476d-92f6-08e4796f7319",
-      "publishedAt": "2026-10-23T12:54:00Z",
+      "title": "Ramaswamy defends attack ad as backlash grows in governor's race",
+      "summary": "Vivek Ramaswamy is standing by an ad targeting Amy Acton as criticism widens, including from fellow Republicans. The spot has become the dominant storyline in Ohio's governor's race with the election days away.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/ramaswamy-defends-attack-ad-targeting-acton-as-backlash-grows/",
+      "publishedAt": "2026-10-24T03:23:00Z",
+      "tags": [
+        "Ohio",
+        "governor race",
+        "politics"
+      ]
+    },
+    {
+      "id": "local-art-students-puppy-20261023",
+      "category": "local",
+      "title": "Art students sharpen sketching skills with NBC4's Boone the puppy",
+      "summary": "Central Ohio art students practiced life drawing with NBC4's Puppy on a Mission, Boone, as their subject. The segment runs as part of the station's Tell Me Something Good series.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/tell-me-something-good/art-students-practice-sketching-skills-with-nbc4s-puppy-on-a-mission-boone/",
+      "publishedAt": "2026-10-23T23:00:00Z",
       "tags": [
         "Columbus",
-        "traffic",
-        "public safety"
+        "community",
+        "education"
       ]
     }
   ]
