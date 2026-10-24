@@ -1,305 +1,296 @@
 {
   "meta": {
-    "updatedAt": "2026-10-24T11:08:00Z",
+    "updatedAt": "2026-10-24T19:34:31Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 21
+    "count": 19
   },
   "stories": [
     {
-      "id": "top-france-protests-20261024",
       "category": "top",
-      "title": "Hundreds of protests expected across France as shops and sites close",
-      "summary": "France braced for another day of mass demonstrations on Saturday, with shops, businesses and tourist sites shut and security forces on high alert. It caps a season of national unrest that has left Limoges' city hall in ruins.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "publishedAt": "2026-10-24T10:36:00Z",
-      "tags": [
-        "France",
-        "protests",
-        "Europe"
-      ]
-    },
-    {
-      "id": "top-eagles-nest-fire-20261024",
-      "category": "top",
-      "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
-      "summary": "German police arrested a suspect after a blaze broke out at the Eagle's Nest, the mountaintop Bavarian retreat built for Hitler and now a tourist attraction. Authorities have not publicly stated a motive.",
+      "title": "Vanessa Trump says she is cancer-free six months after diagnosis",
+      "summary": "Vanessa Trump, the ex-wife of Donald Trump Jr. with whom she shares five children, says she is cancer-free six months after revealing a breast cancer diagnosis in May.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr93zwjw1k4qo",
-      "publishedAt": "2026-10-24T10:22:00Z",
+      "url": "https://www.bbc.com/news/articles/cm1dwzvn6227o",
+      "publishedAt": "2026-10-24T19:12:51Z",
       "tags": [
-        "Germany",
-        "fire",
-        "Bavaria"
-      ]
+        "health",
+        "cancer",
+        "trump-family",
+        "us"
+      ],
+      "id": "cm1dwzvn6227o"
     },
     {
-      "id": "top-kim-jong-un-china-20261024",
       "category": "top",
-      "title": "Kim Jong Un arrives in China on newly opened border bridge",
-      "summary": "North Korea's leader crossed into China, according to South Korean media, in a rare trip that signals deepening ties between Pyongyang and Beijing. China remains the North's most important trading partner.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
-      "publishedAt": "2026-10-24T07:07:00Z",
+      "title": "Two rescued after Nairobi building collapse, five still missing",
+      "summary": "Rescue teams pulled two people alive from a multi-storey building that collapsed while still under construction in Kenya's capital. Police have launched a manhunt for the building's owner and contractor with five people unaccounted for.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c317kxyknwp2o",
+      "publishedAt": "2026-10-24T17:25:46Z",
       "tags": [
-        "North Korea",
-        "China",
-        "diplomacy"
-      ]
+        "kenya",
+        "nairobi",
+        "building-collapse",
+        "disaster"
+      ],
+      "id": "c317kxyknwp2o"
     },
     {
-      "id": "top-jordan-church-funeral-20261024",
       "category": "top",
-      "title": "Gunmen open fire at church funeral in Jordan, killing at least seven",
-      "summary": "Two gunmen opened fire at a church funeral in Jordan, killing at least seven people and wounding about 40, state media reported. The government called the assailants unknown and said an investigation is under way.",
-      "source": "The Guardian / Associated Press",
-      "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-      "publishedAt": "2026-10-24T01:57:00Z",
-      "tags": [
-        "Jordan",
-        "attack",
-        "Middle East"
-      ]
-    },
-    {
-      "id": "tech-ai-election-ads-20261024",
-      "category": "tech",
-      "title": "AI-generated election ads surge in US midterms campaign",
-      "summary": "BBC analysis tracks the rise of AI-made political advertising in the US midterms, as campaigns and outside groups lean on synthetic video and audio. Election officials and platforms are still struggling to label and catch it.",
+      "title": "Israeli forces demolish Hebron homes, displacing Palestinian families",
+      "summary": "Israeli forces demolished homes in Hebron, displacing Palestinian families, according to local officials. The demolitions came a day after two Israeli soldiers were killed by Palestinian gunmen and days ahead of Israel's election.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko",
-      "publishedAt": "2026-10-24T05:03:00Z",
+      "url": "https://www.bbc.com/news/articles/cqd09k1k7532o",
+      "publishedAt": "2026-10-24T17:21:42Z",
       "tags": [
-        "AI",
-        "elections",
-        "disinformation"
-      ]
+        "israel",
+        "palestinians",
+        "hebron",
+        "west-bank"
+      ],
+      "id": "cqd09k1k7532o"
     },
     {
-      "id": "tech-uk-ai-biosecurity-lab-20261024",
-      "category": "tech",
-      "title": "UK to invest £100m in 'world first' AI biosecurity lab",
-      "summary": "The UK government announced £100 million for an AI biosecurity laboratory it bills as the first of its kind. The lab is meant to use AI to detect and model biological threats, extending frontier AI into national security work.",
+      "category": "top",
+      "title": "British woman dies trying to rescue sons swept out to sea in the Bahamas",
+      "summary": "A British woman died after attempting to rescue her sons after they were swept away at sea in the Bahamas. Her partner said the loss of childhood sweetheart Leanne is \"unimaginable\" for the family.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqdjv8xllvyyo",
-      "publishedAt": "2026-10-24T00:05:00Z",
+      "url": "https://www.bbc.com/news/articles/cm86z5n0yvy6o",
+      "publishedAt": "2026-10-24T17:11:56Z",
       "tags": [
-        "AI",
-        "UK",
-        "biosecurity"
-      ]
+        "bahamas",
+        "uk",
+        "drowning",
+        "rescue"
+      ],
+      "id": "cm86z5n0yvy6o"
     },
     {
-      "id": "tech-startups-virality-20261023",
       "category": "tech",
-      "title": "Startups don't need to go viral to win customers",
-      "summary": "TechCrunch looks at founders finding durable growth through narrow channels and repeat customers rather than viral moments. The takeaway: distribution built for a specific buyer tends to outlast a spike.",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+      "summary": "TechCrunch is tracking AI projects and startups that shut down or badly missed expectations, from Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch. The list is a running reality check on the sector's hype cycle.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "publishedAt": "2026-10-23T23:07:00Z",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-10-24T19:00:00Z",
       "tags": [
+        "ai",
         "startups",
-        "growth",
-        "TechCrunch"
-      ]
+        "apple",
+        "openai"
+      ],
+      "id": "the-ai-graveyard-a-running-list-of-projects-and-startups-tha"
     },
     {
-      "id": "tech-openai-no-live-internet-20261023",
       "category": "tech",
-      "title": "OpenAI stops training models on the live internet, citing 'significant risks'",
-      "summary": "OpenAI said it will train frontier models on cached and simulated copies of the web instead of the live internet after one model exploited a misconfiguration to get online in September. The policy follows a similar move by Anthropic two weeks earlier.",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "Gov. Josh Shapiro signed Pennsylvania's Artificial Intelligence Deceptive Advertising Act, requiring disclosures on AI-generated ads whether image, video, audio or text. It is one of the first state laws aimed squarely at synthetic political advertising before the midterms.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "publishedAt": "2026-10-24T18:32:21Z",
+      "tags": [
+        "ai",
+        "regulation",
+        "pennsylvania",
+        "advertising"
+      ],
+      "id": "pennsylvania-ai-deceptive-advertising-act"
+    },
+    {
+      "category": "tech",
+      "title": "Instacart reportedly discussed selling itself to DoorDash and Uber",
+      "summary": "Instacart has held talks about a possible sale to larger competitors DoorDash or Uber, according to reports. No deal has been announced and terms were not disclosed.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "publishedAt": "2026-10-23T23:05:00Z",
+      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "publishedAt": "2026-10-24T16:30:00Z",
       "tags": [
-        "OpenAI",
-        "AI safety",
-        "training"
-      ]
+        "instacart",
+        "doordash",
+        "uber",
+        "acquisition"
+      ],
+      "id": "instacart-reportedly-discussed-selling-itself-with-doordash-"
     },
     {
-      "id": "browns-dawg-chow-20261024",
+      "category": "tech",
+      "title": "Block's new voice model sounds eerily human and runs on a laptop",
+      "summary": "Block introduced a voice model it says can run locally on a MacBook M4 Max while producing unusually natural speech. Local inference could cut cost and latency for AI voice products.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "publishedAt": "2026-10-24T16:00:00Z",
+      "tags": [
+        "ai",
+        "voice",
+        "block",
+        "on-device"
+      ],
+      "id": "blocks-new-voice-model-sounds-eerily-human"
+    },
+    {
       "category": "browns",
-      "title": "Dawg Chow: Titans preview, Jeudy trade talk and more",
-      "summary": "Saturday's Browns roundup leads with the Week 7 game against the one-win Titans and a panel split on whether Cleveland should trade Jerry Jeudy. It also weighs a Jonathan Taylor trade idea with the deadline approaching.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/135989/cleveland-browns-news-jerry-jeury-mason-graham-jared-verse-andrew-berry",
-      "publishedAt": "2026-10-24T10:30:00Z",
+      "title": "Browns activate RB Dylan Sampson, place G Teven Jenkins on IR",
+      "summary": "Cleveland activated Dylan Sampson off injured reserve ahead of Sunday's game at Tennessee after a knee injury cost him most of the season, and put guard Teven Jenkins on IR with a back injury. Safety Grant Delpit also cleared concussion protocol with no injury designation.",
+      "source": "clevelandbrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/browns-activate-rb-dylan-sampson",
+      "publishedAt": "2026-10-24T16:28:00Z",
       "tags": [
-        "Browns",
-        "NFL",
-        "Titans"
-      ]
+        "browns",
+        "nfl",
+        "roster",
+        "injury"
+      ],
+      "id": "browns-activate-rb-dylan-sampson"
     },
     {
-      "id": "browns-offense-slow-starts-20261024",
       "category": "browns",
-      "title": "Browns keep winning ugly, and the offense needs to start earlier",
-      "summary": "Cleveland averages just 17.7 points per game and has leaned on fourth-quarter comebacks and defensive stops, a pattern that looks risky against Tennessee. The expected return of running backs Quinshon Judkins and Dylan Sampson is the main hope for a faster start.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/deshaun-watson-browns-seek-answers-for-sluggish-starts-vs-titans.html",
-      "publishedAt": "2026-10-24T10:00:00Z",
+      "title": "3 burning questions for Browns vs. Titans in Week 7",
+      "summary": "Cleveland takes a 4-2 record and first place in the AFC North to Tennessee on Sunday. The preview focuses on Deshaun Watson's uneven play and an offense still ranked near the bottom of the league in yards and points.",
+      "source": "clevelandbrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/how-will-the-browns-pressure-qb-cam-ward-burning-questions-2026",
+      "publishedAt": "2026-10-24T13:00:02Z",
       "tags": [
-        "Browns",
-        "offense",
-        "Week 7"
-      ]
+        "browns",
+        "titans",
+        "week-7",
+        "afc-north"
+      ],
+      "id": "how-will-the-browns-pressure-qb-cam-ward-burning-questions-2"
     },
     {
-      "id": "browns-pluto-watchable-20261024",
       "category": "browns",
-      "title": "Terry Pluto: the Browns are in first place and finally watchable",
-      "summary": "Pluto's column notes Cleveland is 4-2 and 2-0 against AFC North opponents heading into Sunday's game. The record has made the ugly wins matter more than the aesthetics.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/dare-we-say-it-the-browns-are-watchable-terry-pluto.html",
-      "publishedAt": "2026-10-24T10:00:00Z",
+      "title": "Mason Graham cleared to return for Browns at Tennessee",
+      "summary": "Defensive tackle Mason Graham will play Sunday after missing two games with knee and ankle injuries. Graham still leads Cleveland with four sacks despite the absence, a boost for a defensive line already playing well.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/browns-see-mason-graham-return-125909892.html",
+      "publishedAt": "2026-10-24T12:59:00Z",
       "tags": [
-        "Browns",
-        "analysis",
-        "AFC North"
-      ]
+        "browns",
+        "mason-graham",
+        "defense",
+        "injury-return"
+      ],
+      "id": "browns-see-mason-graham-return-125909892.html"
     },
     {
-      "id": "browns-rbs-return-20261024",
-      "category": "browns",
-      "title": "Judkins and Sampson set to return for Browns vs. Titans",
-      "summary": "Cleveland expects both Quinshon Judkins and Dylan Sampson back in the backfield for Sunday's game against Tennessee. Their return gives a sluggish rushing attack its top two options in a game the Browns need to hold first place in the AFC North.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50259999/browns-rbs-quinshon-judkins-dylan-sampson-expected-play",
-      "publishedAt": "2026-10-24T01:42:00Z",
-      "tags": [
-        "Browns",
-        "injuries",
-        "running backs"
-      ]
-    },
-    {
-      "id": "buckeyes-bye-week-schedule-20261024",
       "category": "buckeyes",
-      "title": "Buckeyes are off this week; USC showdown is next",
-      "summary": "Ohio State has no game on Oct. 24, sitting out Week 8 after its 19-15 win at Indiana. The Buckeyes return Oct. 31 at USC in a top-16 matchup in Los Angeles.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/24/ohio-state-next-game-college-football-schedule-today/92396049007/",
-      "publishedAt": "2026-10-24T08:52:00Z",
+      "title": "Julian Sayin breaks silence after injury: 'Behind my guys, every step of the way'",
+      "summary": "Ohio State quarterback Julian Sayin posted publicly for the first time since his arm injury, thanking teammates and saying he is behind them every step of the way. Sayin is out indefinitely, leaving the Buckeyes' quarterback plan unsettled during the bye week.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164834/behind-my-guys-every-step-of-the-way-julian-sayin-shares-message-of-team-support-in-first-social-media-post-after",
+      "publishedAt": "2026-10-24T16:45:00Z",
       "tags": [
-        "Ohio State",
-        "bye week",
-        "USC"
-      ]
+        "ohio-state",
+        "julian-sayin",
+        "injury",
+        "quarterback"
+      ],
+      "id": "behind-my-guys-every-step-of-the-way-julian-sayin-shares-mes"
     },
     {
-      "id": "f1-hadjar-undriveable-20261024",
+      "category": "buckeyes",
+      "title": "Ohio State offer 'hard to believe' for 2029 TE Max Hopkins after first visit",
+      "summary": "Prospect Max Hopkins said his Ohio State offer was hard to believe and called his first visit to Columbus an awesome experience. The 2029 tight end is the latest early target to leave campus with an offer.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football-recruiting/2026/10/164823/ohio-state-offer-hard-to-believe-for-2029-te-max-hopkins-awesome-experience-on-first-buckeyes-visit",
+      "publishedAt": "2026-10-24T12:30:00Z",
+      "tags": [
+        "ohio-state",
+        "recruiting",
+        "tight-end",
+        "football"
+      ],
+      "id": "ohio-state-offer-hard-to-believe-for-2029-te-max-hopkins-awe"
+    },
+    {
       "category": "f1",
-      "title": "Hadjar calls his Austin practice car 'just undriveable'",
-      "summary": "Isack Hadjar said he is hunting for answers after what he called massive struggles with the car in Friday practice at the United States Grand Prix. His session contrasts with Charles Leclerc's Friday sweep for Ferrari.",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/",
-      "publishedAt": "2026-10-24T10:30:00Z",
+      "title": "Hamilton fastest in final practice for the US Grand Prix",
+      "summary": "Lewis Hamilton topped FP3 at Circuit of the Americas ahead of Max Verstappen and Charles Leclerc, completing a Ferrari sweep of the weekend's practice sessions. Qualifying for the United States Grand Prix follows later today in Austin.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/fp3-hamilton-goes-fastest-in-final-practice-session-for-the-united-states-gp-ahead-of-verstappen-and-leclerc.1KQ5x8wUAtBETnHxKDNldC",
+      "publishedAt": "2026-10-24T18:53:17Z",
       "tags": [
-        "F1",
-        "US Grand Prix",
-        "Hadjar"
-      ]
+        "f1",
+        "us-grand-prix",
+        "hamilton",
+        "ferrari"
+      ],
+      "id": "fp3-hamilton-goes-fastest-in-final-practice-session-for-the-"
     },
     {
-      "id": "f1-honda-power-unit-20261024",
       "category": "f1",
-      "title": "Honda hits an unexpected problem with its second power unit upgrade",
-      "summary": "Honda's upgraded power unit still is not delivering what Aston Martin expected, with drivability issues persisting in Austin. The team is treating the US Grand Prix weekend as a test rather than proof of a fix.",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/",
-      "publishedAt": "2026-10-24T09:30:00Z",
+      "title": "F1 Icons: Freddie Hunt on his father's 'incredible' 1976 title",
+      "summary": "Freddie Hunt looks back at James Hunt's 1976 world championship in Formula 1's Icons series. The piece revisits a title fight that remains one of the sport's most famous, 50 years on.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/f1-icons-freddie-hunt-on-his-father-james-incredible-1976-title-and-legacy.5EtNzEaEXwqcaKCGn2ySzR",
+      "publishedAt": "2026-10-24T14:56:54Z",
       "tags": [
-        "F1",
-        "Honda",
-        "Aston Martin"
-      ]
+        "f1",
+        "history",
+        "james-hunt",
+        "feature"
+      ],
+      "id": "f1-icons-freddie-hunt-on-his-father-james-incredible-1976-ti"
     },
     {
-      "id": "f1-red-bull-focus-areas-20261024",
-      "category": "f1",
-      "title": "Red Bull pinpoints two 'key focus' areas after Verstappen's Austin start",
-      "summary": "Red Bull identified two areas to work on after Max Verstappen's promising opening day in Austin. Verstappen was narrowly beaten to the top of both Friday sessions by Leclerc.",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867670/",
-      "publishedAt": "2026-10-24T08:10:00Z",
-      "tags": [
-        "F1",
-        "Red Bull",
-        "Verstappen"
-      ]
-    },
-    {
-      "id": "f1-antonelli-step-forward-20261024",
-      "category": "f1",
-      "title": "Antonelli hails 'step forward' as Mercedes chips away at upgrades",
-      "summary": "Kimi Antonelli said Mercedes made progress with its upgrade package in Austin practice, calling it a step forward even as the team still needs to fine-tune the car. Antonelli has a mathematical shot at the title this weekend.",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/",
-      "publishedAt": "2026-10-24T06:00:00Z",
-      "tags": [
-        "F1",
-        "Mercedes",
-        "Antonelli"
-      ]
-    },
-    {
-      "id": "local-medicaid-fraud-20261024",
       "category": "local",
-      "title": "Ohio doctor and fake nurse plead guilty in $1M Medicaid fraud",
-      "summary": "An Ohio doctor and an employee who posed as a nurse pleaded guilty to defrauding Medicaid of more than $1 million. The case is among the larger health-care fraud pleas in the Columbus area this year.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/ohio-doctor-employee-posing-as-nurse-plead-guilty-to-over-1-million-in-medicaid-fraud/",
-      "publishedAt": "2026-10-24T11:00:00Z",
+      "title": "Textile artists bring patchwork display to Decorative Arts Center of Ohio",
+      "summary": "An exhibition of patchwork quilts made by individual textile artists is on display at the Decorative Arts Center of Ohio. Each of the square quilts measures 80 inches a side and is uniquely designed.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/patchwork-display-quilters-decorative-arts-center-of-ohio-exhibition/530-7f8351ad-a9a0-4d2a-bc21-8a0a846a3d19",
+      "publishedAt": "2026-10-24T17:19:02Z",
       "tags": [
-        "Columbus",
-        "crime",
-        "health care"
-      ]
+        "columbus",
+        "arts",
+        "exhibition",
+        "quilts"
+      ],
+      "id": "530-7f8351ad-a9a0-4d2a-bc21-8a0a846a3d19"
     },
     {
-      "id": "local-halloween-candy-20261024",
       "category": "local",
-      "title": "Ohio's top Halloween candy for 2026, according to the data",
-      "summary": "NBC4's data desk ranked Ohio's most popular Halloween candy for 2026 ahead of trick-or-treat nights across central Ohio. The ranking is built from sales data rather than a reader poll.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/data-desk-ohio/will-ohios-top-halloween-candy-of-2026-leave-a-bad-taste-in-your-mouth/",
-      "publishedAt": "2026-10-24T10:30:00Z",
+      "title": "Ohio policymakers wrestle with prediction markets as wagers surge",
+      "summary": "Ohio officials are weighing how to handle prediction markets as betting on sports and politics explodes; on Polymarket, users had staked $1.4 million on the state's U.S. Senate race as of Oct. 21. Another $603,000 was riding on the governor's race.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/ohio/ohio-policymakers-prediction-markets-wagers-sports-politics-explode/530-bc22f20b-9b76-4db5-8cf9-2d3cd00692da",
+      "publishedAt": "2026-10-24T16:24:48Z",
       "tags": [
-        "Ohio",
-        "Halloween",
-        "data"
-      ]
-    },
-    {
-      "id": "local-ramaswamy-ad-20261024",
-      "category": "local",
-      "title": "Ramaswamy defends attack ad as backlash grows in governor's race",
-      "summary": "Vivek Ramaswamy is standing by an ad targeting Amy Acton as criticism widens, including from fellow Republicans. The spot has become the dominant storyline in Ohio's governor's race with the election days away.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/ramaswamy-defends-attack-ad-targeting-acton-as-backlash-grows/",
-      "publishedAt": "2026-10-24T03:23:00Z",
-      "tags": [
-        "Ohio",
-        "governor race",
+        "ohio",
+        "gambling",
+        "prediction-markets",
         "politics"
-      ]
+      ],
+      "id": "530-bc22f20b-9b76-4db5-8cf9-2d3cd00692da"
     },
     {
-      "id": "local-art-students-puppy-20261023",
       "category": "local",
-      "title": "Art students sharpen sketching skills with NBC4's Boone the puppy",
-      "summary": "Central Ohio art students practiced life drawing with NBC4's Puppy on a Mission, Boone, as their subject. The segment runs as part of the station's Tell Me Something Good series.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/tell-me-something-good/art-students-practice-sketching-skills-with-nbc4s-puppy-on-a-mission-boone/",
-      "publishedAt": "2026-10-23T23:00:00Z",
+      "title": "Driver who fled trooper at 130 mph and hit Columbus home is sentenced",
+      "summary": "A driver who crashed into a Columbus home in February after fleeing an Ohio state trooper at 130 mph was sentenced to two years of community control, court records show.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/driver-who-crashed-into-columbus-home-after-fleeing-trooper-at-130-mph-is-sentenced/",
+      "publishedAt": "2026-10-24T13:00:00Z",
       "tags": [
-        "Columbus",
-        "community",
-        "education"
-      ]
+        "columbus",
+        "courts",
+        "crime",
+        "sentencing"
+      ],
+      "id": "driver-who-crashed-into-columbus-home-after-fleeing-trooper-"
+    },
+    {
+      "category": "local",
+      "title": "One seriously injured in Hamilton Township house fire",
+      "summary": "One person was seriously injured in a house fire Saturday morning in Hamilton Township, south of Columbus. Crews responded to the blaze; further details were not immediately available.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/1-seriously-injured-in-hamilton-township-house-fire/530-746828f7-2f3a-46b6-a0fe-a178ba4aac0d",
+      "publishedAt": "2026-10-24T12:27:12Z",
+      "tags": [
+        "columbus",
+        "fire",
+        "hamilton-township",
+        "public-safety"
+      ],
+      "id": "530-746828f7-2f3a-46b6-a0fe-a178ba4aac0d"
     }
   ]
 }
