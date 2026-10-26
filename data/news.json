@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-25T19:34:08Z",
+    "updatedAt": "2026-10-26T11:16:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
@@ -8,364 +8,244 @@
   },
   "stories": [
     {
-      "id": "top-serbia-election",
+      "id": "top-bolsonaro-1026",
       "category": "top",
-      "title": "Serbia votes in election with turnout highest in decades",
-      "summary": "Serbians turned out in the highest numbers in decades for a parliamentary election that pits President Aleksandar Vucic's governing party against a student-led movement challenging his 12-year rule. The result is a test of whether months of street protests can convert into electoral power.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
-      "publishedAt": "2026-10-25T19:19:00Z",
-      "tags": [
-        "serbia",
-        "elections",
-        "vucic",
-        "europe"
-      ]
+      "title": "Flavio Bolsonaro refuses to recognize Lula's re-election win in Brazil",
+      "summary": "Senator Flavio Bolsonaro is refusing to concede to President Luiz Inacio Lula da Silva after Lula's historic fourth-term election victory, echoing his imprisoned father's 2022 stance and raising fears of renewed political turmoil.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/brazil-heads-back-future-flavio-bolsonaro-refuses-recognize-lula-win-2026-10-26/",
+      "publishedAt": "2026-10-26T10:23:09Z",
+      "tags": ["brazil", "election", "bolsonaro", "politics"]
     },
     {
-      "id": "top-nigeria-village-raid",
+      "id": "top-machado-1026",
       "category": "top",
-      "title": "Death toll in Nigeria village raid rises to 48, police say",
-      "summary": "Gunmen raided a village in north-east Nigeria, looting shops and killing residents, and police said the death toll has climbed to 48. Security forces reached the area after the attackers had fled and are patrolling to restore calm.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq1kdlm1ze7do",
-      "publishedAt": "2026-10-25T19:14:00Z",
-      "tags": [
-        "nigeria",
-        "attack",
-        "security",
-        "africa"
-      ]
+      "title": "Venezuela's Maria Corina Machado returns from exile",
+      "summary": "Opposition leader Maria Corina Machado has returned to Venezuela after nearly a year in exile to press for new elections, a high-risk move against the government that has sidelined her.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+      "publishedAt": "2026-10-26T05:20:19Z",
+      "tags": ["venezuela", "machado", "opposition"]
     },
     {
-      "id": "top-brazil-election",
+      "id": "top-iran-strikes-1026",
       "category": "top",
-      "title": "Brazil votes in Lula-Bolsonaro presidential election",
-      "summary": "Brazilians are voting in a presidential election between left-wing incumbent Luiz Inacio Lula da Silva and right-wing challenger Jair Bolsonaro, with trade, security and the health of democratic institutions on the ballot. The outcome will shape Brazil's economic direction and its relations with the US and China.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/25/world/americas/whats-at-stake-in-brazils-elections.html",
-      "publishedAt": "2026-10-25T18:49:00Z",
-      "tags": [
-        "brazil",
-        "elections",
-        "lula",
-        "bolsonaro"
-      ]
+      "title": "US has plans for major Iran strikes if Trump orders, officials say",
+      "summary": "US forces in the Middle East are positioned to launch major new strikes against Iran within 96 hours of a Trump order, officials said, as Washington keeps military options open.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
+      "publishedAt": "2026-10-26T04:00:15Z",
+      "tags": ["iran", "us-military", "trump", "middle-east"]
     },
     {
-      "id": "top-machado-returns-venezuela",
+      "id": "top-houthis-1026",
       "category": "top",
-      "title": "Maria Corina Machado returns to Venezuela after months in exile",
-      "summary": "Venezuelan opposition leader Maria Corina Machado returned home after months abroad, a move that could reset the opposition's strategy. Her reappearance tests whether the government will tolerate a leading critic operating openly inside the country.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq8ez592pp0eo",
-      "publishedAt": "2026-10-25T18:29:00Z",
-      "tags": [
-        "venezuela",
-        "machado",
-        "opposition",
-        "politics"
-      ]
+      "title": "Houthis say they attacked Saudi oil pumping stations and Riyadh airport",
+      "summary": "Yemen's Iran-aligned Houthis said they attacked Saudi Arabia's East-West oil pumping stations and Riyadh airport, as rising hostilities choke oil supplies and threaten a wider conflict.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation-2026-10-26/",
+      "publishedAt": "2026-10-26T03:48:00Z",
+      "tags": ["yemen", "saudi-arabia", "houthis", "oil"]
     },
     {
-      "id": "tech-ai-zero-payoff",
+      "id": "tech-cathedral-anthropic-1026",
       "category": "tech",
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "summary": "An Apollo Global Management economist argues that AI has produced essentially no measurable financial return at most companies so far, even as spending on chips, data centers and models surges. The claim feeds an intensifying investor debate over whether AI capital spending can ever earn its keep.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "publishedAt": "2026-10-25T16:57:00Z",
-      "tags": [
-        "ai",
-        "economy",
-        "capex",
-        "productivity"
-      ]
+      "title": "Ex-DOGE founders' AI startup says it broke into Anthropic in 12 hours",
+      "summary": "Cathedral, a cybersecurity startup founded by ex-DOGE staffers, says it accessed Anthropic's internal systems, including Slack messages and employee data, in 12 hours under an Anthropic security-testing program.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
+      "publishedAt": "2026-10-26T10:32:45Z",
+      "tags": ["anthropic", "ai-security", "startup"]
     },
     {
-      "id": "tech-instagram-reels-apple-tv",
+      "id": "tech-opensource-ban-1026",
       "category": "tech",
-      "title": "Instagram Reels arrive on Apple TV",
-      "summary": "Instagram now lets users watch Reels on Apple TV, extending short-form video from phones to the living room. It is the latest step in Meta's effort to push Reels onto bigger screens and compete for streaming-time attention.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "publishedAt": "2026-10-25T16:20:00Z",
-      "tags": [
-        "instagram",
-        "meta",
-        "streaming",
-        "apple-tv"
-      ]
+      "title": "Reddit's r/opensource bans AI-made and AI-focused projects",
+      "summary": "Reddit's r/opensource community banned AI-built and AI-focused projects, plus non-English speakers, in sweeping new rules that sparked backlash over Linux kernel contributions and solo developers.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+      "publishedAt": "2026-10-26T10:00:00Z",
+      "tags": ["reddit", "open-source", "ai-policy"]
     },
     {
-      "id": "tech-reddit-opensource-ai-ban",
+      "id": "tech-video-ai-hku-1026",
       "category": "tech",
-      "title": "r/opensource bans AI content and non-English posts in rules overhaul",
-      "summary": "Moderators of Reddit's r/opensource subreddit banned AI-generated content and posts from non-English speakers as part of a broader rules change. The move reflects mounting friction in open-source communities over AI slop and moderation workload.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "publishedAt": "2026-10-25T13:25:00Z",
-      "tags": [
-        "reddit",
-        "open-source",
-        "ai",
-        "moderation"
-      ]
+      "title": "Chinese video AI models beat US rivals on visual quality, study finds",
+      "summary": "Chinese AI video-generation models now outperform leading US rivals on visual quality but lag on safety safeguards, according to a University of Hong Kong study that ranked ByteDance's Seedance top overall.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
+      "publishedAt": "2026-10-26T08:00:07Z",
+      "tags": ["ai", "video-models", "china", "research"]
     },
     {
-      "id": "tech-google-ai-search-publishing",
+      "id": "tech-spacex-40b-1026",
       "category": "tech",
-      "title": "Google's AI search changes upended online publishing",
-      "summary": "A Verge column examines how Google's AI-driven search results have reshaped traffic for online publishers, as AI answers satisfy queries that once produced clicks. Publishers are rethinking referral strategies as a result.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "publishedAt": "2026-10-25T12:00:00Z",
-      "tags": [
-        "google",
-        "ai",
-        "search",
-        "publishing"
-      ]
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Musk says",
+      "summary": "Elon Musk said SpaceX closed $40 billion in debt financing to buy GPUs expected in the first half of 2027, while warning that most AI rivals are now cut off from AI debt markets.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "publishedAt": "2026-10-26T00:37:00Z",
+      "tags": ["spacex", "musk", "ai-chips", "funding"]
     },
     {
-      "id": "browns-harden-hamstring",
+      "id": "browns-szmyt-1026",
       "category": "browns",
-      "title": "Browns CB Myles Harden questionable to return with hamstring injury",
-      "summary": "Cleveland cornerback Myles Harden left Sunday's game at Tennessee with a hamstring injury and was listed as questionable to return. His status matters for a secondary already absorbing injuries.",
+      "title": "Andre Szmyt kicks third game-winner as Browns move to 5-2",
+      "summary": "Kicker Andre Szmyt drilled his third game-winning field goal of the season, a 32-yarder as time expired, lifting the Browns past the Titans 27-24 and keeping Cleveland atop the AFC North.",
       "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/browns-cornerback-myles-harden-questionable-to-return-vs-titans-with-hamstring-injury.html",
-      "publishedAt": "2026-10-25T19:19:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "injury",
-        "defense"
-      ]
+      "url": "https://www.cleveland.com/browns/2026/10/browns-kicker-andre-szmyt-just-kicked-another-game-winner-youd-never-know-it-by-looking-at-him.html",
+      "publishedAt": "2026-10-26T09:01:00Z",
+      "tags": ["browns", "nfl", "szmyt", "titans"]
     },
     {
-      "id": "browns-howard-concussion",
+      "id": "browns-collins-1026",
       "category": "browns",
-      "title": "Browns RT Tytus Howard being evaluated for a concussion",
-      "summary": "Cleveland right tackle Tytus Howard was ruled questionable to return against the Titans while being evaluated for a concussion. Losing him for any stretch would force another reshuffle on the offensive line.",
+      "title": "Maliek Collins: 'I love the city of Cleveland' after extension",
+      "summary": "Defensive tackle Maliek Collins said he hopes Cleveland is his last NFL stop after agreeing to a two-year, $30 million extension, a reward for his 3.5-sack rebound season.",
       "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/browns-right-tackle-tytus-howard-questionable-to-return-being-evaluated-for-a-concussion.html",
-      "publishedAt": "2026-10-25T19:18:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "injury",
-        "offensive-line"
-      ]
+      "url": "https://www.cleveland.com/browns/2026/10/maliek-collins-hopes-browns-are-his-last-nfl-stop-i-love-the-city-of-cleveland.html",
+      "publishedAt": "2026-10-26T09:00:00Z",
+      "tags": ["browns", "nfl", "contract", "collins"]
     },
     {
-      "id": "browns-titans-live-17-14",
+      "id": "browns-concepcion-1026",
       "category": "browns",
-      "title": "Browns lead Titans 17-14 entering the fourth quarter",
-      "summary": "Cleveland took a 17-14 lead over Tennessee into the fourth quarter of their Week 7 game in Nashville. The Browns are trying to protect the top spot in the AFC North.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/browns-vs-titans-live-updates-analysis-and-highlights-from-week-7-matchup.html",
-      "publishedAt": "2026-10-25T16:00:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "titans",
-        "week-7"
-      ]
+      "title": "KC Concepcion's breakout: 8 catches, 129 yards vs. Titans",
+      "summary": "Rookie receiver KC Concepcion turned in his best game as a pro with eight catches for 129 yards, all in the first half of the Browns' 27-24 comeback win over Tennessee.",
+      "source": "AP",
+      "url": "https://sports.yahoo.com/articles/cleveland-rookie-receiver-kc-concepcion-230551877.html",
+      "publishedAt": "2026-10-25T23:48:39Z",
+      "tags": ["browns", "nfl", "concepcion", "rookie"]
     },
     {
-      "id": "browns-ward-active",
+      "id": "browns-titans-recap-1026",
       "category": "browns",
-      "title": "Denzel Ward active for Titans game despite hand injury",
-      "summary": "Cornerback Denzel Ward was active against Tennessee after injuring his hand in Friday's practice, and linebacker Quincy Williams also played. Both were key availability wins for a Cleveland defense missing other starters.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/10/browns-cb-denzel-ward-is-active-for-the-titans-game-despite-injuring-his-hand-in-practice-on-friday.html",
-      "publishedAt": "2026-10-25T15:28:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "denzel-ward",
-        "injury"
-      ]
+      "title": "Deshaun Watson leads Browns past Titans 27-24 in walk-off win",
+      "summary": "Deshaun Watson engineered his fifth game-winning fourth-quarter drive of the season, setting up a walk-off field goal as Cleveland beat Tennessee 27-24 to improve to 5-2.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873013/browns-titans",
+      "publishedAt": "2026-10-25T23:39:01Z",
+      "tags": ["browns", "nfl", "watson", "titans"]
     },
     {
-      "id": "buckeyes-ap-poll-no-2",
+      "id": "buckeyes-fahey-1026",
       "category": "buckeyes",
-      "title": "Ohio State jumps to No. 2 in AP Top 25 after bye week",
-      "summary": "Ohio State climbed to No. 2 in the latest AP Top 25 without playing, benefiting from a weekend when five top-seven teams lost. The Buckeyes visit USC next weekend.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-ap-top-25-poll-week-8-2026/530-029240d7-f426-48e3-a28f-853cbdaf7837",
-      "publishedAt": "2026-10-25T18:06:00Z",
-      "tags": [
-        "ohio-state",
-        "football",
-        "ap-poll",
-        "rankings"
-      ]
+      "title": "Meet Luke Fahey, the freshman now holding Ohio State's season",
+      "summary": "With Julian Sayin out with a shoulder injury, true freshman Luke Fahey is set to start at quarterback for Ohio State beginning at USC on Oct. 31, after beating out Tavien St. Clair for the job.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/osu/2026/10/meet-luke-fahey-the-overlooked-freshman-suddenly-holding-ohio-states-season-in-his-hands.html",
+      "publishedAt": "2026-10-26T10:00:00Z",
+      "tags": ["buckeyes", "fahey", "quarterback", "sayin"]
     },
     {
-      "id": "buckeyes-coaches-poll-no-2",
+      "id": "buckeyes-meyer-qb-1026",
       "category": "buckeyes",
-      "title": "Ohio State holds No. 2 in Coaches Poll, will face USC without Julian Sayin",
-      "summary": "The Buckeyes stayed at No. 2 in the Week 8 Coaches Poll while Miami kept the top spot and BYU tumbled to No. 9 after losing to UCF. Ohio State heads to No. 25 USC on Saturday at 7:30 p.m. without injured quarterback Julian Sayin.",
+      "title": "Urban Meyer questions Ohio State's quarterback situation",
+      "summary": "Urban Meyer expressed skepticism about Ohio State's quarterback room after Julian Sayin's injury, arguing the Buckeyes 'went backwards' and spotlighting the depth question behind freshman Luke Fahey.",
+      "source": "cleveland.com",
+      "url": "https://sports.yahoo.com/articles/urban-meyer-confused-ohio-state-215002983.html",
+      "publishedAt": "2026-10-26T10:00:00Z",
+      "tags": ["buckeyes", "urban-meyer", "quarterback"]
+    },
+    {
+      "id": "buckeyes-soccer-bigten-1026",
+      "category": "buckeyes",
+      "title": "Ohio State women's soccer clinches Big Ten regular-season title",
+      "summary": "Ohio State women's soccer shut out Illinois 3-0 to claim the outright 2026 Big Ten regular-season championship, setting a program record for league wins in a season.",
+      "source": "Buckeyes Wire",
+      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/2026/10/25/ohio-state-womens-soccer-clinches-big-ten-title-buckeyes-wire/92437675007/",
+      "publishedAt": "2026-10-26T01:59:00Z",
+      "tags": ["buckeyes", "soccer", "big-ten"]
+    },
+    {
+      "id": "buckeyes-basketball-butler-1026",
+      "category": "buckeyes",
+      "title": "Bynum scores 23 as Ohio State beats Butler in exhibition",
+      "summary": "Amare Bynum scored 23 points to lead Ohio State past Butler 82-73 in its final men's basketball exhibition before next Monday's season opener.",
+      "source": "247Sports",
+      "url": "https://247sports.com/college/ohio-state/longformarticle/ohio-state-buckeyes-mens-basketball-faces-butler-bulldogs-in-exhibition-291783969/",
+      "publishedAt": "2026-10-26T00:31:54Z",
+      "tags": ["buckeyes", "basketball", "bynum"]
+    },
+    {
+      "id": "f1-leclerc-lap-1026",
+      "category": "f1",
+      "title": "The single lap that cost Leclerc a shot at victory in Austin",
+      "summary": "Formula 1 breaks down the one lap that cost Charles Leclerc a shot at victory in the United States Grand Prix, where he finished second behind Kimi Antonelli.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/how-one-lap-cost-leclerc-a-shot-at-cota-victory.3Uw9MTUgPzZXSokRPlTU1S",
+      "publishedAt": "2026-10-26T09:32:47Z",
+      "tags": ["f1", "leclerc", "us-gp", "ferrari"]
+    },
+    {
+      "id": "f1-verstappen-redbull-1026",
+      "category": "f1",
+      "title": "Verstappen pinpoints two recurring Red Bull problems",
+      "summary": "Max Verstappen identified two recurring Red Bull problems after a frustrating United States Grand Prix, joking the team 'should use sign language' over its radio struggles.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868474/",
+      "publishedAt": "2026-10-26T06:56:20Z",
+      "tags": ["f1", "verstappen", "red-bull", "us-gp"]
+    },
+    {
+      "id": "f1-alonso-standards-1026",
+      "category": "f1",
+      "title": "Alonso blasts driving standards of bottom half of F1 grid",
+      "summary": "Fernando Alonso criticized the driving standards of the bottom half of the F1 grid, saying driver quality is 'very low' toward the back of the field.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-blasts-driving-standards-of-bottom-half-of-f1-grid/10868467/",
+      "publishedAt": "2026-10-26T06:13:11Z",
+      "tags": ["f1", "alonso", "driving-standards"]
+    },
+    {
+      "id": "f1-wolff-antonelli-1026",
+      "category": "f1",
+      "title": "Wolff hails Antonelli's 'best race' in Austin",
+      "summary": "Toto Wolff called Kimi Antonelli's Austin victory his 'best race' so far, with the Mercedes driver now two points from clinching the 2026 world championship.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/why-wolff-believes-that-austin-victory-was-antonellis-best-race-so-far.5EknFIzoqV4V2lU00IzdER",
+      "publishedAt": "2026-10-26T01:36:00Z",
+      "tags": ["f1", "antonelli", "wolff", "mercedes"]
+    },
+    {
+      "id": "local-charter-audit-1026",
+      "category": "local",
+      "title": "Audit: Ex-charter school manager cost Columbus school nearly $500K",
+      "summary": "A state audit found a former Columbus charter school business manager convicted of theft is responsible for nearly $500,000 in losses at Westside Academy.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/see-where-ohio-state-ranks-in-the-week-8-coaches-poll/",
-      "publishedAt": "2026-10-25T16:47:00Z",
-      "tags": [
-        "ohio-state",
-        "football",
-        "coaches-poll",
-        "usc"
-      ]
+      "url": "https://www.nbc4i.com/news/local-news/columbus/convicted-business-manager-cost-columbus-charter-school-nearly-500000-audit-finds/",
+      "publishedAt": "2026-10-26T10:30:00Z",
+      "tags": ["columbus", "charter-school", "audit"]
     },
     {
-      "id": "buckeyes-remaining-schedule-rank",
-      "category": "buckeyes",
-      "title": "Ranking Ohio State's remaining games from easiest to hardest",
-      "summary": "Land-Grant Holy Land ranked the Buckeyes' remaining regular-season opponents by difficulty as the stretch run begins with a trip to USC on Oct. 31. The exercise highlights how little margin Ohio State has left against ranked Big Ten competition.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/124585/ranking-ohio-states-remaining-games-from-easiest-to-hardest",
-      "publishedAt": "2026-10-25T13:31:00Z",
-      "tags": [
-        "ohio-state",
-        "football",
-        "big-ten",
-        "schedule"
-      ]
-    },
-    {
-      "id": "buckeyes-sayin-offense",
-      "category": "buckeyes",
-      "title": "With Sayin out, Ryan Day urged to open up the offense",
-      "summary": "With quarterback Julian Sayin expected to miss time with a shoulder and elbow injury, Land-Grant Holy Land argues Ryan Day should loosen the offense for his replacement rather than lean on a conservative plan. Sayin was hurt in the fourth quarter of the 19-15 win at Indiana.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/124480/with-julian-sayin-injured-its-time-for-ryan-day-to-put-the-pedal-to-the-metal",
-      "publishedAt": "2026-10-25T12:01:00Z",
-      "tags": [
-        "ohio-state",
-        "football",
-        "julian-sayin",
-        "injury"
-      ]
-    },
-    {
-      "id": "f1-academy-gademan-austin",
-      "category": "f1",
-      "title": "Gademan wins F1 Academy feature race after Palmowski-Larsen crash",
-      "summary": "Gademan took a maiden F1 Academy feature race victory in Austin after a crash involving title contenders Alisha Palmowski and Larsen shook up the race. The incident reshaped the weekend's championship picture.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-r",
-      "publishedAt": "2026-10-25T18:00:00Z",
-      "tags": [
-        "f1-academy",
-        "austin",
-        "motorsport",
-        "crash"
-      ]
-    },
-    {
-      "id": "f1-wolff-successor-vetting",
-      "category": "f1",
-      "title": "Toto Wolff says he is vetting 'two or three people' to replace him at Mercedes",
-      "summary": "Mercedes team principal Toto Wolff revealed he is actively assessing a small shortlist of candidates to eventually succeed him. The admission signals formal succession planning at the team he has led since 2013.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-he-is-actively-vetting-two-or-three-people-to-replace-him-at-mercedes/10868219/",
-      "publishedAt": "2026-10-25T14:58:00Z",
-      "tags": [
-        "f1",
-        "mercedes",
-        "toto-wolff",
-        "team-principal"
-      ]
-    },
-    {
-      "id": "f1-cota-second-track",
-      "category": "f1",
-      "title": "COTA plans a second track alongside Turn 1 clubhouse build",
-      "summary": "Circuit of the Americas is developing a clubhouse at Turn 1 and has plans to add a second track on the site, according to Autosport. The expansion would give the Austin venue more year-round business beyond US Grand Prix weekend.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/inside-cotas-turn-1-clubhouse-and-its-plans-to-build-a-second-track/10868244/",
-      "publishedAt": "2026-10-25T13:15:00Z",
-      "tags": [
-        "f1",
-        "cota",
-        "austin",
-        "circuit"
-      ]
-    },
-    {
-      "id": "f1-verstappen-cota-bumps",
-      "category": "f1",
-      "title": "Verstappen tells COTA boss to try his car over track bumps",
-      "summary": "Max Verstappen pushed back at Circuit of the Americas leadership over criticism of drivers complaining about the track's bumps, saying the executive could drive his car and 'after five laps he won't be able to walk.' The exchange underlines driver frustration with Austin's surface.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-responds-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868204/",
-      "publishedAt": "2026-10-25T09:23:00Z",
-      "tags": [
-        "f1",
-        "verstappen",
-        "cota",
-        "us-gp"
-      ]
-    },
-    {
-      "id": "local-crawford-county-arrest",
+      "id": "local-wilson-fire-1026",
       "category": "local",
-      "title": "Crawford County man arrested over child sexual abuse material",
-      "summary": "A Crawford County man was arrested in connection with child sexual abuse material crimes, 10TV reported Sunday. Charges and a court date were not immediately detailed in the initial report.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/crime/crawford-county-man-arrested-child-sexual-abuse-material-crimes/530-a31aece7-16c6-402a-b567-194b26b0c26a",
-      "publishedAt": "2026-10-25T18:23:00Z",
-      "tags": [
-        "columbus",
-        "crime",
-        "ohio",
-        "crawford-county"
-      ]
+      "title": "Columbus firefighters battle heavy residential fire on Wilson Drive",
+      "summary": "Columbus firefighters responded to a heavy residential fire on Wilson Drive after smoke was seen coming from the roof of a home.",
+      "source": "ABC6",
+      "url": "https://abc6onyourside.com/news/local/columbus-firefighters-battle-heavy-residential-fire-on-wilson-drive-fire-department-engine-response-emergency-aerial-firefighter",
+      "publishedAt": "2026-10-26T08:00:33Z",
+      "tags": ["columbus", "fire", "wilson-drive"]
     },
     {
-      "id": "local-ohio-anti-grooming-law",
+      "id": "local-haitians-march-1026",
       "category": "local",
-      "title": "High-profile abuse case tests Ohio's new anti-grooming law",
-      "summary": "A high-profile sexual abuse case is giving Ohio courts an early test of the state's new anti-grooming statute, which targets the manipulative behavior used to prepare children for abuse. How prosecutors apply it could set the pattern for future cases.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/ohio/high-profile-sex-abuse-case-new-ohio-anti-grooming-law/530-dfa64105-90be-4b24-9540-64b49c714aab",
-      "publishedAt": "2026-10-25T16:41:00Z",
-      "tags": [
-        "ohio",
-        "law",
-        "courts",
-        "child-safety"
-      ]
+      "title": "Ohio Haitians and supporters march on Columbus with demands",
+      "summary": "Haitian community members and supporters marched from Springfield to Columbus to demand immigration protections and an end to detentions.",
+      "source": "Ohio Capital Journal",
+      "url": "https://ohiocapitaljournal.com/2026/10/26/ohio-haitians-and-their-supporters-march-on-columbus-with-demands/",
+      "publishedAt": "2026-10-26T07:58:37Z",
+      "tags": ["columbus", "springfield", "haitian-community", "immigration"]
     },
     {
-      "id": "local-bexley-shooting",
+      "id": "local-franklinton-shooting-1026",
       "category": "local",
-      "title": "One seriously injured in Bexley shooting",
-      "summary": "One person was seriously injured in a shooting in Bexley, 10TV reported Sunday. Police have not announced an arrest.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/1-seriously-bexley-shooting/530-c120de70-5b91-44e7-8cd3-242c838e659d",
-      "publishedAt": "2026-10-25T11:42:00Z",
-      "tags": [
-        "bexley",
-        "crime",
-        "shooting",
-        "columbus"
-      ]
-    },
-    {
-      "id": "local-near-east-side-homicide",
-      "category": "local",
-      "title": "Woman found dead on Near East Side in apparent homicide",
-      "summary": "Columbus police are investigating the death of a woman found on the Near East Side as an apparent homicide. No suspect information has been released.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/woman-found-dead-on-near-east-side-of-columbus-in-apparent-homicide-police-say/",
-      "publishedAt": "2026-10-25T11:21:00Z",
-      "tags": [
-        "columbus",
-        "crime",
-        "homicide",
-        "police"
-      ]
+      "title": "Two shot overnight in Franklinton, Columbus police investigate",
+      "summary": "Two people were wounded in an overnight shooting in Franklinton near Central High School, and Columbus police are investigating.",
+      "source": "ABC6",
+      "url": "https://abc6onyourside.com/news/local/127-south-davis-shooting-two-shot-overnight-in-franklinton-near-central-high-school-victim-condition-suspect-information",
+      "publishedAt": "2026-10-26T02:37:30Z",
+      "tags": ["columbus", "franklinton", "shooting", "crime"]
     }
   ]
 }
