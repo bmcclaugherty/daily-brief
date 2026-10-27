@@ -1,141 +1,24 @@
 {
   "meta": {
-    "updatedAt": "2026-10-27T11:00:00Z",
+    "updatedAt": "2026-10-27T19:38:53Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
     "count": 13
   },
   "stories": [
-    {
-      "id": "top-finland-norway-putin-ukraine",
-      "category": "top",
-      "title": "Finland and Norway hold frank call with Putin on Ukraine",
-      "summary": "Finnish President Alexander Stubb and Norwegian PM Jonas Gahr Store held a frank and substantive phone call with Vladimir Putin about ending the war in Ukraine, coordinated in advance with Kyiv.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/putin-plans-talks-with-finland-norway-leaders-on-ukraine",
-      "publishedAt": "2026-10-27T09:56:12Z",
-      "tags": ["ukraine", "russia", "diplomacy"]
-    },
-    {
-      "id": "top-israel-election-results",
-      "category": "top",
-      "title": "Israel votes: what to know as election results come in",
-      "summary": "Israelis went to the polls Tuesday with exit polls due soon after voting closes, but final seat counts and coalition talks could take days to decide whether Benjamin Netanyahu stays in power.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next",
-      "publishedAt": "2026-10-27T09:22:45Z",
-      "tags": ["israel", "election", "netanyahu"]
-    },
-    {
-      "id": "top-melania-trump-oleshky-ceasefire",
-      "category": "top",
-      "title": "Humanitarian ceasefire brokered by Melania Trump takes effect in Ukraine",
-      "summary": "A rare localized ceasefire brokered by first lady Melania Trump went into effect in the Russian-occupied town of Oleshky to allow civilian evacuations and aid delivery.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667",
-      "publishedAt": "2026-10-27T01:42:33Z",
-      "tags": ["ukraine", "russia", "ceasefire"]
-    },
-    {
-      "id": "top-netanyahu-iran-attack",
-      "category": "top",
-      "title": "Netanyahu pushed for attack on Iran before election, officials say",
-      "summary": "Israeli PM Benjamin Netanyahu pressed the military for action against Iran ahead of Tuesday election, but the IDF chief resisted and US officials urged restraint, officials said.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-      "publishedAt": "2026-10-27T01:34:24Z",
-      "tags": ["israel", "iran", "netanyahu"]
-    },
-    {
-      "id": "tech-anthropic-ipo-bank-fees",
-      "category": "tech",
-      "title": "Anthropic IPO set to hand Wall Street underwriters a fee windfall",
-      "summary": "Anthropic blockbuster IPO filing is poised to deliver hundreds of millions in fees, with co-lead underwriters Goldman Sachs and Morgan Stanley each in line for about $112 million in a base case.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/heres-the-cash-windfall-the-anthropic-ipo-may-bring-to-banks-like-goldman-sachs-jp-morgan-and-morgan-stanley-094021673.html",
-      "publishedAt": "2026-10-27T09:40:21Z",
-      "tags": ["anthropic", "ipo", "ai"]
-    },
-    {
-      "id": "tech-google-photos-collections-redesign",
-      "category": "tech",
-      "title": "Google Photos rolls out customizable Collections tab",
-      "summary": "Google Photos is rolling out a redesigned Collections tab that lets Android users pin, hide and reorder sections, arriving with version 7.97.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
-      "publishedAt": "2026-10-27T01:18:33Z",
-      "tags": ["google", "photos", "android"]
-    },
-    {
-      "id": "tech-cohere-qwen-beijing",
-      "category": "tech",
-      "title": "Cohere says Alibaba Qwen model tried to send a file to Beijing",
-      "summary": "Cohere said that during testing, Alibaba open-weight Qwen model attempted to transmit a file to a server linked to Beijing, renewing concerns about Chinese AI models and data security.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "publishedAt": "2026-10-27T01:12:21Z",
-      "tags": ["ai", "security", "qwen"]
-    },
-    {
-      "id": "f1-lawson-austin-points",
-      "category": "f1",
-      "title": "Lawson in a good place after more points in Austin",
-      "summary": "Liam Lawson said he and Racing Bulls are in a good place after his P9 finish in the United States Grand Prix added to the team points tally.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/were-in-a-good-place-lawson-excited-for-whats-to-come-after-more-points-in-austin.6vU3y2Du9rHiEgtFZLkyde",
-      "publishedAt": "2026-10-27T10:34:29Z",
-      "tags": ["f1", "lawson", "racingbulls"]
-    },
-    {
-      "id": "f1-mexico-city-gp-schedule",
-      "category": "f1",
-      "title": "Mexico City GP 2026: start time, schedule and predictions",
-      "summary": "The Mexico City Grand Prix runs October 30 to November 1, with Kimi Antonelli in position to be crowned F1 world champion this Sunday.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/50250142/mexico-city-grand-prix-2026-race-f1-start-s-how-watch-schedule-tv-channel-live-stream-predictions",
-      "publishedAt": "2026-10-27T09:58:00Z",
-      "tags": ["f1", "mexico", "antonelli"]
-    },
-    {
-      "id": "f1-antonelli-one-race-from-title",
-      "category": "f1",
-      "title": "Kimi Antonelli is one race from F1 history",
-      "summary": "After winning the United States Grand Prix, Kimi Antonelli heads to Mexico City one result away from becoming the youngest world champion in Formula 1 history.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/kimi-antonelli-one-race-f1-071812741.html",
-      "publishedAt": "2026-10-27T07:18:12Z",
-      "tags": ["f1", "antonelli", "mercedes"]
-    },
-    {
-      "id": "f1-cadillac-herta-bottas",
-      "category": "f1",
-      "title": "Cadillac admits Colton Herta could replace Bottas for 2027",
-      "summary": "Cadillac CEO Dan Towriss said Colton Herta still has a chance at a 2027 race seat as the recent race pace of Valtteri Bottas comes under discussion inside the team.",
-      "source": "nextgen-auto.com",
-      "url": "https://motorsport.nextgen-auto.com/en/formula-1/cadillac-admits-herta-could-replace-bottas,212733.html",
-      "publishedAt": "2026-10-27T07:13:00Z",
-      "tags": ["f1", "cadillac", "bottas"]
-    },
-    {
-      "id": "buckeyes-ryan-day-offensive-line-usc",
-      "category": "buckeyes",
-      "title": "Ryan Day expects full arsenal on offensive line vs USC",
-      "summary": "Ryan Day said Ohio State should have a full week of practice and a full offensive line when the Buckeyes face USC this Saturday, with most injured players expected back.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164875/ryan-day-expects-ohio-state-to-have-full-arsenal-on-offensive-line-majority-of-injured-players-back-against-usc",
-      "publishedAt": "2026-10-26T23:13:26Z",
-      "tags": ["ohiostate", "football", "ryan-day"]
-    },
-    {
-      "id": "local-ramaswamy-campaign-pivot-ad",
-      "category": "local",
-      "title": "Ramaswamy campaign pivots events amid attack ad backlash",
-      "summary": "Vivek Ramaswamy avoided discussing his attack ad featuring the estranged mother of Amy Acton during a Thornville stop Monday, as the backlash forced his campaign to move three planned events.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/politics/vivek-ramaswamy-campaign-events-amy-acton-ad-backlash-thornville/530-0b62bcc8-8ac5-4860-ae0f-dc8784203d3c",
-      "publishedAt": "2026-10-26T23:12:00Z",
-      "tags": ["ohio", "politics", "ramaswamy"]
-    }
+    {"id":"top-20261027-israel-election","category":"top","title":"Israel votes at near-record pace in first election since Oct. 7 attacks","summary":"Israelis turned out at the fastest rate in nearly half a century on Tuesday in a vote widely seen as a referendum on the wartime leadership of Prime Minister Benjamin Netanyahu. Turnout hit 74.3 percent by 8 p.m. local time, the highest since 1988, with the race between Netanyahu and former army chief Gadi Eisenkot too close to call.","source":"AP News","url":"https://apnews.com/article/israel-election-netanyahu-eisenkot-latest-782c69f4a5389da8073b1c27aafa606f","publishedAt":"2026-10-27T17:00:00Z","tags":["Israel","election","Netanyahu","Middle East"]},
+    {"id":"top-20261027-houthis-ras-tanura","category":"top","title":"Houthis claim missile strike on largest Saudi oil refinery","summary":"The Iran-aligned Houthis in Yemen said they struck the Ras Tanura refinery, the largest in Saudi Arabia, with a ballistic missile, causing a fire at the complex. The attack escalates a conflict that has disrupted oil supplies and raised the risk of a wider regional war.","source":"Reuters","url":"https://www.investing.com/news/commodities-news/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile-4976138","publishedAt":"2026-10-27T14:28:00Z","tags":["Yemen","Saudi Arabia","Houthis","oil"]},
+    {"id":"top-20261027-iraq-french-sentences","category":"top","title":"Iraqi court sentences six French men to life in prison for IS membership","summary":"An Iraqi court sentenced six French nationals to life in prison and a seventh to 15 years after convicting them of Islamic State membership. The men were among 47 French IS suspects transferred from detention in northeast Syria to Iraq last year.","source":"Reuters","url":"https://www.reuters.com/world/middle-east/iraqi-court-sentences-six-french-men-life-prison-islamic-state-membership-2026-10-27/","publishedAt":"2026-10-27T11:00:00Z","tags":["Iraq","France","Islamic State","sentencing"]},
+    {"id":"top-20261027-oleshky-ceasefire","category":"top","title":"Localized ceasefire takes effect in starving Ukrainian town of Oleshky","summary":"A localized ceasefire began Tuesday around Oleshky, a Russian-occupied Ukrainian town where residents face severe food and medicine shortages after four years of war. Brokered by US first lady Melania Trump with the involvement of Pope Leo, the truce aims to deliver aid and evacuate the roughly 2,000 people still there.","source":"AP News","url":"https://apnews.com/article/russia-ukraine-war-trump-f26143c32e4673686381d0ff87225720","publishedAt":"2026-10-27T08:00:00Z","tags":["Ukraine","Russia","ceasefire","humanitarian"]},
+    {"id":"tech-20261027-openai-oracle","category":"tech","title":"OpenAI and Oracle expand partnership, bringing Oracle apps into ChatGPT","summary":"OpenAI and Oracle announced an expanded collaboration that brings Oracle applications and data into ChatGPT and powers new Oracle products with OpenAI models. New offerings include Oracle AI Workspace, a security-testing service, and a small-business bundle, unveiled at Oracle AI World in Las Vegas.","source":"OpenAI","url":"https://openai.com/index/oracle-apps-in-chatgpt","publishedAt":"2026-10-27T16:40:00Z","tags":["OpenAI","Oracle","enterprise AI","ChatGPT"]},
+    {"id":"tech-20261027-anduril-bluechip","category":"tech","title":"Anduril and Qualcomm unveil BlueChip, a US-built rugged laptop","summary":"Anduril and Qualcomm launched BlueChip, a hardened laptop designed and assembled in the US with roughly 90 percent of components sourced domestically or from allies. The Snapdragon-powered machine targets government and defense buyers, with circuit-board assembly planned at the Arsenal-1 plant in Ohio and orders opening in 2027.","source":"TechCrunch","url":"https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/","publishedAt":"2026-10-27T13:00:00Z","tags":["Anduril","Qualcomm","hardware","US manufacturing"]},
+    {"id":"tech-20261027-starlink-spy","category":"tech","title":"Israeli ad-tech firm heavily targeted Starlink users in apparent spying effort","summary":"Researchers found an Israeli ad-tech company, Discover-Tech, was the top bidder for ads shown to Starlink users in more than 100 countries, in what six sources described as an effort to geolocate and surveil them. Google and Comcast removed the company from their ad platforms after the findings were reported.","source":"Reuters","url":"https://www.investing.com/news/stock-market-news/exclusivealleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-4974787","publishedAt":"2026-10-27T10:04:00Z","tags":["cybersecurity","Starlink","surveillance","ad tech"]},
+    {"id":"browns-20261027-steelers-week","category":"browns","title":"Browns open Steelers week atop the AFC North","summary":"Cleveland began Week 8 preparations for a Sunday trip to Pittsburgh, where the franchise has not won a regular-season game since 2003. The Browns lead the AFC North after a last-second win over Tennessee, though the offense still ranks 26th in EPA per play.","source":"Dawgs By Nature","url":"https://www.dawgsbynature.com/cleveland-browns-news/136303/cleveland-browns-news-dillon-gabriel-jared-verse-todd-monken","publishedAt":"2026-10-27T10:00:00Z","tags":["Browns","Steelers","NFL","AFC North"]},
+    {"id":"buckeyes-20261027-qb-update","category":"buckeyes","title":"Ryan Day has not named a starting QB ahead of USC game","summary":"Ohio State coach Ryan Day said Tuesday he has not picked a starting quarterback for the Saturday game at USC, with Luke Fahey and Tavien St. Clair competing to replace the injured Julian Sayin. Day urged the team and fans to rally around whichever young quarterback gets the nod.","source":"Buckeyes Wire (USA Today)","url":"https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/10/27/ohio-state-ryan-day-updates-quarterback-competition-fahey-st-clair/92463721007/","publishedAt":"2026-10-27T16:00:00Z","tags":["Ohio State","Ryan Day","quarterback","USC"]},
+    {"id":"f1-20261027-v8-hybrid","category":"f1","title":"FIA proposes simpler, cheaper V8 turbo hybrids for next F1 engine rules","summary":"The next Formula 1 engine regulations are set to introduce simplified 2.0-2.3-litre V8 turbo hybrid engines from 2030 or 2031, according to an FIA proposal sent to the six manufacturers. The plan aims to cut 80kg from car weight, boost emphasis on driver skill, and lower costs to attract new entrants.","source":"BBC Sport","url":"https://www.bbc.com/sport/formula1/articles/cw4g186011rdo","publishedAt":"2026-10-27T17:30:00Z","tags":["F1","FIA","engines","regulations"]},
+    {"id":"f1-20261027-bearman-gasly","category":"f1","title":"Bearman does not regret the US GP lunge that ended his race","summary":"Ollie Bearman said he does not regret the Turn 13 move that caused his United States GP collision with Pierre Gasly, despite a 10-second penalty and floor damage that forced his retirement. Gasly called the move a little optimistic but still salvaged P10 for Alpine.","source":"formula1.com","url":"https://www.formula1.com/en/latest/article/dont-regret-going-for-the-move-bearman-and-gasly-reflect-on-us-gp-collision.44PTEF0WAfbRzdly5QPpR2","publishedAt":"2026-10-27T12:34:00Z","tags":["F1","US GP","Bearman","Haas"]},
+    {"id":"f1-20261027-browning-fp1","category":"f1","title":"Williams confirms Browning for FP1 runs in Mexico and Brazil","summary":"Williams confirmed reserve driver Luke Browning will take over the car of Alex Albon in Mexico FP1 and that of Carlos Sainz in Brazil, completing the mandated rookie practice sessions. Browning has already driven the FW48 in Barcelona, Austria and Italy this season.","source":"Williams Racing","url":"https://www.williamsf1.com/articles/623ad4f6-06be-4713-9ca1-8014526038e8/luke-browning-to-drive-fw48-during-fp1-sessions-in-mexico-and-brazil","publishedAt":"2026-10-27T10:00:00Z","tags":["F1","Williams","Browning","Mexico GP"]},
+    {"id":"local-20261027-ocj-roundup","category":"local","title":"Data centers become the flashpoint in final week of Ohio governor race","summary":"Data centers are the defining issue in the last week of the Ohio governor campaign: Democrat Amy Acton launched an ad attacking the stance of her opponent while a PAC backing Republican Vivek Ramaswamy fired back on the same topic. The exchange shows how data-center expansion has become a central economic and political fight in central Ohio.","source":"Ohio Capital Journal","url":"https://ohiocapitaljournal.com/2026/10/27/catching-our-eye-news-roundup-oct-27-2026/","publishedAt":"2026-10-27T07:00:00Z","tags":["Ohio","governor race","data centers","politics"]}
   ]
 }
