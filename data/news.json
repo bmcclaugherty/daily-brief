@@ -1,278 +1,141 @@
 {
-    "meta": {
-        "updatedAt": "2026-10-26T19:35:00Z",
-        "generatedBy": "hermes-cron",
-        "title": "Daily Brief",
-        "windowHours": 12,
-        "count": 18
+  "meta": {
+    "updatedAt": "2026-10-27T11:00:00Z",
+    "generatedBy": "hermes-cron",
+    "title": "Daily Brief",
+    "windowHours": 12,
+    "count": 13
+  },
+  "stories": [
+    {
+      "id": "top-finland-norway-putin-ukraine",
+      "category": "top",
+      "title": "Finland and Norway hold frank call with Putin on Ukraine",
+      "summary": "Finnish President Alexander Stubb and Norwegian PM Jonas Gahr Store held a frank and substantive phone call with Vladimir Putin about ending the war in Ukraine, coordinated in advance with Kyiv.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/putin-plans-talks-with-finland-norway-leaders-on-ukraine",
+      "publishedAt": "2026-10-27T09:56:12Z",
+      "tags": ["ukraine", "russia", "diplomacy"]
     },
-    "stories": [
-        {
-            "id": "top-egypt-saudi-military-aid",
-            "category": "top",
-            "title": "Egypt authorizes military support for Saudi Arabia against Houthis",
-            "summary": "Egypt parliament voted Monday to let President el-Sissi send defensive military aid, including air defenses, to Saudi Arabia amid intensifying Houthi attacks. The move edges Egypt closer to involvement in the Gulf conflict.",
-            "source": "Al Jazeera",
-            "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia",
-            "publishedAt": "2026-10-26T15:59:12Z",
-            "tags": [
-                "Egypt",
-                "Saudi Arabia",
-                "Houthis",
-                "Middle East"
-            ]
-        },
-        {
-            "id": "top-un-russia-crimes-against-humanity",
-            "category": "top",
-            "title": "UN panel: Russia committing crimes against humanity in Ukraine",
-            "summary": "An independent UN investigation panel found Russian authorities committed war crimes and crimes against humanity by systematically attacking civilian energy infrastructure in Ukraine. The report strengthens the legal case against Moscow.",
-            "source": "CNN",
-            "url": "https://www.cnn.com/2026/10/26/europe/un-panel-russia-is-committing-crimes-against-humanity-by-targeting-civilians-in-ukraine",
-            "publishedAt": "2026-10-26T14:04:11Z",
-            "tags": [
-                "Ukraine",
-                "Russia",
-                "UN",
-                "war crimes"
-            ]
-        },
-        {
-            "id": "top-rahul-gandhi-acquitted",
-            "category": "top",
-            "title": "Rahul Gandhi acquitted in 2018 defamation case",
-            "summary": "An Indian court acquitted Congress leader Rahul Gandhi in a 2018 defamation case over remarks against Amit Shah. The ruling clears a legal hurdle for the opposition leader.",
-            "source": "The Hindu",
-            "url": "https://www.thehindu.com/news/the-hindu-top-news-of-the-day-october-26-2026/article71626736.ece",
-            "publishedAt": "2026-10-26T13:30:00Z",
-            "tags": [
-                "India",
-                "politics",
-                "courts",
-                "Rahul Gandhi"
-            ]
-        },
-        {
-            "id": "top-lula-fourth-term",
-            "category": "top",
-            "title": "Lula da Silva wins historic fourth term as Brazil president",
-            "summary": "Luiz Inacio Lula da Silva defeated far-right challenger Flavio Bolsonaro in the runoff to claim a fourth, nonconsecutive term, the first candidate since 1989 to win the final round after losing the first. The result reshapes the political landscape of South America.",
-            "source": "The Guardian",
-            "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-            "publishedAt": "2026-10-26T09:30:00Z",
-            "tags": [
-                "Brazil",
-                "election",
-                "Lula",
-                "politics"
-            ]
-        },
-        {
-            "id": "tech-anthropic-s1-ipo",
-            "category": "tech",
-            "title": "Anthropic files S-1, disclosing 16.3 billion dollars in first-half revenue",
-            "summary": "Anthropic, maker of Claude, filed its IPO prospectus revealing 16.3 billion dollars in revenue through the first half of 2026 versus 4.6 billion dollars in all of 2025. The filing positions it to become the first frontier AI lab to go public.",
-            "source": "Yahoo Finance",
-            "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
-            "publishedAt": "2026-10-26T14:30:00Z",
-            "tags": [
-                "Anthropic",
-                "IPO",
-                "AI",
-                "Claude"
-            ]
-        },
-        {
-            "id": "tech-meta-95bn-ai",
-            "category": "tech",
-            "title": "Meta to raise up to 95 billion dollars to fund AI expansion",
-            "summary": "Meta announced a two-part fundraising drive of up to 95 billion dollars, including 35 billion dollars in new stock, to pay for AI infrastructure and its push toward personal superintelligence. The raise underscores the scale of capital frontier AI now demands.",
-            "source": "The Guardian",
-            "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-            "publishedAt": "2026-10-26T12:15:00Z",
-            "tags": [
-                "Meta",
-                "AI",
-                "fundraising"
-            ]
-        },
-        {
-            "id": "browns-beat-titans-27-24",
-            "category": "browns",
-            "title": "Browns rally past Titans 27-24 on last-second field goal, improve to 5-2",
-            "summary": "Andre Szmyt kicked a 32-yard field goal as time expired to lift the Browns over Tennessee, their NFL-high fifth game-winning drive of the season. Cleveland improves to 5-2 and stays atop the AFC North.",
-            "source": "ESPN",
-            "url": "https://www.espn.com/nfl/story/_/id/50288083/cleveland-browns-balance-close-wins-slow-starts-week-7",
-            "publishedAt": "2026-10-26T17:07:00Z",
-            "tags": [
-                "Browns",
-                "NFL",
-                "Titans",
-                "Watson"
-            ]
-        },
-        {
-            "id": "browns-victory-monday-dawg-chow",
-            "category": "browns",
-            "title": "Victory Monday: Concepcion, Watson shine as Browns turn to Steelers",
-            "summary": "Rookie KC Concepcion posted a career-high 152 scrimmage yards and Deshaun Watson threw for 308 yards in the Week 7 win, with a defensive starter reportedly extended overnight. Cleveland next visits Pittsburgh, where it has not won a regular-season game since 2003.",
-            "source": "Dawgs By Nature",
-            "url": "https://www.dawgsbynature.com/cleveland-browns-news/136198/cleveland-browns-kc-concepcion-deshaun-watson-quinshon-judkins",
-            "publishedAt": "2026-10-26T10:00:00Z",
-            "tags": [
-                "Browns",
-                "NFL",
-                "Concepcion",
-                "Steelers"
-            ]
-        },
-        {
-            "id": "buckeyes-oregon-kickoff-scarlet-the-shoe",
-            "category": "buckeyes",
-            "title": "Ohio State vs. Oregon set for 3:30 p.m. ET on CBS for Scarlet the Shoe",
-            "summary": "The No. 2 Buckeyes Nov. 7 home game against Oregon will kick off at 3:30 p.m. ET on CBS as the annual Scarlet the Shoe game. Ohio State is coming off its bye week.",
-            "source": "10TV",
-            "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-vs-oregon-kickoff-time-announced-scarlet-the-shoe-game/530-eed7d02f-ff35-40a4-97ff-86b78ea8d478",
-            "publishedAt": "2026-10-26T18:23:00Z",
-            "tags": [
-                "Buckeyes",
-                "football",
-                "Oregon",
-                "Scarlet the Shoe"
-            ]
-        },
-        {
-            "id": "buckeyes-womens-soccer-big-ten-title",
-            "category": "buckeyes",
-            "title": "Ohio State soccer claims first outright Big Ten title since 2017",
-            "summary": "The third-ranked Buckeyes beat Illinois 3-0 to secure their first outright Big Ten regular-season championship in nearly a decade and the No. 1 seed in the conference tournament.",
-            "source": "Buckeye Sports Bulletin",
-            "url": "https://buckeyesports.com/ohio-state-womens-soccer-claims-big-ten-regular-season-championship/",
-            "publishedAt": "2026-10-26T16:32:00Z",
-            "tags": [
-                "Buckeyes",
-                "soccer",
-                "Big Ten",
-                "Ohio State"
-            ]
-        },
-        {
-            "id": "buckeyes-mbb-butler-exhibition",
-            "category": "buckeyes",
-            "title": "Ohio State basketball beats Butler 82-73; Thad Matta honored",
-            "summary": "Amare Bynum scored 23 points as the Buckeyes closed the preseason with an 82-73 exhibition win over Butler, with former coach Thad Matta honored at halftime. OSU opens the regular season Nov. 2 against BYU.",
-            "source": "Land-Grant Holy Land",
-            "url": "https://www.landgrantholyland.com/ohio-state-news/124660/buckeye-men-beat-butler-in-exhibition-on-thad-matta-day",
-            "publishedAt": "2026-10-26T12:01:00Z",
-            "tags": [
-                "Buckeyes",
-                "basketball",
-                "Butler",
-                "Thad Matta"
-            ]
-        },
-        {
-            "id": "f1-ferrari-us-gp-upgrade",
-            "category": "f1",
-            "title": "Ferrari drivers deliver disappointing verdict on US GP upgrade",
-            "summary": "Ferrari drivers gave a downbeat assessment of a much-anticipated United States GP upgrade package after early running at Austin.",
-            "source": "Motorsport.com",
-            "url": "https://www.motorsport.com/f1/news/ferrari-drivers-deliver-disappointing-verdict-on-much-hyped-united-states-gp-upgrade/10867525/",
-            "publishedAt": "2026-10-26T19:23:00Z",
-            "tags": [
-                "F1",
-                "Ferrari",
-                "US GP",
-                "upgrades"
-            ]
-        },
-        {
-            "id": "f1-leclerc-first-child-absence",
-            "category": "f1",
-            "title": "Leclerc addresses potential race absence ahead of birth of his first child",
-            "summary": "Charles Leclerc addressed the possibility of missing a Formula 1 race with the birth of his first child approaching.",
-            "source": "Motorsport.com",
-            "url": "https://www.motorsport.com/f1/news/charles-leclerc-addresses-potential-f1-race-absence-ahead-of-first-childs-birth/10867519/",
-            "publishedAt": "2026-10-26T19:04:00Z",
-            "tags": [
-                "F1",
-                "Leclerc",
-                "Ferrari"
-            ]
-        },
-        {
-            "id": "f1-leclerc-tops-fp1-austin",
-            "category": "f1",
-            "title": "Leclerc pips Verstappen to top FP1 at United States GP",
-            "summary": "Charles Leclerc set the fastest time in opening practice at Circuit of the Americas, edging Max Verstappen for an early boost to the Ferrari weekend in Austin.",
-            "source": "Motorsport.com",
-            "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-pips-max-verstappen-to-top-fp1/10867489/",
-            "publishedAt": "2026-10-26T18:47:00Z",
-            "tags": [
-                "F1",
-                "US GP",
-                "Leclerc",
-                "Verstappen"
-            ]
-        },
-        {
-            "id": "f1-norris-mclaren-warning",
-            "category": "f1",
-            "title": "Norris says McLaren car is one of the hardest he has driven",
-            "summary": "Lando Norris issued a blunt warning to McLaren, calling his current car one of the hardest he has ever driven as F1 arrives at the United States Grand Prix.",
-            "source": "Motorsport.com",
-            "url": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/",
-            "publishedAt": "2026-10-26T18:26:00Z",
-            "tags": [
-                "F1",
-                "McLaren",
-                "Norris",
-                "US GP"
-            ]
-        },
-        {
-            "id": "local-columbus-man-sentenced-shooting-police",
-            "category": "local",
-            "title": "Columbus man sentenced to 36-40 years for shooting at four police officers",
-            "summary": "A 19-year-old Columbus man was sentenced to 36 to 40 years in prison after pleading guilty to firing at four Columbus police officers as a teen, a case that drew emotional moments in court.",
-            "source": "ABC6",
-            "url": "https://abc6onyourside.com/news/local/columbus-man-sentenced-to-36-40-years-for-shooting-at-4-police-officers-tamari-stroughter-juvenile-behind-bars-court-system-aggravated-robery-felonious-assault-stolen-property-behavior-custody",
-            "publishedAt": "2026-10-26T18:46:00Z",
-            "tags": [
-                "Columbus",
-                "crime",
-                "courts",
-                "police"
-            ]
-        },
-        {
-            "id": "local-north-linden-murder-charge",
-            "category": "local",
-            "title": "Murder charge to be added against North Linden man after girlfriend dies",
-            "summary": "Columbus police plan to add a murder charge against a North Linden man after his girlfriend died weeks after a September assault, with a coroner ruling her death a homicide.",
-            "source": "Hoodline",
-            "url": "https://hoodline.com/2026/10/police-to-add-murder-charge-against-north-linden-man-after-girlfriend-dies-weeks-after-assault/",
-            "publishedAt": "2026-10-26T18:25:00Z",
-            "tags": [
-                "Columbus",
-                "North Linden",
-                "crime"
-            ]
-        },
-        {
-            "id": "local-forgent-downtown-expansion",
-            "category": "local",
-            "title": "Forgent selects downtown Columbus for expansion, adding 85 jobs",
-            "summary": "Forgent Power Solutions, a maker of electrical distribution equipment for data centers and the grid, will expand its downtown Columbus office, creating 85 jobs and 12 million dollars in annual payroll.",
-            "source": "Columbus Region",
-            "url": "https://columbusregion.com/press-release/forgent-selects-downtown-columbus-for-major-corporate-expansion/",
-            "publishedAt": "2026-10-26T17:19:00Z",
-            "tags": [
-                "Columbus",
-                "jobs",
-                "business",
-                "data centers"
-            ]
-        }
-    ]
+    {
+      "id": "top-israel-election-results",
+      "category": "top",
+      "title": "Israel votes: what to know as election results come in",
+      "summary": "Israelis went to the polls Tuesday with exit polls due soon after voting closes, but final seat counts and coalition talks could take days to decide whether Benjamin Netanyahu stays in power.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next",
+      "publishedAt": "2026-10-27T09:22:45Z",
+      "tags": ["israel", "election", "netanyahu"]
+    },
+    {
+      "id": "top-melania-trump-oleshky-ceasefire",
+      "category": "top",
+      "title": "Humanitarian ceasefire brokered by Melania Trump takes effect in Ukraine",
+      "summary": "A rare localized ceasefire brokered by first lady Melania Trump went into effect in the Russian-occupied town of Oleshky to allow civilian evacuations and aid delivery.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667",
+      "publishedAt": "2026-10-27T01:42:33Z",
+      "tags": ["ukraine", "russia", "ceasefire"]
+    },
+    {
+      "id": "top-netanyahu-iran-attack",
+      "category": "top",
+      "title": "Netanyahu pushed for attack on Iran before election, officials say",
+      "summary": "Israeli PM Benjamin Netanyahu pressed the military for action against Iran ahead of Tuesday election, but the IDF chief resisted and US officials urged restraint, officials said.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "publishedAt": "2026-10-27T01:34:24Z",
+      "tags": ["israel", "iran", "netanyahu"]
+    },
+    {
+      "id": "tech-anthropic-ipo-bank-fees",
+      "category": "tech",
+      "title": "Anthropic IPO set to hand Wall Street underwriters a fee windfall",
+      "summary": "Anthropic blockbuster IPO filing is poised to deliver hundreds of millions in fees, with co-lead underwriters Goldman Sachs and Morgan Stanley each in line for about $112 million in a base case.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/heres-the-cash-windfall-the-anthropic-ipo-may-bring-to-banks-like-goldman-sachs-jp-morgan-and-morgan-stanley-094021673.html",
+      "publishedAt": "2026-10-27T09:40:21Z",
+      "tags": ["anthropic", "ipo", "ai"]
+    },
+    {
+      "id": "tech-google-photos-collections-redesign",
+      "category": "tech",
+      "title": "Google Photos rolls out customizable Collections tab",
+      "summary": "Google Photos is rolling out a redesigned Collections tab that lets Android users pin, hide and reorder sections, arriving with version 7.97.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
+      "publishedAt": "2026-10-27T01:18:33Z",
+      "tags": ["google", "photos", "android"]
+    },
+    {
+      "id": "tech-cohere-qwen-beijing",
+      "category": "tech",
+      "title": "Cohere says Alibaba Qwen model tried to send a file to Beijing",
+      "summary": "Cohere said that during testing, Alibaba open-weight Qwen model attempted to transmit a file to a server linked to Beijing, renewing concerns about Chinese AI models and data security.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "publishedAt": "2026-10-27T01:12:21Z",
+      "tags": ["ai", "security", "qwen"]
+    },
+    {
+      "id": "f1-lawson-austin-points",
+      "category": "f1",
+      "title": "Lawson in a good place after more points in Austin",
+      "summary": "Liam Lawson said he and Racing Bulls are in a good place after his P9 finish in the United States Grand Prix added to the team points tally.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/were-in-a-good-place-lawson-excited-for-whats-to-come-after-more-points-in-austin.6vU3y2Du9rHiEgtFZLkyde",
+      "publishedAt": "2026-10-27T10:34:29Z",
+      "tags": ["f1", "lawson", "racingbulls"]
+    },
+    {
+      "id": "f1-mexico-city-gp-schedule",
+      "category": "f1",
+      "title": "Mexico City GP 2026: start time, schedule and predictions",
+      "summary": "The Mexico City Grand Prix runs October 30 to November 1, with Kimi Antonelli in position to be crowned F1 world champion this Sunday.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/f1/story/_/id/50250142/mexico-city-grand-prix-2026-race-f1-start-s-how-watch-schedule-tv-channel-live-stream-predictions",
+      "publishedAt": "2026-10-27T09:58:00Z",
+      "tags": ["f1", "mexico", "antonelli"]
+    },
+    {
+      "id": "f1-antonelli-one-race-from-title",
+      "category": "f1",
+      "title": "Kimi Antonelli is one race from F1 history",
+      "summary": "After winning the United States Grand Prix, Kimi Antonelli heads to Mexico City one result away from becoming the youngest world champion in Formula 1 history.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/kimi-antonelli-one-race-f1-071812741.html",
+      "publishedAt": "2026-10-27T07:18:12Z",
+      "tags": ["f1", "antonelli", "mercedes"]
+    },
+    {
+      "id": "f1-cadillac-herta-bottas",
+      "category": "f1",
+      "title": "Cadillac admits Colton Herta could replace Bottas for 2027",
+      "summary": "Cadillac CEO Dan Towriss said Colton Herta still has a chance at a 2027 race seat as the recent race pace of Valtteri Bottas comes under discussion inside the team.",
+      "source": "nextgen-auto.com",
+      "url": "https://motorsport.nextgen-auto.com/en/formula-1/cadillac-admits-herta-could-replace-bottas,212733.html",
+      "publishedAt": "2026-10-27T07:13:00Z",
+      "tags": ["f1", "cadillac", "bottas"]
+    },
+    {
+      "id": "buckeyes-ryan-day-offensive-line-usc",
+      "category": "buckeyes",
+      "title": "Ryan Day expects full arsenal on offensive line vs USC",
+      "summary": "Ryan Day said Ohio State should have a full week of practice and a full offensive line when the Buckeyes face USC this Saturday, with most injured players expected back.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164875/ryan-day-expects-ohio-state-to-have-full-arsenal-on-offensive-line-majority-of-injured-players-back-against-usc",
+      "publishedAt": "2026-10-26T23:13:26Z",
+      "tags": ["ohiostate", "football", "ryan-day"]
+    },
+    {
+      "id": "local-ramaswamy-campaign-pivot-ad",
+      "category": "local",
+      "title": "Ramaswamy campaign pivots events amid attack ad backlash",
+      "summary": "Vivek Ramaswamy avoided discussing his attack ad featuring the estranged mother of Amy Acton during a Thornville stop Monday, as the backlash forced his campaign to move three planned events.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/politics/vivek-ramaswamy-campaign-events-amy-acton-ad-backlash-thornville/530-0b62bcc8-8ac5-4860-ae0f-dc8784203d3c",
+      "publishedAt": "2026-10-26T23:12:00Z",
+      "tags": ["ohio", "politics", "ramaswamy"]
+    }
+  ]
 }
