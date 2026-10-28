@@ -1,24 +1,141 @@
 {
   "meta": {
-    "updatedAt": "2026-10-27T19:38:53Z",
+    "updatedAt": "2026-10-28T11:07:50Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
     "count": 13
   },
   "stories": [
-    {"id":"top-20261027-israel-election","category":"top","title":"Israel votes at near-record pace in first election since Oct. 7 attacks","summary":"Israelis turned out at the fastest rate in nearly half a century on Tuesday in a vote widely seen as a referendum on the wartime leadership of Prime Minister Benjamin Netanyahu. Turnout hit 74.3 percent by 8 p.m. local time, the highest since 1988, with the race between Netanyahu and former army chief Gadi Eisenkot too close to call.","source":"AP News","url":"https://apnews.com/article/israel-election-netanyahu-eisenkot-latest-782c69f4a5389da8073b1c27aafa606f","publishedAt":"2026-10-27T17:00:00Z","tags":["Israel","election","Netanyahu","Middle East"]},
-    {"id":"top-20261027-houthis-ras-tanura","category":"top","title":"Houthis claim missile strike on largest Saudi oil refinery","summary":"The Iran-aligned Houthis in Yemen said they struck the Ras Tanura refinery, the largest in Saudi Arabia, with a ballistic missile, causing a fire at the complex. The attack escalates a conflict that has disrupted oil supplies and raised the risk of a wider regional war.","source":"Reuters","url":"https://www.investing.com/news/commodities-news/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile-4976138","publishedAt":"2026-10-27T14:28:00Z","tags":["Yemen","Saudi Arabia","Houthis","oil"]},
-    {"id":"top-20261027-iraq-french-sentences","category":"top","title":"Iraqi court sentences six French men to life in prison for IS membership","summary":"An Iraqi court sentenced six French nationals to life in prison and a seventh to 15 years after convicting them of Islamic State membership. The men were among 47 French IS suspects transferred from detention in northeast Syria to Iraq last year.","source":"Reuters","url":"https://www.reuters.com/world/middle-east/iraqi-court-sentences-six-french-men-life-prison-islamic-state-membership-2026-10-27/","publishedAt":"2026-10-27T11:00:00Z","tags":["Iraq","France","Islamic State","sentencing"]},
-    {"id":"top-20261027-oleshky-ceasefire","category":"top","title":"Localized ceasefire takes effect in starving Ukrainian town of Oleshky","summary":"A localized ceasefire began Tuesday around Oleshky, a Russian-occupied Ukrainian town where residents face severe food and medicine shortages after four years of war. Brokered by US first lady Melania Trump with the involvement of Pope Leo, the truce aims to deliver aid and evacuate the roughly 2,000 people still there.","source":"AP News","url":"https://apnews.com/article/russia-ukraine-war-trump-f26143c32e4673686381d0ff87225720","publishedAt":"2026-10-27T08:00:00Z","tags":["Ukraine","Russia","ceasefire","humanitarian"]},
-    {"id":"tech-20261027-openai-oracle","category":"tech","title":"OpenAI and Oracle expand partnership, bringing Oracle apps into ChatGPT","summary":"OpenAI and Oracle announced an expanded collaboration that brings Oracle applications and data into ChatGPT and powers new Oracle products with OpenAI models. New offerings include Oracle AI Workspace, a security-testing service, and a small-business bundle, unveiled at Oracle AI World in Las Vegas.","source":"OpenAI","url":"https://openai.com/index/oracle-apps-in-chatgpt","publishedAt":"2026-10-27T16:40:00Z","tags":["OpenAI","Oracle","enterprise AI","ChatGPT"]},
-    {"id":"tech-20261027-anduril-bluechip","category":"tech","title":"Anduril and Qualcomm unveil BlueChip, a US-built rugged laptop","summary":"Anduril and Qualcomm launched BlueChip, a hardened laptop designed and assembled in the US with roughly 90 percent of components sourced domestically or from allies. The Snapdragon-powered machine targets government and defense buyers, with circuit-board assembly planned at the Arsenal-1 plant in Ohio and orders opening in 2027.","source":"TechCrunch","url":"https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/","publishedAt":"2026-10-27T13:00:00Z","tags":["Anduril","Qualcomm","hardware","US manufacturing"]},
-    {"id":"tech-20261027-starlink-spy","category":"tech","title":"Israeli ad-tech firm heavily targeted Starlink users in apparent spying effort","summary":"Researchers found an Israeli ad-tech company, Discover-Tech, was the top bidder for ads shown to Starlink users in more than 100 countries, in what six sources described as an effort to geolocate and surveil them. Google and Comcast removed the company from their ad platforms after the findings were reported.","source":"Reuters","url":"https://www.investing.com/news/stock-market-news/exclusivealleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-4974787","publishedAt":"2026-10-27T10:04:00Z","tags":["cybersecurity","Starlink","surveillance","ad tech"]},
-    {"id":"browns-20261027-steelers-week","category":"browns","title":"Browns open Steelers week atop the AFC North","summary":"Cleveland began Week 8 preparations for a Sunday trip to Pittsburgh, where the franchise has not won a regular-season game since 2003. The Browns lead the AFC North after a last-second win over Tennessee, though the offense still ranks 26th in EPA per play.","source":"Dawgs By Nature","url":"https://www.dawgsbynature.com/cleveland-browns-news/136303/cleveland-browns-news-dillon-gabriel-jared-verse-todd-monken","publishedAt":"2026-10-27T10:00:00Z","tags":["Browns","Steelers","NFL","AFC North"]},
-    {"id":"buckeyes-20261027-qb-update","category":"buckeyes","title":"Ryan Day has not named a starting QB ahead of USC game","summary":"Ohio State coach Ryan Day said Tuesday he has not picked a starting quarterback for the Saturday game at USC, with Luke Fahey and Tavien St. Clair competing to replace the injured Julian Sayin. Day urged the team and fans to rally around whichever young quarterback gets the nod.","source":"Buckeyes Wire (USA Today)","url":"https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/10/27/ohio-state-ryan-day-updates-quarterback-competition-fahey-st-clair/92463721007/","publishedAt":"2026-10-27T16:00:00Z","tags":["Ohio State","Ryan Day","quarterback","USC"]},
-    {"id":"f1-20261027-v8-hybrid","category":"f1","title":"FIA proposes simpler, cheaper V8 turbo hybrids for next F1 engine rules","summary":"The next Formula 1 engine regulations are set to introduce simplified 2.0-2.3-litre V8 turbo hybrid engines from 2030 or 2031, according to an FIA proposal sent to the six manufacturers. The plan aims to cut 80kg from car weight, boost emphasis on driver skill, and lower costs to attract new entrants.","source":"BBC Sport","url":"https://www.bbc.com/sport/formula1/articles/cw4g186011rdo","publishedAt":"2026-10-27T17:30:00Z","tags":["F1","FIA","engines","regulations"]},
-    {"id":"f1-20261027-bearman-gasly","category":"f1","title":"Bearman does not regret the US GP lunge that ended his race","summary":"Ollie Bearman said he does not regret the Turn 13 move that caused his United States GP collision with Pierre Gasly, despite a 10-second penalty and floor damage that forced his retirement. Gasly called the move a little optimistic but still salvaged P10 for Alpine.","source":"formula1.com","url":"https://www.formula1.com/en/latest/article/dont-regret-going-for-the-move-bearman-and-gasly-reflect-on-us-gp-collision.44PTEF0WAfbRzdly5QPpR2","publishedAt":"2026-10-27T12:34:00Z","tags":["F1","US GP","Bearman","Haas"]},
-    {"id":"f1-20261027-browning-fp1","category":"f1","title":"Williams confirms Browning for FP1 runs in Mexico and Brazil","summary":"Williams confirmed reserve driver Luke Browning will take over the car of Alex Albon in Mexico FP1 and that of Carlos Sainz in Brazil, completing the mandated rookie practice sessions. Browning has already driven the FW48 in Barcelona, Austria and Italy this season.","source":"Williams Racing","url":"https://www.williamsf1.com/articles/623ad4f6-06be-4713-9ca1-8014526038e8/luke-browning-to-drive-fw48-during-fp1-sessions-in-mexico-and-brazil","publishedAt":"2026-10-27T10:00:00Z","tags":["F1","Williams","Browning","Mexico GP"]},
-    {"id":"local-20261027-ocj-roundup","category":"local","title":"Data centers become the flashpoint in final week of Ohio governor race","summary":"Data centers are the defining issue in the last week of the Ohio governor campaign: Democrat Amy Acton launched an ad attacking the stance of her opponent while a PAC backing Republican Vivek Ramaswamy fired back on the same topic. The exchange shows how data-center expansion has become a central economic and political fight in central Ohio.","source":"Ohio Capital Journal","url":"https://ohiocapitaljournal.com/2026/10/27/catching-our-eye-news-roundup-oct-27-2026/","publishedAt":"2026-10-27T07:00:00Z","tags":["Ohio","governor race","data centers","politics"]}
+    {
+      "id": "top-20261028-spain-train-collision",
+      "category": "top",
+      "title": "At least 30 killed as two high-speed trains collide in Spain",
+      "summary": "Two high-speed trains collided in Spain, leaving at least 30 people dead, the country's rail operator said. The cause of the rear-end collision is under investigation.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/two-high-speed-trains-rear-end-spain-rail-operator-says-2026-10-28/",
+      "publishedAt": "2026-10-28T10:44:00Z",
+      "tags": ["Spain", "rail", "train crash", "disaster"]
+    },
+    {
+      "id": "top-20261028-liu-yandong",
+      "category": "top",
+      "title": "China's former Vice Premier Liu Yandong dies",
+      "summary": "Liu Yandong, China's former vice premier and a former Politburo member, died in Beijing on Wednesday, state news agency Xinhua reported. She was among the highest-ranking women to serve in China's Communist Party leadership.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-former-vice-premier-liu-yandong-has-died-xinhua-says-2026-10-28/",
+      "publishedAt": "2026-10-28T10:36:00Z",
+      "tags": ["China", "Liu Yandong", "obituary", "politics"]
+    },
+    {
+      "id": "top-20261028-qatar-iran-deal",
+      "category": "top",
+      "title": "Qatar presents Iran with new draft deal to end the war",
+      "summary": "Qatari mediators presented Iran with a new draft agreement to end its war with the US and Israel, with Tehran expected to respond by week's end. A deal could calm a conflict that has shaken oil markets and stoked fears of wider escalation.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/qatari-mediators-present-iran-with-new-deal-end-war-official-says-2026-10-28/",
+      "publishedAt": "2026-10-28T10:00:00Z",
+      "tags": ["Iran", "Qatar", "diplomacy", "Middle East"]
+    },
+    {
+      "id": "top-20261028-iran-war-costs",
+      "category": "top",
+      "title": "US costs of Iran war top $47 billion, Pentagon says",
+      "summary": "The Pentagon estimates the US has spent more than $47 billion on its war with Iran, underscoring the mounting financial toll of the conflict. The figure lands as mediators push a fresh ceasefire draft.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-costs-iran-war-rise-over-47-billion-according-pentagon-estimate-2026-10-28/",
+      "publishedAt": "2026-10-28T10:00:00Z",
+      "tags": ["Iran", "Pentagon", "war", "US"]
+    },
+    {
+      "id": "tech-20261028-anthropic-ipo",
+      "category": "tech",
+      "title": "VCs stand to make billions on Anthropic's IPO, but Amazon far more",
+      "summary": "Early venture investors will make billions on Anthropic's upcoming IPO, but Amazon, its largest corporate backer, is set to gain far more from its stake. The analysis highlights the outsized holdings Big Tech has in top AI labs.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "publishedAt": "2026-10-28T02:00:00Z",
+      "tags": ["Anthropic", "IPO", "Amazon", "venture capital"]
+    },
+    {
+      "id": "tech-20261028-openai-lawsuit",
+      "category": "tech",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached daughter off seizure medication",
+      "summary": "A lawsuit accuses OpenAI's GPT-4o of advising a girl to stop taking her seizure medication, renewing questions about AI chatbots giving medical advice. It is the latest legal challenge over health-related AI guidance.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "tags": ["OpenAI", "lawsuit", "AI safety", "health"]
+    },
+    {
+      "id": "buckeyes-20261028-ryan-day-injuries",
+      "category": "buckeyes",
+      "title": "Ryan Day updates Ohio State injuries after bye week",
+      "summary": "Ohio State coach Ryan Day said the Buckeyes should be healthier for Saturday's game at USC, with offensive lineman Austin Siereveld among those who could return. The update comes as Ohio State sorts out its quarterback situation after Julian Sayin's injury.",
+      "source": "247Sports",
+      "url": "https://247sports.com/college/ohio-state/article/ryan-day-updates-on-ohio-state-football-injuries-after-off-weekend-including-austin-sierevelds-potential-return-291860173/",
+      "publishedAt": "2026-10-28T02:00:00Z",
+      "tags": ["Ohio State", "Ryan Day", "injury report", "USC"]
+    },
+    {
+      "id": "f1-20261028-aston-redbull-engine",
+      "category": "f1",
+      "title": "Aston Martin and Red Bull quizzed on unlikely F1 engine partnership",
+      "summary": "Aston Martin and Red Bull were asked about the prospect of an engine partnership, an unlikely pairing given their current supplier arrangements. The question comes as teams weigh options for Formula 1's next power-unit rules.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869014/",
+      "publishedAt": "2026-10-28T10:31:00Z",
+      "tags": ["F1", "Red Bull", "Aston Martin", "engines"]
+    },
+    {
+      "id": "f1-20261028-audi-ceo",
+      "category": "f1",
+      "title": "Audi F1 power unit division brings back CEO role",
+      "summary": "Audi is reinstating a CEO position at its Formula 1 power unit division, according to Motorsport.com. The move comes as Audi prepares for the sport's next engine regulations.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/audi-f1-power-unit-division-brings-back-ceo-role/10869006/",
+      "publishedAt": "2026-10-28T10:00:00Z",
+      "tags": ["F1", "Audi", "power unit"]
+    },
+    {
+      "id": "f1-20261028-fia-aws",
+      "category": "f1",
+      "title": "FIA partners with AWS to help shape future F1 regulations",
+      "summary": "The FIA is teaming up with Amazon Web Services to bring cloud computing and data analysis to how future Formula 1 regulations are developed. The partnership aims to make rule-writing more data-driven.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-partners-with-aws-to-help-drive-future-f1-regulations/10868911/",
+      "publishedAt": "2026-10-28T09:00:00Z",
+      "tags": ["F1", "FIA", "AWS", "regulations"]
+    },
+    {
+      "id": "f1-20261028-verstappen-average",
+      "category": "f1",
+      "title": "Verstappen admits Red Bull was 'just a little average' in Austin",
+      "summary": "Max Verstappen conceded Red Bull was 'just a little average' at the United States Grand Prix, the latest sign of the team's struggles this season. His comments underline how far Red Bull remains from its usual front-running form.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-admits-red-bull-was-just-a-little-average-in-austin/10868963/",
+      "publishedAt": "2026-10-28T04:00:00Z",
+      "tags": ["F1", "Verstappen", "Red Bull", "US GP"]
+    },
+    {
+      "id": "local-20261028-ohio-supreme-court",
+      "category": "local",
+      "title": "Is Ohio on the cusp of an all-Republican Supreme Court?",
+      "summary": "Ohio could soon have an all-Republican state Supreme Court depending on next week's election results, Signal Ohio reports. The prospect highlights the stakes of down-ballot judicial races across the state.",
+      "source": "Ohio Capital Journal",
+      "url": "https://ohiocapitaljournal.com/2026/10/28/catching-our-eye-news-roundup-oct-28-2026/",
+      "publishedAt": "2026-10-28T07:00:22Z",
+      "tags": ["Ohio", "Supreme Court", "election", "judiciary"]
+    },
+    {
+      "id": "local-20261028-ohio-governor-poll",
+      "category": "local",
+      "title": "New poll shows tight race for Ohio governor",
+      "summary": "A new poll shows Democrat Amy Acton and Republican Vivek Ramaswamy locked in a tight race for Ohio governor with the Nov. 3 election approaching. The poll is among the final reads on the closely watched contest.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/videos/news/politics/elections/2026/10/28/new-poll-shows-amy-acton-and-vivek-ramaswamy-in-tight-race-for-governor/92466303007/",
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "tags": ["Ohio", "governor race", "election", "Amy Acton"]
+    }
   ]
 }
