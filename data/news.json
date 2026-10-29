@@ -1,76 +1,34 @@
 {
   "meta": {
-    "updatedAt": "2026-10-28T19:34:43Z",
+    "updatedAt": "2026-10-29T11:08:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 20
+    "count": 18
   },
   "stories": [
     {
-      "id": "top-bolsonaro-miami",
+      "id": "top-spain-train-crash",
       "category": "top",
-      "title": "Flávio Bolsonaro lands in Miami after Brazil election defeat",
-      "summary": "Defeated Brazilian presidential candidate Flávio Bolsonaro arrived in Miami on Wednesday, ending days of speculation over his whereabouts after losing Sunday's runoff to Lula. Brazil cancelled his passport as he faces two criminal investigations, which he denies.",
+      "title": "Spain begins three days of mourning after train crash kills at least 68",
+      "summary": "Spain began national mourning after a high-speed train struck a stationary one near Toledo; the transport minister blamed an “inexplicable” control-centre order to restart a train despite a stop signal.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c6kglwe4lxwzo",
-      "publishedAt": "2026-10-28T19:11:00Z",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "publishedAt": "2026-10-29T08:00:00Z",
       "tags": [
-        "Brazil",
-        "election",
-        "Bolsonaro"
+        "Spain",
+        "train crash",
+        "mourning"
       ]
     },
     {
-      "id": "browns-trade-deadline-targets",
-      "category": "browns",
-      "title": "Browns linked to three players ahead of the trade deadline",
-      "summary": "With the NFL trade deadline approaching, reports link the 5-2 Browns to three players as they weigh additions for a playoff push. The first-place AFC North club is expected to be a buyer rather than a seller.",
-      "source": "Browns Nation",
-      "url": "https://www.brownsnation.com/browns-being-linked-to-3-players-at-trade-deadline/",
-      "publishedAt": "2026-10-28T18:43:00Z",
-      "tags": [
-        "Browns",
-        "trade deadline",
-        "NFL"
-      ]
-    },
-    {
-      "id": "tech-apple-touchscreen-macbook-pro",
-      "category": "tech",
-      "title": "Apple launches its first touchscreen MacBook Pro",
-      "summary": "Apple has introduced a new touchscreen MacBook Pro, marking the first time the company's pro laptop line adds a touch display. The move ends years of Apple's resistance to touchscreen Macs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-      "publishedAt": "2026-10-28T18:30:00Z",
-      "tags": [
-        "Apple",
-        "MacBook Pro",
-        "hardware"
-      ]
-    },
-    {
-      "id": "f1-mexico-fp1-rookies",
-      "category": "f1",
-      "title": "Verstappen, Russell and Norris among F1 drivers to miss Mexico City first practice",
-      "summary": "Ten Formula 1 regulars, including Max Verstappen, Lando Norris and George Russell, will sit out Friday's first practice in Mexico City as teams fulfil mandatory rookie running. Only Ferrari will field both full-time drivers for the session.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13604824/mexico-city-gp-max-verstappen-george-russell-lando-norris-among-nine-f1-drivers-to-miss-first-practice",
-      "publishedAt": "2026-10-28T17:36:00Z",
-      "tags": [
-        "F1",
-        "Mexico GP",
-        "FP1"
-      ]
-    },
-    {
-      "id": "top-israel-election-deadlock",
+      "id": "top-israel-election-tally",
       "category": "top",
-      "title": "Israel faces political deadlock with no clear path to a majority",
-      "summary": "With 85% of votes counted after Tuesday's election, neither Netanyahu's bloc nor challenger Gadi Eisenkot's has enough seats for a Knesset majority. The likely outcomes now range from a unity government to fresh elections.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm62y46d97wwo",
-      "publishedAt": "2026-10-28T17:30:00Z",
+      "title": "Netanyahu bloc leads Israel count with 53 seats as Arab parties surge",
+      "summary": "With absentee ballots still being counted, Benjamin Netanyahu's bloc holds 53 of 120 Knesset seats to Gadi Eisenkot's 48 — neither a majority — after record Arab-sector turnout.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "publishedAt": "2026-10-29T07:00:00Z",
       "tags": [
         "Israel",
         "election",
@@ -78,213 +36,227 @@
       ]
     },
     {
-      "id": "tech-google-gemini-more-apps",
-      "category": "tech",
-      "title": "Google opens Gemini and Search to more third-party apps",
-      "summary": "Google is expanding which apps Gemini and Search can plug into as AI agents begin reshaping how people use the web. It opens Google's assistant to deeper integration across third-party services.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "publishedAt": "2026-10-28T17:30:00Z",
-      "tags": [
-        "Google",
-        "Gemini",
-        "AI"
-      ]
-    },
-    {
-      "id": "tech-xreal-aura-android-xr",
-      "category": "tech",
-      "title": "Xreal Aura is a wired headset powered by Android XR",
-      "summary": "Xreal unveiled the Aura, a new wired headset running Google's Android XR platform. It brings the Android and Gemini ecosystem into a tethered mixed-reality form factor.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-      "publishedAt": "2026-10-28T17:30:00Z",
-      "tags": [
-        "Xreal",
-        "Android XR",
-        "AR"
-      ]
-    },
-    {
-      "id": "browns-jeudy-trade-value",
-      "category": "browns",
-      "title": "Insider: Jerry Jeudy's trade value has shifted",
-      "summary": "An insider says wide receiver Jerry Jeudy's trade value has changed as the deadline nears, with the Browns' strong start complicating any potential deal. Jeudy remains a key piece of Cleveland's passing game.",
-      "source": "Browns Nation",
-      "url": "https://www.brownsnation.com/insider-says-jerry-jeudys-trade-value-has-changed/",
-      "publishedAt": "2026-10-28T17:30:00Z",
-      "tags": [
-        "Browns",
-        "Jerry Jeudy",
-        "trade"
-      ]
-    },
-    {
-      "id": "tech-reddit-for-you-feed",
-      "category": "tech",
-      "title": "Reddit embraces an algorithmic 'For You' feed",
-      "summary": "Reddit is rolling out a personalized 'For You' feed, joining other social platforms in pushing algorithmic recommendations over chronological browsing. The change aims to boost engagement and discovery across the platform.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-      "publishedAt": "2026-10-28T16:30:00Z",
-      "tags": [
-        "Reddit",
-        "social media",
-        "algorithm"
-      ]
-    },
-    {
-      "id": "top-un-cuba-embargo",
+      "id": "top-brewers-world-series",
       "category": "top",
-      "title": "UN again condemns US embargo on Cuba, some nations sit out",
-      "summary": "The UN General Assembly voted overwhelmingly to condemn the decades-old US economic embargo on Cuba, though some members abstained after a Trump administration push. The vote followed a heated on-floor clash between US and Cuban diplomats.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/us-cuba-embargo-un-general-assembly-trump-52ab17ec75d26cd9d1893915ce18f414",
-      "publishedAt": "2026-10-28T16:02:00Z",
+      "title": "Milwaukee Brewers win first World Series title in franchise history",
+      "summary": "The Brewers beat the Tampa Bay Rays 4-1 in Game 5 to claim their first championship in 57 years, capping a 103-win season and an 11-2 postseason run.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/50294394/world-series-brewers-champions-franchise-first-title",
+      "publishedAt": "2026-10-29T04:00:00Z",
       "tags": [
-        "UN",
+        "MLB",
+        "World Series",
+        "Brewers"
+      ]
+    },
+    {
+      "id": "top-cuba-diplomat-expelled",
+      "category": "top",
+      "title": "US expels Cuban diplomat after confrontation at UN headquarters",
+      "summary": "Washington expelled a Cuban diplomat after Cuba's foreign minister loudly interrupted a speech by UN ambassador Mike Waltz criticizing Havana, deepening a US-Cuba rift over sanctions.",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/world/u-s-expels-cuban-diplomat-after-extraordinary-u-n-verbal-clash-e32b0516",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "tags": [
         "Cuba",
-        "embargo"
+        "diplomacy",
+        "UN"
       ]
     },
     {
-      "id": "browns-stephen-a-watson",
-      "category": "browns",
-      "title": "Stephen A. Smith draws attention with Deshaun Watson take",
-      "summary": "Stephen A. Smith weighed in on Deshaun Watson's play after another clutch Browns win, drawing wide reaction. Watson has Cleveland atop the AFC North at 5-2 heading into Week 8.",
-      "source": "Browns Nation",
-      "url": "https://www.brownsnation.com/stephen-a-smith-turns-heads-with-deshaun-watson-take/",
-      "publishedAt": "2026-10-28T15:30:00Z",
+      "id": "tech-edge-fullchain",
+      "category": "tech",
+      "title": "Researcher builds Microsoft Edge full-chain exploit using only logic bugs",
+      "summary": "Security researcher Orange Tsai published a complete browser exploitation chain against Microsoft Edge built entirely from logic bugs, with no memory-corruption flaws.",
+      "source": "Orange Tsai",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "publishedAt": "2026-10-29T06:47:28Z",
       "tags": [
-        "Browns",
-        "Deshaun Watson",
-        "NFL"
+        "security",
+        "Microsoft",
+        "Edge"
       ]
     },
     {
-      "id": "f1-perez-cadillac-extension",
-      "category": "f1",
-      "title": "Sergio Perez signs Cadillac extension until at least 2029",
-      "summary": "Sergio Perez has extended his Cadillac contract through at least 2029, committing his long-term future to the American team ahead of his home race in Mexico City. The deal locks in the veteran's experience as Cadillac builds in its first F1 season.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/perez-signs-contract-extension-to-remain-at-cadillac-until-at-least-2029.4oF3HFX8tK9qTWvU7wAXHM",
-      "publishedAt": "2026-10-28T15:30:00Z",
+      "id": "tech-claude-code-transcripts",
+      "category": "tech",
+      "title": "Analysis: Claude Code sends each background agent's transcript to its model",
+      "summary": "A widely shared technical analysis reports that Anthropic's Claude Code transmits each background agent's full transcript back to its model, raising questions about agent context and privacy.",
+      "source": "Hacker News",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "publishedAt": "2026-10-29T03:33:42Z",
       "tags": [
-        "F1",
-        "Cadillac",
-        "Perez"
+        "AI",
+        "Anthropic",
+        "Claude"
       ]
     },
     {
-      "id": "browns-judkins-week7",
-      "category": "browns",
-      "title": "Rookie Quinshon Judkins delivers his best game in Week 7",
-      "summary": "Rookie running back Quinshon Judkins quietly turned in his best performance of the season in the Browns' 27-24 win over the Titans. His emergence gives Cleveland a productive second option alongside the run game's lead back.",
-      "source": "Browns Nation",
-      "url": "https://www.brownsnation.com/browns-rookie-quietly-delivered-his-best-performance-in-week-7/",
-      "publishedAt": "2026-10-28T14:30:00Z",
+      "id": "tech-qwenputer-riscv",
+      "category": "tech",
+      "title": "Qwenputer: a working, deterministic RISC-V CPU emulated inside Qwen3.5",
+      "summary": "A project demonstrates a functioning, deterministic RISC-V CPU running inside Alibaba's Qwen3.5 model, turning the LLM into a general-purpose computing substrate.",
+      "source": "Hacker News",
+      "url": "https://divagr.com/blog/qwenputer",
+      "publishedAt": "2026-10-29T00:25:45Z",
       "tags": [
-        "Browns",
-        "Quinshon Judkins",
-        "rookie"
+        "AI",
+        "RISC-V",
+        "Qwen"
       ]
     },
     {
-      "id": "f1-antonelli-italy-title",
-      "category": "f1",
-      "title": "Kimi Antonelli set to end Italy's 73-year wait for an F1 champion",
-      "summary": "Mercedes driver Kimi Antonelli is on the verge of clinching the F1 title, needing just two points in Mexico City to become Italy's first champion since Alberto Ascari in 1953. The 20-year-old would also be the sport's youngest-ever champion.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/f1-ferrari-italy-kimi-antonelli-137fa35041a896664f8bbc7cfddaeb82",
-      "publishedAt": "2026-10-28T14:30:00Z",
+      "id": "tech-gitlab-cve",
+      "category": "tech",
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+      "summary": "Alpine Linux reported a security incident in which attackers attempted to exploit CVE-2026-97229 against its GitLab instance, part of a wave of CI and supply-chain attacks.",
+      "source": "Alpine Linux",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "publishedAt": "2026-10-28T23:45:46Z",
       "tags": [
-        "F1",
-        "Antonelli",
-        "championship"
+        "security",
+        "GitLab",
+        "CVE"
       ]
     },
     {
-      "id": "local-flock-camera-debate",
-      "category": "local",
-      "title": "Central Ohio cities debate Flock camera usage",
-      "summary": "Several central Ohio cities are weighing whether to keep or expand Flock license-plate reader cameras amid privacy concerns and mounting community debate. The cameras have drawn both praise for aiding police and criticism over surveillance.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-10-28T14:30:00Z",
-      "tags": [
-        "Columbus",
-        "Flock cameras",
-        "surveillance"
-      ]
-    },
-    {
-      "id": "buckeyes-qb-starter-usc",
+      "id": "buckeyes-day-qb",
       "category": "buckeyes",
-      "title": "Ryan Day not ready to name a starting QB; Fahey and St. Clair could both play",
-      "summary": "With Julian Sayin injured, Ohio State coach Ryan Day declined to name a starting quarterback for Saturday's game at USC, saying Luke Fahey and Tavien St. Clair could both see time. The decision carries big stakes for the No. 2 Buckeyes' playoff path.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-news/124807/ryan-day-not-ready-to-name-a-starting-quarterback-luke-fahey-tavien-st-clair-could-both-play",
-      "publishedAt": "2026-10-28T12:01:00Z",
+      "title": "Ryan Day declines to name starting QB, urges rallying around new starter",
+      "summary": "With Julian Sayin sidelined indefinitely, Ryan Day declined to name Luke Fahey or Tavien St. Clair as the starter before USC, saying the team must rally around whoever gets the nod.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164876/ryan-day-doesnt-name-starting-qb-on-buckeye-roundtable-show-but-says-its-important-for-everybody-to-rally-around",
+      "publishedAt": "2026-10-29T02:30:00Z",
       "tags": [
         "Ohio State",
-        "Ryan Day",
+        "football",
         "quarterback"
       ]
     },
     {
-      "id": "local-south-side-shooting",
-      "category": "local",
-      "title": "One killed in Columbus South Side shooting",
-      "summary": "Police are investigating a fatal shooting on Columbus' South Side after a person was found dead in an alley. It's the latest in a string of violent incidents the city has been working to address.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
-      "publishedAt": "2026-10-28T10:30:00Z",
-      "tags": [
-        "Columbus",
-        "shooting",
-        "crime"
-      ]
-    },
-    {
-      "id": "buckeyes-full-arsenal-ol",
+      "id": "buckeyes-day-ol",
       "category": "buckeyes",
-      "title": "Day expects a 'full arsenal' on the offensive line vs. USC",
-      "summary": "Ryan Day said Ohio State should have a healthy offensive line and most injured defenders back for the trip to USC, led by the potential return of Austin Siereveld. A settled front would help whichever young quarterback starts.",
+      "title": "Day expects 'full arsenal' on offensive line against USC",
+      "summary": "Ryan Day expects a fully healthy offensive line and most injured defenders back for Saturday's game at USC as the Buckeyes prepare for a top-16 showdown.",
       "source": "Eleven Warriors",
       "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164875/ryan-day-expects-ohio-state-to-have-full-arsenal-on-offensive-line-majority-of-injured-players-back-against-usc",
-      "publishedAt": "2026-10-28T08:30:00Z",
+      "publishedAt": "2026-10-29T00:00:00Z",
       "tags": [
         "Ohio State",
-        "offensive line",
-        "USC"
+        "USC",
+        "injuries"
       ]
     },
     {
-      "id": "buckeyes-day-presser-usc",
-      "category": "buckeyes",
-      "title": "Day leaves starting QB open as Ohio State preps for USC",
-      "summary": "Ohio State's Ryan Day kept the starting quarterback decision open during Tuesday's press conference ahead of the Halloween matchup at USC. Fahey and St. Clair both practiced well last week, leaving the competition unsettled.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/watch-ryan-day-ohio-state-players-preview-halloween-game-at-usc/",
-      "publishedAt": "2026-10-28T08:30:00Z",
+      "id": "f1-antonelli-monza",
+      "category": "f1",
+      "title": "Antonelli: Austin win was better executed than his Monza comeback",
+      "summary": "Kimi Antonelli says his United States GP win from pole was better executed than his sensational Monza victory from 19th, as he closes in on the title needing just two points in Mexico.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-monza-win-from-19th-still-isnt-the-best-of-kimi-antonellis-dominant-f1-2026-season/10868448/",
+      "publishedAt": "2026-10-29T10:00:00Z",
       "tags": [
-        "Ohio State",
-        "Ryan Day",
-        "USC"
+        "F1",
+        "Antonelli",
+        "Mercedes"
       ]
     },
     {
-      "id": "local-columbus-gas-prices",
+      "id": "f1-mercedes-antonelli-fun",
+      "category": "f1",
+      "title": "Mercedes pokes fun at Antonelli's awkward Austin reversing mishap",
+      "summary": "Mercedes shared in-car footage of Kimi Antonelli backing into a fence in Austin with the caption “Championship leader BTW,” a light moment amid his title charge.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-pokes-fun-at-kimi-antonelli-after-awkward-austin-mishap/10868627/",
+      "publishedAt": "2026-10-29T09:00:00Z",
+      "tags": [
+        "F1",
+        "Antonelli",
+        "Mercedes"
+      ]
+    },
+    {
+      "id": "f1-verstappen-redbull",
+      "category": "f1",
+      "title": "Verstappen flags two recurring Red Bull problems: 'We should use sign language'",
+      "summary": "Max Verstappen said too many small things went wrong at the US GP — poor starts and recurring radio failures — joking Red Bull should switch to sign language.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868474/",
+      "publishedAt": "2026-10-29T04:00:00Z",
+      "tags": [
+        "F1",
+        "Verstappen",
+        "Red Bull"
+      ]
+    },
+    {
+      "id": "f1-alonso-standards",
+      "category": "f1",
+      "title": "Alonso blasts driving standards of the bottom half of the F1 grid",
+      "summary": "Fernando Alonso hit out at the standard of driving in the lower third of the grid after first-lap contact with Alex Albon left his Aston Martin with floor damage in Austin.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-blasts-driving-standards-of-bottom-half-of-f1-grid/10868467/",
+      "publishedAt": "2026-10-29T03:00:00Z",
+      "tags": [
+        "F1",
+        "Alonso",
+        "Aston Martin"
+      ]
+    },
+    {
+      "id": "tarkov-arena-bloodlust",
+      "category": "tarkov",
+      "title": "EFT: Arena adds 'Bloodlust,' a melee-only 5v5 slasher mode for Halloween",
+      "summary": "Escape from Tarkov: Arena launched Bloodlust, a 5v5 mode with firearms disabled and players in horror-movie-style masks fighting only with melee weapons, plus double XP during the event.",
+      "source": "Game*Spark",
+      "url": "https://www.gamespark.jp/article/2026/10/29/174247.html",
+      "publishedAt": "2026-10-29T10:45:00Z",
+      "tags": [
+        "Tarkov",
+        "Arena",
+        "Halloween"
+      ]
+    },
+    {
+      "id": "tarkov-patch-1300",
+      "category": "tarkov",
+      "title": "Escape from Tarkov Patch 1.3.0.0 adds Halloween event; Unity 6 move slips to November",
+      "summary": "Battlestate Games shipped Patch 1.3.0.0 with a Halloween event, fall weather, skill reworks and high-difficulty PvE bots, while pushing the Unity 6 engine transition to mid-November (1.3.5.0).",
+      "source": "ConsolePCGaming",
+      "url": "https://consolepcgaming.com/escape-from-tarkov-patch-1-3-0-0-details-halloween-event-and-skill-changes/",
+      "publishedAt": "2026-10-29T08:00:00Z",
+      "tags": [
+        "Tarkov",
+        "patch",
+        "Halloween"
+      ]
+    },
+    {
+      "id": "local-trump-ohio",
       "category": "local",
-      "title": "Columbus gas prices dip but stay above $4 a gallon",
-      "summary": "Gas prices in Columbus have eased recently, though the average remains above $4 per gallon. The relief is welcome for drivers but leaves prices well above where they were earlier this year.",
+      "title": "Trump touts Ramaswamy, Husted at Chillicothe midterm rally",
+      "summary": "President Trump campaigned in Chillicothe ahead of the midterms, boosting Ohio candidates Vivek Ramaswamy and Jon Husted as the November election nears.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/recent-dip-in-columbus-gas-prices-doesnt-erase-4-per-gallon-average/",
-      "publishedAt": "2026-10-28T08:30:00Z",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/trump-visits-ohio-live-updates-from-chillicothe-midterm-rally/",
+      "publishedAt": "2026-10-29T09:00:00Z",
       "tags": [
         "Columbus",
-        "gas prices",
-        "economy"
+        "politics",
+        "Trump"
+      ]
+    },
+    {
+      "id": "local-columbus-issues-8-9",
+      "category": "local",
+      "title": "How Columbus ballot Issues 8 and 9 would reshape City Council",
+      "summary": "Issue 8 would limit council elections to district voters, while Issue 9 would do the same and expand council from nine to 13 members — both on the Nov. 3 ballot.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/columbus-issue-8-and-issue-9-explained-how-each-would-impact-city-council/",
+      "publishedAt": "2026-10-29T08:50:00Z",
+      "tags": [
+        "Columbus",
+        "election",
+        "City Council"
       ]
     }
   ]
