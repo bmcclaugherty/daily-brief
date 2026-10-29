@@ -1,34 +1,48 @@
 {
   "meta": {
-    "updatedAt": "2026-10-29T11:08:00Z",
+    "updatedAt": "2026-10-29T19:36:41Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 18
+    "count": 20
   },
   "stories": [
     {
-      "id": "top-spain-train-crash",
+      "id": "top-alexander-brothers",
       "category": "top",
-      "title": "Spain begins three days of mourning after train crash kills at least 68",
-      "summary": "Spain began national mourning after a high-speed train struck a stationary one near Toledo; the transport minister blamed an “inexplicable” control-centre order to restart a train despite a stop signal.",
+      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking",
+      "summary": "Real-estate brokers Alon, Oren and Tal Alexander were each sentenced to 30 years in federal prison in the sex-trafficking case that drew international attention.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "publishedAt": "2026-10-29T08:00:00Z",
+      "url": "https://www.bbc.com/news/articles/cqn498mng08ro",
+      "publishedAt": "2026-10-29T19:20:00Z",
       "tags": [
-        "Spain",
-        "train crash",
-        "mourning"
+        "sex trafficking",
+        "sentencing",
+        "New York"
       ]
     },
     {
-      "id": "top-israel-election-tally",
+      "id": "top-iran-war-cost",
       "category": "top",
-      "title": "Netanyahu bloc leads Israel count with 53 seats as Arab parties surge",
-      "summary": "With absentee ballots still being counted, Benjamin Netanyahu's bloc holds 53 of 120 Knesset seats to Gadi Eisenkot's 48 — neither a majority — after record Arab-sector turnout.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "publishedAt": "2026-10-29T07:00:00Z",
+      "title": "Pentagon tells Congress US war on Iran has cost at least $47 billion",
+      "summary": "A U.S. Central Command estimate shared with Congress puts the cost of the war against Iran at $47 billion, up more than $3 billion in a month, with roughly $29 billion going to munitions replacement.",
+      "source": "Democracy Now",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-october-29-2026/",
+      "publishedAt": "2026-10-29T15:00:00Z",
+      "tags": [
+        "Iran",
+        "Pentagon",
+        "defense spending"
+      ]
+    },
+    {
+      "id": "top-israel-election",
+      "category": "top",
+      "title": "Netanyahu's bloc leads Israel election but short of a majority",
+      "summary": "With 99% of ballots counted, Benjamin Netanyahu's Likud-led bloc holds 53 of 120 Knesset seats as officials begin tallying roughly 480,000 absentee ballots that could still shift the result.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cmdx3knq1xexo",
+      "publishedAt": "2026-10-29T13:00:00Z",
       "tags": [
         "Israel",
         "election",
@@ -36,195 +50,181 @@
       ]
     },
     {
-      "id": "top-brewers-world-series",
-      "category": "top",
-      "title": "Milwaukee Brewers win first World Series title in franchise history",
-      "summary": "The Brewers beat the Tampa Bay Rays 4-1 in Game 5 to claim their first championship in 57 years, capping a 103-win season and an 11-2 postseason run.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50294394/world-series-brewers-champions-franchise-first-title",
-      "publishedAt": "2026-10-29T04:00:00Z",
-      "tags": [
-        "MLB",
-        "World Series",
-        "Brewers"
-      ]
-    },
-    {
-      "id": "top-cuba-diplomat-expelled",
-      "category": "top",
-      "title": "US expels Cuban diplomat after confrontation at UN headquarters",
-      "summary": "Washington expelled a Cuban diplomat after Cuba's foreign minister loudly interrupted a speech by UN ambassador Mike Waltz criticizing Havana, deepening a US-Cuba rift over sanctions.",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/world/u-s-expels-cuban-diplomat-after-extraordinary-u-n-verbal-clash-e32b0516",
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "tags": [
-        "Cuba",
-        "diplomacy",
-        "UN"
-      ]
-    },
-    {
-      "id": "tech-edge-fullchain",
+      "id": "tech-fluidstack-40b",
       "category": "tech",
-      "title": "Researcher builds Microsoft Edge full-chain exploit using only logic bugs",
-      "summary": "Security researcher Orange Tsai published a complete browser exploitation chain against Microsoft Edge built entirely from logic bugs, with no memory-corruption flaws.",
-      "source": "Orange Tsai",
-      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-      "publishedAt": "2026-10-29T06:47:28Z",
+      "title": "Fluidstack targets $40B valuation, up from $18B in September",
+      "summary": "Leopold Aschenbrenner's Situational Awareness fund is pitching investors on a new Fluidstack round that would value the AI infrastructure provider at $40 billion, roughly doubling its September valuation.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise",
+      "publishedAt": "2026-10-29T17:30:00Z",
       "tags": [
-        "security",
-        "Microsoft",
-        "Edge"
+        "Fluidstack",
+        "AI infrastructure",
+        "valuation"
       ]
     },
     {
-      "id": "tech-claude-code-transcripts",
+      "id": "tech-cohere-series-e",
       "category": "tech",
-      "title": "Analysis: Claude Code sends each background agent's transcript to its model",
-      "summary": "A widely shared technical analysis reports that Anthropic's Claude Code transmits each background agent's full transcript back to its model, raising questions about agent context and privacy.",
-      "source": "Hacker News",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "publishedAt": "2026-10-29T03:33:42Z",
+      "title": "Cohere opens $5B Series E at $20.5B valuation, with Canada pledging $1.14B",
+      "summary": "Cohere completed the first close of a Series E expected to total up to $5 billion at a $20.5 billion valuation, with Canada committing up to $1.14 billion toward the round.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value",
+      "publishedAt": "2026-10-29T17:30:00Z",
       "tags": [
-        "AI",
-        "Anthropic",
-        "Claude"
+        "Cohere",
+        "AI funding",
+        "Canada"
+      ]
+    },
+    {
+      "id": "tech-mistral-le-chonk",
+      "category": "tech",
+      "title": "Mistral releases open weights for trillion-parameter 'Le Chonk' model",
+      "summary": "Mistral released the weights for Mistral Large 4, a 1-trillion-parameter multimodal model nicknamed 'Le Chonk,' under a modified MIT license that lets companies self-host it.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "publishedAt": "2026-10-29T13:00:00Z",
+      "tags": [
+        "Mistral",
+        "open weights",
+        "LLM"
       ]
     },
     {
       "id": "tech-qwenputer-riscv",
       "category": "tech",
-      "title": "Qwenputer: a working, deterministic RISC-V CPU emulated inside Qwen3.5",
-      "summary": "A project demonstrates a functioning, deterministic RISC-V CPU running inside Alibaba's Qwen3.5 model, turning the LLM into a general-purpose computing substrate.",
+      "title": "Qwenputer: a functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "summary": "A hobbyist project demonstrates a functioning, deterministic RISC-V CPU implemented inside Qwen3.5's transformer, topping Hacker News with 344 points.",
       "source": "Hacker News",
       "url": "https://divagr.com/blog/qwenputer",
-      "publishedAt": "2026-10-29T00:25:45Z",
+      "publishedAt": "2026-10-29T12:30:00Z",
       "tags": [
         "AI",
         "RISC-V",
-        "Qwen"
+        "LLM"
       ]
     },
     {
-      "id": "tech-gitlab-cve",
-      "category": "tech",
-      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-      "summary": "Alpine Linux reported a security incident in which attackers attempted to exploit CVE-2026-97229 against its GitLab instance, part of a wave of CI and supply-chain attacks.",
-      "source": "Alpine Linux",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "publishedAt": "2026-10-28T23:45:46Z",
-      "tags": [
-        "security",
-        "GitLab",
-        "CVE"
-      ]
-    },
-    {
-      "id": "buckeyes-day-qb",
+      "id": "buckeyes-day-no-qb",
       "category": "buckeyes",
-      "title": "Ryan Day declines to name starting QB, urges rallying around new starter",
-      "summary": "With Julian Sayin sidelined indefinitely, Ryan Day declined to name Luke Fahey or Tavien St. Clair as the starter before USC, saying the team must rally around whoever gets the nod.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164876/ryan-day-doesnt-name-starting-qb-on-buckeye-roundtable-show-but-says-its-important-for-everybody-to-rally-around",
-      "publishedAt": "2026-10-29T02:30:00Z",
+      "title": "Ryan Day still won't name a starting QB for Ohio State's game at USC",
+      "summary": "Ohio State coach Ryan Day declined to name a starting quarterback for Saturday's game at USC, saying both Luke Fahey and Tavien St. Clair remain options after Julian Sayin's season-ending injury.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/buckeyes/ryan-day-declines-to-name-starting-quarterback-ahead-of-usc-game/",
+      "publishedAt": "2026-10-29T18:55:00Z",
       "tags": [
         "Ohio State",
-        "football",
-        "quarterback"
+        "quarterback",
+        "USC"
       ]
     },
     {
-      "id": "buckeyes-day-ol",
+      "id": "buckeyes-mccuin-no-dropoff",
       "category": "buckeyes",
-      "title": "Day expects 'full arsenal' on offensive line against USC",
-      "summary": "Ryan Day expects a fully healthy offensive line and most injured defenders back for Saturday's game at USC as the Buckeyes prepare for a top-16 showdown.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164875/ryan-day-expects-ohio-state-to-have-full-arsenal-on-offensive-line-majority-of-injured-players-back-against-usc",
-      "publishedAt": "2026-10-29T00:00:00Z",
+      "title": "Devin McCuin: 'not much of a drop-off' at quarterback for Ohio State",
+      "summary": "Receiver Devin McCuin said there is not much of a drop-off between Luke Fahey and Tavien St. Clair as the Buckeyes prepare for USC without injured starter Julian Sayin.",
+      "source": "A to Z Sports",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-starters-admission-around-qb-situation-after-julian-sayins-injury-spills-it-all-for-the-buckeyes/",
+      "publishedAt": "2026-10-29T15:10:00Z",
       "tags": [
         "Ohio State",
-        "USC",
-        "injuries"
+        "quarterback",
+        "McCuin"
       ]
     },
     {
-      "id": "f1-antonelli-monza",
+      "id": "buckeyes-availability-report",
+      "category": "buckeyes",
+      "title": "Jackson and Siereveld cleared to return vs. USC; Timmons and Inniss questionable",
+      "summary": "Ohio State's availability report clears Kenyatta Jackson Jr. and Austin Siereveld to play against USC, while Jay Timmons and Brandon Inniss are listed as questionable.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-news/124946/jackson-siereveld-wilder-set-to-return-against-usc-timmons-inniss-questionable",
+      "publishedAt": "2026-10-29T12:01:00Z",
+      "tags": [
+        "Ohio State",
+        "injuries",
+        "USC"
+      ]
+    },
+    {
+      "id": "buckeyes-wapo-usc",
+      "category": "buckeyes",
+      "title": "No. 2 Buckeyes visit USC in the Big Ten's biggest game of the week",
+      "summary": "No. 2 Ohio State visits Southern California with an unsettled quarterback situation, headlining the Big Ten's marquee game of Week 9.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/sports/colleges/2026/10/29/big-ten/6dd195c6-d389-11f1-9931-2a41b76fc976_story.html",
+      "publishedAt": "2026-10-29T11:11:00Z",
+      "tags": [
+        "Ohio State",
+        "Big Ten",
+        "USC"
+      ]
+    },
+    {
+      "id": "f1-steiner-antonelli-vettel",
       "category": "f1",
-      "title": "Antonelli: Austin win was better executed than his Monza comeback",
-      "summary": "Kimi Antonelli says his United States GP win from pole was better executed than his sensational Monza victory from 19th, as he closes in on the title needing just two points in Mexico.",
+      "title": "Steiner backs Antonelli to surpass Vettel's four F1 titles",
+      "summary": "Former Haas team principal Guenther Steiner says Kimi Antonelli has the talent to surpass Sebastian Vettel's four Formula 1 championships.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-monza-win-from-19th-still-isnt-the-best-of-kimi-antonellis-dominant-f1-2026-season/10868448/",
-      "publishedAt": "2026-10-29T10:00:00Z",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-backed-to-surpass-sebastian-vettels-four-f1-titles-by-guenther-steiner/10869391/",
+      "publishedAt": "2026-10-29T19:20:00Z",
       "tags": [
         "F1",
         "Antonelli",
-        "Mercedes"
+        "Steiner"
       ]
     },
     {
-      "id": "f1-mercedes-antonelli-fun",
+      "id": "f1-antonelli-media-day",
       "category": "f1",
-      "title": "Mercedes pokes fun at Antonelli's awkward Austin reversing mishap",
-      "summary": "Mercedes shared in-car footage of Kimi Antonelli backing into a fence in Austin with the caption “Championship leader BTW,” a light moment amid his title charge.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-pokes-fun-at-kimi-antonelli-after-awkward-austin-mishap/10868627/",
-      "publishedAt": "2026-10-29T09:00:00Z",
+      "title": "Antonelli skips Mexico GP media day with illness",
+      "summary": "Kimi Antonelli skipped Thursday's Mexico City Grand Prix media day because of an illness, as the Mercedes driver stands on the brink of clinching his first world championship this weekend.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/",
+      "publishedAt": "2026-10-29T17:07:00Z",
       "tags": [
         "F1",
         "Antonelli",
-        "Mercedes"
+        "Mexico GP"
       ]
     },
     {
-      "id": "f1-verstappen-redbull",
+      "id": "f1-ricciardo-le-mans",
       "category": "f1",
-      "title": "Verstappen flags two recurring Red Bull problems: 'We should use sign language'",
-      "summary": "Max Verstappen said too many small things went wrong at the US GP — poor starts and recurring radio failures — joking Red Bull should switch to sign language.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868474/",
-      "publishedAt": "2026-10-29T04:00:00Z",
+      "title": "Ricciardo would consider a comeback at Le Mans",
+      "summary": "Daniel Ricciardo says he would consider a return at Le Mans, leaving the door open to endurance racing after his abrupt 2024 F1 exit.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869337/",
+      "publishedAt": "2026-10-29T16:00:00Z",
       "tags": [
         "F1",
-        "Verstappen",
-        "Red Bull"
+        "Ricciardo",
+        "Le Mans"
       ]
     },
     {
-      "id": "f1-alonso-standards",
+      "id": "f1-perez-10-moments",
       "category": "f1",
-      "title": "Alonso blasts driving standards of the bottom half of the F1 grid",
-      "summary": "Fernando Alonso hit out at the standard of driving in the lower third of the grid after first-lap contact with Alex Albon left his Aston Martin with floor damage in Austin.",
+      "title": "The 10 key moments that defined Sergio Perez's F1 career",
+      "summary": "Ahead of his 300th career start and Cadillac homecoming in Mexico City, Motorsport.com revisits the 10 key moments that defined Sergio Perez's F1 career.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-blasts-driving-standards-of-bottom-half-of-f1-grid/10868467/",
-      "publishedAt": "2026-10-29T03:00:00Z",
+      "url": "https://www.motorsport.com/f1/news/the-10-key-moments-that-defined-sergio-perezs-f1-career/10869046/",
+      "publishedAt": "2026-10-29T15:00:00Z",
       "tags": [
         "F1",
-        "Alonso",
-        "Aston Martin"
+        "Perez",
+        "Mexico GP"
       ]
     },
     {
-      "id": "tarkov-arena-bloodlust",
+      "id": "tarkov-patch-1-3-0-0",
       "category": "tarkov",
-      "title": "EFT: Arena adds 'Bloodlust,' a melee-only 5v5 slasher mode for Halloween",
-      "summary": "Escape from Tarkov: Arena launched Bloodlust, a 5v5 mode with firearms disabled and players in horror-movie-style masks fighting only with melee weapons, plus double XP during the event.",
-      "source": "Game*Spark",
-      "url": "https://www.gamespark.jp/article/2026/10/29/174247.html",
-      "publishedAt": "2026-10-29T10:45:00Z",
-      "tags": [
-        "Tarkov",
-        "Arena",
-        "Halloween"
-      ]
-    },
-    {
-      "id": "tarkov-patch-1300",
-      "category": "tarkov",
-      "title": "Escape from Tarkov Patch 1.3.0.0 adds Halloween event; Unity 6 move slips to November",
-      "summary": "Battlestate Games shipped Patch 1.3.0.0 with a Halloween event, fall weather, skill reworks and high-difficulty PvE bots, while pushing the Unity 6 engine transition to mid-November (1.3.5.0).",
-      "source": "ConsolePCGaming",
-      "url": "https://consolepcgaming.com/escape-from-tarkov-patch-1-3-0-0-details-halloween-event-and-skill-changes/",
-      "publishedAt": "2026-10-29T08:00:00Z",
+      "title": "Escape from Tarkov Patch 1.3.0.0 adds Halloween event and PvE PMC bots",
+      "summary": "Battlestate Games released Patch 1.3.0.0 with a new Halloween in-game event, a switch to fall weather, and high-difficulty PMC bots in the PvE Zone.",
+      "source": "Battlestate Games",
+      "url": "https://www.escapefromtarkov.com/news/id/416",
+      "publishedAt": "2026-10-29T12:00:00Z",
       "tags": [
         "Tarkov",
         "patch",
@@ -232,31 +232,59 @@
       ]
     },
     {
-      "id": "local-trump-ohio",
+      "id": "local-ccs-building-closures",
       "category": "local",
-      "title": "Trump touts Ramaswamy, Husted at Chillicothe midterm rally",
-      "summary": "President Trump campaigned in Chillicothe ahead of the midterms, boosting Ohio candidates Vivek Ramaswamy and Jon Husted as the November election nears.",
+      "title": "Columbus schools weighs building closures as part of $50M in cuts",
+      "summary": "Columbus City Schools is weighing building closures as part of $50 million in planned budget cuts, a move that could reshape the district.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/trump-visits-ohio-live-updates-from-chillicothe-midterm-rally/",
-      "publishedAt": "2026-10-29T09:00:00Z",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-schools-weighs-building-closures-as-part-of-50-million-in-cuts/",
+      "publishedAt": "2026-10-29T18:30:00Z",
       "tags": [
         "Columbus",
-        "politics",
-        "Trump"
+        "schools",
+        "budget"
       ]
     },
     {
-      "id": "local-columbus-issues-8-9",
+      "id": "local-trump-ohio-visit",
       "category": "local",
-      "title": "How Columbus ballot Issues 8 and 9 would reshape City Council",
-      "summary": "Issue 8 would limit council elections to district voters, while Issue 9 would do the same and expand council from nine to 13 members — both on the Nov. 3 ballot.",
+      "title": "Trump touts Ramaswamy and Husted during Ohio midterm rally",
+      "summary": "President Trump touted GOP candidates Vivek Ramaswamy and Sen. Jon Husted during a rally in Chillicothe ahead of next week's midterm elections.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/columbus-issue-8-and-issue-9-explained-how-each-would-impact-city-council/",
-      "publishedAt": "2026-10-29T08:50:00Z",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/trump-visits-ohio-live-updates-from-chillicothe-midterm-rally/",
+      "publishedAt": "2026-10-29T17:30:00Z",
+      "tags": [
+        "Ohio",
+        "Trump",
+        "midterms"
+      ]
+    },
+    {
+      "id": "local-ccs-yellow-buses",
+      "category": "local",
+      "title": "CCS considers eliminating yellow buses for high school students",
+      "summary": "Columbus City Schools is considering ending yellow-bus service for roughly 9,000 high school students as it weighs transportation changes tied to budget cuts.",
+      "source": "ABC 6",
+      "url": "https://cwcolumbus.com/news/local/ccs-considers-eliminating-yellow-buses-for-high-school-students-columbus-city-schools-cota-data-spotlight-9-12-budget-cut-transportation-workshop-december-proposal",
+      "publishedAt": "2026-10-29T10:30:00Z",
       "tags": [
         "Columbus",
-        "election",
-        "City Council"
+        "schools",
+        "transportation"
+      ]
+    },
+    {
+      "id": "local-snap-changes",
+      "category": "local",
+      "title": "Ohio SNAP changes raise concerns about store restrictions",
+      "summary": "Changes to Ohio's SNAP benefits are raising concerns that new store restrictions could limit where some families can use food assistance.",
+      "source": "ABC 6",
+      "url": "https://cwcolumbus.com/news/local/ohio-snap-changes-raise-concerns-about-store-restrictions-supplemental-nutrition-assistance-program-ohioans-receiving-benefits-ebt-payments-murphy-usa-corporate-department-of-job-and-family-services-food-banks",
+      "publishedAt": "2026-10-29T08:30:00Z",
+      "tags": [
+        "Ohio",
+        "SNAP",
+        "food access"
       ]
     }
   ]
