@@ -1,291 +1,217 @@
 {
   "meta": {
-    "updatedAt": "2026-10-29T19:36:41Z",
+    "updatedAt": "2026-10-30T11:14:33Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 20
+    "count": 14
   },
   "stories": [
     {
-      "id": "top-alexander-brothers",
       "category": "top",
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking",
-      "summary": "Real-estate brokers Alon, Oren and Tal Alexander were each sentenced to 30 years in federal prison in the sex-trafficking case that drew international attention.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqn498mng08ro",
-      "publishedAt": "2026-10-29T19:20:00Z",
+      "title": "Russian missile attack on Kyiv kills one in overnight strike",
+      "summary": "Russian ballistic missiles struck the Ukrainian capital late Thursday, killing one person, damaging buildings and sparking a fire, officials said. The attack continues Russia's campaign against Kyiv amid the war.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/ukrainian-capital-kyiv-under-attack-russian-ballistic-missiles-mayor-says-2026-10-29/",
+      "publishedAt": "2026-10-29T23:00:00Z",
       "tags": [
-        "sex trafficking",
-        "sentencing",
-        "New York"
-      ]
+        "russia",
+        "ukraine",
+        "kyiv",
+        "war"
+      ],
+      "id": "top-1"
     },
     {
-      "id": "top-iran-war-cost",
       "category": "top",
-      "title": "Pentagon tells Congress US war on Iran has cost at least $47 billion",
-      "summary": "A U.S. Central Command estimate shared with Congress puts the cost of the war against Iran at $47 billion, up more than $3 billion in a month, with roughly $29 billion going to munitions replacement.",
-      "source": "Democracy Now",
-      "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-october-29-2026/",
-      "publishedAt": "2026-10-29T15:00:00Z",
+      "title": "Bolsonaro ally blames ChatGPT for 'president-elect' claim",
+      "summary": "A close ally of Brazil's Flavio Bolsonaro said ChatGPT was responsible for language in a now-deleted letter in which the senator called himself the rightful 'president-elect' after losing Sunday's runoff. Bolsonaro still alleges the election was fraudulent.",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/world-news/bolsonaro-ally-blames-chatgpt-for-nowdeleted-presidentelect-of-brazil-claim-4984932",
+      "publishedAt": "2026-10-29T22:00:00Z",
       "tags": [
-        "Iran",
-        "Pentagon",
-        "defense spending"
-      ]
+        "brazil",
+        "bolsonaro",
+        "chatgpt",
+        "election"
+      ],
+      "id": "top-2"
     },
     {
-      "id": "top-israel-election",
-      "category": "top",
-      "title": "Netanyahu's bloc leads Israel election but short of a majority",
-      "summary": "With 99% of ballots counted, Benjamin Netanyahu's Likud-led bloc holds 53 of 120 Knesset seats as officials begin tallying roughly 480,000 absentee ballots that could still shift the result.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cmdx3knq1xexo",
-      "publishedAt": "2026-10-29T13:00:00Z",
-      "tags": [
-        "Israel",
-        "election",
-        "Netanyahu"
-      ]
-    },
-    {
-      "id": "tech-fluidstack-40b",
       "category": "tech",
-      "title": "Fluidstack targets $40B valuation, up from $18B in September",
-      "summary": "Leopold Aschenbrenner's Situational Awareness fund is pitching investors on a new Fluidstack round that would value the AI infrastructure provider at $40 billion, roughly doubling its September valuation.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise",
-      "publishedAt": "2026-10-29T17:30:00Z",
+      "title": "Waymo to test Toyota bZ4X robotaxis in Japan and the U.K.",
+      "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X in Japan next year, with plans to expand to the U.K. and other markets. The partnership combines Waymo's driverless technology with Toyota's vehicle manufacturing.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "publishedAt": "2026-10-30T07:00:00Z",
       "tags": [
-        "Fluidstack",
-        "AI infrastructure",
-        "valuation"
-      ]
+        "waymo",
+        "toyota",
+        "robotaxi",
+        "autonomous"
+      ],
+      "id": "tech-3"
     },
     {
-      "id": "tech-cohere-series-e",
       "category": "tech",
-      "title": "Cohere opens $5B Series E at $20.5B valuation, with Canada pledging $1.14B",
-      "summary": "Cohere completed the first close of a Series E expected to total up to $5 billion at a $20.5 billion valuation, with Canada committing up to $1.14 billion toward the round.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value",
-      "publishedAt": "2026-10-29T17:30:00Z",
+      "title": "Binance pauses withdrawals after suspected multi-billion-dollar hack",
+      "summary": "Binance suspended withdrawals after hackers drained billions in crypto from the world's largest exchange, with stablecoin issuers freezing over $1.8 billion in stolen tokens. It could rank among the largest crypto thefts in history.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+      "publishedAt": "2026-10-30T00:00:00Z",
       "tags": [
-        "Cohere",
-        "AI funding",
-        "Canada"
-      ]
+        "binance",
+        "crypto",
+        "hack",
+        "security"
+      ],
+      "id": "tech-4"
     },
     {
-      "id": "tech-mistral-le-chonk",
       "category": "tech",
-      "title": "Mistral releases open weights for trillion-parameter 'Le Chonk' model",
-      "summary": "Mistral released the weights for Mistral Large 4, a 1-trillion-parameter multimodal model nicknamed 'Le Chonk,' under a modified MIT license that lets companies self-host it.",
+      "title": "Mistral releases open weights for trillion-parameter Large 4 model",
+      "summary": "Mistral released open weights for Large 4, its trillion-parameter multimodal model aimed at software development and defensive cybersecurity. The release lets organizations run a frontier-scale model on their own infrastructure.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "publishedAt": "2026-10-29T13:00:00Z",
+      "publishedAt": "2026-10-30T00:00:00Z",
       "tags": [
-        "Mistral",
-        "open weights",
-        "LLM"
-      ]
+        "mistral",
+        "ai",
+        "open-weights",
+        "llm"
+      ],
+      "id": "tech-5"
     },
     {
-      "id": "tech-qwenputer-riscv",
-      "category": "tech",
-      "title": "Qwenputer: a functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "summary": "A hobbyist project demonstrates a functioning, deterministic RISC-V CPU implemented inside Qwen3.5's transformer, topping Hacker News with 344 points.",
-      "source": "Hacker News",
-      "url": "https://divagr.com/blog/qwenputer",
-      "publishedAt": "2026-10-29T12:30:00Z",
+      "category": "browns",
+      "title": "Browns-Steelers preview: picks, Renegade practice and AFC North stakes",
+      "summary": "The 5-2 Browns visit the 5-2 Steelers on Sunday with sole possession of the AFC North lead at stake, with Pittsburgh a 3.5-point home favorite. Cleveland opened practice to 'Renegade' for a second straight day ahead of the matchup.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/daily-news-links-steelers-browns-100000876.html",
+      "publishedAt": "2026-10-30T10:00:00Z",
       "tags": [
-        "AI",
-        "RISC-V",
-        "LLM"
-      ]
+        "browns",
+        "steelers",
+        "nfl",
+        "afc-north"
+      ],
+      "id": "browns-6"
     },
     {
-      "id": "buckeyes-day-no-qb",
+      "category": "browns",
+      "title": "Steelers' McCarthy unfazed by red-zone struggles before Browns game",
+      "summary": "Pittsburgh coach Mike McCarthy said he isn't panicking over the Steelers' 27th-ranked red-zone offense entering Sunday's game against the Browns. The winner of the 5-2 divisional matchup takes the outright AFC North lead.",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/nfl/pittsburgh-steelers/steelers-news-mike-mccarthy-panic-red-zone-offense-browns",
+      "publishedAt": "2026-10-30T04:25:00Z",
+      "tags": [
+        "browns",
+        "steelers",
+        "nfl"
+      ],
+      "id": "browns-7"
+    },
+    {
+      "category": "browns",
+      "title": "Column: Until they win in Pittsburgh, the Browns are still the Browns",
+      "summary": "A Pittsburgh columnist argues the Browns can't shed their reputation until they win in Pittsburgh, where Cleveland has long struggled. The 5-2 rivals meet Sunday with first place in the AFC North at stake.",
+      "source": "Pittsburgh Post-Gazette",
+      "url": "https://www.post-gazette.com/sports/steelers/2026/10/30/steelers-browns-rivalry/stories/202610290070",
+      "publishedAt": "2026-10-30T02:00:00Z",
+      "tags": [
+        "browns",
+        "steelers",
+        "nfl",
+        "afc-north"
+      ],
+      "id": "browns-8"
+    },
+    {
       "category": "buckeyes",
-      "title": "Ryan Day still won't name a starting QB for Ohio State's game at USC",
-      "summary": "Ohio State coach Ryan Day declined to name a starting quarterback for Saturday's game at USC, saying both Luke Fahey and Tavien St. Clair remain options after Julian Sayin's season-ending injury.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/ryan-day-declines-to-name-starting-quarterback-ahead-of-usc-game/",
-      "publishedAt": "2026-10-29T18:55:00Z",
+      "title": "Ohio State lists 10 out, two questionable for USC game",
+      "summary": "Ten Buckeyes are out for Saturday's game at USC, including quarterback Julian Sayin and running back Ja'Kobi Jackson, with receiver Brandon Inniss and nickelback Jay Timmons questionable. Luke Fahey is expected to start at quarterback.",
+      "source": "EssentiallySports",
+      "url": "https://www.essentiallysports.com/ncaa-college-football-news-ohio-state-versus-usc-injury-report-osu-wide-receiver-and-nine-otehr-payers-rules-out-for-week-nine-game/",
+      "publishedAt": "2026-10-30T10:35:00Z",
       "tags": [
-        "Ohio State",
-        "quarterback",
-        "USC"
-      ]
+        "ohio-state",
+        "buckeyes",
+        "usc",
+        "injury-report"
+      ],
+      "id": "buckeyes-9"
     },
     {
-      "id": "buckeyes-mccuin-no-dropoff",
       "category": "buckeyes",
-      "title": "Devin McCuin: 'not much of a drop-off' at quarterback for Ohio State",
-      "summary": "Receiver Devin McCuin said there is not much of a drop-off between Luke Fahey and Tavien St. Clair as the Buckeyes prepare for USC without injured starter Julian Sayin.",
-      "source": "A to Z Sports",
-      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-starters-admission-around-qb-situation-after-julian-sayins-injury-spills-it-all-for-the-buckeyes/",
-      "publishedAt": "2026-10-29T15:10:00Z",
+      "title": "Ohio State Thursday report: Timmons, Inniss questionable vs. USC",
+      "summary": "Ohio State's Thursday availability report listed Jay Timmons and Brandon Inniss questionable and cleared offensive lineman Austin Siereveld and defensive end Kenyatta Jackson Jr. to face USC. Ryan Day has yet to name a starting quarterback between Luke Fahey and Tavien St. Clair.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164906/ohio-state-injury-report-jay-timmons-brandon-inniss-kenyatta-jackson-jr-austin-siereveld-usc",
+      "publishedAt": "2026-10-30T00:00:00Z",
       "tags": [
-        "Ohio State",
-        "quarterback",
-        "McCuin"
-      ]
+        "ohio-state",
+        "buckeyes",
+        "usc",
+        "injury-report"
+      ],
+      "id": "buckeyes-10"
     },
     {
-      "id": "buckeyes-availability-report",
-      "category": "buckeyes",
-      "title": "Jackson and Siereveld cleared to return vs. USC; Timmons and Inniss questionable",
-      "summary": "Ohio State's availability report clears Kenyatta Jackson Jr. and Austin Siereveld to play against USC, while Jay Timmons and Brandon Inniss are listed as questionable.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-news/124946/jackson-siereveld-wilder-set-to-return-against-usc-timmons-inniss-questionable",
-      "publishedAt": "2026-10-29T12:01:00Z",
-      "tags": [
-        "Ohio State",
-        "injuries",
-        "USC"
-      ]
-    },
-    {
-      "id": "buckeyes-wapo-usc",
-      "category": "buckeyes",
-      "title": "No. 2 Buckeyes visit USC in the Big Ten's biggest game of the week",
-      "summary": "No. 2 Ohio State visits Southern California with an unsettled quarterback situation, headlining the Big Ten's marquee game of Week 9.",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/sports/colleges/2026/10/29/big-ten/6dd195c6-d389-11f1-9931-2a41b76fc976_story.html",
-      "publishedAt": "2026-10-29T11:11:00Z",
-      "tags": [
-        "Ohio State",
-        "Big Ten",
-        "USC"
-      ]
-    },
-    {
-      "id": "f1-steiner-antonelli-vettel",
-      "category": "f1",
-      "title": "Steiner backs Antonelli to surpass Vettel's four F1 titles",
-      "summary": "Former Haas team principal Guenther Steiner says Kimi Antonelli has the talent to surpass Sebastian Vettel's four Formula 1 championships.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-backed-to-surpass-sebastian-vettels-four-f1-titles-by-guenther-steiner/10869391/",
-      "publishedAt": "2026-10-29T19:20:00Z",
-      "tags": [
-        "F1",
-        "Antonelli",
-        "Steiner"
-      ]
-    },
-    {
-      "id": "f1-antonelli-media-day",
-      "category": "f1",
-      "title": "Antonelli skips Mexico GP media day with illness",
-      "summary": "Kimi Antonelli skipped Thursday's Mexico City Grand Prix media day because of an illness, as the Mercedes driver stands on the brink of clinching his first world championship this weekend.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/",
-      "publishedAt": "2026-10-29T17:07:00Z",
-      "tags": [
-        "F1",
-        "Antonelli",
-        "Mexico GP"
-      ]
-    },
-    {
-      "id": "f1-ricciardo-le-mans",
-      "category": "f1",
-      "title": "Ricciardo would consider a comeback at Le Mans",
-      "summary": "Daniel Ricciardo says he would consider a return at Le Mans, leaving the door open to endurance racing after his abrupt 2024 F1 exit.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869337/",
-      "publishedAt": "2026-10-29T16:00:00Z",
-      "tags": [
-        "F1",
-        "Ricciardo",
-        "Le Mans"
-      ]
-    },
-    {
-      "id": "f1-perez-10-moments",
-      "category": "f1",
-      "title": "The 10 key moments that defined Sergio Perez's F1 career",
-      "summary": "Ahead of his 300th career start and Cadillac homecoming in Mexico City, Motorsport.com revisits the 10 key moments that defined Sergio Perez's F1 career.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-10-key-moments-that-defined-sergio-perezs-f1-career/10869046/",
-      "publishedAt": "2026-10-29T15:00:00Z",
-      "tags": [
-        "F1",
-        "Perez",
-        "Mexico GP"
-      ]
-    },
-    {
-      "id": "tarkov-patch-1-3-0-0",
       "category": "tarkov",
-      "title": "Escape from Tarkov Patch 1.3.0.0 adds Halloween event and PvE PMC bots",
-      "summary": "Battlestate Games released Patch 1.3.0.0 with a new Halloween in-game event, a switch to fall weather, and high-difficulty PMC bots in the PvE Zone.",
-      "source": "Battlestate Games",
-      "url": "https://www.escapefromtarkov.com/news/id/416",
-      "publishedAt": "2026-10-29T12:00:00Z",
+      "title": "Escape from Tarkov 1.3.0.0 patch brings back Halloween zombies",
+      "summary": "Escape from Tarkov's 1.3.0.0 update launched its Halloween event, bringing zombies back to Tarkov, switching the in-game season to fall, and adding high-difficulty PMC bots to PvE zones.",
+      "source": "IGN",
+      "url": "https://www.ign.com/wikis/escape-from-tarkov/Escape_from_Tarkov_1.3.0.0_Patch_Notes",
+      "publishedAt": "2026-10-29T21:00:00Z",
       "tags": [
-        "Tarkov",
+        "tarkov",
+        "halloween",
         "patch",
-        "Halloween"
-      ]
+        "zombies"
+      ],
+      "id": "tarkov-11"
     },
     {
-      "id": "local-ccs-building-closures",
       "category": "local",
-      "title": "Columbus schools weighs building closures as part of $50M in cuts",
-      "summary": "Columbus City Schools is weighing building closures as part of $50 million in planned budget cuts, a move that could reshape the district.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-schools-weighs-building-closures-as-part-of-50-million-in-cuts/",
-      "publishedAt": "2026-10-29T18:30:00Z",
+      "title": "Japanese-inspired cafe opens in Bethel Center Mall",
+      "summary": "A new Japanese-inspired cafe has opened in Columbus's Bethel Center Mall, the latest addition to the shopping center's dining lineup.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/japanese-inspired-cafe-now-open-in-bethel-center-mall/",
+      "publishedAt": "2026-10-30T10:00:00Z",
       "tags": [
-        "Columbus",
-        "schools",
-        "budget"
-      ]
+        "columbus",
+        "food",
+        "business"
+      ],
+      "id": "local-12"
     },
     {
-      "id": "local-trump-ohio-visit",
       "category": "local",
-      "title": "Trump touts Ramaswamy and Husted during Ohio midterm rally",
-      "summary": "President Trump touted GOP candidates Vivek Ramaswamy and Sen. Jon Husted during a rally in Chillicothe ahead of next week's midterm elections.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/trump-visits-ohio-live-updates-from-chillicothe-midterm-rally/",
-      "publishedAt": "2026-10-29T17:30:00Z",
+      "title": "Lightning likely sparked Columbus house fire that killed three pets",
+      "summary": "A Columbus home was severely damaged in a fire likely caused by a lightning strike, leaving three pets dead, according to officials.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/3-pets-dead-in-house-fire-likely-caused-by-lightning/",
+      "publishedAt": "2026-10-30T07:00:00Z",
       "tags": [
-        "Ohio",
-        "Trump",
-        "midterms"
-      ]
+        "columbus",
+        "fire",
+        "weather"
+      ],
+      "id": "local-13"
     },
     {
-      "id": "local-ccs-yellow-buses",
       "category": "local",
-      "title": "CCS considers eliminating yellow buses for high school students",
-      "summary": "Columbus City Schools is considering ending yellow-bus service for roughly 9,000 high school students as it weighs transportation changes tied to budget cuts.",
-      "source": "ABC 6",
-      "url": "https://cwcolumbus.com/news/local/ccs-considers-eliminating-yellow-buses-for-high-school-students-columbus-city-schools-cota-data-spotlight-9-12-budget-cut-transportation-workshop-december-proposal",
-      "publishedAt": "2026-10-29T10:30:00Z",
+      "title": "Former Columbus teacher sentenced in student relationship case",
+      "summary": "A former Columbus teacher who had an inappropriate relationship with a student has been sentenced, according to court records.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/ex-columbus-teacher-who-had-inappropriate-relationship-with-student-sentenced/",
+      "publishedAt": "2026-10-30T07:00:00Z",
       "tags": [
-        "Columbus",
-        "schools",
-        "transportation"
-      ]
-    },
-    {
-      "id": "local-snap-changes",
-      "category": "local",
-      "title": "Ohio SNAP changes raise concerns about store restrictions",
-      "summary": "Changes to Ohio's SNAP benefits are raising concerns that new store restrictions could limit where some families can use food assistance.",
-      "source": "ABC 6",
-      "url": "https://cwcolumbus.com/news/local/ohio-snap-changes-raise-concerns-about-store-restrictions-supplemental-nutrition-assistance-program-ohioans-receiving-benefits-ebt-payments-murphy-usa-corporate-department-of-job-and-family-services-food-banks",
-      "publishedAt": "2026-10-29T08:30:00Z",
-      "tags": [
-        "Ohio",
-        "SNAP",
-        "food access"
-      ]
+        "columbus",
+        "crime",
+        "court"
+      ],
+      "id": "local-14"
     }
   ]
 }
