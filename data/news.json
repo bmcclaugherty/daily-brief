@@ -1,161 +1,130 @@
 {
   "meta": {
-    "updatedAt": "2026-10-30T19:40:00Z",
+    "updatedAt": "2026-10-31T11:07:31Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 15
+    "count": 8
   },
   "stories": [
     {
       "id": "top-1",
       "category": "top",
-      "title": "Dockworkers strike at 100+ ports against arms shipments",
-      "summary": "Dockworkers at more than 100 ports across Europe, the Mediterranean and North America struck Friday against arms shipments and for better working conditions, with unions in France, Italy, Greece, Spain, Turkey and Morocco joining. Experts expect only limited impact on global supply chains.",
-      "source": "AP",
-      "url": "https://apnews.com/article/port-strikes-arms-shipments-france-greece-italy-4a8813406fd51b91b3b7d17826c1883d",
-      "publishedAt": "2026-10-30T17:01:00Z",
-      "tags": ["dockworkers", "strike", "ports", "middle-east"]
+      "title": "Police deployed during stand-off over control of Poland's top court",
+      "summary": "Police were deployed outside Poland's Constitutional Tribunal as a stand-off over control of the top court escalated, after the government suspended two senior justices and moved to bring criminal charges against them. The long-running dispute over judicial appointments has effectively paralyzed the institution.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crz9824d5e88o",
+      "publishedAt": "2026-10-31T09:00:00Z",
+      "tags": [
+        "poland",
+        "courts",
+        "rule-of-law",
+        "europe"
+      ]
     },
     {
       "id": "top-2",
       "category": "top",
-      "title": "Russia's Novaya Gazeta newspaper to shut down",
-      "summary": "Russia's most prominent independent newspaper, Novaya Gazeta, announced it will close Nov. 9 after more than three decades, blaming relentless government pressure. The outlet accused authorities of forcing its editorial team to stop work.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cmewepdr109do",
-      "publishedAt": "2026-10-30T16:00:00Z",
-      "tags": ["russia", "press-freedom", "media"]
+      "title": "Turkey throws former foreign minister's name into race for next UN chief",
+      "summary": "Turkey officially nominated Feridun Sinirlioglu, a former foreign minister and UN ambassador who now leads the OSCE, to succeed Antonio Guterres as UN secretary-general. He joins a crowded field as the Security Council struggles to rally behind a frontrunner.",
+      "source": "AP",
+      "url": "https://apnews.com/article/united-nations-sinirlioglu-secretary-general-78df3aecf8df62a2473b5e45cb7513be",
+      "publishedAt": "2026-10-31T07:00:00Z",
+      "tags": [
+        "un",
+        "turkey",
+        "guterres",
+        "diplomacy"
+      ]
     },
     {
       "id": "top-3",
       "category": "top",
-      "title": "Three tankers catch fire in Strait of Hormuz, Iran says",
-      "summary": "Iran's Revolutionary Guard said three oil tankers, including a supertanker carrying more than 2 million barrels, exploded and caught fire Friday in the Strait of Hormuz. The U.S. military denied Iranian claims about naval mines, saying primary transit routes are clear.",
-      "source": "AP",
-      "url": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0",
-      "publishedAt": "2026-10-30T12:00:00Z",
-      "tags": ["iran", "strait-of-hormuz", "oil", "middle-east"]
-    },
-    {
-      "id": "top-4",
-      "category": "top",
-      "title": "Final results confirm Netanyahu bloc lost majority",
-      "summary": "Final election results confirmed Israeli Prime Minister Benjamin Netanyahu's bloc lost its parliamentary majority, with Arab-led parties holding 19 seats. Weeks of difficult coalition negotiations among sharply different parties now lie ahead.",
-      "source": "AP",
-      "url": "https://apnews.com/article/israel-elections-netanyahu-results-eisenkot-arabs-3a793c0d07fdfe515390524b849d8674",
-      "publishedAt": "2026-10-30T08:00:00Z",
-      "tags": ["israel", "election", "netanyahu"]
+      "title": "Polish president turns back from Senegal trip as top court chief suspended",
+      "summary": "Polish President Karol Nawrocki turned his plane around en route to Senegal and returned to Warsaw after the Constitutional Tribunal's president was suspended, deepening a long-running dispute that has paralyzed the court.",
+      "source": "Reuters",
+      "url": "https://www.nbcnews.com/world/europe/polish-president-turns-back-senegal-trip-top-court-chief-suspended-rcna606626",
+      "publishedAt": "2026-10-30T23:56:00Z",
+      "tags": [
+        "poland",
+        "nawrocki",
+        "constitutional-tribunal"
+      ]
     },
     {
       "id": "tech-1",
       "category": "tech",
-      "title": "Binance hit by record $6B+ crypto heist linked to North Korea",
-      "summary": "More than $6 billion in crypto was drained from Binance in what is being called the largest crypto heist on record, with investigators linking the attack to North Korea's TraderTraitor hacking group. Exchanges are racing to freeze roughly $2.7 billion already flagged.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
-      "publishedAt": "2026-10-30T18:00:00Z",
-      "tags": ["binance", "crypto", "hack", "north-korea"]
+      "title": "SEC's top cop says agency is monitoring AI corporate disclosures",
+      "summary": "SEC enforcement director David Woodcock said the agency is monitoring how companies disclose AI-related risks, signaling scrutiny of whether issuers are giving investors the full picture without standing in the way of innovation.",
+      "source": "Reuters",
+      "url": "https://www.aol.com/articles/us-secs-top-cop-says-175527000.html",
+      "publishedAt": "2026-10-31T05:00:00Z",
+      "tags": [
+        "sec",
+        "ai",
+        "disclosure",
+        "regulation"
+      ]
     },
     {
       "id": "tech-2",
       "category": "tech",
-      "title": "Trojanized Claude Code extension planted SSH backdoor",
-      "summary": "A malicious build of Anthropic's Claude Code extension (v2.1.313) pushed through the Cursor marketplace and Open-VSX installed a persistent SSH backdoor on developer machines. Cursor said up to 5,000 users received the trojanized update over an 11-hour window.",
-      "source": "DoublePulsar",
-      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "publishedAt": "2026-10-30T18:30:00Z",
-      "tags": ["anthropic", "claude-code", "supply-chain", "security"]
-    },
-    {
-      "id": "tech-3",
-      "category": "tech",
-      "title": "OpenAI to honor shared robots.txt signal for AI training",
-      "summary": "OpenAI said it will honor a shared signal in robots.txt that lets website operators communicate AI-training preferences to multiple providers at once. The move builds on an IETF AI Preferences working group effort aimed at simplifying publisher controls.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "publishedAt": "2026-10-30T14:00:00Z",
-      "tags": ["openai", "robots-txt", "ai", "publishers"]
-    },
-    {
-      "id": "browns-1",
-      "category": "browns",
-      "title": "Stefanski's late third-down call dominates Browns fallout",
-      "summary": "Friday's Browns newswire is dominated by the fallout from a 24-20 loss in Seattle, where a P.J. Walker interception on a fateful third-and-3 set up the Seahawks' winning score and put Kevin Stefanski's late play call under scrutiny.",
-      "source": "247Sports",
-      "url": "https://247sports.com/nfl/cleveland-browns/longformarticle/cleveland-browns-morning-news-kevin-stefanski-pj-walker-219178053/",
-      "publishedAt": "2026-10-30T11:00:00Z",
-      "tags": ["browns", "seahawks", "stefanski", "nfl"]
+      "title": "Baseten to raise funding that would double value to $30 billion",
+      "summary": "AI infrastructure startup Baseten is set to raise new funding that would double its valuation to $30 billion, extending a surge in investor appetite for the compute that AI models run on.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding",
+      "publishedAt": "2026-10-31T02:00:00Z",
+      "tags": [
+        "baseten",
+        "ai-infrastructure",
+        "funding",
+        "venture-capital"
+      ]
     },
     {
       "id": "buckeyes-1",
       "category": "buckeyes",
-      "title": "Ohio State vs. USC: who has the edge in Big Ten showdown",
-      "summary": "A matchup breakdown weighs injuries, key battles and a prediction for No. 2 Ohio State's Saturday visit to USC, where the Trojans need a win to keep their season alive in the teams' first Big Ten meeting.",
-      "source": "Daily News",
-      "url": "https://www.dailynews.com/2026/10/30/usc-football-vs-no-2-ohio-state-who-has-the-edge/",
-      "publishedAt": "2026-10-30T17:30:00Z",
-      "tags": ["ohio-state", "usc", "big-ten", "football"]
-    },
-    {
-      "id": "buckeyes-2",
-      "category": "buckeyes",
-      "title": "Ohio State still chasing first win at USC since 1946",
-      "summary": "No. 2 Ohio State heads to the LA Memorial Coliseum still seeking its first win at USC since 1946, a streak on the line in one of Week 9's biggest games.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/30/ohio-state-usc-football-road-record-win/92498870007/",
-      "publishedAt": "2026-10-30T10:30:00Z",
-      "tags": ["ohio-state", "usc", "big-ten", "history"]
+      "title": "Ohio State makes logical QB call ahead of USC showdown",
+      "summary": "With Julian Sayin out indefinitely with a throwing-arm injury, Ohio State is expected to start true freshman Luke Fahey at quarterback for Saturday night's game at USC.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/report-ohio-state-makes-logical-012859506.html",
+      "publishedAt": "2026-10-31T00:00:00Z",
+      "tags": [
+        "ohio-state",
+        "usc",
+        "julian-sayin",
+        "quarterback"
+      ]
     },
     {
       "id": "f1-1",
       "category": "f1",
-      "title": "Antonelli can clinch F1 title as Mexico City practice begins",
-      "summary": "First practice is underway for the Mexico City Grand Prix, where Kimi Antonelli can clinch his first Formula 1 title with a ninth-place finish Sunday. Norris, Verstappen and Russell were among 10 drivers sitting out the session.",
-      "source": "BBC Sport",
-      "url": "https://sports.yahoo.com/articles/mexico-city-grand-prix-practice-184311953.html",
-      "publishedAt": "2026-10-30T18:43:00Z",
-      "tags": ["f1", "antonelli", "mexico-city-gp", "championship"]
-    },
-    {
-      "id": "f1-2",
-      "category": "f1",
-      "title": "Antonelli on verge of becoming F1's youngest champion",
-      "summary": "Kimi Antonelli arrived in Mexico City on the verge of becoming Formula 1's youngest champion, missing Thursday's media day with a viral infection but expected back for Friday practice. Ninth place or better secures the title Sunday.",
-      "source": "AP",
-      "url": "https://apnews.com/article/kimi-antonelli-f1-mexico-city-afbc2fc6580606c44bda6373b4957429",
-      "publishedAt": "2026-10-30T14:00:00Z",
-      "tags": ["f1", "antonelli", "mercedes", "championship"]
+      "title": "Leclerc tops eventful FP2 from Norris and Russell in Mexico City",
+      "summary": "Charles Leclerc set the pace in both Friday practice sessions at the Mexico City Grand Prix, edging Lando Norris and George Russell in FP2 as Ferrari led the way ahead of qualifying.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/fp2-leclerc-tops-eventful-second-practice-from-norris-and-russell-at-mexico-city-grand-prix.5iyjNG9TZGc6DfLTacb05D",
+      "publishedAt": "2026-10-30T23:14:00Z",
+      "tags": [
+        "f1",
+        "leclerc",
+        "ferrari",
+        "mexico-city-gp"
+      ]
     },
     {
       "id": "local-1",
       "category": "local",
-      "title": "911 service restored in Columbus area after interruption",
-      "summary": "911 service was restored in the Columbus area Friday after an interruption that affected emergency calls, authorities said.",
+      "title": "1 dead, 2 injured in west Columbus shooting",
+      "summary": "One person died and two were injured in a shooting Friday night in Columbus' Briggsdale neighborhood, police said, with officers responding to a reported shooting and an investigation underway.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/911-service-interruptions-affecting-columbus-area/",
-      "publishedAt": "2026-10-30T19:15:00Z",
-      "tags": ["columbus", "911", "outage"]
-    },
-    {
-      "id": "local-2",
-      "category": "local",
-      "title": "Ohio child marriage law under scrutiny after Vinton County case",
-      "summary": "Ohio's child marriage law is under renewed scrutiny after the Vinton County case in which 16 children were found living in squalid conditions at a single home.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/vinton-county-case-sparks-renewed-interest-in-ohio-child-marriage-law/",
-      "publishedAt": "2026-10-30T18:30:00Z",
-      "tags": ["ohio", "child-marriage", "vinton-county"]
-    },
-    {
-      "id": "local-3",
-      "category": "local",
-      "title": "Morse Road crash on Northeast Side injures five",
-      "summary": "A crash shut down Morse Road on Columbus' Northeast Side Friday morning and sent five people to area hospitals, police said.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/local/2026/10/30/crash-morse-road-columbus-injures-five/92512081007/",
-      "publishedAt": "2026-10-30T12:30:00Z",
-      "tags": ["columbus", "crash", "morse-road"]
+      "url": "https://www.nbc4i.com/news/local-news/columbus/one-dead-another-injured-in-west-columbus-shooting-2/",
+      "publishedAt": "2026-10-31T10:10:00Z",
+      "tags": [
+        "columbus",
+        "shooting",
+        "briggsdale",
+        "crime"
+      ]
     }
   ]
 }
