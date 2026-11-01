@@ -1,341 +1,235 @@
 {
   "meta": {
-    "updatedAt": "2026-10-31T19:45:00Z",
+    "updatedAt": "2026-11-01T12:14:17Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 22
+    "count": 15
   },
   "stories": [
     {
+      "id": "top-1",
       "category": "top",
-      "title": "France sees third weekend of protests as police fire tear gas",
-      "summary": "Hundreds of thousands marched across France on Saturday over living costs and education, and police fired tear gas as clashes broke out after dark in Paris, Lyon and Toulouse. Interior ministry tallied 320,000 protesters nationwide, down from prior weeks.",
-      "source": "AP",
-      "url": "https://apnews.com/article/protests-europe-youth-france-germany-spain-362a7cb69871ab21bd894290dad639f5",
-      "publishedAt": "2026-10-31T15:00:00Z",
+      "title": "BYD extends sales growth streak on strong exports",
+      "summary": "Chinese EV maker BYD posted a sixth straight month of sales growth in October, selling 490,168 vehicles as a 102.8% jump in overseas shipments offset sluggish domestic demand and intense price competition at home.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/chinas-byd-extends-sales-growth-streak-strong-exports-2026-11-01/",
+      "publishedAt": "2026-11-01T11:30:00Z",
       "tags": [
-        "france",
-        "protests",
-        "cost-of-living",
-        "macron"
-      ],
-      "id": "top-1"
+        "byd",
+        "ev",
+        "china",
+        "exports"
+      ]
     },
     {
+      "id": "top-2",
       "category": "top",
-      "title": "Oleshky evacuees reunite with families in Ukraine after ceasefire",
-      "summary": "Hundreds evacuated from the Russian-occupied frontline city of Oleshky under a Melania Trump-brokered ceasefire crossed into Ukraine, reuniting with relatives they had not seen for years.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqx2818elrnzo",
-      "publishedAt": "2026-10-31T14:00:00Z",
+      "title": "Russian strikes cut power to hundreds of thousands in Ukraine",
+      "summary": "Russian strikes hit energy infrastructure in four Ukrainian regions overnight, killing one and injuring dozens while leaving hundreds of thousands of households without power, President Zelenskyy said. Ukraine's air force said it downed 371 of 433 drones launched since Saturday evening.",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-attacks-kill-1-injure-47-over-past-day-leaving-hundreds-of-thousands-without-electricity/",
+      "publishedAt": "2026-11-01T10:35:00Z",
       "tags": [
         "ukraine",
         "russia",
-        "ceasefire",
-        "humanitarian"
-      ],
-      "id": "top-2"
+        "energy",
+        "war"
+      ]
     },
     {
+      "id": "top-3",
       "category": "top",
-      "title": "DR Congo Ebola deaths top 5,000 in deadliest outbreak",
-      "summary": "Deaths in the Democratic Republic of Congo's deadliest Ebola outbreak passed 5,000, with cases now recorded in neighboring countries and no approved treatment or vaccine available.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/africa/congo-ebola-outbreak-deaths-top-5000-fear-continent-wide-spread-mounts-rcna606677",
-      "publishedAt": "2026-10-31T12:40:00Z",
+      "title": "Trump calls for replacing Zelenskiy after diesel-deal clash",
+      "summary": "Trump said Ukraine should get a new leader who can make a deal after criticizing Zelenskiy over a U.S.-Russia diesel agreement and Ukraine's strikes on Russian refineries. Zelenskiy said the diesel deal emboldened Moscow.",
+      "source": "Reuters",
+      "url": "https://www.msn.com/en-us/news/other/trump-calls-for-zelenskyy-s-replacement-after-russian-diesel-deal-backlash/ar-AA2dYDki",
+      "publishedAt": "2026-11-01T08:00:00Z",
       "tags": [
-        "ebola",
-        "dr-congo",
-        "health",
-        "outbreak"
-      ],
-      "id": "top-3"
+        "trump",
+        "ukraine",
+        "russia",
+        "diesel"
+      ]
     },
     {
+      "id": "top-4",
       "category": "top",
-      "title": "Poland's top court standoff escalates as chief judge ousted",
-      "summary": "A bid to remove nationalist-linked leadership from Poland's Constitutional Tribunal saw the chief judge ousted, sparking accusations of a coup and clashes between protesters and riot police in Warsaw.",
-      "source": "POLITICO",
-      "url": "https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/",
-      "publishedAt": "2026-10-31T11:00:00Z",
+      "title": "Riots and looting overshadow Germany's youth protests",
+      "summary": "Hooded rioters looted stores in Frankfurt after tens of thousands marched across German cities demanding better education and lower living costs. Germany's interior minister threatened tough penalties for looters and rioters while praising the police response.",
+      "source": "Reuters",
+      "url": "https://www.tbsnews.net/worldbiz/europe/rioters-loot-stores-frankfurt-gen-z-led-protests-germany-turn-violent-1589001",
+      "publishedAt": "2026-11-01T00:30:00Z",
       "tags": [
-        "poland",
-        "courts",
-        "rule-of-law",
-        "warsaw"
-      ],
-      "id": "top-4"
+        "germany",
+        "protests",
+        "frankfurt",
+        "europe"
+      ]
     },
     {
+      "id": "tech-1",
       "category": "tech",
-      "title": "Google AI gets cagey when asked who won the 2020 election",
-      "summary": "Google's AI Mode declines to name the 2020 presidential winner, pointing users to official records instead; Google blames a technical gap in election verification it says it is fixing.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "publishedAt": "2026-10-31T18:30:00Z",
+      "title": "Karpathy ships 'HackerTube,' a YouTube feed built from HN picks",
+      "summary": "Andrej Karpathy posted HackerTube, a YouTube feed built from videos recommended by Hacker News, which hit 544 points and the top of the front page within hours.",
+      "source": "Karpathy (via Hacker News)",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "publishedAt": "2026-11-01T08:00:00Z",
       "tags": [
-        "google",
+        "karpathy",
+        "hacker-news",
+        "video",
+        "tools"
+      ]
+    },
+    {
+      "id": "tech-2",
+      "category": "tech",
+      "title": "Critical Linux TCP flaw (CVSS 9.8) still unpatched in Ubuntu, RHEL",
+      "summary": "CVE-2026-98432 is a remote use-after-free in Linux's IPv4 TCP handshake that an unauthenticated peer can exploit for kernel code execution. Upstream fixed it on Oct 15, but Ubuntu and Red Hat kernels remain unpatched, and the issue is trending on Hacker News.",
+      "source": "Atlas Security (via Hacker News)",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "publishedAt": "2026-11-01T06:00:00Z",
+      "tags": [
+        "linux",
+        "security",
+        "cve",
+        "kernel"
+      ]
+    },
+    {
+      "id": "tech-3",
+      "category": "tech",
+      "title": "Team of five Qwen3.8-27B models beats Fable 5 on coding benchmark",
+      "summary": "An open-source workflow strings five Qwen3.8-27B models together as a team that beats the frontier Fable 5 model on the LiveCodeBench Hard benchmark. The demo, posted to GitHub, is trending on Hacker News.",
+      "source": "GitHub (via Hacker News)",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "publishedAt": "2026-11-01T05:30:00Z",
+      "tags": [
         "ai",
-        "elections",
-        "safety"
-      ],
-      "id": "tech-1"
+        "open-source",
+        "qwen",
+        "coding"
+      ]
     },
     {
-      "category": "tech",
-      "title": "Google DeepMind releases Gemini 4 Carbon frontier model",
-      "summary": "Two weeks after Argon, Google DeepMind shipped Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index and is built for multi-day autonomous coding and cyber-defense workflows.",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
-      "publishedAt": "2026-10-31T18:00:00Z",
-      "tags": [
-        "google",
-        "gemini",
-        "deepmind",
-        "ai-model"
-      ],
-      "id": "tech-2"
-    },
-    {
-      "category": "tech",
-      "title": "Google joins rivals in promising new AI scraping controls",
-      "summary": "Google, OpenAI, Anthropic and Microsoft committed to honoring a new robots.txt directive that lets publishers opt out of AI-training scraping of their content.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
-      "publishedAt": "2026-10-31T12:30:00Z",
-      "tags": [
-        "ai",
-        "scraping",
-        "robots.txt",
-        "google"
-      ],
-      "id": "tech-3"
-    },
-    {
-      "category": "tech",
-      "title": "OpenAI and ServiceNow integrate agentic workflows",
-      "summary": "OpenAI models and agents now integrate directly into ServiceNow workflows, while ServiceNow's enterprise capabilities come to ChatGPT and Codex to streamline corporate automation.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "publishedAt": "2026-10-31T10:30:00Z",
-      "tags": [
-        "openai",
-        "servicenow",
-        "enterprise",
-        "agents"
-      ],
-      "id": "tech-4"
-    },
-    {
+      "id": "browns-1",
       "category": "browns",
-      "title": "Tytus Howard cleared to start at right tackle vs Steelers",
-      "summary": "Right tackle Tytus Howard cleared concussion protocol and will start Sunday as the 5-2 Browns visit Pittsburgh with first place in the AFC North on the line.",
-      "source": "Akron Beacon Journal",
-      "url": "https://sports.yahoo.com/articles/browns-call-tackle-ahead-week-181316963.html",
-      "publishedAt": "2026-10-31T18:13:00Z",
+      "title": "Browns aim to snap 20-year road losing streak in Pittsburgh today",
+      "summary": "Sunday's Dawg Chow rounds up Browns notes ahead of today's Week 8 trip to Pittsburgh, where a win would snap a two-decade road losing streak against the Steelers and push Cleveland's playoff odds above 65%.",
+      "source": "Yahoo Sports (Dawg Chow)",
+      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-streak-ends-113000633.html",
+      "publishedAt": "2026-11-01T11:30:00Z",
       "tags": [
         "browns",
+        "steelers",
         "nfl",
-        "injury",
-        "steelers"
-      ],
-      "id": "browns-1"
+        "afc-north"
+      ]
     },
     {
-      "category": "browns",
-      "title": "Mike Hall Jr. available for Steelers game after ankle injury",
-      "summary": "Defensive tackle Mike Hall Jr. is off the injury report and will play Sunday, his first game since suffering a high-ankle sprain against Pittsburgh on Oct. 1.",
-      "source": "Heavy",
-      "url": "https://heavy.com/sports/nfl/cleveland-browns/good-news-on-injured-dl-before-steelers-game/",
-      "publishedAt": "2026-10-31T16:00:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "mike-hall",
-        "steelers"
-      ],
-      "id": "browns-2"
-    },
-    {
-      "category": "browns",
-      "title": "Browns elevate rookie TE Carsen Ryan for Steelers game",
-      "summary": "Cleveland elevated rookie tight end Carsen Ryan from the practice squad for Sunday's game, days after waiving and re-signing the seventh-round pick.",
-      "source": "Browns Nation",
-      "url": "https://www.brownsnation.com/browns-elevate-a-familiar-rookie-ahead-of-steelers-game/",
-      "publishedAt": "2026-10-31T15:00:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "roster",
-        "steelers"
-      ],
-      "id": "browns-3"
-    },
-    {
-      "category": "browns",
-      "title": "Browns work out five players ahead of Steelers matchup",
-      "summary": "The Browns worked out five players, including former Colorado receiver Xavier Weaver, as they look at practice-squad depth before Sunday's game in Pittsburgh.",
-      "source": "Browns Nation",
-      "url": "https://www.brownsnation.com/browns-bring-in-five-players-for-workouts/",
-      "publishedAt": "2026-10-31T14:00:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "roster",
-        "workouts"
-      ],
-      "id": "browns-4"
-    },
-    {
+      "id": "buckeyes-1",
       "category": "buckeyes",
-      "title": "Ohio State-USC odds and picks for Halloween night clash",
-      "summary": "Ohio State visits USC (7:30 p.m. ET, NBC) as a 6.5-point favorite with Luke Fahey set for his first career start; CBS Sports leans on the Under 51.5 with a first-time QB on the road.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/ohio-state-usc-prediction-picks-odds-spread-where-to-watch-live/",
-      "publishedAt": "2026-10-31T17:00:00Z",
-      "tags": [
-        "ohio-state",
-        "usc",
-        "odds",
-        "jeremiah-smith"
-      ],
-      "id": "buckeyes-1"
-    },
-    {
-      "category": "buckeyes",
-      "title": "Herbstreit's advice for Luke Fahey's first Ohio State start",
-      "summary": "Kirk Herbstreit says Luke Fahey must lean on the talent around him and 'just don't lose the game' as the freshman makes his first start at USC in place of injured Julian Sayin.",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/sports/ncaa/kirk-herbstreit-sets-clear-expectations-for-luke-faheys-1st-ohio-state-start-12645143",
-      "publishedAt": "2026-10-31T16:00:00Z",
-      "tags": [
-        "ohio-state",
-        "buckeyes",
-        "luke-fahey",
-        "herbstreit"
-      ],
-      "id": "buckeyes-2"
-    },
-    {
-      "category": "buckeyes",
-      "title": "Buckeyes need complete game to support new QB vs USC",
-      "summary": "No. 2 Ohio State (6-1) plays its first game without QB Julian Sayin, leaning on a full-team effort to beat a USC team fighting to keep its playoff hopes alive.",
+      "title": "Ryan Day calls Ohio State's USC loss 'extremely frustrating'",
+      "summary": "Day blamed way too many mistakes for No. 2 Ohio State's 30-18 defeat at USC, played without injured quarterback Julian Sayin. The loss is a setback for the Buckeyes' playoff chase.",
       "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164927/ohio-state-vs-usc-preview-buckeyes-must-play-complete-game-to-support-young-qb-and-end-trojans-chance-at-the",
-      "publishedAt": "2026-10-31T15:00:00Z",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164998/presser-bullets-ryan-day-calls-ohio-state-s-loss-to-usc-extremely-frustrating-says-there-were-just-way-too-many",
+      "publishedAt": "2026-11-01T06:30:00Z",
       "tags": [
+        "buckeyes",
         "ohio-state",
+        "ryan-day",
+        "usc"
+      ]
+    },
+    {
+      "id": "buckeyes-2",
+      "category": "buckeyes",
+      "title": "USC stuns No. 2 Ohio State 30-18 in biggest win of Riley tenure",
+      "summary": "USC upset No. 2 Ohio State 30-18 in Los Angeles, with Jayden Maiava throwing for 222 yards and a touchdown as the Trojans improved to 7-2. The win keeps USC's College Football Playoff hopes alive.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50343945/usc-stuns-no-2-ohio-state-biggest-win-riley-tenure",
+      "publishedAt": "2026-11-01T05:30:00Z",
+      "tags": [
+        "buckeyes",
         "usc",
         "college-football",
-        "preview"
-      ],
-      "id": "buckeyes-3"
+        "upset"
+      ]
     },
     {
-      "category": "buckeyes",
-      "title": "What's next for Ohio State after Julian Sayin's injury",
-      "summary": "Ohio State heads to USC without starting QB Julian Sayin, who has an arm injury, with true freshman Luke Fahey expected to take over under center.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/college/football/2026/10/31/whats-next-for-ohio-state-after-quarterback-julian-sayin-injury/92512508007/",
-      "publishedAt": "2026-10-31T12:30:00Z",
-      "tags": [
-        "ohio-state",
-        "buckeyes",
-        "college-football",
-        "qb"
-      ],
-      "id": "buckeyes-4"
-    },
-    {
+      "id": "f1-1",
       "category": "f1",
-      "title": "Norris tops final Mexico City practice by 0.001s",
-      "summary": "Lando Norris edged title leader Kimi Antonelli by one millisecond to top FP3 at the Mexico City Grand Prix, with Charles Leclerc third and Oscar Piastri fourth.",
+      "title": "Lawson disqualified from Mexico City GP qualifying over technical breach",
+      "summary": "Liam Lawson was disqualified from Mexico City Grand Prix qualifying after Racing Bulls' car failed a technical check on its MGU-K. Stewards said the absence of any performance advantage could not prevent the disqualification.",
       "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/fp3-norris-pips-antonelli-and-leclerc-to-top-spot-in-final-practice-for-mexico-city-gp.1s5lDqpwmCBl5aqSGq4Ffn",
-      "publishedAt": "2026-10-31T18:45:00Z",
+      "url": "https://www.formula1.com/en/latest/article/lawson-disqualified-from-mexico-city-gp-qualifying-for-technical-breach.1LIHCl2P75cYj0cGJgyZhx",
+      "publishedAt": "2026-11-01T03:00:00Z",
       "tags": [
         "f1",
-        "formula1",
-        "mexico-gp",
-        "norris"
-      ],
-      "id": "f1-1"
+        "lawson",
+        "mexico",
+        "racing-bulls"
+      ]
     },
     {
+      "id": "f1-2",
       "category": "f1",
-      "title": "Antonelli closes in on maiden title ahead of Mexico qualifying",
-      "summary": "Mercedes' Kimi Antonelli, on the verge of clinching his first F1 championship this weekend, finished a millisecond behind Lando Norris in final practice; qualifying follows later Saturday.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/50320304/lando-norris-edges-kimi-antonelli-final-practice-one-millisecond-mexico-city-grand-prix-formula-1-autodromo-hermanos-rodriguez",
-      "publishedAt": "2026-10-31T18:31:00Z",
+      "title": "Hamilton takes first Ferrari pole at Mexico City Grand Prix",
+      "summary": "Lewis Hamilton secured his first pole position for Ferrari in Mexico City, ending a three-year wait and lifting his record to 105 career poles. He said the moment took him back to watching Michael Schumacher.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/f1s-longest-pole-position-career-spans-as-hamilton-returns-to-the-top-with-ferrari.6YDBxkSvAtUCaNxNQBAk8Z",
+      "publishedAt": "2026-11-01T02:00:00Z",
       "tags": [
         "f1",
-        "antonelli",
-        "mercedes",
-        "mexico-gp"
-      ],
-      "id": "f1-2"
+        "hamilton",
+        "ferrari",
+        "mexico"
+      ]
     },
     {
-      "category": "local",
-      "title": "Dublin-based Wendy's receives $1.4B purchase offer from Nelson Peltz",
-      "summary": "Nelson Peltz has made a $1.4 billion purchase offer for Dublin, Ohio-based Wendy's, according to NBC4.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/dublin/ohio-based-wendys-receives-1-4-billion-purchase-offer-from-nelson-peltz/",
-      "publishedAt": "2026-10-31T19:30:00Z",
+      "id": "f1-3",
+      "category": "f1",
+      "title": "Leclerc 'angry with myself' after losing pole to Hamilton",
+      "summary": "Charles Leclerc said he was angry with himself after losing pole to Ferrari teammate Hamilton in Mexico City qualifying and settling for third, while voicing overtaking concerns ahead of Sunday's race.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/leclerc-angry-with-myself-after-losing-out-to-ferrari-team-mate-hamilton-in-mexico-city-qualifying.6C1Gik6c58NfUOcaLpJTeM",
+      "publishedAt": "2026-11-01T01:30:00Z",
       "tags": [
-        "wendys",
-        "dublin",
-        "business",
-        "columbus"
-      ],
-      "id": "local-1"
+        "f1",
+        "leclerc",
+        "ferrari",
+        "mexico"
+      ]
     },
     {
+      "id": "local-1",
       "category": "local",
-      "title": "Neighbors demand safety changes after crash injures five children",
-      "summary": "Residents are calling for change after a Morse Road crash sent five children and two adults to the hospital in critical condition on the city's North Side.",
-      "source": "ABC 6",
-      "url": "https://abc6onyourside.com/news/local/neighbors-call-for-change-after-crash-sends-5-children-2-adults-to-hospital-morse-road-sundance-drive-columbus-police-white-genesis-g-70-blue-ford-escape-toyota-highlander-eastbound-westbound",
-      "publishedAt": "2026-10-31T17:45:00Z",
+      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event",
+      "summary": "NBC4 profiled Patrick Havas, the man who allegedly approached Ohio gubernatorial candidate Amy Acton with a weapon at a campaign event. Weeks earlier, Acton had criticized a rival campaign that accepted a donation from Havas' brother.",
+      "source": "NBC4 Columbus",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
+      "publishedAt": "2026-11-01T11:15:00Z",
       "tags": [
         "columbus",
-        "morse-road",
-        "crash",
-        "traffic"
-      ],
-      "id": "local-2"
+        "amy-acton",
+        "ohio",
+        "politics"
+      ]
     },
     {
+      "id": "local-2",
       "category": "local",
-      "title": "Reynoldsburg man charged with felony rape after child's report",
-      "summary": "A Reynoldsburg man faces felony rape charges after a 12-year-old Lakewood Middle School student reported abuse to a school counselor.",
-      "source": "ABC 6",
-      "url": "https://abc6onyourside.com/news/local/reynoldsburg-man-facing-felony-rape-charges-after-child-details-abuse-to-school-counselor",
-      "publishedAt": "2026-10-31T15:45:00Z",
+      "title": "Columbus man reverses guilty plea in deadly road-rage shooting",
+      "summary": "A Columbus man who pleaded guilty in a deadly road-rage shooting has retained new counsel and is moving to reverse his plea, sending the case back to court.",
+      "source": "NBC4 Columbus",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
+      "publishedAt": "2026-11-01T10:00:00Z",
       "tags": [
-        "reynoldsburg",
+        "columbus",
         "crime",
-        "columbus",
-        "school"
-      ],
-      "id": "local-3"
-    },
-    {
-      "category": "local",
-      "title": "Shooting in south Franklinton sends one to hospital",
-      "summary": "One person is recovering after being shot early Saturday near Canonby Place in south Franklinton; police found the victim around 12:30 a.m. and reported no suspects yet.",
-      "source": "ABC 6",
-      "url": "https://abc6onyourside.com/news/local/shooting-canonby-place-south-franklinton-columbus-ohio-crime-october-31-2026",
-      "publishedAt": "2026-10-31T12:36:00Z",
-      "tags": [
-        "columbus",
-        "franklinton",
-        "shooting",
-        "crime"
-      ],
-      "id": "local-4"
+        "courts"
+      ]
     }
   ]
 }
