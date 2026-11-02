@@ -1,201 +1,151 @@
 {
   "meta": {
-    "updatedAt": "2026-11-01T20:38:34Z",
+    "updatedAt": "2026-11-02T12:13:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 19
+    "count": 10
   },
   "stories": [
     {
-      "id": "top-carney-trump-trade-20261101",
+      "id": "top-ukraine-russia-nuclear-alert-hack-20261102",
       "category": "top",
-      "title": "Carney reports progress in trade talks with Trump days before US midterms",
-      "summary": "Canadian PM Mark Carney said he had a 'good conversation' with President Trump on trade and that teams will work 'in the coming weeks' toward a deal, a possible thaw in the two countries' tariff war days before the US midterms.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/canada-us-trump-canada-trade-d0bfffc67ecdf22d9a5abffb2d26d848",
-      "publishedAt": "2026-11-01T18:00:00Z",
-      "tags": ["canada", "trade", "trump", "midterms"]
+      "title": "Fake nuclear alerts hit Ukraine and Russia after cyberattacks on emergency apps",
+      "summary": "Both countries said their emergency-alert apps were hacked to send false warnings, including nuclear threats, to millions late Sunday. The incidents raise concern about weaponizing public-safety alert systems during wartime.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+      "publishedAt": "2026-11-02T11:18:00Z",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "cyberattack"
+      ]
     },
     {
-      "id": "top-russia-minor-arrest-20261101",
+      "id": "top-colombia-planadas-bomb-20261102",
       "category": "top",
-      "title": "Russia arrests minor after US embassy warns of credible mass-casualty threat",
-      "summary": "Russia's FSB detained a minor it says was planning an attack, a day after the US Embassy in Moscow warned of a 'credible threat of a mass casualty event' at the Tsaritsyno Museum Reserve.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/11/01/europe/russia-terror-attack-us-warning-intl",
-      "publishedAt": "2026-11-01T15:39:00Z",
-      "tags": ["russia", "security", "us-embassy"]
+      "title": "Truck bomb near Colombia military base kills four, including baby",
+      "summary": "An explosives-laden truck detonated near a military base in Planadas, Tolima, killing four people including a two-month-old baby. It is the latest attack in Colombia's worst wave of violence in a decade.",
+      "source": "Al Arabiya (AFP)",
+      "url": "https://english.alarabiya.net/News/world/2026/11/02/bomb-attack-in-western-colombia-kills-four-governor",
+      "publishedAt": "2026-11-02T07:33:00Z",
+      "tags": [
+        "Colombia",
+        "conflict",
+        "bombing"
+      ]
     },
     {
-      "id": "top-gaza-strikes-20261101",
+      "id": "top-cyclone-murasu-india-20261102",
       "category": "top",
-      "title": "At least eight Palestinians killed in Israeli strikes across Gaza",
-      "summary": "At least eight Palestinians, including a four-year-old boy, were killed in Israeli strikes across Gaza, hospital sources said, the latest deaths despite a year-old ceasefire.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza",
-      "publishedAt": "2026-11-01T13:00:00Z",
-      "tags": ["gaza", "israel", "ceasefire"]
+      "title": "India evacuates thousands ahead of Cyclone Murasu",
+      "summary": "Authorities began evacuating people along India's eastern coast, planning to move about 30,000, before the second cyclone in a week makes landfall. The region is still recovering from Cyclone Arnab, which killed six.",
+      "source": "CNA (Reuters)",
+      "url": "https://www.channelnewsasia.com/asia/india-cyclone-murasu-evacuation-weather-6512186",
+      "publishedAt": "2026-11-02T05:16:00Z",
+      "tags": [
+        "India",
+        "cyclone",
+        "weather"
+      ]
     },
     {
-      "id": "top-iran-khamenei-response-20261101",
-      "category": "top",
-      "title": "Iran's supreme leader warns of 'geographically unrestricted' response to any new US attack",
-      "summary": "Iran's Supreme Leader Mojtaba Khamenei ordered military commanders to meet any new US or Israeli attack with an 'immediate, impactful, and geographically unrestricted' response, warning the conflict could spread beyond the Middle East.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
-      "publishedAt": "2026-11-01T12:10:00Z",
-      "tags": ["iran", "middle-east", "military"]
-    },
-    {
-      "id": "tech-google-android-agents-20261101",
+      "id": "tech-lg-cns-jakarta-ai-data-center-20261102",
       "category": "tech",
-      "title": "Google opens Android development to third-party AI agents",
-      "summary": "Google is opening Android development to third-party AI agents and rolling out new Gemini APIs, letting external coding assistants build for Android alongside Google's own tools.",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
-      "publishedAt": "2026-11-01T19:30:00Z",
-      "tags": ["google", "android", "ai-agents", "gemini"]
+      "title": "LG CNS completes first overseas Korean-built AI data center in Jakarta",
+      "summary": "The 30-megawatt hyperscale facility, built for a Sinar Mas–Korea Investment joint venture, is the first AI data center a South Korean firm has delivered for an overseas client and can scale to 400 MW.",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10922642",
+      "publishedAt": "2026-11-02T02:37:00Z",
+      "tags": [
+        "AI",
+        "data centers",
+        "LG CNS"
+      ]
     },
     {
-      "id": "tech-hackertube-20261101",
+      "id": "tech-south-korea-16b-ai-budget-20261102",
       "category": "tech",
-      "title": "Karpathy's HackerTube plays only videos recommended on Hacker News",
-      "summary": "Andrej Karpathy released HackerTube, a YouTube that plays only videos recommended across Hacker News, and it quickly topped the HN front page.",
-      "source": "Hacker News / Karpathy",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "publishedAt": "2026-11-01T16:30:00Z",
-      "tags": ["hacker-news", "karpathy", "youtube"]
+      "title": "South Korea pledges roughly $16B for AI in its 2027 budget",
+      "summary": "President Lee Jae Myung's record budget routes about 21.3 trillion won across AI semiconductors, physical AI and domestic AI data centers, nearly doubling 2026's allocation.",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10922482",
+      "publishedAt": "2026-11-02T01:48:00Z",
+      "tags": [
+        "AI",
+        "South Korea",
+        "funding"
+      ]
     },
     {
-      "id": "tech-openai-servicenow-20261101",
-      "category": "tech",
-      "title": "OpenAI and ServiceNow integrate agentic AI workflows",
-      "summary": "OpenAI and ServiceNow expanded their partnership to integrate agentic AI workflows across the platform, deepening enterprise AI-agent automation.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "publishedAt": "2026-11-01T11:30:00Z",
-      "tags": ["openai", "servicenow", "ai-agents"]
-    },
-    {
-      "id": "tech-deepseek-superagent-20261101",
-      "category": "tech",
-      "title": "DeepSeek open-sources Super-Agent, a coding agent that reads team chats",
-      "summary": "DeepSeek open-sourced Super-Agent, a coding agent that watches developers' group chats and proactively suggests fixes without being summoned, aimed at rivaling Anthropic's Claude Code.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent",
-      "publishedAt": "2026-11-01T10:13:00Z",
-      "tags": ["deepseek", "coding-agent", "open-source", "claude-code"]
-    },
-    {
-      "id": "browns-watson-injury-20261101",
+      "id": "browns-23rd-straight-pittsburgh-loss-20261102",
       "category": "browns",
-      "title": "Watson exits after helmet-to-helmet hit; Sanders takes over at QB",
-      "summary": "Browns QB Deshaun Watson left the game after a helmet-to-helmet hit by Jaquan Brisker on the opening drive, with Shedeur Sanders taking over under center.",
-      "source": "SB Nation",
-      "url": "https://www.sbnation.com/nfl/1134534/deshaun-watson-injury-browns-qb-leaves-after-helmet-to-helmet-hit-vs-steelers",
-      "publishedAt": "2026-11-01T18:30:00Z",
-      "tags": ["browns", "steelers", "watson", "nfl"]
-    },
-    {
-      "id": "browns-news-rumors-20261101",
-      "category": "browns",
-      "title": "Browns get Howard back, elevate Ryan ahead of Steelers showdown",
-      "summary": "Tytus Howard cleared concussion protocol and the Browns elevated rookie TE Carsen Ryan, leaving the roster nearly intact for the AFC North clash at Pittsburgh.",
-      "source": "Cleveland19 / TheOBR",
-      "url": "https://www.cleveland19.com/2026/11/01/cleveland-browns-news-rumors-11126-ready-ever/",
-      "publishedAt": "2026-11-01T14:29:00Z",
-      "tags": ["browns", "steelers", "afc-north"]
-    },
-    {
-      "id": "browns-streak-ends-20261101",
-      "category": "browns",
-      "title": "Browns look to end 22-year winless streak in Pittsburgh",
-      "summary": "The Browns entered Sunday's game in Pittsburgh trying to snap a 22-year regular-season winless streak in that building and take control of the AFC North.",
-      "source": "Yahoo Sports / SB Nation",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-streak-ends-113000633.html",
-      "publishedAt": "2026-11-01T11:30:00Z",
-      "tags": ["browns", "steelers", "afc-north"]
-    },
-    {
-      "id": "buckeyes-day-fahey-20261101",
-      "category": "buckeyes",
-      "title": "Ryan Day backs freshman QB Fahey after loss at USC",
-      "summary": "Ohio State coach Ryan Day said freshman QB Luke Fahey's first start at USC was 'a tough situation,' after the Buckeyes fell 30-18 with starter Julian Sayin sidelined.",
+      "title": "Browns fall 27-6 in Pittsburgh for a record-tying 23rd straight road loss",
+      "summary": "Cleveland turned the ball over on its first two drives and allowed eight sacks in a lopsided defeat that ties the NFL record for consecutive road losses against one opponent. Harold Fannin Jr.'s 154 receiving yards was one of few bright spots.",
       "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/ohio-state-hc-ryan-day-145415258.html",
-      "publishedAt": "2026-11-01T15:30:00Z",
-      "tags": ["ohio-state", "usc", "ryan-day", "football"]
+      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-hell-110000267.html",
+      "publishedAt": "2026-11-02T11:00:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "Steelers"
+      ]
     },
     {
-      "id": "buckeyes-cfp-jeopardy-20261101",
-      "category": "buckeyes",
-      "title": "Buckeyes' CFP hopes on thin ice after 30-18 loss at USC",
-      "summary": "Ohio State's 30-18 loss at USC dropped the Buckeyes to 6-2 and left their College Football Playoff hopes on thin ice with backup quarterback play, their second loss before November since 2011.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/11/01/ryan-day-luke-fahey-ohio-state-football-loss-usc-julian-sayin-injury/92546228007/",
-      "publishedAt": "2026-11-01T12:30:00Z",
-      "tags": ["ohio-state", "cfp", "usc"]
-    },
-    {
-      "id": "buckeyes-what-we-learned-20261101",
-      "category": "buckeyes",
-      "title": "What we learned from Ohio State's loss to USC",
-      "summary": "Ohio State fell 30-18 at USC on a rainy night in Los Angeles, a defeat that puts the Buckeyes' College Football Playoff path in serious jeopardy.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/what-we-learned-from-ohio-states-30-18-loss-to-usc/",
-      "publishedAt": "2026-11-01T11:30:00Z",
-      "tags": ["ohio-state", "usc", "cfp"]
-    },
-    {
-      "id": "f1-mexico-live-coverage-20261101",
+      "id": "f1-antonelli-youngest-champion-20261102",
       "category": "f1",
-      "title": "Mexico City GP live coverage underway as Antonelli chases youngest title",
-      "summary": "Formula 1's live coverage of the Mexico City Grand Prix is underway, with Kimi Antonelli aiming to become the youngest champion in the sport's history.",
+      "title": "Kimi Antonelli becomes youngest F1 champion in history at age 20",
+      "summary": "The Mercedes driver finished third in Mexico City to seal the 2026 drivers' title, breaking Sebastian Vettel's 2010 record for the youngest world champion.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
+      "publishedAt": "2026-11-02T10:00:00Z",
+      "tags": [
+        "F1",
+        "Antonelli",
+        "Mercedes"
+      ]
+    },
+    {
+      "id": "f1-grid-praise-antonelli-20261102",
+      "category": "f1",
+      "title": "F1 grid praises new world champion Kimi Antonelli",
+      "summary": "Rival drivers reacted to Antonelli's historic title, with Carlos Sainz calling it 'completely deserved' after the Italian clinched the championship with a P3 finish in Mexico.",
       "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-gran-premio-de-la-ciudad-de-mexico-2026.5CheEK7oQK2jf98nrc6i8Y",
-      "publishedAt": "2026-11-01T19:00:00Z",
-      "tags": ["f1", "mexico-gp", "antonelli"]
+      "url": "https://www.formula1.com/en/latest/article/hes-made-everyone-else-look-silly-the-f1-grid-praise-new-world-champion-kimi-antonelli.4wWSNrdtuPYOnmQSLB78dt",
+      "publishedAt": "2026-11-02T03:01:00Z",
+      "tags": [
+        "F1",
+        "Antonelli",
+        "championship"
+      ]
     },
     {
-      "id": "f1-antonelli-youngest-20261101",
-      "category": "f1",
-      "title": "Antonelli needs just ninth place in Mexico to be F1's youngest champion",
-      "summary": "Mercedes' Kimi Antonelli needs only a ninth-place finish at the Mexico City GP to become F1's youngest ever world champion, breaking a record set in 2010.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/antonelli-formula-1-mexico-city-grand-prix-370087f112c6c26db286b98d6f23c96a",
-      "publishedAt": "2026-11-01T17:30:00Z",
-      "tags": ["f1", "antonelli", "mercedes", "championship"]
-    },
-    {
-      "id": "local-governor-briefing-20261101",
+      "id": "local-early-voting-strong-turnout-20261102",
       "category": "local",
-      "title": "Sunday Briefing previews the Ohio governor's race",
-      "summary": "NBC4's Sunday Briefing previews the Ohio governor's race between Democrat Amy Acton and Republican Vivek Ramaswamy, one of the nation's most-watched contests ahead of Tuesday's election.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/sunday-briefing-inside-the-ohio-governors-race/",
-      "publishedAt": "2026-11-01T20:35:00Z",
-      "tags": ["ohio", "election", "governor"]
+      "title": "Early voting wraps up with strong turnout ahead of Election Day",
+      "summary": "More than 93,000 Franklin County residents voted early at the county vote center this year, with long lines and waits of up to two hours on the final day Sunday. There is no early voting Monday before Tuesday's election.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.yahoo.com/news/politics/articles/early-voting-wraps-strong-turnout-050000587.html",
+      "publishedAt": "2026-11-02T05:00:00Z",
+      "tags": [
+        "Columbus",
+        "election",
+        "early voting"
+      ]
     },
     {
-      "id": "local-jordan-sentenced-20261101",
+      "id": "local-franklin-county-early-voting-totals-20261102",
       "category": "local",
-      "title": "Reynoldsburg man sentenced in shootout, still faces murder charge",
-      "summary": "A Reynoldsburg man was sentenced to 25 years in federal prison for a shootout with officers in Springfield, while still facing a murder charge in a 2025 north Columbus homicide.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/ohio-man-sentenced-in-police-shootout-still-faces-murder-charge/",
-      "publishedAt": "2026-11-01T18:30:00Z",
-      "tags": ["columbus", "crime", "sentencing"]
-    },
-    {
-      "id": "local-teen-shooting-search-20261101",
-      "category": "local",
-      "title": "Police search for suspect in fatal shooting of teenager",
-      "summary": "Columbus police are searching for a suspect after a teenager was fatally shot, as officers investigate the city's latest homicide.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-police-searching-for-suspect-in-fatal-shooting-of-teenager/",
-      "publishedAt": "2026-11-01T18:30:00Z",
-      "tags": ["columbus", "crime", "shooting"]
+      "title": "Franklin County releases final early voting totals, Election Day reminders",
+      "summary": "A total of 93,166 voters cast in-person early ballots, while more than 12,000 mailed ballots had not yet been received as of Sunday. Officials urge voters to confirm polling locations, with 54,000 residents assigned to new precincts.",
+      "source": "10TV (WBNS)",
+      "url": "https://www.10tv.com/article/news/politics/elections/franklin-county-early-voting-totals-2026-midterm-election/530-50cc1f06-4409-4245-95c0-659c23c56cca",
+      "publishedAt": "2026-11-02T03:00:00Z",
+      "tags": [
+        "Columbus",
+        "election",
+        "early voting"
+      ]
     }
   ]
 }
