@@ -1,150 +1,241 @@
 {
   "meta": {
-    "updatedAt": "2026-11-02T12:13:00Z",
+    "updatedAt": "2026-11-02T20:35:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 10
+    "count": 16
   },
   "stories": [
     {
-      "id": "top-ukraine-russia-nuclear-alert-hack-20261102",
+      "id": "top-canada-carney-trump-trade-20261102",
       "category": "top",
-      "title": "Fake nuclear alerts hit Ukraine and Russia after cyberattacks on emergency apps",
-      "summary": "Both countries said their emergency-alert apps were hacked to send false warnings, including nuclear threats, to millions late Sunday. The incidents raise concern about weaponizing public-safety alert systems during wartime.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-      "publishedAt": "2026-11-02T11:18:00Z",
+      "title": "Canada's Carney reports progress in trade talks with Trump days before US midterms",
+      "summary": "Canadian PM Mark Carney said he and Donald Trump discussed a potential trade deal as Ottawa races to double its non-US exports. A breakthrough would ease the tariff war that has strained both economies.",
+      "source": "AP",
+      "url": "https://apnews.com/article/canada-us-trump-canada-trade-d0bfffc67ecdf22d9a5abffb2d26d848",
+      "publishedAt": "2026-11-02T14:00:00Z",
       "tags": [
-        "Ukraine",
-        "Russia",
-        "cyberattack"
+        "Canada",
+        "trade",
+        "Trump",
+        "tariffs"
       ]
     },
     {
-      "id": "top-colombia-planadas-bomb-20261102",
+      "id": "top-israel-election-results-stand-20261102",
       "category": "top",
-      "title": "Truck bomb near Colombia military base kills four, including baby",
-      "summary": "An explosives-laden truck detonated near a military base in Planadas, Tolima, killing four people including a two-month-old baby. It is the latest attack in Colombia's worst wave of violence in a decade.",
-      "source": "Al Arabiya (AFP)",
-      "url": "https://english.alarabiya.net/News/world/2026/11/02/bomb-attack-in-western-colombia-kills-four-governor",
-      "publishedAt": "2026-11-02T07:33:00Z",
+      "title": "Israeli officials say election results will stand despite Netanyahu's 'stolen vote' claims",
+      "summary": "Election officials said last week's Knesset vote would not be overturned even if foreign-interference claims are proven, undercutting Netanyahu's effort to delegitimize a result that left his bloc short of a majority. Israel now faces weeks of coalition uncertainty.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen",
+      "publishedAt": "2026-11-02T13:00:00Z",
       "tags": [
-        "Colombia",
-        "conflict",
-        "bombing"
+        "Israel",
+        "Netanyahu",
+        "election"
       ]
     },
     {
-      "id": "top-cyclone-murasu-india-20261102",
+      "id": "top-iran-hormuz-two-day-plan-20261102",
       "category": "top",
-      "title": "India evacuates thousands ahead of Cyclone Murasu",
-      "summary": "Authorities began evacuating people along India's eastern coast, planning to move about 30,000, before the second cyclone in a week makes landfall. The region is still recovering from Cyclone Arnab, which killed six.",
-      "source": "CNA (Reuters)",
-      "url": "https://www.channelnewsasia.com/asia/india-cyclone-murasu-evacuation-weather-6512186",
-      "publishedAt": "2026-11-02T05:16:00Z",
-      "tags": [
-        "India",
-        "cyclone",
-        "weather"
-      ]
-    },
-    {
-      "id": "tech-lg-cns-jakarta-ai-data-center-20261102",
-      "category": "tech",
-      "title": "LG CNS completes first overseas Korean-built AI data center in Jakarta",
-      "summary": "The 30-megawatt hyperscale facility, built for a Sinar Mas–Korea Investment joint venture, is the first AI data center a South Korean firm has delivered for an overseas client and can scale to 400 MW.",
-      "source": "The Korea Herald",
-      "url": "https://www.koreaherald.com/article/10922642",
-      "publishedAt": "2026-11-02T02:37:00Z",
-      "tags": [
-        "AI",
-        "data centers",
-        "LG CNS"
-      ]
-    },
-    {
-      "id": "tech-south-korea-16b-ai-budget-20261102",
-      "category": "tech",
-      "title": "South Korea pledges roughly $16B for AI in its 2027 budget",
-      "summary": "President Lee Jae Myung's record budget routes about 21.3 trillion won across AI semiconductors, physical AI and domestic AI data centers, nearly doubling 2026's allocation.",
-      "source": "The Korea Herald",
-      "url": "https://www.koreaherald.com/article/10922482",
-      "publishedAt": "2026-11-02T01:48:00Z",
-      "tags": [
-        "AI",
-        "South Korea",
-        "funding"
-      ]
-    },
-    {
-      "id": "browns-23rd-straight-pittsburgh-loss-20261102",
-      "category": "browns",
-      "title": "Browns fall 27-6 in Pittsburgh for a record-tying 23rd straight road loss",
-      "summary": "Cleveland turned the ball over on its first two drives and allowed eight sacks in a lopsided defeat that ties the NFL record for consecutive road losses against one opponent. Harold Fannin Jr.'s 154 receiving yards was one of few bright spots.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-hell-110000267.html",
+      "title": "Iran says it can reopen the Strait of Hormuz within two days if US meets demands",
+      "summary": "Tehran shortened its proposed timeline to reopen the strait and resume nuclear talks from a week to two days, conditional on Washington lifting sanctions and its naval blockade. The Qatari-mediated offer could ease an energy crisis tied to the world's most important oil chokepoint.",
+      "source": "AP",
+      "url": "https://apnews.com/article/mideast-news-november-2-2026-8722c8b5a9deb228e7a188d4760ea8ed",
       "publishedAt": "2026-11-02T11:00:00Z",
       "tags": [
+        "Iran",
+        "Strait of Hormuz",
+        "nuclear talks",
+        "oil"
+      ]
+    },
+    {
+      "id": "tech-anthropic-17b-ipo-filing-20261102",
+      "category": "tech",
+      "title": "Anthropic posts $17B quarterly revenue but keeps losing money in updated IPO filing",
+      "summary": "Anthropic's amended S-1 showed $17B in quarterly revenue (up roughly 12x year-over-year) and $895B in committed AI-computing spend, alongside a large net loss. The filing advances its blockbuster IPO while underscoring the enormous cost of frontier AI.",
+      "source": "AP",
+      "url": "https://apnews.com/article/anthropic-ipo-revenue-ai-claude-0cbd1a649a4cce904be59af8f6b30179",
+      "publishedAt": "2026-11-02T17:30:00Z",
+      "tags": [
+        "Anthropic",
+        "AI",
+        "IPO"
+      ]
+    },
+    {
+      "id": "tech-zkh-intel-linglong-ai-20261102",
+      "category": "tech",
+      "title": "ZKH and Intel launch AI model that verifies industrial parts at delivery",
+      "summary": "LingLong Insight 1.0 pairs ZKH's product database with Intel edge hardware to check industrial supplies against purchase records as they arrive. The multimodal system cuts manual inspection and runs locally to reduce cloud dependence.",
+      "source": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/intel-zkh-launch-ai-model-to-verify-industrial-supplies-ce785fd8d189f02d",
+      "publishedAt": "2026-11-02T11:30:00Z",
+      "tags": [
+        "Intel",
+        "ZKH",
+        "edge AI",
+        "supply chain"
+      ]
+    },
+    {
+      "id": "tech-gmo-cyberattack-apology-20261102",
+      "category": "tech",
+      "title": "Japanese web firm GMO apologizes after cyberattack exposed customer data",
+      "summary": "GMO Internet Group's CEO bowed in apology in Tokyo over breaches that leaked customer information and caused unauthorized transactions affecting dozens of firms. The incident adds to a recent wave of high-profile cyberattacks on Japanese tech companies.",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/japanese-tokyo-japan-english-chinese-b3077332.html",
+      "publishedAt": "2026-11-02T09:30:00Z",
+      "tags": [
+        "GMO",
+        "cyberattack",
+        "Japan",
+        "security"
+      ]
+    },
+    {
+      "id": "browns-run-defense-exposed-20261102",
+      "category": "browns",
+      "title": "Browns' run defense, exposed by the Steelers, is becoming a season-long problem",
+      "summary": "Cleveland allowed 200 rushing yards and three scores on 33 carries in Pittsburgh, its fifth game surrendering over 125 yards on the ground. With the two worst outings coming in consecutive weeks, the leaky front threatens to unravel a defense that carried the team.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/browns-defense-is-on-the-verge-of-unraveling-as-a-pervasive-problem-continues-01m6cnr93mb7",
+      "publishedAt": "2026-11-02T18:00:00Z",
+      "tags": [
         "Browns",
-        "NFL",
+        "defense",
+        "run defense",
         "Steelers"
       ]
     },
     {
-      "id": "f1-antonelli-youngest-champion-20261102",
-      "category": "f1",
-      "title": "Kimi Antonelli becomes youngest F1 champion in history at age 20",
-      "summary": "The Mercedes driver finished third in Mexico City to seal the 2026 drivers' title, breaking Sebastian Vettel's 2010 record for the youngest world champion.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
+      "id": "browns-reality-check-steelers-20261102",
+      "category": "browns",
+      "title": "Browns' loss to Pittsburgh was the reality check their five wins disguised",
+      "summary": "Cleveland's 27-6 defeat exposed problems its five late-game wins had masked, including being outscored by 52 points in first quarters this season. With the division lead at stake, the Browns also learned rival QB Lamar Jackson is headed for surgery.",
+      "source": "cleveland19 (The OBR)",
+      "url": "https://www.cleveland19.com/2026/11/02/cleveland-browns-news-rumors-11226-bump-road/",
+      "publishedAt": "2026-11-02T13:30:00Z",
+      "tags": [
+        "Browns",
+        "Steelers",
+        "AFC North"
+      ]
+    },
+    {
+      "id": "browns-run-game-stalls-20261102",
+      "category": "browns",
+      "title": "Browns' ground game stalls again, and the Steelers showed why it matters",
+      "summary": "Cleveland managed just 34 rushing yards on 15 carries (2.3 yards per attempt) in the 27-6 loss, letting Pittsburgh tee off for eight sacks. The one-dimensional offense magnified every other weakness and kept the defense on the field.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/browns-run-game-still-isn-t-good-and-steelers-showed-why-that-s-such-a-problem-01m6ck2rhm47",
       "publishedAt": "2026-11-02T10:00:00Z",
       "tags": [
-        "F1",
-        "Antonelli",
-        "Mercedes"
+        "Browns",
+        "running game",
+        "offense"
       ]
     },
     {
-      "id": "f1-grid-praise-antonelli-20261102",
+      "id": "buckeyes-backs-against-wall-usc-20261102",
+      "category": "buckeyes",
+      "title": "'Our backs are against the wall': Ohio State's postseason hopes shaken by USC loss",
+      "summary": "The 30-18 loss at USC dropped Ohio State to 6-2 and No. 11, its first November with two losses since 2011 and first time outside the top 10 in five years. A third defeat would likely end its College Football Playoff hopes, leaving little margin with four games left.",
+      "source": "The Lantern",
+      "url": "https://www.thelantern.com/2026/11/our-backs-are-against-the-wall-ohio-states-postseason-hopes-shaken-by-usc-loss/",
+      "publishedAt": "2026-11-02T16:00:00Z",
+      "tags": [
+        "Buckeyes",
+        "CFP",
+        "USC"
+      ]
+    },
+    {
+      "id": "buckeyes-oregon-preview-20261102",
+      "category": "buckeyes",
+      "title": "Ohio State opens as the test Oregon needs in a suddenly vulnerable Buckeyes team",
+      "summary": "After back-to-back losses, Ohio State (6-2) hosts Oregon on Nov. 7 in a matchup of two teams whose playoff paths have narrowed. The preview breaks down how a young Buckeyes offense led by freshman QB Luke Fahey matches up against the Ducks.",
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/football/2026/11/02/oregon-ducks-football-ohio-state-buckeyes-preview/92545952007/",
+      "publishedAt": "2026-11-02T14:30:00Z",
+      "tags": [
+        "Buckeyes",
+        "Oregon",
+        "college football"
+      ]
+    },
+    {
+      "id": "f1-leclerc-race-absence-baby-20261102",
       "category": "f1",
-      "title": "F1 grid praises new world champion Kimi Antonelli",
-      "summary": "Rival drivers reacted to Antonelli's historic title, with Carlos Sainz calling it 'completely deserved' after the Italian clinched the championship with a P3 finish in Mexico.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/hes-made-everyone-else-look-silly-the-f1-grid-praise-new-world-champion-kimi-antonelli.4wWSNrdtuPYOnmQSLB78dt",
-      "publishedAt": "2026-11-02T03:01:00Z",
+      "title": "Leclerc addresses potential F1 race absence ahead of first child's birth",
+      "summary": "The Ferrari driver opened up about possibly missing a race as he and his partner await their first child. It is a rare mid-season personal consideration for a front-running driver with implications for the team's championship chase.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-addresses-potential-f1-race-absence-ahead-of-first-childs-birth/10867519/",
+      "publishedAt": "2026-11-02T20:05:00Z",
       "tags": [
         "F1",
-        "Antonelli",
-        "championship"
+        "Leclerc",
+        "Ferrari"
       ]
     },
     {
-      "id": "local-early-voting-strong-turnout-20261102",
-      "category": "local",
-      "title": "Early voting wraps up with strong turnout ahead of Election Day",
-      "summary": "More than 93,000 Franklin County residents voted early at the county vote center this year, with long lines and waits of up to two hours on the final day Sunday. There is no early voting Monday before Tuesday's election.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.yahoo.com/news/politics/articles/early-voting-wraps-strong-turnout-050000587.html",
-      "publishedAt": "2026-11-02T05:00:00Z",
+      "id": "f1-norris-hardest-car-warning-20261102",
+      "category": "f1",
+      "title": "Norris issues blunt warning: McLaren has 'one of the hardest cars I've ever had to drive'",
+      "summary": "Lando Norris's candid assessment signals renewed concern about McLaren's competitiveness as the season winds down. The remark puts pressure on the team to fix drivability issues before the remaining rounds.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/",
+      "publishedAt": "2026-11-02T19:30:00Z",
       "tags": [
-        "Columbus",
-        "election",
-        "early voting"
+        "F1",
+        "Norris",
+        "McLaren"
       ]
     },
     {
-      "id": "local-franklin-county-early-voting-totals-20261102",
+      "id": "f1-hamilton-antonelli-champion-20261102",
+      "category": "f1",
+      "title": "Lewis Hamilton says Kimi Antonelli 'deserves to be the champion'",
+      "summary": "After Antonelli sealed the 2026 title in Mexico as F1's youngest-ever champion, Hamilton publicly backed the new world champion. The endorsement comes amid Hamilton's own frustration with teammate Leclerc after a first-lap clash cost Ferrari a likely win.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-kimi-antonelli-deserves-to-be-the-champion/10867431/",
+      "publishedAt": "2026-11-02T17:30:00Z",
+      "tags": [
+        "F1",
+        "Hamilton",
+        "Antonelli"
+      ]
+    },
+    {
+      "id": "local-vance-ohio-final-push-20261102",
       "category": "local",
-      "title": "Franklin County releases final early voting totals, Election Day reminders",
-      "summary": "A total of 93,166 voters cast in-person early ballots, while more than 12,000 mailed ballots had not yet been received as of Sunday. Officials urge voters to confirm polling locations, with 54,000 residents assigned to new precincts.",
-      "source": "10TV (WBNS)",
-      "url": "https://www.10tv.com/article/news/politics/elections/franklin-county-early-voting-totals-2026-midterm-election/530-50cc1f06-4409-4245-95c0-659c23c56cca",
-      "publishedAt": "2026-11-02T03:00:00Z",
+      "title": "VP Vance and Ohio candidates make final push as Columbus hosts closing rallies",
+      "summary": "Vice President JD Vance returned to Ohio for rallies backing Jon Husted and Vivek Ramaswamy, while Democrats Amy Acton and Sherrod Brown planned a Monday-night event in Columbus. The blitz caps a battleground-state finish to Tuesday's midterm elections.",
+      "source": "WLWT",
+      "url": "https://www.wlwt.com/article/ohio-2026-midterms-final-rallys-vance-brown-husted-ramaswamy-acton/74310624",
+      "publishedAt": "2026-11-02T13:34:00Z",
+      "tags": [
+        "Ohio",
+        "midterms",
+        "Columbus",
+        "Vance"
+      ]
+    },
+    {
+      "id": "local-indian-restaurants-boom-20261102",
+      "category": "local",
+      "title": "Indian restaurants boom across Columbus, Gahanna and Westerville",
+      "summary": "A new upscale Indian eatery replaced a former sports bar on Polaris Parkway, a Reynoldsburg Indian-Nepali spot expanded into Gahanna, and downtown Columbus quickly filled a departing restaurant's space. The openings reflect a surge in the region's Indian dining scene.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/entertainment/dining/2026/11/02/latest-columbus-restaurant-openings-and-closings/92157737007/",
+      "publishedAt": "2026-11-02T10:01:00Z",
       "tags": [
         "Columbus",
-        "election",
-        "early voting"
+        "Gahanna",
+        "dining",
+        "restaurants"
       ]
     }
   ]
