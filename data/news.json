@@ -1,241 +1,251 @@
 {
   "meta": {
-    "updatedAt": "2026-11-02T20:35:00Z",
+    "updatedAt": "2026-11-03T12:08:36Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 17
   },
   "stories": [
     {
-      "id": "top-canada-carney-trump-trade-20261102",
+      "id": "top-black-sea",
       "category": "top",
-      "title": "Canada's Carney reports progress in trade talks with Trump days before US midterms",
-      "summary": "Canadian PM Mark Carney said he and Donald Trump discussed a potential trade deal as Ottawa races to double its non-US exports. A breakthrough would ease the tariff war that has strained both economies.",
-      "source": "AP",
-      "url": "https://apnews.com/article/canada-us-trump-canada-trade-d0bfffc67ecdf22d9a5abffb2d26d848",
-      "publishedAt": "2026-11-02T14:00:00Z",
+      "title": "War widens in the Black Sea in a test of NATO red lines",
+      "summary": "Fighting is spreading across the Black Sea as the Ukraine war escalates into a direct test of NATO's red lines.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/war-widens-black-sea-test-nato-red-lines-2026-11-03/",
+      "publishedAt": "2026-11-03T11:50:00Z",
       "tags": [
-        "Canada",
-        "trade",
+        "Ukraine",
+        "Russia",
+        "NATO",
+        "Black Sea"
+      ]
+    },
+    {
+      "id": "top-intel-sharing",
+      "category": "top",
+      "title": "US intelligence sharing has fractured under Trump, officials say",
+      "summary": "US intelligence-sharing arrangements with allies have fractured under the Trump administration, officials said, eroding a key pillar of Western coordination.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/us-intelligence-sharing-has-fractured-under-trump-officials-say-2026-11-03/",
+      "publishedAt": "2026-11-03T11:44:00Z",
+      "tags": [
+        "intelligence",
+        "US",
         "Trump",
-        "tariffs"
+        "allies"
       ]
     },
     {
-      "id": "top-israel-election-results-stand-20261102",
+      "id": "top-russia-bombing",
       "category": "top",
-      "title": "Israeli officials say election results will stand despite Netanyahu's 'stolen vote' claims",
-      "summary": "Election officials said last week's Knesset vote would not be overturned even if foreign-interference claims are proven, undercutting Netanyahu's effort to delegitimize a result that left his bloc short of a majority. Israel now faces weeks of coalition uncertainty.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen",
-      "publishedAt": "2026-11-02T13:00:00Z",
+      "title": "Russian bombing kills 31 in southeastern Ukraine village",
+      "summary": "Russian bombing killed 31 people in a village in Ukraine's Zaporizhzhia region, a local official said, one of the deadliest single strikes in recent weeks.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-bombing-kills-18-southeastern-zaporizhzhia-region-2026-11-02/",
+      "publishedAt": "2026-11-03T11:24:00Z",
       "tags": [
-        "Israel",
-        "Netanyahu",
-        "election"
+        "Ukraine",
+        "Russia",
+        "war"
       ]
     },
     {
-      "id": "top-iran-hormuz-two-day-plan-20261102",
+      "id": "top-midterm-verdict",
       "category": "top",
-      "title": "Iran says it can reopen the Strait of Hormuz within two days if US meets demands",
-      "summary": "Tehran shortened its proposed timeline to reopen the strait and resume nuclear talks from a week to two days, conditional on Washington lifting sanctions and its naval blockade. The Qatari-mediated offer could ease an energy crisis tied to the world's most important oil chokepoint.",
-      "source": "AP",
-      "url": "https://apnews.com/article/mideast-news-november-2-2026-8722c8b5a9deb228e7a188d4760ea8ed",
-      "publishedAt": "2026-11-02T11:00:00Z",
+      "title": "Trump faces midterm verdict with control of Congress at stake",
+      "summary": "American voters are delivering a verdict on Trump's first two years, with Democrats favored to take the House while Senate control remains uncertain.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/",
+      "publishedAt": "2026-11-03T09:00:00Z",
       "tags": [
-        "Iran",
-        "Strait of Hormuz",
-        "nuclear talks",
-        "oil"
+        "US election",
+        "midterms",
+        "Trump",
+        "Congress"
       ]
     },
     {
-      "id": "tech-anthropic-17b-ipo-filing-20261102",
+      "id": "tech-apple-watch-ai",
       "category": "tech",
-      "title": "Anthropic posts $17B quarterly revenue but keeps losing money in updated IPO filing",
-      "summary": "Anthropic's amended S-1 showed $17B in quarterly revenue (up roughly 12x year-over-year) and $895B in committed AI-computing spend, alongside a large net loss. The filing advances its blockbuster IPO while underscoring the enormous cost of frontier AI.",
-      "source": "AP",
-      "url": "https://apnews.com/article/anthropic-ipo-revenue-ai-claude-0cbd1a649a4cce904be59af8f6b30179",
-      "publishedAt": "2026-11-02T17:30:00Z",
+      "title": "Apple begins beta testing Watch AI features for rewinding and recapping conversations",
+      "summary": "Apple has begun beta testing AI features that let the Apple Watch rewind and recap conversations, extending Apple Intelligence to the wrist.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "publishedAt": "2026-11-03T08:00:00Z",
       "tags": [
-        "Anthropic",
+        "Apple",
+        "Apple Watch",
+        "AI"
+      ]
+    },
+    {
+      "id": "tech-google-dreambeans",
+      "category": "tech",
+      "title": "Google brings Dreambeans AI storytelling to India",
+      "summary": "Google is taking Dreambeans, its AI-generated personal stories feature, to India in a bid to reach a broader audience.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "publishedAt": "2026-11-03T04:00:00Z",
+      "tags": [
+        "Google",
         "AI",
-        "IPO"
+        "India"
       ]
     },
     {
-      "id": "tech-zkh-intel-linglong-ai-20261102",
+      "id": "tech-ukraine-gadget",
       "category": "tech",
-      "title": "ZKH and Intel launch AI model that verifies industrial parts at delivery",
-      "summary": "LingLong Insight 1.0 pairs ZKH's product database with Intel edge hardware to check industrial supplies against purchase records as they arrive. The multimodal system cuts manual inspection and runs locally to reduce cloud dependence.",
-      "source": "MarketScreener",
-      "url": "https://www.marketscreener.com/news/intel-zkh-launch-ai-model-to-verify-industrial-supplies-ce785fd8d189f02d",
-      "publishedAt": "2026-11-02T11:30:00Z",
+      "title": "Ukraine's pocket-sized gadget turns Russian drones' cameras against them",
+      "summary": "Ukraine has fielded a pocket-sized device that turns Russian drones' cameras against them, adding a cheap counter-drone tool to the battlefield.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "publishedAt": "2026-11-03T02:00:00Z",
       "tags": [
-        "Intel",
-        "ZKH",
-        "edge AI",
-        "supply chain"
+        "Ukraine",
+        "drones",
+        "defense tech"
       ]
     },
     {
-      "id": "tech-gmo-cyberattack-apology-20261102",
+      "id": "tech-garry-tan-tokens",
       "category": "tech",
-      "title": "Japanese web firm GMO apologizes after cyberattack exposed customer data",
-      "summary": "GMO Internet Group's CEO bowed in apology in Tokyo over breaches that leaked customer information and caused unauthorized transactions affecting dozens of firms. The incident adds to a recent wave of high-profile cyberattacks on Japanese tech companies.",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/japanese-tokyo-japan-english-chinese-b3077332.html",
-      "publishedAt": "2026-11-02T09:30:00Z",
+      "title": "Y Combinator's Garry Tan spends up to $200K a year on AI agent tokens",
+      "summary": "Y Combinator CEO Garry Tan says he relies on AI agents so heavily that he spends up to $200,000 a year on tokens.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "publishedAt": "2026-11-03T01:00:00Z",
       "tags": [
-        "GMO",
-        "cyberattack",
-        "Japan",
-        "security"
+        "AI agents",
+        "Y Combinator",
+        "Garry Tan"
       ]
     },
     {
-      "id": "browns-run-defense-exposed-20261102",
+      "id": "browns-dawg-chow",
       "category": "browns",
-      "title": "Browns' run defense, exposed by the Steelers, is becoming a season-long problem",
-      "summary": "Cleveland allowed 200 rushing yards and three scores on 33 carries in Pittsburgh, its fifth game surrendering over 125 yards on the ground. With the two worst outings coming in consecutive weeks, the leaky front threatens to unravel a defense that carried the team.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/browns-defense-is-on-the-verge-of-unraveling-as-a-pervasive-problem-continues-01m6cnr93mb7",
-      "publishedAt": "2026-11-02T18:00:00Z",
+      "title": "Browns left to pick up the pieces after 27-6 loss in Pittsburgh",
+      "summary": "The Daily Dawg Chow weighs whether Cleveland's 27-6 loss to the Steelers will define its season, with the 5-3 Browns facing two winnable games before the bye.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-left-pick-110000918.html",
+      "publishedAt": "2026-11-03T11:00:00Z",
       "tags": [
         "Browns",
-        "defense",
-        "run defense",
+        "NFL",
         "Steelers"
       ]
     },
     {
-      "id": "browns-reality-check-steelers-20261102",
-      "category": "browns",
-      "title": "Browns' loss to Pittsburgh was the reality check their five wins disguised",
-      "summary": "Cleveland's 27-6 defeat exposed problems its five late-game wins had masked, including being outscored by 52 points in first quarters this season. With the division lead at stake, the Browns also learned rival QB Lamar Jackson is headed for surgery.",
-      "source": "cleveland19 (The OBR)",
-      "url": "https://www.cleveland19.com/2026/11/02/cleveland-browns-news-rumors-11226-bump-road/",
-      "publishedAt": "2026-11-02T13:30:00Z",
-      "tags": [
-        "Browns",
-        "Steelers",
-        "AFC North"
-      ]
-    },
-    {
-      "id": "browns-run-game-stalls-20261102",
-      "category": "browns",
-      "title": "Browns' ground game stalls again, and the Steelers showed why it matters",
-      "summary": "Cleveland managed just 34 rushing yards on 15 carries (2.3 yards per attempt) in the 27-6 loss, letting Pittsburgh tee off for eight sacks. The one-dimensional offense magnified every other weakness and kept the defense on the field.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/browns-run-game-still-isn-t-good-and-steelers-showed-why-that-s-such-a-problem-01m6ck2rhm47",
-      "publishedAt": "2026-11-02T10:00:00Z",
-      "tags": [
-        "Browns",
-        "running game",
-        "offense"
-      ]
-    },
-    {
-      "id": "buckeyes-backs-against-wall-usc-20261102",
+      "id": "buckeyes-skull-session",
       "category": "buckeyes",
-      "title": "'Our backs are against the wall': Ohio State's postseason hopes shaken by USC loss",
-      "summary": "The 30-18 loss at USC dropped Ohio State to 6-2 and No. 11, its first November with two losses since 2011 and first time outside the top 10 in five years. A third defeat would likely end its College Football Playoff hopes, leaving little margin with four games left.",
-      "source": "The Lantern",
-      "url": "https://www.thelantern.com/2026/11/our-backs-are-against-the-wall-ohio-states-postseason-hopes-shaken-by-usc-loss/",
-      "publishedAt": "2026-11-02T16:00:00Z",
+      "title": "Skull Session: Airing the USC grievances before turning to Oregon",
+      "summary": "Eleven Warriors' daily Skull Session runs through lingering frustrations from the USC loss before Ohio State shifts focus to Saturday's home game against Oregon.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165064/skull-session-the-24-hour-rule",
+      "publishedAt": "2026-11-03T10:00:00Z",
       "tags": [
-        "Buckeyes",
-        "CFP",
-        "USC"
+        "Ohio State",
+        "football",
+        "Oregon"
       ]
     },
     {
-      "id": "buckeyes-oregon-preview-20261102",
+      "id": "buckeyes-mbb-byu",
       "category": "buckeyes",
-      "title": "Ohio State opens as the test Oregon needs in a suddenly vulnerable Buckeyes team",
-      "summary": "After back-to-back losses, Ohio State (6-2) hosts Oregon on Nov. 7 in a matchup of two teams whose playoff paths have narrowed. The preview breaks down how a young Buckeyes offense led by freshman QB Luke Fahey matches up against the Ducks.",
-      "source": "The Register-Guard",
-      "url": "https://www.registerguard.com/story/sports/college/football/2026/11/02/oregon-ducks-football-ohio-state-buckeyes-preview/92545952007/",
-      "publishedAt": "2026-11-02T14:30:00Z",
+      "title": "Ohio State drops season opener to BYU, 94-83",
+      "summary": "Ohio State men's basketball opened its season with a 94-83 loss to BYU in Salt Lake City, unable to stop Robert Wright III's 33 points.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-basketball/2026/11/165076/ohio-state-drops-season-opener-to-byu-94-83-as-rob-wright-scores-33-points",
+      "publishedAt": "2026-11-03T05:00:00Z",
       "tags": [
-        "Buckeyes",
-        "Oregon",
-        "college football"
+        "Ohio State",
+        "basketball",
+        "BYU"
       ]
     },
     {
-      "id": "f1-leclerc-race-absence-baby-20261102",
+      "id": "buckeyes-wbb-uic",
+      "category": "buckeyes",
+      "title": "Ohio State women's basketball routs UIC 81-34 in opener",
+      "summary": "Four Buckeyes scored in double figures, led by Jaloni Cambridge's 22, as Ohio State women's basketball cruised past UIC in its season opener.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-womens-basketball/2026/11/165073/ohio-state-women-s-basketball-dominates-season-opener-vs-uic-81-34",
+      "publishedAt": "2026-11-03T02:00:00Z",
+      "tags": [
+        "Ohio State",
+        "women's basketball",
+        "UIC"
+      ]
+    },
+    {
+      "id": "f1-russell-reflects",
       "category": "f1",
-      "title": "Leclerc addresses potential F1 race absence ahead of first child's birth",
-      "summary": "The Ferrari driver opened up about possibly missing a race as he and his partner await their first child. It is a rare mid-season personal consideration for a front-running driver with implications for the team's championship chase.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-addresses-potential-f1-race-absence-ahead-of-first-childs-birth/10867519/",
-      "publishedAt": "2026-11-02T20:05:00Z",
+      "title": "George Russell reflects on a 2026 season with 'more bad days than good'",
+      "summary": "George Russell admitted his 2026 campaign was the first with 'more bad days than good' after Mercedes teammate Kimi Antonelli won the title, vowing to fight back in 2027.",
+      "source": "GrandPrix247",
+      "url": "https://www.grandprix247.com/formula-1-news/george-russell-reflects-on-a-2026-formula-1-season-with-more-bad-days-than-good",
+      "publishedAt": "2026-11-03T10:47:00Z",
       "tags": [
         "F1",
-        "Leclerc",
-        "Ferrari"
+        "George Russell",
+        "Mercedes"
       ]
     },
     {
-      "id": "f1-norris-hardest-car-warning-20261102",
-      "category": "f1",
-      "title": "Norris issues blunt warning: McLaren has 'one of the hardest cars I've ever had to drive'",
-      "summary": "Lando Norris's candid assessment signals renewed concern about McLaren's competitiveness as the season winds down. The remark puts pressure on the team to fix drivability issues before the remaining rounds.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/",
-      "publishedAt": "2026-11-02T19:30:00Z",
-      "tags": [
-        "F1",
-        "Norris",
-        "McLaren"
-      ]
-    },
-    {
-      "id": "f1-hamilton-antonelli-champion-20261102",
-      "category": "f1",
-      "title": "Lewis Hamilton says Kimi Antonelli 'deserves to be the champion'",
-      "summary": "After Antonelli sealed the 2026 title in Mexico as F1's youngest-ever champion, Hamilton publicly backed the new world champion. The endorsement comes amid Hamilton's own frustration with teammate Leclerc after a first-lap clash cost Ferrari a likely win.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-kimi-antonelli-deserves-to-be-the-champion/10867431/",
-      "publishedAt": "2026-11-02T17:30:00Z",
-      "tags": [
-        "F1",
-        "Hamilton",
-        "Antonelli"
-      ]
-    },
-    {
-      "id": "local-vance-ohio-final-push-20261102",
+      "id": "local-columbus-voting",
       "category": "local",
-      "title": "VP Vance and Ohio candidates make final push as Columbus hosts closing rallies",
-      "summary": "Vice President JD Vance returned to Ohio for rallies backing Jon Husted and Vivek Ramaswamy, while Democrats Amy Acton and Sherrod Brown planned a Monday-night event in Columbus. The blitz caps a battleground-state finish to Tuesday's midterm elections.",
-      "source": "WLWT",
-      "url": "https://www.wlwt.com/article/ohio-2026-midterms-final-rallys-vance-brown-husted-ramaswamy-acton/74310624",
-      "publishedAt": "2026-11-02T13:34:00Z",
+      "title": "Election Day in central Ohio: voting underway across Columbus",
+      "summary": "Election Day has arrived in central Ohio, with voters choosing a governor, a U.S. senator and local issues as polls open.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/politics/elections/2026/11/03/election-day-central-ohio-columbus-voting-live-updates--live/92443219007/",
+      "publishedAt": "2026-11-03T11:19:00Z",
+      "tags": [
+        "election",
+        "Columbus",
+        "Ohio"
+      ]
+    },
+    {
+      "id": "local-ohio-midterm",
+      "category": "local",
+      "title": "What to know about Ohio's 2026 midterm before you vote",
+      "summary": "Ohio voters will elect a new governor, a U.S. senator and decide several marquee races as the 2026 midterm gets underway.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/ohio-election-things-to-know-about-november-2026-midterm-before-you-vote/",
+      "publishedAt": "2026-11-03T11:00:00Z",
       "tags": [
         "Ohio",
-        "midterms",
-        "Columbus",
-        "Vance"
+        "election",
+        "voting"
       ]
     },
     {
-      "id": "local-indian-restaurants-boom-20261102",
+      "id": "local-governor-race",
       "category": "local",
-      "title": "Indian restaurants boom across Columbus, Gahanna and Westerville",
-      "summary": "A new upscale Indian eatery replaced a former sports bar on Polaris Parkway, a Reynoldsburg Indian-Nepali spot expanded into Gahanna, and downtown Columbus quickly filled a departing restaurant's space. The openings reflect a surge in the region's Indian dining scene.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/entertainment/dining/2026/11/02/latest-columbus-restaurant-openings-and-closings/92157737007/",
-      "publishedAt": "2026-11-02T10:01:00Z",
+      "title": "Why Ohio's governor's race matters for daily life",
+      "summary": "Democrat Amy Acton or Republican Vivek Ramaswamy will shape Ohioans' taxes, schools, healthcare costs and roads over the next four years.",
+      "source": "Ohio Capital Journal",
+      "url": "https://ohiocapitaljournal.com/2026/11/03/catching-our-eye-news-roundup-nov-3-2026/",
+      "publishedAt": "2026-11-03T11:00:00Z",
       "tags": [
-        "Columbus",
-        "Gahanna",
-        "dining",
-        "restaurants"
+        "Ohio",
+        "governor",
+        "election"
+      ]
+    },
+    {
+      "id": "local-voter-guide",
+      "category": "local",
+      "title": "Ohio 2026 voter guide: governor, U.S. Senate and Issue 3",
+      "summary": "Central Ohio residents head to the polls Nov. 3 to pick the next governor, elect a U.S. senator and decide Issue 3.",
+      "source": "10TV WBNS",
+      "url": "https://www.10tv.com/article/news/politics/elections/ohio-2026-election-voter-guide-races-ballot-polls/530-9d3272a2-5bf0-4965-a1df-d5ca63596366",
+      "publishedAt": "2026-11-03T11:00:00Z",
+      "tags": [
+        "Ohio",
+        "election",
+        "Issue 3"
       ]
     }
   ]
