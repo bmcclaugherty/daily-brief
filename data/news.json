@@ -1,12 +1,40 @@
 {
   "meta": {
-    "updatedAt": "2026-11-03T12:08:36Z",
+    "updatedAt": "2026-11-03T20:39:43Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
     "count": 17
   },
   "stories": [
+    {
+      "id": "top-infantino-afc",
+      "category": "top",
+      "title": "Gianni Infantino endorsed by Asian Football Confederation for another FIFA term",
+      "summary": "The Asian Football Confederation backed FIFA president Gianni Infantino for another term, clearing a key hurdle for his re-election.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/infantino-asia-endorsement-00ff82fbfab7535727846c016a0934dc",
+      "publishedAt": "2026-11-03T20:25:00Z",
+      "tags": [
+        "FIFA",
+        "soccer",
+        "governance"
+      ]
+    },
+    {
+      "id": "top-uganda-somalia",
+      "category": "top",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "summary": "Uganda has begun withdrawing its forces from Somalia after two decades helping battle the al-Shabab insurgency.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8zxlqxwed4do",
+      "publishedAt": "2026-11-03T15:30:00Z",
+      "tags": [
+        "Uganda",
+        "Somalia",
+        "al-Shabab"
+      ]
+    },
     {
       "id": "top-black-sea",
       "category": "top",
@@ -38,88 +66,73 @@
       ]
     },
     {
-      "id": "top-russia-bombing",
-      "category": "top",
-      "title": "Russian bombing kills 31 in southeastern Ukraine village",
-      "summary": "Russian bombing killed 31 people in a village in Ukraine's Zaporizhzhia region, a local official said, one of the deadliest single strikes in recent weeks.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-bombing-kills-18-southeastern-zaporizhzhia-region-2026-11-02/",
-      "publishedAt": "2026-11-03T11:24:00Z",
-      "tags": [
-        "Ukraine",
-        "Russia",
-        "war"
-      ]
-    },
-    {
-      "id": "top-midterm-verdict",
-      "category": "top",
-      "title": "Trump faces midterm verdict with control of Congress at stake",
-      "summary": "American voters are delivering a verdict on Trump's first two years, with Democrats favored to take the House while Senate control remains uncertain.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/",
-      "publishedAt": "2026-11-03T09:00:00Z",
-      "tags": [
-        "US election",
-        "midterms",
-        "Trump",
-        "Congress"
-      ]
-    },
-    {
-      "id": "tech-apple-watch-ai",
+      "id": "tech-binance-heist",
       "category": "tech",
-      "title": "Apple begins beta testing Watch AI features for rewinding and recapping conversations",
-      "summary": "Apple has begun beta testing AI features that let the Apple Watch rewind and recap conversations, extending Apple Intelligence to the wrist.",
+      "title": "Researchers warned of North Korean hacking years before $6.3B Binance heist",
+      "summary": "Security researchers say they flagged North Korean hacking tactics long before a record $6.3 billion theft from Binance.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "publishedAt": "2026-11-03T08:00:00Z",
+      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+      "publishedAt": "2026-11-03T20:27:00Z",
       "tags": [
-        "Apple",
-        "Apple Watch",
-        "AI"
+        "crypto",
+        "security",
+        "North Korea"
       ]
     },
     {
-      "id": "tech-google-dreambeans",
+      "id": "tech-fal-16b",
       "category": "tech",
-      "title": "Google brings Dreambeans AI storytelling to India",
-      "summary": "Google is taking Dreambeans, its AI-generated personal stories feature, to India in a bid to reach a broader audience.",
+      "title": "AI inference startup Fal doubles valuation to $16B",
+      "summary": "AI inference startup Fal doubled its valuation to $16 billion as demand for its computing infrastructure surges.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "publishedAt": "2026-11-03T04:00:00Z",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "publishedAt": "2026-11-03T20:16:00Z",
       "tags": [
-        "Google",
         "AI",
-        "India"
+        "startup",
+        "funding"
       ]
     },
     {
-      "id": "tech-ukraine-gadget",
+      "id": "tech-crowdstrike-ai",
       "category": "tech",
-      "title": "Ukraine's pocket-sized gadget turns Russian drones' cameras against them",
-      "summary": "Ukraine has fielded a pocket-sized device that turns Russian drones' cameras against them, adding a cheap counter-drone tool to the battlefield.",
+      "title": "CrowdStrike to spend nearly $500M on two AI security startups",
+      "summary": "CrowdStrike is paying close to $500 million for two AI security startups as the market for securing AI agents takes off.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "publishedAt": "2026-11-03T02:00:00Z",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "publishedAt": "2026-11-03T18:30:00Z",
       "tags": [
-        "Ukraine",
-        "drones",
-        "defense tech"
+        "CrowdStrike",
+        "AI security",
+        "acquisition"
       ]
     },
     {
-      "id": "tech-garry-tan-tokens",
+      "id": "tech-elder-scrolls-sentinel",
       "category": "tech",
-      "title": "Y Combinator's Garry Tan spends up to $200K a year on AI agent tokens",
-      "summary": "Y Combinator CEO Garry Tan says he relies on AI agents so heavily that he spends up to $200,000 a year on tokens.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "publishedAt": "2026-11-03T01:00:00Z",
+      "title": "The Elder Scrolls VI officially named 'Sentinel'",
+      "summary": "Bethesda revealed that The Elder Scrolls VI will officially be called Sentinel.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
+      "publishedAt": "2026-11-03T15:07:00Z",
       "tags": [
-        "AI agents",
-        "Y Combinator",
-        "Garry Tan"
+        "gaming",
+        "Bethesda",
+        "Elder Scrolls"
+      ]
+    },
+    {
+      "id": "browns-herbert-trade",
+      "category": "browns",
+      "title": "Analyst floats Browns blockbuster trade for Justin Herbert",
+      "summary": "ESPN analyst Benjamin Solak floated a hypothetical Browns trade for Chargers quarterback Justin Herbert ahead of the NFL trade deadline.",
+      "source": "247Sports",
+      "url": "https://247sports.com/nfl/cleveland-browns/article/should-browns-make-blockbuster-trade-for-justin-herbert-292147555/",
+      "publishedAt": "2026-11-03T17:00:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "trade rumors"
       ]
     },
     {
@@ -137,6 +150,20 @@
       ]
     },
     {
+      "id": "buckeyes-northwestern-kickoff",
+      "category": "buckeyes",
+      "title": "Ohio State-Northwestern set for noon kickoff on Nov. 14",
+      "summary": "Ohio State's home game against Northwestern on Nov. 14 will kick off at noon, the teams' first Columbus meeting in a decade.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/sports/buckeyes/when-ohio-state-plays-northwestern-kickoff-time-announced-for-nov-14-2026-game/",
+      "publishedAt": "2026-11-03T18:30:00Z",
+      "tags": [
+        "Ohio State",
+        "football",
+        "Big Ten"
+      ]
+    },
+    {
       "id": "buckeyes-skull-session",
       "category": "buckeyes",
       "title": "Skull Session: Airing the USC grievances before turning to Oregon",
@@ -151,34 +178,6 @@
       ]
     },
     {
-      "id": "buckeyes-mbb-byu",
-      "category": "buckeyes",
-      "title": "Ohio State drops season opener to BYU, 94-83",
-      "summary": "Ohio State men's basketball opened its season with a 94-83 loss to BYU in Salt Lake City, unable to stop Robert Wright III's 33 points.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-basketball/2026/11/165076/ohio-state-drops-season-opener-to-byu-94-83-as-rob-wright-scores-33-points",
-      "publishedAt": "2026-11-03T05:00:00Z",
-      "tags": [
-        "Ohio State",
-        "basketball",
-        "BYU"
-      ]
-    },
-    {
-      "id": "buckeyes-wbb-uic",
-      "category": "buckeyes",
-      "title": "Ohio State women's basketball routs UIC 81-34 in opener",
-      "summary": "Four Buckeyes scored in double figures, led by Jaloni Cambridge's 22, as Ohio State women's basketball cruised past UIC in its season opener.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-womens-basketball/2026/11/165073/ohio-state-women-s-basketball-dominates-season-opener-vs-uic-81-34",
-      "publishedAt": "2026-11-03T02:00:00Z",
-      "tags": [
-        "Ohio State",
-        "women's basketball",
-        "UIC"
-      ]
-    },
-    {
       "id": "f1-russell-reflects",
       "category": "f1",
       "title": "George Russell reflects on a 2026 season with 'more bad days than good'",
@@ -190,6 +189,34 @@
         "F1",
         "George Russell",
         "Mercedes"
+      ]
+    },
+    {
+      "id": "local-flock-cameras",
+      "category": "local",
+      "title": "Central Ohio cities debate Flock license-plate camera usage",
+      "summary": "Central Ohio cities are debating their use of Flock automated license-plate cameras.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
+      "publishedAt": "2026-11-03T15:30:00Z",
+      "tags": [
+        "Columbus",
+        "surveillance",
+        "policing"
+      ]
+    },
+    {
+      "id": "local-south-side-shooting",
+      "category": "local",
+      "title": "One killed in Columbus South Side shooting",
+      "summary": "Columbus police are investigating a fatal shooting on the city's South Side after a person was found dead in an alley.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
+      "publishedAt": "2026-11-03T11:30:00Z",
+      "tags": [
+        "Columbus",
+        "crime",
+        "shooting"
       ]
     },
     {
@@ -218,34 +245,6 @@
         "Ohio",
         "election",
         "voting"
-      ]
-    },
-    {
-      "id": "local-governor-race",
-      "category": "local",
-      "title": "Why Ohio's governor's race matters for daily life",
-      "summary": "Democrat Amy Acton or Republican Vivek Ramaswamy will shape Ohioans' taxes, schools, healthcare costs and roads over the next four years.",
-      "source": "Ohio Capital Journal",
-      "url": "https://ohiocapitaljournal.com/2026/11/03/catching-our-eye-news-roundup-nov-3-2026/",
-      "publishedAt": "2026-11-03T11:00:00Z",
-      "tags": [
-        "Ohio",
-        "governor",
-        "election"
-      ]
-    },
-    {
-      "id": "local-voter-guide",
-      "category": "local",
-      "title": "Ohio 2026 voter guide: governor, U.S. Senate and Issue 3",
-      "summary": "Central Ohio residents head to the polls Nov. 3 to pick the next governor, elect a U.S. senator and decide Issue 3.",
-      "source": "10TV WBNS",
-      "url": "https://www.10tv.com/article/news/politics/elections/ohio-2026-election-voter-guide-races-ballot-polls/530-9d3272a2-5bf0-4965-a1df-d5ca63596366",
-      "publishedAt": "2026-11-03T11:00:00Z",
-      "tags": [
-        "Ohio",
-        "election",
-        "Issue 3"
       ]
     }
   ]
