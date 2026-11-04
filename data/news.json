@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-04T12:05:00Z",
+    "updatedAt": "2026-11-04T20:36:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
@@ -8,144 +8,144 @@
   },
   "stories": [
     {
-      "id": "top-2026-11-04-iran-europe",
+      "id": "top-kyiv-power-water",
       "category": "top",
-      "title": "Iran MP says Tehran's missiles will strike Europe if US uses its bases",
-      "summary": "An Iranian MP told Euronews that Tehran's missiles would hit any European base used against it, as state media warned any renewed confrontation with the US could reach \"the heart of Europe.\"",
-      "source": "Euronews",
-      "url": "https://www.msn.com/en-gb/news/other/iranian-mp-tells-euronews-tehran-s-missiles-will-strike-europe-if-us-uses-its-bases-there/ar-AA2gJgD3",
-      "publishedAt": "2026-11-04T11:03:00Z",
-      "tags": ["iran", "europe", "geopolitics"]
+      "title": "Russian strikes cut power and water across Kyiv",
+      "summary": "Russian drone and missile attacks triggered hours-long power and water outages across Kyiv, while the death toll in a bombed village in southern Ukraine rose to 40. Ukraine said Russia launched 310 drones overnight.",
+      "source": "AP",
+      "url": "https://apnews.com/article/ukraine-russia-war-kyiv-airstrike-water-37dc5e85a5c8c135996bc2720e0674d9",
+      "publishedAt": "2026-11-04T17:15:00Z",
+      "tags": ["Ukraine", "Russia", "Kyiv", "war"]
     },
     {
-      "id": "top-2026-11-04-eurozone-inflation",
+      "id": "top-democrats-congress",
       "category": "top",
-      "title": "Euro zone inflation hits 4%, a three-year high, as energy costs surge",
-      "summary": "Euro zone inflation climbed to 4% in October, its highest level in three years, with energy inflation near 21% complicating the European Central Bank's path on interest rates.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-      "publishedAt": "2026-11-04T11:00:00Z",
-      "tags": ["eurozone", "inflation", "economy"]
+      "title": "Democrats take control of US Congress in midterm sweep",
+      "summary": "Democrats won both the House and Senate in Tuesday's midterms, seizing control of Congress for the rest of Donald Trump's term. The result reflected deep voter anger over living costs, tariffs and the Iran war.",
+      "source": "AP via Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/democrats-win-control-us-congress-092907297.html",
+      "publishedAt": "2026-11-04T09:29:00Z",
+      "tags": ["politics", "midterms", "Congress", "election"]
     },
     {
-      "id": "top-2026-11-04-democrats-congress",
-      "category": "top",
-      "title": "Democrats win control of both houses of Congress in midterm rout",
-      "summary": "Democrats captured the Senate and House as voters delivered a blistering rebuke to President Trump, giving the party power to challenge his agenda through subpoenas, confirmation votes and legislation.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats",
-      "publishedAt": "2026-11-04T09:30:00Z",
-      "tags": ["midterms", "congress", "us-politics"]
-    },
-    {
-      "id": "top-2026-11-04-ukraine-strike",
-      "category": "top",
-      "title": "Russia strike on Ukraine aid centre kills 33, more than 50 still trapped",
-      "summary": "At least 33 people were killed and dozens remain buried after Russian glide bombs hit a school used as a humanitarian aid centre in Zaporizhzhia, an attack Zelensky called one of the war's largest mass killings.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c65ynez5y599o",
-      "publishedAt": "2026-11-04T07:00:00Z",
-      "tags": ["ukraine", "russia", "war"]
-    },
-    {
-      "id": "tech-2026-11-04-apple-china-ai",
+      "id": "tech-meta-euro-bond",
       "category": "tech",
-      "title": "Apple begins Apple Intelligence trial in China, powered by Alibaba's Qwen",
-      "summary": "Apple started a long-delayed developer trial of its AI tools for Chinese users, relying on Alibaba's Qwen model to comply with local rules nearly two years after the features launched in the US.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/04/apple-begins-ai-trial-in-china-powered-by-alibaba",
-      "publishedAt": "2026-11-04T10:48:00Z",
-      "tags": ["apple", "alibaba", "ai", "china"]
+      "title": "Meta draws record €53B in orders for debut euro bond sale",
+      "summary": "Meta received a record €53 billion in investor orders for its first euro-denominated bond sale as it funds AI infrastructure. The offering follows a $15 billion US-dollar deal and targets AI models and services.",
+      "source": "Reuters",
+      "url": "https://live.euronext.com/en/financial-news/meta-draws-record-orders-debut-euro-bond-sale-bloomberg-news-reports",
+      "publishedAt": "2026-11-04T16:00:00Z",
+      "tags": ["Meta", "AI", "funding", "bonds"]
     },
     {
-      "id": "tech-2026-11-04-chatgpt-search",
+      "id": "tech-tencent-hy4",
       "category": "tech",
-      "title": "OpenAI says ChatGPT search volume is about 20% of Google's",
-      "summary": "OpenAI says search-like queries through ChatGPT now run at roughly a fifth of Google's volume, with 1.2 billion weekly active users, as the chatbot keeps eroding Google's search dominance.",
-      "source": "MacObserver",
-      "url": "https://www.macobserver.com/news/openai-claims-chatgpt-handles-20-percent-of-google-search-volume/",
-      "publishedAt": "2026-11-04T00:30:00Z",
-      "tags": ["openai", "google", "chatgpt"]
+      "title": "Tencent launches Hy4 model with vision and computer use",
+      "summary": "Tencent released Hy4, a 770-billion-parameter model that adds visual understanding and computer-use skills to its flagship AI. Weights and a system card are set to be released soon.",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/11/04/tencent-launches-hy4-with-vision-and-computer-use-capabilities/",
+      "publishedAt": "2026-11-04T09:15:40Z",
+      "tags": ["Tencent", "AI", "LLM", "computer-use"]
     },
     {
-      "id": "browns-2026-11-04-dawg-chow",
+      "id": "browns-sanders-first-team",
       "category": "browns",
-      "title": "Browns news roundup: Cleveland heads to New Orleans at 5-3",
-      "summary": "Cleveland's Nov. 4 daily roundup recaps the Browns' week as the 5-3 team prepares for Sunday's road game against the Saints, looking to rebound from a 27-6 loss at Pittsburgh.",
-      "source": "SB Nation / Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-having-good-110000063.html",
-      "publishedAt": "2026-11-04T11:00:00Z",
-      "tags": ["browns", "nfl", "saints"]
+      "title": "Shedeur Sanders takes first-team reps for Browns",
+      "summary": "With Deshaun Watson sidelined, coach Todd Monken said Shedeur Sanders will take first-team practice reps. Sanders could make his first start of 2026 in Sunday's game against the Saints.",
+      "source": "Athlon Sports",
+      "url": "https://athlonsports.com/nfl/trending/browns-todd-monken-announces-shedeur-sanders-decision-after-unfortunate-news",
+      "publishedAt": "2026-11-04T19:30:00Z",
+      "tags": ["Browns", "NFL", "Shedeur Sanders", "QB"]
     },
     {
-      "id": "buckeyes-2026-11-04-evaluation",
+      "id": "browns-watson-concussion",
+      "category": "browns",
+      "title": "Browns place Deshaun Watson in concussion protocol",
+      "summary": "Cleveland placed starting QB Deshaun Watson in the NFL's concussion protocol after he reported symptoms following a hit in Sunday's loss to Pittsburgh. His status for the Saints game is unclear.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50378819/browns-qb-watson-concussion-protocol-status-vs-saints-unclear",
+      "publishedAt": "2026-11-04T14:46:20Z",
+      "tags": ["Browns", "NFL", "Deshaun Watson", "concussion"]
+    },
+    {
+      "id": "buckeyes-oregon-playoff",
       "category": "buckeyes",
-      "title": "Ryan Day says everything is up for evaluation after Ohio State's 2nd loss",
-      "summary": "Day said \"we're not allowed to lose games\" after the 30-18 defeat at USC dropped the 6-2 Buckeyes from No. 2 to No. 11, with Oregon visiting Ohio Stadium on Saturday.",
-      "source": "The Vindicator",
-      "url": "https://www.vindy.com/sports/2026/11/everything-up-for-evaluation-after-ohio-states-2nd-loss/",
-      "publishedAt": "2026-11-04T05:30:00Z",
-      "tags": ["ohio-state", "ryan-day", "football"]
+      "title": "Ohio State and Oregon meet with playoff hopes on the line",
+      "summary": "No. 12 Ohio State hosts No. 23 Oregon with both teams fighting to stay alive in the College Football Playoff race. Backup QBs Luke Fahey and Dylan Raiola start after injuries to Julian Sayin and Dante Moore.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/ohio-state-oregon-clash-with-playoff-hopes-on-the-line/",
+      "publishedAt": "2026-11-04T17:36:00Z",
+      "tags": ["Ohio State", "college football", "CFP", "Oregon"]
     },
     {
-      "id": "buckeyes-2026-11-04-smith-sayin",
+      "id": "buckeyes-meyer-panic",
       "category": "buckeyes",
-      "title": "Day backs Jeremiah Smith's frustration as receiver adjusts to life without Sayin",
-      "summary": "Day defended star receiver Jeremiah Smith's visible frustration in the USC loss, calling him \"the ultimate competitor\" as Smith adjusts to playing without injured quarterback Julian Sayin.",
-      "source": "LimaOhio",
-      "url": "https://www.limaohio.com/top-stories/2026/11/04/smith-adjusting-to-sayins-absence/",
-      "publishedAt": "2026-11-04T05:00:00Z",
-      "tags": ["ohio-state", "football", "jeremiah-smith"]
+      "title": "Urban Meyer: 'It's time to panic' after Ohio State's USC loss",
+      "summary": "Former coach Urban Meyer said the Buckeyes should be alarmed after their second loss of the season, a 30-18 defeat at USC. Ohio State now needs to win out to reach the playoff.",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/11/04/urban-meyer-ohio-state-usc-buckeyes-football/92609565007/",
+      "publishedAt": "2026-11-04T15:49:00Z",
+      "tags": ["Ohio State", "Urban Meyer", "CFP", "football"]
     },
     {
-      "id": "f1-2026-11-04-ocon",
+      "id": "buckeyes-cfp-12",
+      "category": "buckeyes",
+      "title": "Buckeyes sit outside CFP field after first rankings",
+      "summary": "Ohio State landed at No. 12 in the first College Football Playoff rankings, just outside the 12-team field, after its loss to USC. Ryan Day is regrouping ahead of Saturday's Oregon game.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-news/125368/buckeyes-on-outside-of-cfp-field-day-trying-to-regroup-after-usc-loss",
+      "publishedAt": "2026-11-04T13:01:00Z",
+      "tags": ["Ohio State", "CFP", "rankings", "football"]
+    },
+    {
+      "id": "f1-brazil-five-things",
       "category": "f1",
-      "title": "Esteban Ocon's F1 career may be ending after abrupt Haas exit",
-      "summary": "Ocon's sudden departure from Haas, with reserve Rafael Camara set to make his F1 debut in Brazil, increasingly looks like the end of the Frenchman's decade-long Formula 1 career.",
+      "title": "Five things to watch at the F1 São Paulo Grand Prix",
+      "summary": "Mercedes can clinch the 2026 constructors' title at Interlagos, where it needs to outscore Ferrari to wrap up its ninth championship. Kimi Antonelli returns as F1's youngest-ever world champion.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/esteban-ocons-f1-career-may-be-ending-but-his-story-is-one-of-success/10871440/",
-      "publishedAt": "2026-11-04T11:00:00Z",
-      "tags": ["f1", "haas", "ocon"]
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1-brazil-gp/10871528/",
+      "publishedAt": "2026-11-04T16:27:00Z",
+      "tags": ["F1", "Brazil GP", "Mercedes", "championship"]
     },
     {
-      "id": "f1-2026-11-04-russell",
+      "id": "f1-verstappen-engine",
       "category": "f1",
-      "title": "Mercedes admits it 'let him down' over Russell's Mexico GP battery failure",
-      "summary": "A battery deployment failure on the run to Turn 1 wrecked George Russell's Mexico City Grand Prix, and Mercedes took the blame after he salvaged a sixth-place finish.",
+      "title": "Verstappen wants 'a conversation' with Red Bull engine over braking",
+      "summary": "Max Verstappen said his Red Bull Ford power unit's engine braking behaves inconsistently and 'randomly.' He wants improvements after complaints in Austin and Mexico.",
       "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/we-let-him-down-mercedes-takes-blame-for-george-russells-mexico-gp-heartbreak/10871299/",
-      "publishedAt": "2026-11-04T10:30:00Z",
-      "tags": ["f1", "mercedes", "russell"]
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-needs-a-conversation-with-red-bull-engine-after-random-engine-braking-issues/10871469/",
+      "publishedAt": "2026-11-04T13:46:52Z",
+      "tags": ["F1", "Red Bull", "Verstappen", "engine"]
     },
     {
-      "id": "local-2026-11-04-columbus-issues",
+      "id": "local-milo-grogan-shooting",
       "category": "local",
-      "title": "Both Columbus Issue 8 and Issue 9 pass, paving way for council shake-up",
-      "summary": "Columbus voters approved both Issue 8 and Issue 9 on Tuesday, results that clear the way for a major shake-up of Columbus City Council.",
+      "title": "One dead, one injured in Columbus' Milo-Grogan shooting",
+      "summary": "A shooting in the Milo-Grogan neighborhood left one person dead and another injured. Columbus police responded to the 800 block of Gibbard Avenue on Wednesday morning.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/crime/2026/11/04/one-dead-one-injured-shooting-columbus-milo-grogan-neighborhood/92608272007/",
+      "publishedAt": "2026-11-04T14:41:00Z",
+      "tags": ["Columbus", "crime", "shooting"]
+    },
+    {
+      "id": "local-issues-8-9",
+      "category": "local",
+      "title": "Columbus voters approve Issues 8 and 9 to overhaul City Council",
+      "summary": "Voters passed both charter amendments changing how City Council members are elected, moving to district-only races and adding four at-large seats. Issue 8 passed with about 82% support, Issue 9 with 57%.",
       "source": "NBC4",
       "url": "https://www.nbc4i.com/news/your-local-election-hq/columbus-city-council-issues-8-and-9-live-results/",
-      "publishedAt": "2026-11-04T06:30:00Z",
-      "tags": ["columbus", "city-council", "election"]
+      "publishedAt": "2026-11-04T12:02:00Z",
+      "tags": ["Columbus", "election", "city council", "Issues 8 & 9"]
     },
     {
-      "id": "local-2026-11-04-brown-senate",
+      "id": "local-acton-governor",
       "category": "local",
-      "title": "Sherrod Brown wins Ohio U.S. Senate race, defeating Jon Husted",
-      "summary": "Democrat Sherrod Brown defeated Jon Husted to win Ohio's U.S. Senate seat, returning to Washington as part of a decisive blue wave across the state.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/politics/elections/ohio-election-results-senate-jon-husted-sherrod-brown-midterm-elections/530-4db69d72-cb08-4d20-a593-bdd199ea663d",
-      "publishedAt": "2026-11-04T06:00:00Z",
-      "tags": ["ohio", "senate", "election"]
-    },
-    {
-      "id": "local-2026-11-04-acton-governor",
-      "category": "local",
-      "title": "Amy Acton elected Ohio governor, first woman and first Democrat in 16 years",
-      "summary": "Amy Acton defeated Vivek Ramaswamy to become Ohio's first woman elected governor and the first Democrat to win the office in 16 years.",
-      "source": "Cleveland.com",
-      "url": "https://www.cleveland.com/open/2026/11/amy-acton-elected-ohio-governor.html",
-      "publishedAt": "2026-11-04T05:00:00Z",
-      "tags": ["ohio", "governor", "election"]
+      "title": "Amy Acton elected Ohio's first woman governor",
+      "summary": "Democrat Amy Acton defeated Vivek Ramaswamy to become Ohio's first woman governor and the first Democrat to win the office in 20 years. A blue wave and affordability concerns helped propel her victory.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/politics/2026/11/04/amy-acton-wins-ohio-governor/92117319007/",
+      "publishedAt": "2026-11-04T09:12:00Z",
+      "tags": ["Ohio", "election", "governor", "Amy Acton"]
     }
   ]
 }
