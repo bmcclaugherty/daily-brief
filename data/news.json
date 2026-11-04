@@ -1,251 +1,151 @@
 {
   "meta": {
-    "updatedAt": "2026-11-03T20:39:43Z",
+    "updatedAt": "2026-11-04T12:05:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 17
+    "count": 14
   },
   "stories": [
     {
-      "id": "top-infantino-afc",
+      "id": "top-2026-11-04-iran-europe",
       "category": "top",
-      "title": "Gianni Infantino endorsed by Asian Football Confederation for another FIFA term",
-      "summary": "The Asian Football Confederation backed FIFA president Gianni Infantino for another term, clearing a key hurdle for his re-election.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/infantino-asia-endorsement-00ff82fbfab7535727846c016a0934dc",
-      "publishedAt": "2026-11-03T20:25:00Z",
-      "tags": [
-        "FIFA",
-        "soccer",
-        "governance"
-      ]
+      "title": "Iran MP says Tehran's missiles will strike Europe if US uses its bases",
+      "summary": "An Iranian MP told Euronews that Tehran's missiles would hit any European base used against it, as state media warned any renewed confrontation with the US could reach \"the heart of Europe.\"",
+      "source": "Euronews",
+      "url": "https://www.msn.com/en-gb/news/other/iranian-mp-tells-euronews-tehran-s-missiles-will-strike-europe-if-us-uses-its-bases-there/ar-AA2gJgD3",
+      "publishedAt": "2026-11-04T11:03:00Z",
+      "tags": ["iran", "europe", "geopolitics"]
     },
     {
-      "id": "top-uganda-somalia",
+      "id": "top-2026-11-04-eurozone-inflation",
       "category": "top",
-      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-      "summary": "Uganda has begun withdrawing its forces from Somalia after two decades helping battle the al-Shabab insurgency.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8zxlqxwed4do",
-      "publishedAt": "2026-11-03T15:30:00Z",
-      "tags": [
-        "Uganda",
-        "Somalia",
-        "al-Shabab"
-      ]
+      "title": "Euro zone inflation hits 4%, a three-year high, as energy costs surge",
+      "summary": "Euro zone inflation climbed to 4% in October, its highest level in three years, with energy inflation near 21% complicating the European Central Bank's path on interest rates.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+      "publishedAt": "2026-11-04T11:00:00Z",
+      "tags": ["eurozone", "inflation", "economy"]
     },
     {
-      "id": "top-black-sea",
+      "id": "top-2026-11-04-democrats-congress",
       "category": "top",
-      "title": "War widens in the Black Sea in a test of NATO red lines",
-      "summary": "Fighting is spreading across the Black Sea as the Ukraine war escalates into a direct test of NATO's red lines.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/war-widens-black-sea-test-nato-red-lines-2026-11-03/",
-      "publishedAt": "2026-11-03T11:50:00Z",
-      "tags": [
-        "Ukraine",
-        "Russia",
-        "NATO",
-        "Black Sea"
-      ]
+      "title": "Democrats win control of both houses of Congress in midterm rout",
+      "summary": "Democrats captured the Senate and House as voters delivered a blistering rebuke to President Trump, giving the party power to challenge his agenda through subpoenas, confirmation votes and legislation.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats",
+      "publishedAt": "2026-11-04T09:30:00Z",
+      "tags": ["midterms", "congress", "us-politics"]
     },
     {
-      "id": "top-intel-sharing",
+      "id": "top-2026-11-04-ukraine-strike",
       "category": "top",
-      "title": "US intelligence sharing has fractured under Trump, officials say",
-      "summary": "US intelligence-sharing arrangements with allies have fractured under the Trump administration, officials said, eroding a key pillar of Western coordination.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/us-intelligence-sharing-has-fractured-under-trump-officials-say-2026-11-03/",
-      "publishedAt": "2026-11-03T11:44:00Z",
-      "tags": [
-        "intelligence",
-        "US",
-        "Trump",
-        "allies"
-      ]
+      "title": "Russia strike on Ukraine aid centre kills 33, more than 50 still trapped",
+      "summary": "At least 33 people were killed and dozens remain buried after Russian glide bombs hit a school used as a humanitarian aid centre in Zaporizhzhia, an attack Zelensky called one of the war's largest mass killings.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c65ynez5y599o",
+      "publishedAt": "2026-11-04T07:00:00Z",
+      "tags": ["ukraine", "russia", "war"]
     },
     {
-      "id": "tech-binance-heist",
+      "id": "tech-2026-11-04-apple-china-ai",
       "category": "tech",
-      "title": "Researchers warned of North Korean hacking years before $6.3B Binance heist",
-      "summary": "Security researchers say they flagged North Korean hacking tactics long before a record $6.3 billion theft from Binance.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "publishedAt": "2026-11-03T20:27:00Z",
-      "tags": [
-        "crypto",
-        "security",
-        "North Korea"
-      ]
+      "title": "Apple begins Apple Intelligence trial in China, powered by Alibaba's Qwen",
+      "summary": "Apple started a long-delayed developer trial of its AI tools for Chinese users, relying on Alibaba's Qwen model to comply with local rules nearly two years after the features launched in the US.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/04/apple-begins-ai-trial-in-china-powered-by-alibaba",
+      "publishedAt": "2026-11-04T10:48:00Z",
+      "tags": ["apple", "alibaba", "ai", "china"]
     },
     {
-      "id": "tech-fal-16b",
+      "id": "tech-2026-11-04-chatgpt-search",
       "category": "tech",
-      "title": "AI inference startup Fal doubles valuation to $16B",
-      "summary": "AI inference startup Fal doubled its valuation to $16 billion as demand for its computing infrastructure surges.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "publishedAt": "2026-11-03T20:16:00Z",
-      "tags": [
-        "AI",
-        "startup",
-        "funding"
-      ]
+      "title": "OpenAI says ChatGPT search volume is about 20% of Google's",
+      "summary": "OpenAI says search-like queries through ChatGPT now run at roughly a fifth of Google's volume, with 1.2 billion weekly active users, as the chatbot keeps eroding Google's search dominance.",
+      "source": "MacObserver",
+      "url": "https://www.macobserver.com/news/openai-claims-chatgpt-handles-20-percent-of-google-search-volume/",
+      "publishedAt": "2026-11-04T00:30:00Z",
+      "tags": ["openai", "google", "chatgpt"]
     },
     {
-      "id": "tech-crowdstrike-ai",
-      "category": "tech",
-      "title": "CrowdStrike to spend nearly $500M on two AI security startups",
-      "summary": "CrowdStrike is paying close to $500 million for two AI security startups as the market for securing AI agents takes off.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "publishedAt": "2026-11-03T18:30:00Z",
-      "tags": [
-        "CrowdStrike",
-        "AI security",
-        "acquisition"
-      ]
-    },
-    {
-      "id": "tech-elder-scrolls-sentinel",
-      "category": "tech",
-      "title": "The Elder Scrolls VI officially named 'Sentinel'",
-      "summary": "Bethesda revealed that The Elder Scrolls VI will officially be called Sentinel.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
-      "publishedAt": "2026-11-03T15:07:00Z",
-      "tags": [
-        "gaming",
-        "Bethesda",
-        "Elder Scrolls"
-      ]
-    },
-    {
-      "id": "browns-herbert-trade",
+      "id": "browns-2026-11-04-dawg-chow",
       "category": "browns",
-      "title": "Analyst floats Browns blockbuster trade for Justin Herbert",
-      "summary": "ESPN analyst Benjamin Solak floated a hypothetical Browns trade for Chargers quarterback Justin Herbert ahead of the NFL trade deadline.",
-      "source": "247Sports",
-      "url": "https://247sports.com/nfl/cleveland-browns/article/should-browns-make-blockbuster-trade-for-justin-herbert-292147555/",
-      "publishedAt": "2026-11-03T17:00:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "trade rumors"
-      ]
+      "title": "Browns news roundup: Cleveland heads to New Orleans at 5-3",
+      "summary": "Cleveland's Nov. 4 daily roundup recaps the Browns' week as the 5-3 team prepares for Sunday's road game against the Saints, looking to rebound from a 27-6 loss at Pittsburgh.",
+      "source": "SB Nation / Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-having-good-110000063.html",
+      "publishedAt": "2026-11-04T11:00:00Z",
+      "tags": ["browns", "nfl", "saints"]
     },
     {
-      "id": "browns-dawg-chow",
-      "category": "browns",
-      "title": "Browns left to pick up the pieces after 27-6 loss in Pittsburgh",
-      "summary": "The Daily Dawg Chow weighs whether Cleveland's 27-6 loss to the Steelers will define its season, with the 5-3 Browns facing two winnable games before the bye.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-left-pick-110000918.html",
-      "publishedAt": "2026-11-03T11:00:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "Steelers"
-      ]
-    },
-    {
-      "id": "buckeyes-northwestern-kickoff",
+      "id": "buckeyes-2026-11-04-evaluation",
       "category": "buckeyes",
-      "title": "Ohio State-Northwestern set for noon kickoff on Nov. 14",
-      "summary": "Ohio State's home game against Northwestern on Nov. 14 will kick off at noon, the teams' first Columbus meeting in a decade.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/sports/buckeyes/when-ohio-state-plays-northwestern-kickoff-time-announced-for-nov-14-2026-game/",
-      "publishedAt": "2026-11-03T18:30:00Z",
-      "tags": [
-        "Ohio State",
-        "football",
-        "Big Ten"
-      ]
+      "title": "Ryan Day says everything is up for evaluation after Ohio State's 2nd loss",
+      "summary": "Day said \"we're not allowed to lose games\" after the 30-18 defeat at USC dropped the 6-2 Buckeyes from No. 2 to No. 11, with Oregon visiting Ohio Stadium on Saturday.",
+      "source": "The Vindicator",
+      "url": "https://www.vindy.com/sports/2026/11/everything-up-for-evaluation-after-ohio-states-2nd-loss/",
+      "publishedAt": "2026-11-04T05:30:00Z",
+      "tags": ["ohio-state", "ryan-day", "football"]
     },
     {
-      "id": "buckeyes-skull-session",
+      "id": "buckeyes-2026-11-04-smith-sayin",
       "category": "buckeyes",
-      "title": "Skull Session: Airing the USC grievances before turning to Oregon",
-      "summary": "Eleven Warriors' daily Skull Session runs through lingering frustrations from the USC loss before Ohio State shifts focus to Saturday's home game against Oregon.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165064/skull-session-the-24-hour-rule",
-      "publishedAt": "2026-11-03T10:00:00Z",
-      "tags": [
-        "Ohio State",
-        "football",
-        "Oregon"
-      ]
+      "title": "Day backs Jeremiah Smith's frustration as receiver adjusts to life without Sayin",
+      "summary": "Day defended star receiver Jeremiah Smith's visible frustration in the USC loss, calling him \"the ultimate competitor\" as Smith adjusts to playing without injured quarterback Julian Sayin.",
+      "source": "LimaOhio",
+      "url": "https://www.limaohio.com/top-stories/2026/11/04/smith-adjusting-to-sayins-absence/",
+      "publishedAt": "2026-11-04T05:00:00Z",
+      "tags": ["ohio-state", "football", "jeremiah-smith"]
     },
     {
-      "id": "f1-russell-reflects",
+      "id": "f1-2026-11-04-ocon",
       "category": "f1",
-      "title": "George Russell reflects on a 2026 season with 'more bad days than good'",
-      "summary": "George Russell admitted his 2026 campaign was the first with 'more bad days than good' after Mercedes teammate Kimi Antonelli won the title, vowing to fight back in 2027.",
-      "source": "GrandPrix247",
-      "url": "https://www.grandprix247.com/formula-1-news/george-russell-reflects-on-a-2026-formula-1-season-with-more-bad-days-than-good",
-      "publishedAt": "2026-11-03T10:47:00Z",
-      "tags": [
-        "F1",
-        "George Russell",
-        "Mercedes"
-      ]
+      "title": "Esteban Ocon's F1 career may be ending after abrupt Haas exit",
+      "summary": "Ocon's sudden departure from Haas, with reserve Rafael Camara set to make his F1 debut in Brazil, increasingly looks like the end of the Frenchman's decade-long Formula 1 career.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/esteban-ocons-f1-career-may-be-ending-but-his-story-is-one-of-success/10871440/",
+      "publishedAt": "2026-11-04T11:00:00Z",
+      "tags": ["f1", "haas", "ocon"]
     },
     {
-      "id": "local-flock-cameras",
-      "category": "local",
-      "title": "Central Ohio cities debate Flock license-plate camera usage",
-      "summary": "Central Ohio cities are debating their use of Flock automated license-plate cameras.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-11-03T15:30:00Z",
-      "tags": [
-        "Columbus",
-        "surveillance",
-        "policing"
-      ]
+      "id": "f1-2026-11-04-russell",
+      "category": "f1",
+      "title": "Mercedes admits it 'let him down' over Russell's Mexico GP battery failure",
+      "summary": "A battery deployment failure on the run to Turn 1 wrecked George Russell's Mexico City Grand Prix, and Mercedes took the blame after he salvaged a sixth-place finish.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/we-let-him-down-mercedes-takes-blame-for-george-russells-mexico-gp-heartbreak/10871299/",
+      "publishedAt": "2026-11-04T10:30:00Z",
+      "tags": ["f1", "mercedes", "russell"]
     },
     {
-      "id": "local-south-side-shooting",
+      "id": "local-2026-11-04-columbus-issues",
       "category": "local",
-      "title": "One killed in Columbus South Side shooting",
-      "summary": "Columbus police are investigating a fatal shooting on the city's South Side after a person was found dead in an alley.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/south-columbus-fatal-shooting-one-found-dead-in-alley/",
-      "publishedAt": "2026-11-03T11:30:00Z",
-      "tags": [
-        "Columbus",
-        "crime",
-        "shooting"
-      ]
+      "title": "Both Columbus Issue 8 and Issue 9 pass, paving way for council shake-up",
+      "summary": "Columbus voters approved both Issue 8 and Issue 9 on Tuesday, results that clear the way for a major shake-up of Columbus City Council.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/columbus-city-council-issues-8-and-9-live-results/",
+      "publishedAt": "2026-11-04T06:30:00Z",
+      "tags": ["columbus", "city-council", "election"]
     },
     {
-      "id": "local-columbus-voting",
+      "id": "local-2026-11-04-brown-senate",
       "category": "local",
-      "title": "Election Day in central Ohio: voting underway across Columbus",
-      "summary": "Election Day has arrived in central Ohio, with voters choosing a governor, a U.S. senator and local issues as polls open.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/politics/elections/2026/11/03/election-day-central-ohio-columbus-voting-live-updates--live/92443219007/",
-      "publishedAt": "2026-11-03T11:19:00Z",
-      "tags": [
-        "election",
-        "Columbus",
-        "Ohio"
-      ]
+      "title": "Sherrod Brown wins Ohio U.S. Senate race, defeating Jon Husted",
+      "summary": "Democrat Sherrod Brown defeated Jon Husted to win Ohio's U.S. Senate seat, returning to Washington as part of a decisive blue wave across the state.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/politics/elections/ohio-election-results-senate-jon-husted-sherrod-brown-midterm-elections/530-4db69d72-cb08-4d20-a593-bdd199ea663d",
+      "publishedAt": "2026-11-04T06:00:00Z",
+      "tags": ["ohio", "senate", "election"]
     },
     {
-      "id": "local-ohio-midterm",
+      "id": "local-2026-11-04-acton-governor",
       "category": "local",
-      "title": "What to know about Ohio's 2026 midterm before you vote",
-      "summary": "Ohio voters will elect a new governor, a U.S. senator and decide several marquee races as the 2026 midterm gets underway.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/ohio-election-things-to-know-about-november-2026-midterm-before-you-vote/",
-      "publishedAt": "2026-11-03T11:00:00Z",
-      "tags": [
-        "Ohio",
-        "election",
-        "voting"
-      ]
+      "title": "Amy Acton elected Ohio governor, first woman and first Democrat in 16 years",
+      "summary": "Amy Acton defeated Vivek Ramaswamy to become Ohio's first woman elected governor and the first Democrat to win the office in 16 years.",
+      "source": "Cleveland.com",
+      "url": "https://www.cleveland.com/open/2026/11/amy-acton-elected-ohio-governor.html",
+      "publishedAt": "2026-11-04T05:00:00Z",
+      "tags": ["ohio", "governor", "election"]
     }
   ]
 }
