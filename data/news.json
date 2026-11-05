@@ -1,151 +1,111 @@
 {
   "meta": {
-    "updatedAt": "2026-11-04T20:36:00Z",
+    "updatedAt": "2026-11-05T12:01:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 14
+    "count": 10
   },
   "stories": [
     {
-      "id": "top-kyiv-power-water",
+      "id": "top-europe-bomb-threats",
       "category": "top",
-      "title": "Russian strikes cut power and water across Kyiv",
-      "summary": "Russian drone and missile attacks triggered hours-long power and water outages across Kyiv, while the death toll in a bombed village in southern Ukraine rose to 40. Ukraine said Russia launched 310 drones overnight.",
+      "title": "Bomb threats divert more than a dozen flights across Europe",
+      "summary": "More than a dozen passenger flights made emergency landings across Europe on Thursday after a second wave of bomb threats this week, with fighter jets escorting some planes. No explosives have been found so far.",
       "source": "AP",
-      "url": "https://apnews.com/article/ukraine-russia-war-kyiv-airstrike-water-37dc5e85a5c8c135996bc2720e0674d9",
-      "publishedAt": "2026-11-04T17:15:00Z",
-      "tags": ["Ukraine", "Russia", "Kyiv", "war"]
+      "url": "https://apnews.com/article/flight-diverted-france-bomb-threat-dublin-rome-6585ff565ee1ccb9f19b73074aa2fec4",
+      "publishedAt": "2026-11-05T10:30:00Z",
+      "tags": ["Europe", "aviation", "security", "bomb threats"]
     },
     {
-      "id": "top-democrats-congress",
+      "id": "top-ronaldo-retirement",
       "category": "top",
-      "title": "Democrats take control of US Congress in midterm sweep",
-      "summary": "Democrats won both the House and Senate in Tuesday's midterms, seizing control of Congress for the rest of Donald Trump's term. The result reflected deep voter anger over living costs, tariffs and the Iran war.",
-      "source": "AP via Yahoo News",
-      "url": "https://www.yahoo.com/news/politics/articles/democrats-win-control-us-congress-092907297.html",
-      "publishedAt": "2026-11-04T09:29:00Z",
-      "tags": ["politics", "midterms", "Congress", "election"]
+      "title": "Cristiano Ronaldo retires from international football",
+      "summary": "Cristiano Ronaldo, 41, announced his retirement from international football, ending a record 234-cap Portugal career that included a Euro 2016 title and two Nations League crowns.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/11/05/sport/cristiano-ronaldo-retires-portuguese-national-team",
+      "publishedAt": "2026-11-05T09:00:00Z",
+      "tags": ["soccer", "Portugal", "Ronaldo"]
     },
     {
-      "id": "tech-meta-euro-bond",
+      "id": "tech-microsoft-nscale-deal",
       "category": "tech",
-      "title": "Meta draws record €53B in orders for debut euro bond sale",
-      "summary": "Meta received a record €53 billion in investor orders for its first euro-denominated bond sale as it funds AI infrastructure. The offering follows a $15 billion US-dollar deal and targets AI models and services.",
+      "title": "Microsoft reportedly scraps multibillion-dollar AI deal with UK's nscale",
+      "summary": "Microsoft walked away from a multibillion-dollar AI cloud deal with UK firm nscale, the FT reported, the latest sign big tech is reining in AI data-center spending commitments.",
       "source": "Reuters",
-      "url": "https://live.euronext.com/en/financial-news/meta-draws-record-orders-debut-euro-bond-sale-bloomberg-news-reports",
-      "publishedAt": "2026-11-04T16:00:00Z",
-      "tags": ["Meta", "AI", "funding", "bonds"]
+      "url": "https://www.reuters.com/technology/microsoft-rejects-multibillion-dollar-ai-deal-with-uks-nscale-ft-reports-2026-11-05/",
+      "publishedAt": "2026-11-05T08:00:00Z",
+      "tags": ["Microsoft", "AI", "cloud", "nscale"]
     },
     {
-      "id": "tech-tencent-hy4",
+      "id": "tech-china-softbank-abb",
       "category": "tech",
-      "title": "Tencent launches Hy4 model with vision and computer use",
-      "summary": "Tencent released Hy4, a 770-billion-parameter model that adds visual understanding and computer-use skills to its flagship AI. Weights and a system card are set to be released soon.",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/11/04/tencent-launches-hy4-with-vision-and-computer-use-capabilities/",
-      "publishedAt": "2026-11-04T09:15:40Z",
-      "tags": ["Tencent", "AI", "LLM", "computer-use"]
+      "title": "China blocks SoftBank's $5.4B takeover of ABB robotics unit",
+      "summary": "China blocked SoftBank's $5.4 billion acquisition of ABB's industrial robotics unit, another rejection of a foreign tech deal amid intensifying competition over AI and automation.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit",
+      "publishedAt": "2026-11-05T07:00:00Z",
+      "tags": ["SoftBank", "China", "robotics", "M&A"]
     },
     {
-      "id": "browns-sanders-first-team",
-      "category": "browns",
-      "title": "Shedeur Sanders takes first-team reps for Browns",
-      "summary": "With Deshaun Watson sidelined, coach Todd Monken said Shedeur Sanders will take first-team practice reps. Sanders could make his first start of 2026 in Sunday's game against the Saints.",
-      "source": "Athlon Sports",
-      "url": "https://athlonsports.com/nfl/trending/browns-todd-monken-announces-shedeur-sanders-decision-after-unfortunate-news",
-      "publishedAt": "2026-11-04T19:30:00Z",
-      "tags": ["Browns", "NFL", "Shedeur Sanders", "QB"]
+      "id": "tech-nintendo-q2-profit",
+      "category": "tech",
+      "title": "Nintendo quarterly profit drops 16% on Switch 2 costs",
+      "summary": "Nintendo reported a 16% year-over-year drop in quarterly net profit to $468 million, as rising Switch 2 component costs squeezed margins while hardware sales slowed.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts",
+      "publishedAt": "2026-11-05T06:00:00Z",
+      "tags": ["Nintendo", "earnings", "Switch 2"]
     },
     {
-      "id": "browns-watson-concussion",
-      "category": "browns",
-      "title": "Browns place Deshaun Watson in concussion protocol",
-      "summary": "Cleveland placed starting QB Deshaun Watson in the NFL's concussion protocol after he reported symptoms following a hit in Sunday's loss to Pittsburgh. His status for the Saints game is unclear.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50378819/browns-qb-watson-concussion-protocol-status-vs-saints-unclear",
-      "publishedAt": "2026-11-04T14:46:20Z",
-      "tags": ["Browns", "NFL", "Deshaun Watson", "concussion"]
+      "id": "tech-openai-data-centers",
+      "category": "tech",
+      "title": "OpenAI pledges data-center deal changes after voter backlash",
+      "summary": "OpenAI said it will stop using non-disclosure agreements in data-center negotiations and ensure residents don't pay for its power, responding to midterm backlash over AI infrastructure.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+      "publishedAt": "2026-11-05T05:00:00Z",
+      "tags": ["OpenAI", "data centers", "AI infrastructure"]
     },
     {
-      "id": "buckeyes-oregon-playoff",
+      "id": "buckeyes-cfp-rankings-12",
       "category": "buckeyes",
-      "title": "Ohio State and Oregon meet with playoff hopes on the line",
-      "summary": "No. 12 Ohio State hosts No. 23 Oregon with both teams fighting to stay alive in the College Football Playoff race. Backup QBs Luke Fahey and Dylan Raiola start after injuries to Julian Sayin and Dante Moore.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/ohio-state-oregon-clash-with-playoff-hopes-on-the-line/",
-      "publishedAt": "2026-11-04T17:36:00Z",
-      "tags": ["Ohio State", "college football", "CFP", "Oregon"]
+      "title": "Ohio State lands at No. 12 in first CFP rankings",
+      "summary": "Ohio State debuted at No. 12 in the first College Football Playoff rankings of 2026 after Saturday's loss to USC, leaving no margin for error entering its home game against Oregon.",
+      "source": "247Sports",
+      "url": "https://247sports.com/college/ohio-state/article/ohio-state-football-ranking-explanation-doesnt-make-sense-but-the-path-to-the-playoff-is-clear-292171438/",
+      "publishedAt": "2026-11-05T03:30:00Z",
+      "tags": ["Ohio State", "college football", "CFP"]
     },
     {
-      "id": "buckeyes-meyer-panic",
-      "category": "buckeyes",
-      "title": "Urban Meyer: 'It's time to panic' after Ohio State's USC loss",
-      "summary": "Former coach Urban Meyer said the Buckeyes should be alarmed after their second loss of the season, a 30-18 defeat at USC. Ohio State now needs to win out to reach the playoff.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/11/04/urban-meyer-ohio-state-usc-buckeyes-football/92609565007/",
-      "publishedAt": "2026-11-04T15:49:00Z",
-      "tags": ["Ohio State", "Urban Meyer", "CFP", "football"]
-    },
-    {
-      "id": "buckeyes-cfp-12",
-      "category": "buckeyes",
-      "title": "Buckeyes sit outside CFP field after first rankings",
-      "summary": "Ohio State landed at No. 12 in the first College Football Playoff rankings, just outside the 12-team field, after its loss to USC. Ryan Day is regrouping ahead of Saturday's Oregon game.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-news/125368/buckeyes-on-outside-of-cfp-field-day-trying-to-regroup-after-usc-loss",
-      "publishedAt": "2026-11-04T13:01:00Z",
-      "tags": ["Ohio State", "CFP", "rankings", "football"]
-    },
-    {
-      "id": "f1-brazil-five-things",
+      "id": "f1-alpine-viry-takeover",
       "category": "f1",
-      "title": "Five things to watch at the F1 São Paulo Grand Prix",
-      "summary": "Mercedes can clinch the 2026 constructors' title at Interlagos, where it needs to outscore Ferrari to wrap up its ninth championship. Kimi Antonelli returns as F1's youngest-ever world champion.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1-brazil-gp/10871528/",
-      "publishedAt": "2026-11-04T16:27:00Z",
-      "tags": ["F1", "Brazil GP", "Mercedes", "championship"]
+      "title": "Belgian firm to take over Renault/Alpine's Viry engine facility",
+      "summary": "Renault agreed to sell its Viry-Chatillon engine facility — long the home of its Formula 1 power-unit program — to Belgium's Dumarey Group, closing a chapter in Alpine's engine history.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/wec/news/alpine-a424-could-be-on-the-2027-wec-grid-as-belgian-company-takes-over-viry/10867319/",
+      "publishedAt": "2026-11-05T03:00:00Z",
+      "tags": ["F1", "Alpine", "Renault", "Viry"]
     },
     {
-      "id": "f1-verstappen-engine",
-      "category": "f1",
-      "title": "Verstappen wants 'a conversation' with Red Bull engine over braking",
-      "summary": "Max Verstappen said his Red Bull Ford power unit's engine braking behaves inconsistently and 'randomly.' He wants improvements after complaints in Austin and Mexico.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-needs-a-conversation-with-red-bull-engine-after-random-engine-braking-issues/10871469/",
-      "publishedAt": "2026-11-04T13:46:52Z",
-      "tags": ["F1", "Red Bull", "Verstappen", "engine"]
-    },
-    {
-      "id": "local-milo-grogan-shooting",
+      "id": "local-north-columbus-shooting",
       "category": "local",
-      "title": "One dead, one injured in Columbus' Milo-Grogan shooting",
-      "summary": "A shooting in the Milo-Grogan neighborhood left one person dead and another injured. Columbus police responded to the 800 block of Gibbard Avenue on Wednesday morning.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/crime/2026/11/04/one-dead-one-injured-shooting-columbus-milo-grogan-neighborhood/92608272007/",
-      "publishedAt": "2026-11-04T14:41:00Z",
-      "tags": ["Columbus", "crime", "shooting"]
+      "title": "1 critically injured in overnight north Columbus shooting",
+      "summary": "One person was seriously injured in an overnight shooting in north Columbus, and police said an investigation into the incident is ongoing.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/crime/north-columbus-shooting-cleveland-avenue-injury-police-investigation/530-15697d07-b7a0-42ba-a959-48aae389bd5b",
+      "publishedAt": "2026-11-05T08:30:00Z",
+      "tags": ["Columbus", "crime", "police"]
     },
     {
-      "id": "local-issues-8-9",
+      "id": "local-northeast-columbus-murder",
       "category": "local",
-      "title": "Columbus voters approve Issues 8 and 9 to overhaul City Council",
-      "summary": "Voters passed both charter amendments changing how City Council members are elected, moving to district-only races and adding four at-large seats. Issue 8 passed with about 82% support, Issue 9 with 57%.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/columbus-city-council-issues-8-and-9-live-results/",
-      "publishedAt": "2026-11-04T12:02:00Z",
-      "tags": ["Columbus", "election", "city council", "Issues 8 & 9"]
-    },
-    {
-      "id": "local-acton-governor",
-      "category": "local",
-      "title": "Amy Acton elected Ohio's first woman governor",
-      "summary": "Democrat Amy Acton defeated Vivek Ramaswamy to become Ohio's first woman governor and the first Democrat to win the office in 20 years. A blue wave and affordability concerns helped propel her victory.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/politics/2026/11/04/amy-acton-wins-ohio-governor/92117319007/",
-      "publishedAt": "2026-11-04T09:12:00Z",
-      "tags": ["Ohio", "election", "governor", "Amy Acton"]
+      "title": "Columbus man charged with murder in northeast-side shooting",
+      "summary": "A Columbus man was charged with murder after a 25-year-old woman was killed and another injured in a Wednesday morning shooting on the city's northeast side.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/northeast-columbus-shooting-gibbard-avenue/530-9739330b-8613-49d0-8cbd-69d0caa628ff",
+      "publishedAt": "2026-11-05T06:30:00Z",
+      "tags": ["Columbus", "crime", "police"]
     }
   ]
 }
