@@ -1,101 +1,151 @@
 {
   "meta": {
-    "updatedAt": "2026-11-07T12:13:51Z",
+    "updatedAt": "2026-11-07T20:37:37Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 9
+    "count": 14
   },
   "stories": [
     {
-      "id": "top-irgc-nuclear-doctrine-20261107",
+      "id": "top-paraguay-pena-impeached",
       "category": "top",
-      "title": "IRGC warns it is ready to change Iran's nuclear doctrine if ordered",
-      "summary": "An IRGC spokesperson said Iran is prepared to revise its nuclear doctrine if directed by the state, as Qatar urged Washington and Tehran not to wait for a perfect moment to strike a peace deal.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal",
-      "publishedAt": "2026-11-07T08:00:00Z",
-      "tags": ["iran", "nuclear", "diplomacy"]
+      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "summary": "Paraguay's Congress ousted and arrested President Santiago Peña amid a banking crisis that left millions of people unable to access their money.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c68jzzvjgdy9o",
+      "publishedAt": "2026-11-07T18:30:00Z",
+      "tags": ["Paraguay", "politics", "banking crisis"]
     },
     {
-      "id": "top-hormuz-qatar-plan-20261107",
+      "id": "top-krakow-shooting",
       "category": "top",
-      "title": "Strait of Hormuz could reopen under Qatari plan for Iran nuclear inspections",
-      "summary": "Qatar is seeking to persuade Iran to let UN inspectors visit its bombed nuclear sites, with the US lifting its naval blockade of the Strait of Hormuz in return.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-      "publishedAt": "2026-11-07T07:00:00Z",
-      "tags": ["iran", "qatar", "nuclear", "hormuz"]
+      "title": "At least six killed in shooting in Kraków's Main Market Square",
+      "summary": "A gunman opened fire from a car in Kraków's historic main square, killing at least six people and injuring more than 15 before police shot and wounded him.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/",
+      "publishedAt": "2026-11-07T15:00:00Z",
+      "tags": ["Poland", "Kraków", "shooting"]
     },
     {
-      "id": "top-iran-missile-range-20261107",
+      "id": "top-russia-kyiv-strikes",
       "category": "top",
-      "title": "Iran lifts 2,000 km missile range limit as tanker hits mine in Strait of Hormuz",
-      "summary": "Iran's Revolutionary Guard said it has dropped its self-imposed 2,000 km cap on ballistic missile range, while its navy reported an oil tanker struck a mine and caught fire in the eastern Strait of Hormuz.",
+      "title": "Russia fires 36 missiles and 172 drones at Kyiv, hitting energy grid",
+      "summary": "Russia targeted Kyiv's energy infrastructure overnight, damaging the Northern Bridge and knocking out power, water and heat ahead of next week's US-Ukraine-Russia talks.",
       "source": "AP",
-      "url": "https://apnews.com/article/mideast-news-november-7-2026-c26759ac66e6c022a3256adeae40c965",
-      "publishedAt": "2026-11-07T06:00:00Z",
-      "tags": ["iran", "middle-east", "missiles", "oil"]
+      "url": "https://apnews.com/article/russia-ukraine-war-kyiv-talks-abu-dhabi-b042adf1f95848f5d233da866a72e312",
+      "publishedAt": "2026-11-07T13:00:00Z",
+      "tags": ["Ukraine", "Russia", "Kyiv", "energy"]
     },
     {
-      "id": "tech-libghostty-1-0-20261106",
+      "id": "tech-anthropic-metr-acceleration",
       "category": "tech",
-      "title": "Libghostty 1.0 ships stable C API for terminal emulation",
-      "summary": "Mitchell Hashimoto released libghostty 1.0, a portable C library extracted from the Ghostty terminal, now with a stable ABI and already powering JetBrains IDE terminals, KDE experiments and Turborepo.",
-      "source": "mitchellh.com",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "publishedAt": "2026-11-07T01:00:00Z",
-      "tags": ["terminal", "open-source", "developer-tools"]
+      "title": "Anthropic's AI is speeding up its own development, METR report finds",
+      "summary": "An AI safety group found Anthropic's models are improving roughly twice as fast as a year ago, with most of the acceleration driven by AI itself rather than more computing power.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "publishedAt": "2026-11-07T12:30:00Z",
+      "tags": ["Anthropic", "AI safety", "METR"]
     },
     {
-      "id": "browns-sanders-starter-20261107",
+      "id": "browns-granderson-sanders-bulletin-board",
       "category": "browns",
-      "title": "Shedeur Sanders named Browns starter vs. Saints; Watson stays in concussion protocol",
-      "summary": "Cleveland coach Todd Monken confirmed Shedeur Sanders will start Sunday at New Orleans, with Deshaun Watson listed questionable after remaining in the concussion protocol.",
-      "source": "AP",
-      "url": "https://www.tribtoday.com/sports/local-sports/2026/11/browns-to-start-shedeur-sanders-vs-saints/",
-      "publishedAt": "2026-11-07T10:45:00Z",
-      "tags": ["browns", "nfl", "shedeur-sanders"]
+      "title": "Saints' Granderson says New Orleans is 'coming in hot' after Sanders' comments",
+      "summary": "New Orleans DE Carl Granderson says the Saints will be ready for Browns QB Shedeur Sanders, who makes his first 2026 start Sunday in Week 9.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/137232/cleveland-browns-news-shedeur-sanders-maliek-collins-spencer-fano",
+      "publishedAt": "2026-11-07T11:30:00Z",
+      "tags": ["Browns", "Shedeur Sanders", "Saints", "NFL"]
     },
     {
-      "id": "f1-antonelli-fp2-brazil-20261107",
+      "id": "buckeyes-playoff-urgency-oregon",
+      "category": "buckeyes",
+      "title": "Buckeyes say 'the playoffs have started early' ahead of Oregon",
+      "summary": "Ohio State players stress urgency after the USC loss, with eight Buckeyes listed out for Saturday's game against Oregon.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-oregon-live-updates/530-c1252721-70da-4ebf-9cf6-539dcb8765b4",
+      "publishedAt": "2026-11-07T19:56:00Z",
+      "tags": ["Ohio State", "Buckeyes", "Oregon", "Ryan Day"]
+    },
+    {
+      "id": "buckeyes-timmons-cleared-injury-report",
+      "category": "buckeyes",
+      "title": "Ohio State's Timmons cleared to play; Inniss out vs. Oregon",
+      "summary": "Ohio State gets starting safety Jay Timmons back for Saturday's game against Oregon but will be without receivers Brandon Inniss and Brock Boyd.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165115/ohio-state-injury-report-jay-timmons-cleared-to-play-ian-moore-and-brandon-inniss-questionable-vs-oregon",
+      "publishedAt": "2026-11-07T18:34:00Z",
+      "tags": ["Ohio State", "Buckeyes", "Oregon", "injuries"]
+    },
+    {
+      "id": "buckeyes-oregon-cfp-eliminator",
+      "category": "buckeyes",
+      "title": "Ohio State vs. Oregon is a College Football Playoff eliminator",
+      "summary": "No. 12 Ohio State needs a win over No. 23 Oregon to stay in playoff contention, with freshman QB Luke Fahey starting again for the injured Julian Sayin.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/ohio-state-oregon-live-updates-score-college-football-week-10/live/",
+      "publishedAt": "2026-11-07T18:30:00Z",
+      "tags": ["Ohio State", "Oregon", "College Football Playoff"]
+    },
+    {
+      "id": "f1-komatsu-ocon-axing",
       "category": "f1",
-      "title": "Antonelli quickest in tricky FP2 at São Paulo GP",
-      "summary": "New world champion Kimi Antonelli topped Friday's second practice at Interlagos, edging Lando Norris and Max Verstappen as cooler, overcast conditions shaped the session.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-kimi-antonelli-fastest-in-tricky-fp2/10872299/",
-      "publishedAt": "2026-11-07T01:11:00Z",
-      "tags": ["f1", "brazil-gp", "antonelli", "mercedes"]
+      "title": "Haas boss Komatsu says Ocon axing 'surprised everybody'",
+      "summary": "Haas team principal Ayao Komatsu said the team's decision to drop Esteban Ocon surprised everyone at Haas, casting fresh doubt on the Frenchman's F1 future.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872455/",
+      "publishedAt": "2026-11-07T19:41:00Z",
+      "tags": ["F1", "Haas", "Esteban Ocon"]
     },
     {
-      "id": "local-flock-camera-debate-20261107",
-      "category": "local",
-      "title": "Central Ohio cities debate Flock camera usage",
-      "summary": "Municipalities around Columbus are weighing how widely to deploy Flock license-plate camera systems amid privacy concerns from residents.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
-      "publishedAt": "2026-11-07T07:00:00Z",
-      "tags": ["columbus", "surveillance", "privacy"]
+      "id": "f1-antonelli-long-runs-ferrari",
+      "category": "f1",
+      "title": "Antonelli dominates Brazil long runs as Ferrari endures a 'nightmare' Friday",
+      "summary": "Kimi Antonelli topped long-run pace at Interlagos while Ferrari struggled for speed, leaving Charles Leclerc describing it as 'one of the worst feelings.'",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/",
+      "publishedAt": "2026-11-07T19:30:00Z",
+      "tags": ["F1", "Brazil GP", "Kimi Antonelli", "Ferrari"]
     },
     {
-      "id": "local-court-divorce-sugar-20261107",
-      "category": "local",
-      "title": "Columbus court grants 'divorce' from sugar",
-      "summary": "Franklin County senior citizens, including members of a senior e-sports team, symbolically divorced sugar at a lighthearted court event Friday.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/tell-me-something-good/columbus-court-grants-divorce-from-sugar/",
-      "publishedAt": "2026-11-07T02:00:00Z",
-      "tags": ["columbus", "community", "health"]
+      "id": "f1-schumacher-herta",
+      "category": "f1",
+      "title": "Ralf Schumacher slams Colton Herta's F1 prospects: 'He's just burning fuel'",
+      "summary": "Ralf Schumacher dismissed Colton Herta's chances in F1 as the American driver's 2027 seat remains the subject of speculation.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/",
+      "publishedAt": "2026-11-07T19:30:00Z",
+      "tags": ["F1", "Colton Herta", "Ralf Schumacher"]
     },
     {
-      "id": "local-west-columbus-shooting-20261107",
+      "id": "f1-racing-bulls-lawson",
+      "category": "f1",
+      "title": "Racing Bulls promises 'right decision' as Lawson's F1 future stays in doubt",
+      "summary": "Racing Bulls says it will make the 'right decision' on Liam Lawson's future, with the driver's seat for 2027 still unresolved.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/racing-bulls-boss-understands-frustration-over-driver-decision-delay/10872425/",
+      "publishedAt": "2026-11-07T15:30:00Z",
+      "tags": ["F1", "Racing Bulls", "Liam Lawson"]
+    },
+    {
+      "id": "local-amy-acton-campaign-attacker",
       "category": "local",
-      "title": "One dead, two injured in west Columbus shooting",
-      "summary": "Columbus police said one person died and two were hurt in a Friday night shooting in the Briggsdale neighborhood, with victims found in a home's basement.",
+      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event",
+      "summary": "NBC4 identifies Patrick Havas, the man accused in an attack at a Dr. Amy Acton campaign event; reports tie him to a former Franklin County campaign chair for Sen. Husted.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/one-dead-another-injured-in-west-columbus-shooting-2/",
-      "publishedAt": "2026-11-07T01:00:00Z",
-      "tags": ["columbus", "crime", "shooting"]
+      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
+      "publishedAt": "2026-11-07T19:30:00Z",
+      "tags": ["Columbus", "politics", "crime"]
+    },
+    {
+      "id": "local-columbus-road-rage-plea",
+      "category": "local",
+      "title": "Columbus man reverses guilty plea in deadly road-rage shooting",
+      "summary": "A Columbus man who pleaded guilty to involuntary manslaughter in a deadly road-rage shooting has retained new counsel and reversed his plea.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
+      "publishedAt": "2026-11-07T18:30:00Z",
+      "tags": ["Columbus", "crime", "courts"]
     }
   ]
 }
