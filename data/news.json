@@ -1,27 +1,101 @@
 {
-  "meta": {"updatedAt": "2026-11-06T20:36:28Z", "generatedBy": "hermes-cron", "title": "Daily Brief", "windowHours": 12, "count": 22},
+  "meta": {
+    "updatedAt": "2026-11-07T12:13:51Z",
+    "generatedBy": "hermes-cron",
+    "title": "Daily Brief",
+    "windowHours": 12,
+    "count": 9
+  },
   "stories": [
-    {"id": "france-bus-crash-1106", "category": "top", "title": "Two killed, 16 injured in school bus crash in eastern France", "summary": "Two people died and 16 were hurt, three seriously, when an intercity school bus hit a tree near Lent in eastern France on Friday morning, French media reported.", "source": "Xinhua", "url": "https://english.news.cn/20261106/5dbc2c21192b4cb4b5d3fd6413abb426/c.html", "publishedAt": "2026-11-06T15:31:00Z", "tags": ["France", "bus crash", "world"]},
-    {"id": "atlanta-pandas-debut-1106", "category": "top", "title": "Giant pandas Ping Ping and Fu Shuang debut at Zoo Atlanta", "summary": "The new pandas at Zoo Atlanta made their public debut Friday, returning the species to the zoo after a two-year absence under a 10-year loan from China.", "source": "AP", "url": "https://apnews.com/article/atlanta-zoo-giant-pandas-371423a701cba1fb81158feffa65bb1b", "publishedAt": "2026-11-06T13:40:00Z", "tags": ["pandas", "Zoo Atlanta", "wildlife"]},
-    {"id": "belgium-king-resignation-1106", "category": "top", "title": "Belgium king rejects PM resignation over budget crisis", "summary": "King Philippe refused the resignation of Prime Minister Bart De Wever and sent the five-party coalition back to negotiate a budget deal, keeping the government in place.", "source": "AP", "url": "https://apnews.com/article/belgium-budget-wever-king-resignation-6ef749a5875cb78e486480d28506a7a3", "publishedAt": "2026-11-06T12:30:00Z", "tags": ["Belgium", "politics", "government"]},
-    {"id": "japan-quake-1106", "category": "top", "title": "Magnitude 6.1 quake strikes off Japan east coast, no tsunami alert", "summary": "A shallow magnitude 6.1 earthquake struck off the Kanto coast of Japan on Friday, with shaking felt in central Tokyo; no tsunami alert was issued and no immediate damage was reported.", "source": "The Japan Times", "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/tokyo-shallow-quake/", "publishedAt": "2026-11-06T11:00:00Z", "tags": ["Japan", "earthquake", "Tokyo"]},
-    {"id": "anthropic-ipo-valuation-1106", "category": "tech", "title": "Anthropic IPO valuation talks drop to about $1.1T after AI selloff", "summary": "Prospective buyers are now discussing an Anthropic valuation of $1.2T to $1.3T, some as low as $1.1T, down from $2T in early October as post-election selloff pressure mounts.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout", "publishedAt": "2026-11-06T20:15:00Z", "tags": ["Anthropic", "IPO", "AI"]},
-    {"id": "dems-nvidia-exports-1106", "category": "tech", "title": "Democrats eye Nvidia chip exports and circular AI financing for oversight", "summary": "A newly Democratic Congress is lining up oversight of Nvidia chip exports and circular AI financing, adding regulatory scrutiny to the AI buildout.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress", "publishedAt": "2026-11-06T17:30:00Z", "tags": ["Nvidia", "regulation", "Congress"]},
-    {"id": "nvidia-sea-tracking-1106", "category": "tech", "title": "Nvidia mandates GPU location tracking for Southeast Asia cloud partners", "summary": "Nvidia is requiring Southeast Asian customers to log the physical location of AI accelerators to keep cloud-partner status, aiming to curb smuggling of banned chips into China.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling", "publishedAt": "2026-11-06T14:30:00Z", "tags": ["Nvidia", "chips", "export controls"]},
-    {"id": "embodied-ai-air-1106", "category": "tech", "title": "Swiss startup Embodied AI unveils humanoid robot Air", "summary": "Embodied AI showed off Air, a wheeled humanoid with tendon-driven arms that learns factory tasks by watching workers, hitting 98% reliability on a cable-handling evaluation.", "source": "The AI Insider", "url": "https://theaiinsider.tech/2026/11/06/switzerlands-embodied-ai-unveils-humanoid-robot-designed-to-learn-factory-tasks-from-workers/", "publishedAt": "2026-11-06T14:00:00Z", "tags": ["robotics", "humanoid", "AI"]},
-    {"id": "browns-boston-cleared-1106", "category": "browns", "title": "Browns Denzel Boston cleared to face Saints", "summary": "Wide receiver Denzel Boston was a full participant in practice Friday and carries no injury designation for the game Sunday at New Orleans.", "source": "CBS Sports", "url": "https://www.cbssports.com/fantasy/football/news/browns-denzel-boston-cleared-for-sunday/", "publishedAt": "2026-11-06T19:47:00Z", "tags": ["Browns", "injury report", "NFL"]},
-    {"id": "browns-jeudy-trade-1106", "category": "browns", "title": "Browns plan to keep Jerry Jeudy unless a crazy offer arrives", "summary": "Cleveland expects to hold onto receiver Jerry Jeudy through the trade deadline Tuesday unless it gets a truly crazy offer, preserving veteran depth for the playoff push.", "source": "Heavy", "url": "https://heavy.com/sports/nfl/cleveland-browns/jerry-jeudy-trade-crazy-offer-message/", "publishedAt": "2026-11-06T18:52:00Z", "tags": ["Browns", "Jerry Jeudy", "trade deadline"]},
-    {"id": "browns-sanders-start-1106", "category": "browns", "title": "Shedeur Sanders to start for Browns vs. Saints", "summary": "Shedeur Sanders will start at quarterback Sunday at New Orleans with Deshaun Watson in concussion protocol, though Watson could still be cleared Saturday.", "source": "AP", "url": "https://apnews.com/article/browns-sanders-watson-saints-36e9e470f40dbae5dd0072107ea9f51d", "publishedAt": "2026-11-06T18:00:00Z", "tags": ["Browns", "Shedeur Sanders", "NFL"]},
-    {"id": "browns-watson-protocol-1106", "category": "browns", "title": "Deshaun Watson returns to practice, still in concussion protocol", "summary": "Watson was back on the field Friday for the first time since entering the concussion protocol, but he remains in the protocol and needs clearance Saturday to play.", "source": "NBC Sports", "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-returns-to-practice-friday-remains-in-concussion-protocol", "publishedAt": "2026-11-06T17:25:00Z", "tags": ["Browns", "Deshaun Watson", "injury"]},
-    {"id": "buckeyes-sayin-fox-1106", "category": "buckeyes", "title": "Ryan Day: Julian Sayin healing, no timetable for return", "summary": "Ohio State coach Ryan Day says quarterback Julian Sayin is healing from his arm injury with no return date, likely sidelining him for the rest of the regular season.", "source": "FOX Sports", "url": "https://www.foxsports.com/stories/college-football/ohio-state-buckeyes-ryan-day-julian-sayin-injury-b1g", "publishedAt": "2026-11-06T17:12:00Z", "tags": ["Buckeyes", "Julian Sayin", "injury"]},
-    {"id": "buckeyes-cfp-path-1106", "category": "buckeyes", "title": "Buckeyes playoff path: ranked No. 12, must win out while Sayin recovers", "summary": "Ohio State is the first team out of the College Football Playoff at No. 12 and must beat Oregon, Nebraska and Michigan to stay alive with Sayin sidelined.", "source": "CBS Sports", "url": "https://www.cbssports.com/college-football/news/ohio-state-qb-julian-sayin-injury-ryan-day/", "publishedAt": "2026-11-06T15:10:00Z", "tags": ["Buckeyes", "College Football Playoff", "Luke Fahey"]},
-    {"id": "buckeyes-oregon-preview-1106", "category": "buckeyes", "title": "Eleven Warriors preview: Buckeyes need everyone behind Luke Fahey vs. Oregon", "summary": "The Oregon game Saturday shapes up as a must-win for Ohio State, with Luke Fahey making his second start at quarterback for the 6-2 Buckeyes.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165113/ohio-state-vs-oregon-preview-buckeyes-need-everybody-to-support-luke-fahey-with-postseason-aspirations-on-the-line-against-oregon", "publishedAt": "2026-11-06T13:30:00Z", "tags": ["Buckeyes", "Oregon", "preview"]},
-    {"id": "buckeyes-espn-prediction-1106", "category": "buckeyes", "title": "ESPN model predicts a Buckeyes win over Oregon", "summary": "ESPN projects Ohio State to beat Oregon on Saturday, keeping the Buckeyes in the Big Ten title and College Football Playoff picture.", "source": "USA Today", "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/11/06/ohio-state-football-vs-oregon-espn-predicts-winner-2026/92635461007/", "publishedAt": "2026-11-06T13:30:00Z", "tags": ["Buckeyes", "Oregon", "prediction"]},
-    {"id": "f1-wolff-ocon-1106", "category": "f1", "title": "Toto Wolff offers first insight into Haas axing Esteban Ocon", "summary": "Mercedes boss Toto Wolff said Haas team principal Ayao Komatsu had no choice but to protect the team when it dropped Ocon for the final four races, speaking publicly for the first time.", "source": "RacingNews365", "url": "https://racingnews365.com/toto-wolff-offers-first-insight-into-esteban-ocon-axe-from-haas", "publishedAt": "2026-11-06T20:00:00Z", "tags": ["F1", "Esteban Ocon", "Haas"]},
-    {"id": "f1-ferrari-talks-1106", "category": "f1", "title": "Ferrari holds clear-the-air talks between Hamilton and Leclerc", "summary": "Team principal Fred Vasseur said he reminded both drivers of their responsibility to the team after their Mexico first-lap clash, adding they will turn the page ahead of Sao Paulo.", "source": "ESPN", "url": "https://www.espn.com/f1/story/_/id/50389024/lewis-hamilton-charles-leclerc-sao-paulo-gp-brazil-f1", "publishedAt": "2026-11-06T19:22:00Z", "tags": ["F1", "Ferrari", "Hamilton"]},
-    {"id": "f1-gulf-finale-1106", "category": "f1", "title": "F1 keeps Qatar and Abu Dhabi finale on schedule despite security concerns", "summary": "F1 CEO Stefano Domenicali says the Gulf finale remains the plan while contingency preparations stay active, with teams seeking reassurance over regional security.", "source": "Grandprix.com", "url": "https://www.grandprix.com/news/f1-keeps-gulf-finale-on-schedule-as-contingency-planning-continues.html", "publishedAt": "2026-11-06T15:00:00Z", "tags": ["F1", "calendar", "Qatar"]},
-    {"id": "f1-russell-penalty-1106", "category": "f1", "title": "George Russell takes five-place grid penalty at Sao Paulo GP", "summary": "Russell will start no higher than sixth after a fresh Mercedes engine triggers a five-place penalty at Interlagos, where Mercedes can clinch the constructors title.", "source": "Sky Sports", "url": "https://www.skysports.com/f1/news/13608847/george-russell-mercedes-driver-to-take-five-place-grid-penalty-at-sao-paulo-gp-for-engine-change", "publishedAt": "2026-11-06T14:04:00Z", "tags": ["F1", "George Russell", "Mercedes"]},
-    {"id": "local-keesee-verdict-1106", "category": "local", "title": "Former Faith Life Church leader found guilty on all counts", "summary": "Gary Keesee Jr. was convicted Friday of 11 counts of rape, 11 counts of gross sexual imposition and 5 counts of unlawful sexual conduct with a minor.", "source": "ABC6 WSYX", "url": "https://abc6onyourside.com/news/local/judge-issues-verdict-for-former-faith-life-church-leader-gary-tom-keesee-jr-rape-gross-sexual-imposition-unlawful-sexual-conduct-with-minor-assault-investigation-court", "publishedAt": "2026-11-06T16:00:00Z", "tags": ["Columbus", "Delaware Ohio", "crime"]},
-    {"id": "local-delaware-shooting-1106", "category": "local", "title": "Two family members shot and killed in Delaware", "summary": "A man and a woman died Friday morning after a domestic shooting at a Delaware home; police say the incident was isolated with no ongoing threat to the community.", "source": "ABC6 WSYX", "url": "https://abc6onyourside.com/news/local/two-shot-killed-in-delaware-friday-morning-exeter-drive-911-caller-family-member-grady-memorial-hospital-critical-condition-police-investigation", "publishedAt": "2026-11-06T14:24:00Z", "tags": ["Delaware Ohio", "shooting", "local news"]}
+    {
+      "id": "top-irgc-nuclear-doctrine-20261107",
+      "category": "top",
+      "title": "IRGC warns it is ready to change Iran's nuclear doctrine if ordered",
+      "summary": "An IRGC spokesperson said Iran is prepared to revise its nuclear doctrine if directed by the state, as Qatar urged Washington and Tehran not to wait for a perfect moment to strike a peace deal.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal",
+      "publishedAt": "2026-11-07T08:00:00Z",
+      "tags": ["iran", "nuclear", "diplomacy"]
+    },
+    {
+      "id": "top-hormuz-qatar-plan-20261107",
+      "category": "top",
+      "title": "Strait of Hormuz could reopen under Qatari plan for Iran nuclear inspections",
+      "summary": "Qatar is seeking to persuade Iran to let UN inspectors visit its bombed nuclear sites, with the US lifting its naval blockade of the Strait of Hormuz in return.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+      "publishedAt": "2026-11-07T07:00:00Z",
+      "tags": ["iran", "qatar", "nuclear", "hormuz"]
+    },
+    {
+      "id": "top-iran-missile-range-20261107",
+      "category": "top",
+      "title": "Iran lifts 2,000 km missile range limit as tanker hits mine in Strait of Hormuz",
+      "summary": "Iran's Revolutionary Guard said it has dropped its self-imposed 2,000 km cap on ballistic missile range, while its navy reported an oil tanker struck a mine and caught fire in the eastern Strait of Hormuz.",
+      "source": "AP",
+      "url": "https://apnews.com/article/mideast-news-november-7-2026-c26759ac66e6c022a3256adeae40c965",
+      "publishedAt": "2026-11-07T06:00:00Z",
+      "tags": ["iran", "middle-east", "missiles", "oil"]
+    },
+    {
+      "id": "tech-libghostty-1-0-20261106",
+      "category": "tech",
+      "title": "Libghostty 1.0 ships stable C API for terminal emulation",
+      "summary": "Mitchell Hashimoto released libghostty 1.0, a portable C library extracted from the Ghostty terminal, now with a stable ABI and already powering JetBrains IDE terminals, KDE experiments and Turborepo.",
+      "source": "mitchellh.com",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "publishedAt": "2026-11-07T01:00:00Z",
+      "tags": ["terminal", "open-source", "developer-tools"]
+    },
+    {
+      "id": "browns-sanders-starter-20261107",
+      "category": "browns",
+      "title": "Shedeur Sanders named Browns starter vs. Saints; Watson stays in concussion protocol",
+      "summary": "Cleveland coach Todd Monken confirmed Shedeur Sanders will start Sunday at New Orleans, with Deshaun Watson listed questionable after remaining in the concussion protocol.",
+      "source": "AP",
+      "url": "https://www.tribtoday.com/sports/local-sports/2026/11/browns-to-start-shedeur-sanders-vs-saints/",
+      "publishedAt": "2026-11-07T10:45:00Z",
+      "tags": ["browns", "nfl", "shedeur-sanders"]
+    },
+    {
+      "id": "f1-antonelli-fp2-brazil-20261107",
+      "category": "f1",
+      "title": "Antonelli quickest in tricky FP2 at São Paulo GP",
+      "summary": "New world champion Kimi Antonelli topped Friday's second practice at Interlagos, edging Lando Norris and Max Verstappen as cooler, overcast conditions shaped the session.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-kimi-antonelli-fastest-in-tricky-fp2/10872299/",
+      "publishedAt": "2026-11-07T01:11:00Z",
+      "tags": ["f1", "brazil-gp", "antonelli", "mercedes"]
+    },
+    {
+      "id": "local-flock-camera-debate-20261107",
+      "category": "local",
+      "title": "Central Ohio cities debate Flock camera usage",
+      "summary": "Municipalities around Columbus are weighing how widely to deploy Flock license-plate camera systems amid privacy concerns from residents.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/central-ohio-cities-debate-flock-camera-usage/",
+      "publishedAt": "2026-11-07T07:00:00Z",
+      "tags": ["columbus", "surveillance", "privacy"]
+    },
+    {
+      "id": "local-court-divorce-sugar-20261107",
+      "category": "local",
+      "title": "Columbus court grants 'divorce' from sugar",
+      "summary": "Franklin County senior citizens, including members of a senior e-sports team, symbolically divorced sugar at a lighthearted court event Friday.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/tell-me-something-good/columbus-court-grants-divorce-from-sugar/",
+      "publishedAt": "2026-11-07T02:00:00Z",
+      "tags": ["columbus", "community", "health"]
+    },
+    {
+      "id": "local-west-columbus-shooting-20261107",
+      "category": "local",
+      "title": "One dead, two injured in west Columbus shooting",
+      "summary": "Columbus police said one person died and two were hurt in a Friday night shooting in the Briggsdale neighborhood, with victims found in a home's basement.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/one-dead-another-injured-in-west-columbus-shooting-2/",
+      "publishedAt": "2026-11-07T01:00:00Z",
+      "tags": ["columbus", "crime", "shooting"]
+    }
   ]
 }
