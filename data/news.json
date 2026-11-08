@@ -1,181 +1,251 @@
 {
   "meta": {
-    "updatedAt": "2026-11-08T12:15:00Z",
+    "updatedAt": "2026-11-08T20:55:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 17
+    "count": 16
   },
   "stories": [
     {
-      "id": "top-1",
       "category": "top",
-      "title": "Israel's president taps rival Gadi Eisenkot to form the next government",
-      "summary": "Israeli President Isaac Herzog gave opposition candidate Gadi Eisenkot the first chance to form a governing coalition after October's deadlocked election, a major setback for Benjamin Netanyahu. Eisenkot, a former military chief, leads a bloc seeking to oust Israel's longest-serving premier.",
+      "title": "Poland opens terrorism probe into Krakow mass shooting",
+      "summary": "Prosecutors formally opened an investigation on Sunday and said the attack that killed at least six people in Krakow's historic main square will be treated as a terrorist act. Police say the 24-year-old suspect, who held far-right views, killed three family members before the rampage; Poland began two days of national mourning.",
+      "source": "ABC News / Yahoo",
+      "url": "https://www.yahoo.com/news/world/articles/deadly-mass-shooting-poland-investigated-112724462.html",
+      "publishedAt": "2026-11-08T19:30:00Z",
+      "tags": [
+        "Poland",
+        "Krakow",
+        "terror probe",
+        "Europe"
+      ],
+      "id": "top-4"
+    },
+    {
+      "category": "top",
+      "title": "Trump says Iran strikes 'highly unlikely' if talks keep progressing",
+      "summary": "In a CNN phone interview, Trump said renewed US strikes on Iran are 'highly unlikely' while negotiations to end the conflict move forward, though he said it depends on Tehran signing 'a very strong agreement.' Both sides meanwhile reported ships hit in or near the Strait of Hormuz, which remains the choke point squeezing global energy exports.",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/world-news/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit-5010232",
+      "publishedAt": "2026-11-08T19:00:00Z",
+      "tags": [
+        "Iran",
+        "Trump",
+        "oil",
+        "Hormuz"
+      ],
+      "id": "top-2"
+    },
+    {
+      "category": "top",
+      "title": "Trump speaks publicly for the first time since Republican midterm losses",
+      "summary": "The president addressed reporters at the White House after voters delivered a rebuke to Republicans in Tuesday's midterm elections, with Democrats projected to take control of Congress. The remarks come as the administration signals a more confrontational posture, including Stephen Miller moving into the chief of staff role.",
+      "source": "10TV / AP",
+      "url": "https://www.10tv.com/article/news/nation-world/donald-trump-comments-white-house-midterm-elections/507-e7b1d69a-dd06-4795-8231-8106fb6e37e2",
+      "publishedAt": "2026-11-08T17:10:00Z",
+      "tags": [
+        "Trump",
+        "midterms",
+        "politics",
+        "Congress"
+      ],
+      "id": "top-3"
+    },
+    {
+      "category": "top",
+      "title": "Israel's president formally tasks Eisenkot with forming a government",
+      "summary": "President Isaac Herzog handed former military chief Gadi Eisenkot the mandate to build a coalition, after 67 of 120 Knesset members recommended him against 46 for Benjamin Netanyahu. Eisenkot now has 28 days, plus a possible 14-day extension, to assemble a majority and end Netanyahu's run as premier.",
       "source": "AP",
       "url": "https://apnews.com/article/israel-elections-netanyahu-eisenkot-bec07675825bee5895315e2ea1cb5751",
-      "publishedAt": "2026-11-08T11:20:00Z",
-      "tags": ["israel", "politics", "eisenkot"]
+      "publishedAt": "2026-11-08T16:30:00Z",
+      "tags": [
+        "Israel",
+        "politics",
+        "Eisenkot",
+        "Netanyahu"
+      ],
+      "id": "top-1"
     },
     {
-      "id": "top-2",
-      "category": "top",
-      "title": "Pope Leo XIV wraps Uruguay visit and heads to Milei's Argentina",
-      "summary": "Pope Leo XIV closed out the Uruguay leg of his South American tour and traveled to Argentina, the most politically fraught stop, where austerity from libertarian President Javier Milei has strained relations with the Catholic Church.",
-      "source": "AP",
-      "url": "https://apnews.com/article/uruguay-argentina-pope-milei-trump-artificial-intelligence-cc1937bec636468892ac71bf5d59ea88",
-      "publishedAt": "2026-11-08T09:00:00Z",
-      "tags": ["vatican", "pope", "argentina"]
-    },
-    {
-      "id": "top-3",
-      "category": "top",
-      "title": "Poland mourns Krakow mass killing as attacker said to hold far-right views",
-      "summary": "Poland began two days of national mourning after a 24-year-old with far-right views drove into Krakow's Main Square and opened fire, killing six and wounding 15, with three more bodies found at his family home.",
-      "source": "AP",
-      "url": "https://apnews.com/article/poland-shooting-krakow-market-dead-69a65400657ffd0c8b3fa104bd472b97",
-      "publishedAt": "2026-11-08T08:00:00Z",
-      "tags": ["poland", "krakow", "shooting"]
-    },
-    {
-      "id": "top-4",
-      "category": "top",
-      "title": "Saudi Arabia intercepts missiles; Aramco building damaged in Riyadh",
-      "summary": "Saudi Arabia intercepted incoming missiles targeting the capital on Sunday, with falling debris damaging an Aramco building in Riyadh's financial district; no casualties were reported and no group immediately claimed the attack.",
-      "source": "AP",
-      "url": "https://apnews.com/article/mideast-news-november-8-2026-090d96e25872f5c63e105b9dd3e5dc60",
-      "publishedAt": "2026-11-08T05:00:00Z",
-      "tags": ["saudi-arabia", "aramco", "middle-east"]
-    },
-    {
-      "id": "tech-1",
       "category": "tech",
-      "title": "OpenCode launches Browse to let AI agents drive your real browser",
-      "summary": "OpenCode released Browse, an MCP server and Chromium extension that lets coding agents operate your actual browser with existing tabs, logins and extensions, handing control back to you for logins, 2FA or payments.",
-      "source": "OpenCode",
-      "url": "https://opencode.ai/product/browse",
-      "publishedAt": "2026-11-08T09:30:00Z",
-      "tags": ["ai-agents", "browser", "mcp"]
+      "title": "Weta FX chief: studios now refuse VFX vendors without an AI plan",
+      "summary": "Weta FX CEO Daniel Seah said studios that banned generative AI in early 2025 now ask vendors about their AI strategy, with the message since the third quarter being 'if you don't have an AI strategy, don't bother to work with us.' The shop builds its own world-modification models rather than chatbot-style LLMs, and is partnering with Taiwan's Moonshine Studio.",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/markets-festivals/hollywood-flipped-genai-avatar-vfx-house-weta-fx-1236941070",
+      "publishedAt": "2026-11-08T19:30:00Z",
+      "tags": [
+        "AI",
+        "Hollywood",
+        "VFX",
+        "Weta FX"
+      ],
+      "id": "tech-6"
     },
     {
-      "id": "tech-2",
       "category": "tech",
-      "title": "Apiiro: Claude Code leaked secrets in 1,122 public GitHub repos",
-      "summary": "Security firm Apiiro found 1,122 public copies of Claude Code's settings file containing 1,379 secrets, including database passwords and AWS keys, exposed when users chose 'don't ask again' to auto-approve commands.",
-      "source": "Apiiro",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again/",
-      "publishedAt": "2026-11-08T08:30:00Z",
-      "tags": ["security", "claude", "github"]
+      "title": "Goldman Sachs pulls Claude Code access from bankers and traders",
+      "summary": "Goldman restricted Anthropic's Claude Code and Microsoft's GitHub to its engineers under internal guidance updated in October, cutting off traders and bankers who had used the tools to model markets and track client flows. The bank is simultaneously a lead underwriter on Anthropic's IPO, underscoring how firms are separating engineering use of AI coding agents from front-office risk.",
+      "source": "State of AI (via Bloomberg)",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "publishedAt": "2026-11-08T19:15:00Z",
+      "tags": [
+        "AI",
+        "Claude Code",
+        "finance",
+        "Goldman Sachs"
+      ],
+      "id": "tech-5"
     },
     {
-      "id": "tech-3",
       "category": "tech",
-      "title": "Ricursive releases Ripple-65B, an open-weight coding model under Apache 2.0",
-      "summary": "Ricursive Intelligence released Ripple-65B Preview, a 65B-parameter dense model trained on 12T tokens that scores 80.52 on TerminalBench 2.1, beating much larger US open-weight models on agentic coding tasks.",
-      "source": "Ricursive / Hugging Face",
-      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
-      "publishedAt": "2026-11-08T07:30:00Z",
-      "tags": ["ai", "open-source", "coding"]
+      "title": "Tesla to end Cybertruck production in 2027 after niche sales",
+      "summary": "Musk said Friday that Tesla will stop building the Cybertruck next year, closing a program that drew about a million reservations but only an estimated 71,000 deliveries since late 2023. It missed both the promised sub-$40,000 price and 500-mile range, and never escaped a niche audience.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "publishedAt": "2026-11-08T17:00:00Z",
+      "tags": [
+        "Tesla",
+        "Cybertruck",
+        "EVs",
+        "Musk"
+      ],
+      "id": "tech-7"
     },
     {
-      "id": "tech-4",
-      "category": "tech",
-      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO at lower valuation",
-      "summary": "Anthropic is pressing ahead with an IPO before Thanksgiving at a $1.25-$1.75 trillion valuation, aiming to raise $80-$100 billion, below the $2 trillion some investors had hoped for amid a tech selloff.",
-      "source": "Financial Times / The Decoder",
-      "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
-      "publishedAt": "2026-11-08T06:00:00Z",
-      "tags": ["anthropic", "ipo", "ai"]
-    },
-    {
-      "id": "browns-1",
       "category": "browns",
-      "title": "Saints QB Tyler Shough sizes up Browns' 'dynamic' defense",
-      "summary": "Ahead of Sunday's game in New Orleans, Saints quarterback Tyler Shough said he's wary of a Browns defense that will face a Saints offense that has turned the ball over the sixth-most times in the NFL this season.",
-      "source": "Browns Wire (USA Today)",
-      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/11/08/saints-qb-tyler-shough-speaks-on-browns-defense/92641780007/",
-      "publishedAt": "2026-11-08T09:25:00Z",
-      "tags": ["browns", "nfl", "saints"]
+      "title": "Shedeur Sanders makes first start of 2026 as Browns sit Deshaun Watson",
+      "summary": "Cleveland turned to second-year quarterback Shedeur Sanders for Sunday's road game in New Orleans, with Deshaun Watson inactive despite clearing the concussion protocol. Coach Todd Monken's call gives Sanders his first start of the season in a game the 5-3 Browns need to keep pace in the AFC North.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/nfl/live/browns-saints-score-live-updates-inactives-highlights-stats-where-to-watch-week-9-shedeur-sanders-deshaun-watson-153658228.html",
+      "publishedAt": "2026-11-08T15:48:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "Shedeur Sanders",
+        "Saints"
+      ],
+      "id": "browns-8"
     },
     {
-      "id": "buckeyes-1",
+      "category": "browns",
+      "title": "Browns head to New Orleans hunting fixes for run defense and turnovers",
+      "summary": "Cleveland's plan against the Saints centers on stopping the run and protecting the football after a lopsided loss in Pittsburgh. The Browns entered Week 9 at 5-3 and need a road win to stay in the AFC North race.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/11/browns-aim-to-fix-run-defense-and-protect-football-against-saints.html",
+      "publishedAt": "2026-11-08T15:00:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "defense",
+        "AFC North"
+      ],
+      "id": "browns-9"
+    },
+    {
       "category": "buckeyes",
-      "title": "What we learned from Ohio State's 41-28 loss to Oregon",
-      "summary": "Ohio State's 41-28 home loss to Oregon marked the first time since 2011 the Buckeyes have dropped three games and back-to-back contests before Thanksgiving, all but ending their College Football Playoff hopes.",
+      "title": "Ohio State's second straight loss leaves season at a breaking point",
+      "summary": "The Buckeyes fell 41-28 to Oregon at Ohio Stadium, their second consecutive defeat, after leading 14-0 in the first quarter and then surrendering 38 unanswered points. It was the first time Ohio State has given up 38 straight since 1999, and the loss likely ends its College Football Playoff hopes.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/what-we-learned-from-ohio-states-41-28-loss-to-oregon/",
-      "publishedAt": "2026-11-08T11:15:00Z",
-      "tags": ["buckeyes", "ohio-state", "oregon"]
+      "url": "https://www.nbc4i.com/sports/buckeyes/live-updates-ohio-state-hosts-oregon-looking-to-rebound-from-second-loss/",
+      "publishedAt": "2026-11-08T16:30:00Z",
+      "tags": [
+        "Ohio State",
+        "Oregon",
+        "college football",
+        "Ryan Day"
+      ],
+      "id": "buckeyes-10"
     },
     {
-      "id": "buckeyes-2",
       "category": "buckeyes",
-      "title": "Ohio State collapses once more in 41-28 loss to Oregon",
-      "summary": "For the third time this season the Buckeyes collapsed under their own mistakes, falling 41-28 to Oregon in Ohio Stadium after jumping out to a 14-0 lead.",
-      "source": "The Lantern",
-      "url": "https://www.thelantern.com/2026/11/ohio-state-collapses-once-more-in-41-28-loss-to-oregon/",
-      "publishedAt": "2026-11-08T03:00:00Z",
-      "tags": ["buckeyes", "ohio-state", "oregon"]
+      "title": "Inside the offensive collapse that sank Ohio State against Oregon",
+      "summary": "The Dispatch broke down how Ohio State's offense stalled after its fast start, pointing to execution errors and self-inflicted penalties along the line. Lineman Austin Siereveld said the problems came down to 'getting all on the same page.'",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/11/08/what-happened-during-ohio-state-footballs-offensive-collapse-vs-oregon/92563980007/",
+      "publishedAt": "2026-11-08T12:30:00Z",
+      "tags": [
+        "Ohio State",
+        "football",
+        "analysis",
+        "offense"
+      ],
+      "id": "buckeyes-11"
     },
     {
-      "id": "buckeyes-3",
-      "category": "buckeyes",
-      "title": "Oregon routs Ohio State 41-28, all but ending Buckeyes' season goals",
-      "summary": "Ohio State led 14-0 before being dominated by a desperate three-loss Oregon team in a 41-28 loss that effectively ends the Buckeyes' major goals for the season.",
-      "source": "247Sports",
-      "url": "https://247sports.com/college/ohio-state/longformarticle/ohio-state-buckeyes-football-loses-to-oregon-ducks-41-28-292310873/",
-      "publishedAt": "2026-11-08T01:00:00Z",
-      "tags": ["buckeyes", "ohio-state", "oregon"]
+      "category": "f1",
+      "title": "Antonelli spins out of the lead days after clinching the title",
+      "summary": "Newly crowned world champion Kimi Antonelli lost the lead by spinning in the slippery Interlagos conditions, handing the advantage to Norris. The error cost Mercedes a likely win in the race where it still wrapped up the constructors' championship.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/f1/story/_/id/50389160/sao-paulo-grand-prix-2026-live-updates-results-analysis-commentary",
+      "publishedAt": "2026-11-08T19:45:00Z",
+      "tags": [
+        "F1",
+        "Antonelli",
+        "Mercedes",
+        "Interlagos"
+      ],
+      "id": "f1-13"
     },
     {
-      "id": "buckeyes-4",
-      "category": "buckeyes",
-      "title": "1 winner and 5 losers from Ohio State's loss to Oregon",
-      "summary": "Ohio State dropped back-to-back games, this one at home to Oregon, in a loss the Buckeyes had to avoid to keep the College Football Playoff within reach, and it all but ends their chances.",
-      "source": "A to Z Sports",
-      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/1-winner-and-5-losers-from-ohio-states-loss-to-oregon-that-all-but-ends-their-college-football-playoff-chances/",
-      "publishedAt": "2026-11-08T00:45:00Z",
-      "tags": ["buckeyes", "ohio-state", "playoff"]
+      "category": "f1",
+      "title": "Norris wins rainy Sao Paulo Grand Prix from pole",
+      "summary": "Lando Norris converted pole into victory at Interlagos, finishing 14.6 seconds clear of Max Verstappen, who recovered to second after starting from the back. Isack Hadjar completed the podium in third as wet-dry-wet conditions scrambled the field.",
+      "source": "AP",
+      "url": "https://apnews.com/article/f1-brazil-sao-paulo-norris-antonelli-844f985f84dd19c23947ddcad31fbf76",
+      "publishedAt": "2026-11-08T19:30:00Z",
+      "tags": [
+        "F1",
+        "Sao Paulo GP",
+        "Norris",
+        "Verstappen"
+      ],
+      "id": "f1-12"
     },
     {
-      "id": "local-1",
+      "category": "f1",
+      "title": "Mercedes clinches constructors' title, its first since 2021",
+      "summary": "Antonelli's season-long haul plus the team's Interlagos result secured Mercedes its first constructors' championship since 2021, ending years of Red Bull dominance. The title is the first for the current Mercedes lineup under the 2026 regulations.",
+      "source": "Grandprix.com",
+      "url": "https://www.grandprix.com/races/brazilian-gp-2026-race-notes.html",
+      "publishedAt": "2026-11-08T19:10:00Z",
+      "tags": [
+        "F1",
+        "Mercedes",
+        "constructors",
+        "2026 season"
+      ],
+      "id": "f1-14"
+    },
+    {
       "category": "local",
-      "title": "Three Ohio counties to watch in the Senate and governor's races",
-      "summary": "Ohio's closely contested Senate and governor's races could hinge on three counties that will test whether Democrats regain ground in former strongholds while Republicans narrow advantages in growing suburbs.",
+      "title": "Crew lock up No. 7 seed, will face Inter Miami in playoffs",
+      "summary": "Columbus finished seventh in the Eastern Conference with 47 points after beating Chicago Fire 4-3 in Saturday's regular-season finale. The Crew open a best-of-three first-round series on the road against No. 2 Inter Miami and host Game 2, with dates still to be set.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/three-ohio-counties-to-watch-as-voters-decide-senate-and-governors-races/",
-      "publishedAt": "2026-11-08T10:05:00Z",
-      "tags": ["ohio", "election", "senate"]
+      "url": "https://www.nbc4i.com/sports/mls/columbus-crew/crew-enter-mls-playoffs-as-no-7-seed-to-face-inter-miami-in-round-one/",
+      "publishedAt": "2026-11-08T16:30:00Z",
+      "tags": [
+        "Columbus Crew",
+        "MLS",
+        "Inter Miami",
+        "playoffs"
+      ],
+      "id": "local-15"
     },
     {
-      "id": "local-2",
       "category": "local",
-      "title": "U.S. Supreme Court to review home-distilling ban an Ohio man is fighting",
-      "summary": "The U.S. Supreme Court agreed to hear a challenge to the federal ban on home distilling brought by an Ohio man, a case that could affect hobby distillers across the country.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/u-s-supreme-court-agrees-to-review-federal-home-distilling-ban-ohio-man-is-fighting/",
-      "publishedAt": "2026-11-08T10:00:00Z",
-      "tags": ["supreme-court", "ohio", "law"]
-    },
-    {
-      "id": "local-3",
-      "category": "local",
-      "title": "Sunday Briefing: Inside the Ohio governor's race",
-      "summary": "NBC4's Sunday briefing breaks down the Ohio governor's race as Election Day nears, laying out the candidates and stakes in one of the state's top contests.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/sunday-briefing-inside-the-ohio-governors-race/",
-      "publishedAt": "2026-11-08T08:00:00Z",
-      "tags": ["ohio", "governor", "election"]
-    },
-    {
-      "id": "local-4",
-      "category": "local",
-      "title": "Regional quarterfinals set for Ohio high school football playoffs",
-      "summary": "The second round of the Ohio high school football playoffs is set, with regional quarterfinal matchups locked in across central Ohio as teams chase a state title.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/ffn/regional-quarterfinals-for-ohio-high-school-football-playoffs-set/",
-      "publishedAt": "2026-11-08T02:00:00Z",
-      "tags": ["high-school-football", "columbus", "playoffs"]
+      "title": "Frost advisory issued for Franklin County into Monday morning",
+      "summary": "The National Weather Service posted a frost advisory for Franklin County and parts of central Ohio from 1 a.m. to 9 a.m. Monday, with lows expected near freezing after a sunny, mild Sunday. It follows a freeze warning that hit parts of the region Sunday morning.",
+      "source": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?zoneid=OHZ055",
+      "publishedAt": "2026-11-08T14:57:00Z",
+      "tags": [
+        "weather",
+        "Franklin County",
+        "frost advisory",
+        "Columbus"
+      ],
+      "id": "local-16"
     }
   ]
 }
