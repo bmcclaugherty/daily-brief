@@ -1,151 +1,181 @@
 {
   "meta": {
-    "updatedAt": "2026-11-07T20:37:37Z",
+    "updatedAt": "2026-11-08T12:15:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 14
+    "count": 17
   },
   "stories": [
     {
-      "id": "top-paraguay-pena-impeached",
+      "id": "top-1",
       "category": "top",
-      "title": "Paraguay's President Santiago Peña impeached and arrested",
-      "summary": "Paraguay's Congress ousted and arrested President Santiago Peña amid a banking crisis that left millions of people unable to access their money.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c68jzzvjgdy9o",
-      "publishedAt": "2026-11-07T18:30:00Z",
-      "tags": ["Paraguay", "politics", "banking crisis"]
-    },
-    {
-      "id": "top-krakow-shooting",
-      "category": "top",
-      "title": "At least six killed in shooting in Kraków's Main Market Square",
-      "summary": "A gunman opened fire from a car in Kraków's historic main square, killing at least six people and injuring more than 15 before police shot and wounded him.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/",
-      "publishedAt": "2026-11-07T15:00:00Z",
-      "tags": ["Poland", "Kraków", "shooting"]
-    },
-    {
-      "id": "top-russia-kyiv-strikes",
-      "category": "top",
-      "title": "Russia fires 36 missiles and 172 drones at Kyiv, hitting energy grid",
-      "summary": "Russia targeted Kyiv's energy infrastructure overnight, damaging the Northern Bridge and knocking out power, water and heat ahead of next week's US-Ukraine-Russia talks.",
+      "title": "Israel's president taps rival Gadi Eisenkot to form the next government",
+      "summary": "Israeli President Isaac Herzog gave opposition candidate Gadi Eisenkot the first chance to form a governing coalition after October's deadlocked election, a major setback for Benjamin Netanyahu. Eisenkot, a former military chief, leads a bloc seeking to oust Israel's longest-serving premier.",
       "source": "AP",
-      "url": "https://apnews.com/article/russia-ukraine-war-kyiv-talks-abu-dhabi-b042adf1f95848f5d233da866a72e312",
-      "publishedAt": "2026-11-07T13:00:00Z",
-      "tags": ["Ukraine", "Russia", "Kyiv", "energy"]
+      "url": "https://apnews.com/article/israel-elections-netanyahu-eisenkot-bec07675825bee5895315e2ea1cb5751",
+      "publishedAt": "2026-11-08T11:20:00Z",
+      "tags": ["israel", "politics", "eisenkot"]
     },
     {
-      "id": "tech-anthropic-metr-acceleration",
+      "id": "top-2",
+      "category": "top",
+      "title": "Pope Leo XIV wraps Uruguay visit and heads to Milei's Argentina",
+      "summary": "Pope Leo XIV closed out the Uruguay leg of his South American tour and traveled to Argentina, the most politically fraught stop, where austerity from libertarian President Javier Milei has strained relations with the Catholic Church.",
+      "source": "AP",
+      "url": "https://apnews.com/article/uruguay-argentina-pope-milei-trump-artificial-intelligence-cc1937bec636468892ac71bf5d59ea88",
+      "publishedAt": "2026-11-08T09:00:00Z",
+      "tags": ["vatican", "pope", "argentina"]
+    },
+    {
+      "id": "top-3",
+      "category": "top",
+      "title": "Poland mourns Krakow mass killing as attacker said to hold far-right views",
+      "summary": "Poland began two days of national mourning after a 24-year-old with far-right views drove into Krakow's Main Square and opened fire, killing six and wounding 15, with three more bodies found at his family home.",
+      "source": "AP",
+      "url": "https://apnews.com/article/poland-shooting-krakow-market-dead-69a65400657ffd0c8b3fa104bd472b97",
+      "publishedAt": "2026-11-08T08:00:00Z",
+      "tags": ["poland", "krakow", "shooting"]
+    },
+    {
+      "id": "top-4",
+      "category": "top",
+      "title": "Saudi Arabia intercepts missiles; Aramco building damaged in Riyadh",
+      "summary": "Saudi Arabia intercepted incoming missiles targeting the capital on Sunday, with falling debris damaging an Aramco building in Riyadh's financial district; no casualties were reported and no group immediately claimed the attack.",
+      "source": "AP",
+      "url": "https://apnews.com/article/mideast-news-november-8-2026-090d96e25872f5c63e105b9dd3e5dc60",
+      "publishedAt": "2026-11-08T05:00:00Z",
+      "tags": ["saudi-arabia", "aramco", "middle-east"]
+    },
+    {
+      "id": "tech-1",
       "category": "tech",
-      "title": "Anthropic's AI is speeding up its own development, METR report finds",
-      "summary": "An AI safety group found Anthropic's models are improving roughly twice as fast as a year ago, with most of the acceleration driven by AI itself rather than more computing power.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "publishedAt": "2026-11-07T12:30:00Z",
-      "tags": ["Anthropic", "AI safety", "METR"]
+      "title": "OpenCode launches Browse to let AI agents drive your real browser",
+      "summary": "OpenCode released Browse, an MCP server and Chromium extension that lets coding agents operate your actual browser with existing tabs, logins and extensions, handing control back to you for logins, 2FA or payments.",
+      "source": "OpenCode",
+      "url": "https://opencode.ai/product/browse",
+      "publishedAt": "2026-11-08T09:30:00Z",
+      "tags": ["ai-agents", "browser", "mcp"]
     },
     {
-      "id": "browns-granderson-sanders-bulletin-board",
+      "id": "tech-2",
+      "category": "tech",
+      "title": "Apiiro: Claude Code leaked secrets in 1,122 public GitHub repos",
+      "summary": "Security firm Apiiro found 1,122 public copies of Claude Code's settings file containing 1,379 secrets, including database passwords and AWS keys, exposed when users chose 'don't ask again' to auto-approve commands.",
+      "source": "Apiiro",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again/",
+      "publishedAt": "2026-11-08T08:30:00Z",
+      "tags": ["security", "claude", "github"]
+    },
+    {
+      "id": "tech-3",
+      "category": "tech",
+      "title": "Ricursive releases Ripple-65B, an open-weight coding model under Apache 2.0",
+      "summary": "Ricursive Intelligence released Ripple-65B Preview, a 65B-parameter dense model trained on 12T tokens that scores 80.52 on TerminalBench 2.1, beating much larger US open-weight models on agentic coding tasks.",
+      "source": "Ricursive / Hugging Face",
+      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+      "publishedAt": "2026-11-08T07:30:00Z",
+      "tags": ["ai", "open-source", "coding"]
+    },
+    {
+      "id": "tech-4",
+      "category": "tech",
+      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO at lower valuation",
+      "summary": "Anthropic is pressing ahead with an IPO before Thanksgiving at a $1.25-$1.75 trillion valuation, aiming to raise $80-$100 billion, below the $2 trillion some investors had hoped for amid a tech selloff.",
+      "source": "Financial Times / The Decoder",
+      "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "publishedAt": "2026-11-08T06:00:00Z",
+      "tags": ["anthropic", "ipo", "ai"]
+    },
+    {
+      "id": "browns-1",
       "category": "browns",
-      "title": "Saints' Granderson says New Orleans is 'coming in hot' after Sanders' comments",
-      "summary": "New Orleans DE Carl Granderson says the Saints will be ready for Browns QB Shedeur Sanders, who makes his first 2026 start Sunday in Week 9.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/137232/cleveland-browns-news-shedeur-sanders-maliek-collins-spencer-fano",
-      "publishedAt": "2026-11-07T11:30:00Z",
-      "tags": ["Browns", "Shedeur Sanders", "Saints", "NFL"]
+      "title": "Saints QB Tyler Shough sizes up Browns' 'dynamic' defense",
+      "summary": "Ahead of Sunday's game in New Orleans, Saints quarterback Tyler Shough said he's wary of a Browns defense that will face a Saints offense that has turned the ball over the sixth-most times in the NFL this season.",
+      "source": "Browns Wire (USA Today)",
+      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/11/08/saints-qb-tyler-shough-speaks-on-browns-defense/92641780007/",
+      "publishedAt": "2026-11-08T09:25:00Z",
+      "tags": ["browns", "nfl", "saints"]
     },
     {
-      "id": "buckeyes-playoff-urgency-oregon",
+      "id": "buckeyes-1",
       "category": "buckeyes",
-      "title": "Buckeyes say 'the playoffs have started early' ahead of Oregon",
-      "summary": "Ohio State players stress urgency after the USC loss, with eight Buckeyes listed out for Saturday's game against Oregon.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-oregon-live-updates/530-c1252721-70da-4ebf-9cf6-539dcb8765b4",
-      "publishedAt": "2026-11-07T19:56:00Z",
-      "tags": ["Ohio State", "Buckeyes", "Oregon", "Ryan Day"]
-    },
-    {
-      "id": "buckeyes-timmons-cleared-injury-report",
-      "category": "buckeyes",
-      "title": "Ohio State's Timmons cleared to play; Inniss out vs. Oregon",
-      "summary": "Ohio State gets starting safety Jay Timmons back for Saturday's game against Oregon but will be without receivers Brandon Inniss and Brock Boyd.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165115/ohio-state-injury-report-jay-timmons-cleared-to-play-ian-moore-and-brandon-inniss-questionable-vs-oregon",
-      "publishedAt": "2026-11-07T18:34:00Z",
-      "tags": ["Ohio State", "Buckeyes", "Oregon", "injuries"]
-    },
-    {
-      "id": "buckeyes-oregon-cfp-eliminator",
-      "category": "buckeyes",
-      "title": "Ohio State vs. Oregon is a College Football Playoff eliminator",
-      "summary": "No. 12 Ohio State needs a win over No. 23 Oregon to stay in playoff contention, with freshman QB Luke Fahey starting again for the injured Julian Sayin.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/ohio-state-oregon-live-updates-score-college-football-week-10/live/",
-      "publishedAt": "2026-11-07T18:30:00Z",
-      "tags": ["Ohio State", "Oregon", "College Football Playoff"]
-    },
-    {
-      "id": "f1-komatsu-ocon-axing",
-      "category": "f1",
-      "title": "Haas boss Komatsu says Ocon axing 'surprised everybody'",
-      "summary": "Haas team principal Ayao Komatsu said the team's decision to drop Esteban Ocon surprised everyone at Haas, casting fresh doubt on the Frenchman's F1 future.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872455/",
-      "publishedAt": "2026-11-07T19:41:00Z",
-      "tags": ["F1", "Haas", "Esteban Ocon"]
-    },
-    {
-      "id": "f1-antonelli-long-runs-ferrari",
-      "category": "f1",
-      "title": "Antonelli dominates Brazil long runs as Ferrari endures a 'nightmare' Friday",
-      "summary": "Kimi Antonelli topped long-run pace at Interlagos while Ferrari struggled for speed, leaving Charles Leclerc describing it as 'one of the worst feelings.'",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/",
-      "publishedAt": "2026-11-07T19:30:00Z",
-      "tags": ["F1", "Brazil GP", "Kimi Antonelli", "Ferrari"]
-    },
-    {
-      "id": "f1-schumacher-herta",
-      "category": "f1",
-      "title": "Ralf Schumacher slams Colton Herta's F1 prospects: 'He's just burning fuel'",
-      "summary": "Ralf Schumacher dismissed Colton Herta's chances in F1 as the American driver's 2027 seat remains the subject of speculation.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/",
-      "publishedAt": "2026-11-07T19:30:00Z",
-      "tags": ["F1", "Colton Herta", "Ralf Schumacher"]
-    },
-    {
-      "id": "f1-racing-bulls-lawson",
-      "category": "f1",
-      "title": "Racing Bulls promises 'right decision' as Lawson's F1 future stays in doubt",
-      "summary": "Racing Bulls says it will make the 'right decision' on Liam Lawson's future, with the driver's seat for 2027 still unresolved.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/racing-bulls-boss-understands-frustration-over-driver-decision-delay/10872425/",
-      "publishedAt": "2026-11-07T15:30:00Z",
-      "tags": ["F1", "Racing Bulls", "Liam Lawson"]
-    },
-    {
-      "id": "local-amy-acton-campaign-attacker",
-      "category": "local",
-      "title": "Who is Patrick Havas, alleged attacker at Amy Acton campaign event",
-      "summary": "NBC4 identifies Patrick Havas, the man accused in an attack at a Dr. Amy Acton campaign event; reports tie him to a former Franklin County campaign chair for Sen. Husted.",
+      "title": "What we learned from Ohio State's 41-28 loss to Oregon",
+      "summary": "Ohio State's 41-28 home loss to Oregon marked the first time since 2011 the Buckeyes have dropped three games and back-to-back contests before Thanksgiving, all but ending their College Football Playoff hopes.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/who-is-patrick-havas-alleged-attacker-at-dr-amy-acton-campaign-event/",
-      "publishedAt": "2026-11-07T19:30:00Z",
-      "tags": ["Columbus", "politics", "crime"]
+      "url": "https://www.nbc4i.com/sports/buckeyes/what-we-learned-from-ohio-states-41-28-loss-to-oregon/",
+      "publishedAt": "2026-11-08T11:15:00Z",
+      "tags": ["buckeyes", "ohio-state", "oregon"]
     },
     {
-      "id": "local-columbus-road-rage-plea",
+      "id": "buckeyes-2",
+      "category": "buckeyes",
+      "title": "Ohio State collapses once more in 41-28 loss to Oregon",
+      "summary": "For the third time this season the Buckeyes collapsed under their own mistakes, falling 41-28 to Oregon in Ohio Stadium after jumping out to a 14-0 lead.",
+      "source": "The Lantern",
+      "url": "https://www.thelantern.com/2026/11/ohio-state-collapses-once-more-in-41-28-loss-to-oregon/",
+      "publishedAt": "2026-11-08T03:00:00Z",
+      "tags": ["buckeyes", "ohio-state", "oregon"]
+    },
+    {
+      "id": "buckeyes-3",
+      "category": "buckeyes",
+      "title": "Oregon routs Ohio State 41-28, all but ending Buckeyes' season goals",
+      "summary": "Ohio State led 14-0 before being dominated by a desperate three-loss Oregon team in a 41-28 loss that effectively ends the Buckeyes' major goals for the season.",
+      "source": "247Sports",
+      "url": "https://247sports.com/college/ohio-state/longformarticle/ohio-state-buckeyes-football-loses-to-oregon-ducks-41-28-292310873/",
+      "publishedAt": "2026-11-08T01:00:00Z",
+      "tags": ["buckeyes", "ohio-state", "oregon"]
+    },
+    {
+      "id": "buckeyes-4",
+      "category": "buckeyes",
+      "title": "1 winner and 5 losers from Ohio State's loss to Oregon",
+      "summary": "Ohio State dropped back-to-back games, this one at home to Oregon, in a loss the Buckeyes had to avoid to keep the College Football Playoff within reach, and it all but ends their chances.",
+      "source": "A to Z Sports",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/1-winner-and-5-losers-from-ohio-states-loss-to-oregon-that-all-but-ends-their-college-football-playoff-chances/",
+      "publishedAt": "2026-11-08T00:45:00Z",
+      "tags": ["buckeyes", "ohio-state", "playoff"]
+    },
+    {
+      "id": "local-1",
       "category": "local",
-      "title": "Columbus man reverses guilty plea in deadly road-rage shooting",
-      "summary": "A Columbus man who pleaded guilty to involuntary manslaughter in a deadly road-rage shooting has retained new counsel and reversed his plea.",
+      "title": "Three Ohio counties to watch in the Senate and governor's races",
+      "summary": "Ohio's closely contested Senate and governor's races could hinge on three counties that will test whether Democrats regain ground in former strongholds while Republicans narrow advantages in growing suburbs.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/columbus-man-who-pled-guilty-in-deadly-road-rage-shooting-retains-new-council-reverses-plea/",
-      "publishedAt": "2026-11-07T18:30:00Z",
-      "tags": ["Columbus", "crime", "courts"]
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/three-ohio-counties-to-watch-as-voters-decide-senate-and-governors-races/",
+      "publishedAt": "2026-11-08T10:05:00Z",
+      "tags": ["ohio", "election", "senate"]
+    },
+    {
+      "id": "local-2",
+      "category": "local",
+      "title": "U.S. Supreme Court to review home-distilling ban an Ohio man is fighting",
+      "summary": "The U.S. Supreme Court agreed to hear a challenge to the federal ban on home distilling brought by an Ohio man, a case that could affect hobby distillers across the country.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/u-s-supreme-court-agrees-to-review-federal-home-distilling-ban-ohio-man-is-fighting/",
+      "publishedAt": "2026-11-08T10:00:00Z",
+      "tags": ["supreme-court", "ohio", "law"]
+    },
+    {
+      "id": "local-3",
+      "category": "local",
+      "title": "Sunday Briefing: Inside the Ohio governor's race",
+      "summary": "NBC4's Sunday briefing breaks down the Ohio governor's race as Election Day nears, laying out the candidates and stakes in one of the state's top contests.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/sunday-briefing-inside-the-ohio-governors-race/",
+      "publishedAt": "2026-11-08T08:00:00Z",
+      "tags": ["ohio", "governor", "election"]
+    },
+    {
+      "id": "local-4",
+      "category": "local",
+      "title": "Regional quarterfinals set for Ohio high school football playoffs",
+      "summary": "The second round of the Ohio high school football playoffs is set, with regional quarterfinal matchups locked in across central Ohio as teams chase a state title.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/ffn/regional-quarterfinals-for-ohio-high-school-football-playoffs-set/",
+      "publishedAt": "2026-11-08T02:00:00Z",
+      "tags": ["high-school-football", "columbus", "playoffs"]
     }
   ]
 }
