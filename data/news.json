@@ -1,251 +1,231 @@
 {
   "meta": {
-    "updatedAt": "2026-11-08T20:55:00Z",
+    "updatedAt": "2026-11-09T12:12:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 22
   },
   "stories": [
     {
+      "id": "top-krakow-shooting-suspect-dies",
       "category": "top",
-      "title": "Poland opens terrorism probe into Krakow mass shooting",
-      "summary": "Prosecutors formally opened an investigation on Sunday and said the attack that killed at least six people in Krakow's historic main square will be treated as a terrorist act. Police say the 24-year-old suspect, who held far-right views, killed three family members before the rampage; Poland began two days of national mourning.",
-      "source": "ABC News / Yahoo",
-      "url": "https://www.yahoo.com/news/world/articles/deadly-mass-shooting-poland-investigated-112724462.html",
-      "publishedAt": "2026-11-08T19:30:00Z",
-      "tags": [
-        "Poland",
-        "Krakow",
-        "terror probe",
-        "Europe"
-      ],
-      "id": "top-4"
+      "title": "Krakow shooting suspect dies in hospital after six killed",
+      "summary": "The suspect in a shooting in Krakow has died of his injuries, Polish police said, after six people were killed and the bodies of three of his family members were found at their home. The attack was one of Poland's deadliest in years and prompted a broad manhunt.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
+      "publishedAt": "2026-11-09T11:56:25Z",
+      "tags": ["Poland", "shooting", "Europe", "crime"]
     },
     {
+      "id": "top-turkey-steel-plant-blast",
       "category": "top",
-      "title": "Trump says Iran strikes 'highly unlikely' if talks keep progressing",
-      "summary": "In a CNN phone interview, Trump said renewed US strikes on Iran are 'highly unlikely' while negotiations to end the conflict move forward, though he said it depends on Tehran signing 'a very strong agreement.' Both sides meanwhile reported ships hit in or near the Strait of Hormuz, which remains the choke point squeezing global energy exports.",
+      "title": "Steel plant blast in western Turkey kills 3, 10 missing",
+      "summary": "An explosion at a steel plant in western Turkey killed at least three workers and left 10 missing, with emergency crews searching the site. Authorities are investigating the cause of the blast.",
       "source": "Reuters",
-      "url": "https://www.investing.com/news/world-news/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit-5010232",
-      "publishedAt": "2026-11-08T19:00:00Z",
-      "tags": [
-        "Iran",
-        "Trump",
-        "oil",
-        "Hormuz"
-      ],
-      "id": "top-2"
+      "url": "https://www.reuters.com/world/steel-plant-blast-kills-3-leaves-10-missing-western-turkey-2026-11-09/",
+      "publishedAt": "2026-11-09T11:54:00Z",
+      "tags": ["Turkey", "industrial accident", "Europe"]
     },
     {
+      "id": "top-trump-qatar-iran-war",
       "category": "top",
-      "title": "Trump speaks publicly for the first time since Republican midterm losses",
-      "summary": "The president addressed reporters at the White House after voters delivered a rebuke to Republicans in Tuesday's midterm elections, with Democrats projected to take control of Congress. The remarks come as the administration signals a more confrontational posture, including Stephen Miller moving into the chief of staff role.",
-      "source": "10TV / AP",
-      "url": "https://www.10tv.com/article/news/nation-world/donald-trump-comments-white-house-midterm-elections/507-e7b1d69a-dd06-4795-8231-8106fb6e37e2",
-      "publishedAt": "2026-11-08T17:10:00Z",
-      "tags": [
-        "Trump",
-        "midterms",
-        "politics",
-        "Congress"
-      ],
-      "id": "top-3"
+      "title": "Trump to meet Qatar's emir as Iran war endgame stalls",
+      "summary": "President Trump is set to meet Qatar's leader, a key mediator in the Iran war, but officials see no imminent deal to end the conflict more than eight months after it began. Trump has played down the prospect of major fighting resuming while rejecting Iran's existing truce plan.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-meet-iran-war-mediator-qatar-no-imminent-deal-seen-end-war-2026-11-09/",
+      "publishedAt": "2026-11-09T11:48:00Z",
+      "tags": ["Iran", "Qatar", "Trump", "diplomacy"]
     },
     {
+      "id": "top-senegal-migrant-boat-sinks",
       "category": "top",
-      "title": "Israel's president formally tasks Eisenkot with forming a government",
-      "summary": "President Isaac Herzog handed former military chief Gadi Eisenkot the mandate to build a coalition, after 67 of 120 Knesset members recommended him against 46 for Benjamin Netanyahu. Eisenkot now has 28 days, plus a possible 14-day extension, to assemble a majority and end Netanyahu's run as premier.",
-      "source": "AP",
-      "url": "https://apnews.com/article/israel-elections-netanyahu-eisenkot-bec07675825bee5895315e2ea1cb5751",
-      "publishedAt": "2026-11-08T16:30:00Z",
-      "tags": [
-        "Israel",
-        "politics",
-        "Eisenkot",
-        "Netanyahu"
-      ],
-      "id": "top-1"
+      "title": "At least 34 dead after migrant boat sinks off Senegal",
+      "summary": "A boat carrying migrants toward Spain's Canary Islands sank off Senegal, killing at least 34 people. The Atlantic route remains one of the world's deadliest for people seeking to reach Europe.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
+      "publishedAt": "2026-11-09T10:59:26Z",
+      "tags": ["Senegal", "migration", "Africa", "Canary Islands"]
     },
     {
+      "id": "tech-instagram-ai-age-detection-global",
       "category": "tech",
-      "title": "Weta FX chief: studios now refuse VFX vendors without an AI plan",
-      "summary": "Weta FX CEO Daniel Seah said studios that banned generative AI in early 2025 now ask vendors about their AI strategy, with the message since the third quarter being 'if you don't have an AI strategy, don't bother to work with us.' The shop builds its own world-modification models rather than chatbot-style LLMs, and is partnering with Taiwan's Moonshine Studio.",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/markets-festivals/hollywood-flipped-genai-avatar-vfx-house-weta-fx-1236941070",
-      "publishedAt": "2026-11-08T19:30:00Z",
-      "tags": [
-        "AI",
-        "Hollywood",
-        "VFX",
-        "Weta FX"
-      ],
-      "id": "tech-6"
+      "title": "Instagram expands AI age detection worldwide",
+      "summary": "Meta is rolling out AI-powered age detection for Instagram globally, automatically placing millions more teens into Teen Account protections with stricter messaging and privacy defaults. The tool had previously been limited to the US, EU and Brazil.",
+      "source": "The Verge | Meta",
+      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+      "publishedAt": "2026-11-09T12:00:00Z",
+      "tags": ["Meta", "Instagram", "AI", "teen safety"]
     },
     {
+      "id": "tech-china-denies-nvidia-spy-plot",
       "category": "tech",
-      "title": "Goldman Sachs pulls Claude Code access from bankers and traders",
-      "summary": "Goldman restricted Anthropic's Claude Code and Microsoft's GitHub to its engineers under internal guidance updated in October, cutting off traders and bankers who had used the tools to model markets and track client flows. The bank is simultaneously a lead underwriter on Anthropic's IPO, underscoring how firms are separating engineering use of AI coding agents from front-office risk.",
-      "source": "State of AI (via Bloomberg)",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "publishedAt": "2026-11-08T19:15:00Z",
-      "tags": [
-        "AI",
-        "Claude Code",
-        "finance",
-        "Goldman Sachs"
-      ],
-      "id": "tech-5"
+      "title": "China denies involvement in alleged Nvidia spy plot",
+      "summary": "China's government rejected claims that it sent a spy to gather information on Nvidia CEO Jensen Huang, calling the allegations groundless. The denial follows reports that a Megaspeed executive was recruited to get close to Huang.",
+      "source": "10TV | AP",
+      "url": "https://www.10tv.com/article/news/nation-world/china-denies-sending-spy-to-nvidia-ceo/507-cd4bd577-0ebb-4d4c-b902-ed8c824d9a83",
+      "publishedAt": "2026-11-09T11:32:49Z",
+      "tags": ["Nvidia", "China", "espionage", "Jensen Huang"]
     },
     {
+      "id": "tech-tesla-robotaxi-san-antonio",
       "category": "tech",
-      "title": "Tesla to end Cybertruck production in 2027 after niche sales",
-      "summary": "Musk said Friday that Tesla will stop building the Cybertruck next year, closing a program that drew about a million reservations but only an estimated 71,000 deliveries since late 2023. It missed both the promised sub-$40,000 price and 500-mile range, and never escaped a niche audience.",
+      "title": "Tesla expands robotaxi service to San Antonio",
+      "summary": "Tesla began offering robotaxi rides in San Antonio on Monday, its latest Texas market as it tries to scale driverless service against Waymo. The company gave few details on fleet size, hours or whether human safety monitors will be on board.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-      "publishedAt": "2026-11-08T17:00:00Z",
-      "tags": [
-        "Tesla",
-        "Cybertruck",
-        "EVs",
-        "Musk"
-      ],
-      "id": "tech-7"
+      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+      "publishedAt": "2026-11-09T11:30:24Z",
+      "tags": ["Tesla", "robotaxi", "autonomous driving", "Texas"]
     },
     {
-      "category": "browns",
-      "title": "Shedeur Sanders makes first start of 2026 as Browns sit Deshaun Watson",
-      "summary": "Cleveland turned to second-year quarterback Shedeur Sanders for Sunday's road game in New Orleans, with Deshaun Watson inactive despite clearing the concussion protocol. Coach Todd Monken's call gives Sanders his first start of the season in a game the 5-3 Browns need to keep pace in the AFC North.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/nfl/live/browns-saints-score-live-updates-inactives-highlights-stats-where-to-watch-week-9-shedeur-sanders-deshaun-watson-153658228.html",
-      "publishedAt": "2026-11-08T15:48:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "Shedeur Sanders",
-        "Saints"
-      ],
-      "id": "browns-8"
+      "id": "tech-huang-job-odds-nvidia-probe",
+      "category": "tech",
+      "title": "Yale's Sonnenfeld puts Huang's job odds at 'about 50-50'",
+      "summary": "Yale management professor Jeffrey Sonnenfeld estimated the odds Jensen Huang loses the Nvidia CEO role at roughly even, as the board investigates his relationship with a Megaspeed executive U.S. officials suspect of spying for China. Nvidia says it has seen no sign that company secrets or national security were compromised.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "publishedAt": "2026-11-09T05:26:29Z",
+      "tags": ["Nvidia", "Jensen Huang", "AI", "corporate governance"]
     },
     {
+      "id": "browns-qb-dilemma-sanders-watson",
       "category": "browns",
-      "title": "Browns head to New Orleans hunting fixes for run defense and turnovers",
-      "summary": "Cleveland's plan against the Saints centers on stopping the run and protecting the football after a lopsided loss in Pittsburgh. The Browns entered Week 9 at 5-3 and need a road win to stay in the AFC North race.",
+      "title": "Browns face QB decision after Sanders' overtime loss",
+      "summary": "Shedeur Sanders' 23-22 overtime loss to the Saints has forced Cleveland's front office to weigh his long-term upside against Deshaun Watson's five fourth-quarter comeback wins this season. Coach Todd Monken declined to name a starter for Week 10.",
       "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/11/browns-aim-to-fix-run-defense-and-protect-football-against-saints.html",
-      "publishedAt": "2026-11-08T15:00:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "defense",
-        "AFC North"
-      ],
-      "id": "browns-9"
+      "url": "https://www.cleveland.com/browns/2026/11/browns-face-tough-quarterback-decision-after-shedeur-sanders-debut.html",
+      "publishedAt": "2026-11-09T12:00:00Z",
+      "tags": ["Browns", "Shedeur Sanders", "quarterback", "NFL"]
     },
     {
+      "id": "browns-no-trades-deadline",
+      "category": "browns",
+      "title": "Browns have nothing brewing before Tuesday's trade deadline",
+      "summary": "Cleveland has no imminent moves ahead of Tuesday's NFL trade deadline, with Maliek Collins having sat out the Saints game because of illness. The 5-4 Browns now return home after playing six of their first nine on the road.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/11/browns-have-nothing-cooking-on-the-eve-of-tuesdays-trade-deadline-maliek-collins-sat-out-the-saints-game-with-an-illness-insider.html",
+      "publishedAt": "2026-11-09T10:43:41Z",
+      "tags": ["Browns", "trade deadline", "NFL", "Maliek Collins"]
+    },
+    {
+      "id": "browns-penalties-cost-saints-loss",
+      "category": "browns",
+      "title": "Penalties sink Browns again in overtime loss to Saints",
+      "summary": "Cleveland, the NFL's most-penalized team, drew 10 flags against New Orleans, including a holding call on the final play of overtime that sealed the 23-22 defeat. It was the Browns' second straight loss.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/11/browns-costly-penalty-problem-followed-them-all-the-way-to-the-final-play-against-saints.html",
+      "publishedAt": "2026-11-09T10:01:00Z",
+      "tags": ["Browns", "penalties", "Saints", "NFL"]
+    },
+    {
+      "id": "browns-rookies-stand-out",
+      "category": "browns",
+      "title": "Browns rookies give offense a bright spot in defeat",
+      "summary": "Rookies Denzel Boston, KC Concepcion and tight end Harold Fannin Jr. produced standout performances in the 23-22 overtime loss, giving Cleveland a promising young core on offense despite the result.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/11/browns-young-playmakers-show-off-bright-future-for-offense-even-in-defeat.html",
+      "publishedAt": "2026-11-09T10:00:00Z",
+      "tags": ["Browns", "rookies", "Denzel Boston", "Harold Fannin"]
+    },
+    {
+      "id": "buckeyes-reese-nfl-sack-record",
       "category": "buckeyes",
-      "title": "Ohio State's second straight loss leaves season at a breaking point",
-      "summary": "The Buckeyes fell 41-28 to Oregon at Ohio Stadium, their second consecutive defeat, after leading 14-0 in the first quarter and then surrendering 38 unanswered points. It was the first time Ohio State has given up 38 straight since 1999, and the loss likely ends its College Football Playoff hopes.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/live-updates-ohio-state-hosts-oregon-looking-to-rebound-from-second-loss/",
-      "publishedAt": "2026-11-08T16:30:00Z",
-      "tags": [
-        "Ohio State",
-        "Oregon",
-        "college football",
-        "Ryan Day"
-      ],
-      "id": "buckeyes-10"
+      "title": "Ex-Buckeye Arvell Reese becomes youngest with 3-sack NFL game",
+      "summary": "Former Ohio State and Glenville star Arvell Reese recorded 12 tackles, three sacks and a forced fumble in the Giants' 19-11 win over the Eagles, becoming the youngest player in NFL history with a three-sack game.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/osu/2026/11/this-former-ohio-state-glenville-star-just-broke-an-nfl-record-buckeye-breakfast.html",
+      "publishedAt": "2026-11-09T10:00:00Z",
+      "tags": ["Ohio State", "Arvell Reese", "NFL", "Giants"]
     },
     {
+      "id": "buckeyes-skull-session-butterfly-effect",
       "category": "buckeyes",
-      "title": "Inside the offensive collapse that sank Ohio State against Oregon",
-      "summary": "The Dispatch broke down how Ohio State's offense stalled after its fast start, pointing to execution errors and self-inflicted penalties along the line. Lineman Austin Siereveld said the problems came down to 'getting all on the same page.'",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/11/08/what-happened-during-ohio-state-footballs-offensive-collapse-vs-oregon/92563980007/",
-      "publishedAt": "2026-11-08T12:30:00Z",
-      "tags": [
-        "Ohio State",
-        "football",
-        "analysis",
-        "offense"
-      ],
-      "id": "buckeyes-11"
+      "title": "Skull Session: the missed chances that define Ohio State's season",
+      "summary": "Eleven Warriors traces Ohio State's 41-28 loss to Oregon to a dropped interception and a fake punt that let the Ducks score 21 unanswered points in the middle eight. It is the latest in a season defined by squandered opportunities for the 6-3 Buckeyes.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165285/skull-session-the-butterfly-effect",
+      "publishedAt": "2026-11-09T09:55:00Z",
+      "tags": ["Ohio State", "Oregon", "Ryan Day", "college football"]
     },
     {
+      "id": "f1-verstappen-simulations-brazil",
       "category": "f1",
-      "title": "Antonelli spins out of the lead days after clinching the title",
-      "summary": "Newly crowned world champion Kimi Antonelli lost the lead by spinning in the slippery Interlagos conditions, handing the advantage to Norris. The error cost Mercedes a likely win in the race where it still wrapped up the constructors' championship.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/50389160/sao-paulo-grand-prix-2026-live-updates-results-analysis-commentary",
-      "publishedAt": "2026-11-08T19:45:00Z",
-      "tags": [
-        "F1",
-        "Antonelli",
-        "Mercedes",
-        "Interlagos"
-      ],
-      "id": "f1-13"
+      "title": "Mekies: Verstappen outperformed Red Bull's simulations in Brazil",
+      "summary": "Red Bull's Laurent Mekies praised Max Verstappen's wet-weather feel after the driver charged from 21st on the grid to second at the Sao Paulo Grand Prix. Mekies said Verstappen found grip the team's simulations had not predicted.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/mekies-explains-how-verstappen-outperformed-red-bulls-own-simulations-in-brazil.1ps87tyvjdEf23vDCaDXOZ",
+      "publishedAt": "2026-11-09T11:58:08Z",
+      "tags": ["F1", "Max Verstappen", "Red Bull", "Sao Paulo GP"]
     },
     {
+      "id": "f1-stella-mclaren-interlagos-calls",
       "category": "f1",
-      "title": "Norris wins rainy Sao Paulo Grand Prix from pole",
-      "summary": "Lando Norris converted pole into victory at Interlagos, finishing 14.6 seconds clear of Max Verstappen, who recovered to second after starting from the back. Isack Hadjar completed the podium in third as wet-dry-wet conditions scrambled the field.",
-      "source": "AP",
-      "url": "https://apnews.com/article/f1-brazil-sao-paulo-norris-antonelli-844f985f84dd19c23947ddcad31fbf76",
-      "publishedAt": "2026-11-08T19:30:00Z",
-      "tags": [
-        "F1",
-        "Sao Paulo GP",
-        "Norris",
-        "Verstappen"
-      ],
-      "id": "f1-12"
+      "title": "Stella explains the calls behind Norris' Interlagos win",
+      "summary": "McLaren principal Andrea Stella detailed how the team made the right strategy calls in mixed conditions to put Lando Norris in position to win the Sao Paulo Grand Prix. The victory came as Mercedes clinched the constructors' title.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/technically-a-very-interesting-race-stella-reveals-how-norris-and-mclaren-triumphed-at-interlagos.SRa4ORrmm9CcPqhwssoum",
+      "publishedAt": "2026-11-09T11:35:01Z",
+      "tags": ["F1", "McLaren", "Lando Norris", "strategy"]
     },
     {
+      "id": "f1-piastri-webber-split",
       "category": "f1",
-      "title": "Mercedes clinches constructors' title, its first since 2021",
-      "summary": "Antonelli's season-long haul plus the team's Interlagos result secured Mercedes its first constructors' championship since 2021, ending years of Red Bull dominance. The title is the first for the current Mercedes lineup under the 2026 regulations.",
-      "source": "Grandprix.com",
-      "url": "https://www.grandprix.com/races/brazilian-gp-2026-race-notes.html",
-      "publishedAt": "2026-11-08T19:10:00Z",
-      "tags": [
-        "F1",
-        "Mercedes",
-        "constructors",
-        "2026 season"
-      ],
-      "id": "f1-14"
+      "title": "Piastri and Webber terminate management agreement",
+      "summary": "Oscar Piastri and Mark and Ann Webber have mutually ended their management agreement, the pair announced. The Webbers had managed Piastri since 2019, through his rise from Formula Renault to McLaren and multiple F1 wins.",
+      "source": "formula1.com | Autosport",
+      "url": "https://www.formula1.com/en/latest/article/piastri-and-management-team-mutually-terminate-agreement.a59N6pYIBGSiFmwMY1Xkk",
+      "publishedAt": "2026-11-09T10:27:41Z",
+      "tags": ["F1", "Oscar Piastri", "Mark Webber", "McLaren"]
     },
     {
+      "id": "f1-vasseur-ferrari-tyres-brazil",
+      "category": "f1",
+      "title": "Vasseur explains Ferrari's tyre struggles in Brazil",
+      "summary": "Ferrari principal Fred Vasseur said the team could not get its tyres into the right operating window during the Sao Paulo Grand Prix. Charles Leclerc and Lewis Hamilton both called the race a disaster for the team.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/if-youre-not-in-the-right-spot-youre-nowhere-vasseur-explains-ferraris-brazil-tyre-struggles.4BJ7k41PfxDI31jhSg9RU",
+      "publishedAt": "2026-11-09T09:51:30Z",
+      "tags": ["F1", "Ferrari", "Fred Vasseur", "Sao Paulo GP"]
+    },
+    {
+      "id": "local-land-grant-acquires-nocterra",
       "category": "local",
-      "title": "Crew lock up No. 7 seed, will face Inter Miami in playoffs",
-      "summary": "Columbus finished seventh in the Eastern Conference with 47 points after beating Chicago Fire 4-3 in Saturday's regular-season finale. The Crew open a best-of-three first-round series on the road against No. 2 Inter Miami and host Game 2, with dates still to be set.",
+      "title": "Land-Grant acquires Nocterra, will reopen Powell taproom",
+      "summary": "Columbus-based Land-Grant Brewing has acquired Nocterra Brewing and plans to reopen its Powell taproom in late November as a holiday pop-up. Land-Grant will then close the space in January for an extensive renovation; it did not acquire Nocterra's Scioto Audubon location.",
       "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/mls/columbus-crew/crew-enter-mls-playoffs-as-no-7-seed-to-face-inter-miami-in-round-one/",
-      "publishedAt": "2026-11-08T16:30:00Z",
-      "tags": [
-        "Columbus Crew",
-        "MLS",
-        "Inter Miami",
-        "playoffs"
-      ],
-      "id": "local-15"
+      "url": "https://www.nbc4i.com/news/local-news/powell/land-grant-brewing-acquires-nocterra-brewing-plans-to-reopen-powell-taproom/",
+      "publishedAt": "2026-11-09T12:00:00Z",
+      "tags": ["Columbus", "Powell", "breweries", "business"]
     },
     {
+      "id": "local-acton-transition-begins",
       "category": "local",
-      "title": "Frost advisory issued for Franklin County into Monday morning",
-      "summary": "The National Weather Service posted a frost advisory for Franklin County and parts of central Ohio from 1 a.m. to 9 a.m. Monday, with lows expected near freezing after a sunny, mild Sunday. It follows a freeze warning that hit parts of the region Sunday morning.",
-      "source": "National Weather Service",
-      "url": "https://forecast.weather.gov/MapClick.php?zoneid=OHZ055",
-      "publishedAt": "2026-11-08T14:57:00Z",
-      "tags": [
-        "weather",
-        "Franklin County",
-        "frost advisory",
-        "Columbus"
-      ],
-      "id": "local-16"
+      "title": "Ohio begins transition to Acton-led state government",
+      "summary": "Gov.-elect Amy Acton has started the transition to become Ohio's 71st governor, the first Democrat to hold the office since 2011. She has launched a website asking residents to get involved in her incoming administration.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/politics/ohio-begins-transition-to-acton-led-state-government/",
+      "publishedAt": "2026-11-09T11:30:00Z",
+      "tags": ["Ohio", "Amy Acton", "politics", "transition"]
+    },
+    {
+      "id": "local-osu-fraternity-suspended",
+      "category": "local",
+      "title": "Ohio State fraternity suspended after video shows people on fire",
+      "summary": "Ohio State placed Sigma Alpha Epsilon on interim suspension while it investigates a viral video that appears to show two people set on fire. A university spokesperson said the review began late Sunday after officials saw the footage.",
+      "source": "NBC4 | 10TV",
+      "url": "https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-fraternity-on-interim-suspension-after-video-shows-two-individuals-on-fire/",
+      "publishedAt": "2026-11-09T11:18:42Z",
+      "tags": ["Ohio State", "fraternity", "Columbus", "investigation"]
+    },
+    {
+      "id": "local-pammy-maye-trial-opens",
+      "category": "local",
+      "title": "Trial opens for Pammy Maye in death of 5-year-old Darnell Taylor",
+      "summary": "Jury selection and opening arguments begin Monday in the trial of Pammy Maye, 51, charged with aggravated murder, tampering with evidence and abuse of a corpse in the death of 5-year-old Darnell Taylor. The case drew national attention after an AMBER Alert in 2024.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/article/news/local/pammy-maye-5-year-old-darnell-taylor-death-trial/530-4c5321ec-fa32-4da5-a148-85f4f9156783",
+      "publishedAt": "2026-11-09T02:26:16Z",
+      "tags": ["Columbus", "trial", "crime", "Darnell Taylor"]
     }
   ]
 }
