@@ -1,26 +1,231 @@
-{"meta": {"updatedAt": "2026-11-10T20:45:00Z", "generatedBy": "hermes-cron", "title": "Daily Brief", "windowHours": 12, "count": 24}, "stories": [
-{"id": "haiti-salvador-gang-operation", "category": "top", "title": "Salvadoran troops join Haiti gang operation that left 20 dead", "summary": "Salvadoran troops backed a Haitian police operation against a gang that left about 20 people dead, ahead of the Haitian prime minister visit to El Salvador. It deepens San Salvador security role in the Caribbean nation.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead", "publishedAt": "2026-11-10T20:22:21Z", "tags": ["Haiti", "El Salvador", "gangs", "security"]},
-{"id": "jordan-house-minority-leader", "category": "top", "title": "Republicans elect Jim Jordan as House minority leader", "summary": "Ohio congressman Jim Jordan won a closed-door Republican vote to become House minority leader, succeeding Mike Johnson. He now leads the GOP opposition as the party adjusts to life in the minority.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader", "publishedAt": "2026-11-10T19:54:46Z", "tags": ["US politics", "Congress", "Republicans", "Ohio"]},
-{"id": "bangladesh-hasina-protests", "category": "top", "title": "Violence erupts in Bangladesh as Hasina supporters protest", "summary": "Supporters of ousted prime minister Sheikh Hasina demonstrated to demand her return from exile in India, and the protests turned violent. Hasina has said she intends to come home in December.", "source": "BBC News", "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko", "publishedAt": "2026-11-10T19:26:42Z", "tags": ["Bangladesh", "Sheikh Hasina", "protests", "South Asia"]},
-{"id": "rubio-iran-no-major-combat", "category": "top", "title": "Rubio says no need for major combat operations against Iran", "summary": "Secretary of State Marco Rubio said there is no need for further major combat operations against Iran, signaling Washington is leaning on diplomacy after weeks of strikes. Regional mediators are pushing to keep the ceasefire track alive.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran", "publishedAt": "2026-11-10T19:34:13Z", "tags": ["Iran", "United States", "diplomacy", "Middle East"]},
-{"id": "anthropic-founders-ipo-payout", "category": "tech", "title": "Anthropic founders to each sell about $250M in IPO", "summary": "All seven Anthropic co-founders plan to sell identical share blocks worth roughly $250 million each at the midpoint of the IPO price range. The sales would still leave the founding group in control of the AI company.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/", "publishedAt": "2026-11-10T19:57:52Z", "tags": ["Anthropic", "IPO", "AI", "business"]},
-{"id": "nvidia-wachtell-huang-investigation", "category": "tech", "title": "Nvidia hires Wachtell to investigate Huang affair", "summary": "Nvidia retained law firm Wachtell, Lipton, Rosen and Katz, with former US Attorney Joon Kim leading an independent investigation into CEO Jensen Huang relationship with a woman alleged to be a Chinese spy. The FBI is running its own probe.", "source": "BBC News", "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go", "publishedAt": "2026-11-10T20:03:41Z", "tags": ["Nvidia", "Jensen Huang", "China", "investigation"]},
-{"id": "oura-counsel-health-acquisition", "category": "tech", "title": "Oura to buy AI primary care startup Counsel Health for $625M", "summary": "Smart ring maker Oura agreed to acquire AI-native primary care startup Counsel Health for $625 million. The deal comes weeks after Oura shelved its IPO plans, citing market uncertainty.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/", "publishedAt": "2026-11-10T19:23:34Z", "tags": ["Oura", "acquisition", "health tech", "AI"]},
-{"id": "openai-chatgpt-business-profiles", "category": "tech", "title": "OpenAI adds business profiles and agents to ChatGPT", "summary": "OpenAI rolled out verified business profiles and AI business agents inside ChatGPT, pushing the chatbot toward product discovery and comparison shopping. The features put ChatGPT in more direct competition with Google search.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/", "publishedAt": "2026-11-10T18:49:52Z", "tags": ["OpenAI", "ChatGPT", "commerce", "AI agents"]},
-{"id": "browns-cousins-vikings-trade", "category": "browns", "title": "Vikings trade for Kirk Cousins, removing a QB suitor", "summary": "Minnesota sent a 2027 third-round pick to Las Vegas for Kirk Cousins hours before the NFL trade deadline. The move filled the Vikings quarterback need and took a potential landing spot for Shedeur Sanders off the board.", "source": "cleveland.com", "url": "https://www.cleveland.com/sports/2026/11/veteran-nfl-quarterback-kirk-cousins-traded-to-super-bowl-contender.html", "publishedAt": "2026-11-10T20:01:09Z", "tags": ["Browns", "NFL", "trade deadline", "quarterbacks"]},
-{"id": "browns-monken-no-starter-named", "category": "browns", "title": "Monken declines to name Browns starter for Texans game", "summary": "Todd Monken said he was not ready to name either Deshaun Watson or Shedeur Sanders the starter for Sunday against Houston. Sanders threw for 297 yards and two touchdowns in the overtime loss at New Orleans.", "source": "NBC Sports", "url": "https://www.nbcsports.com/watch/nfl/profootballtalk/browns-todd-monken-says-hes-not-ready-to-name-a-starter-for-week-10", "publishedAt": "2026-11-10T14:44:00Z", "tags": ["Browns", "Todd Monken", "Shedeur Sanders", "quarterbacks"]},
-{"id": "browns-labbe-qb-urgency", "category": "browns", "title": "Analyst: Browns young playmakers raise quarterback urgency", "summary": "Dan Labbe argues that breakout seasons from Cleveland young skill players make solving the quarterback position more urgent. He weighs Watson, Sanders and a 2027 draft pick as the paths forward.", "source": "cleveland.com", "url": "https://www.cleveland.com/browns/2026/11/why-the-browns-young-offense-increases-the-sense-of-urgency-to-solve-quarterback-dan-labbe.html", "publishedAt": "2026-11-10T10:00:00Z", "tags": ["Browns", "analysis", "quarterbacks", "roster"]},
-{"id": "osu-day-presser-fahey", "category": "buckeyes", "title": "Day says he is frustrated but sticking with Fahey at QB", "summary": "Ryan Day said he is extremely disappointed and frustrated with the Ohio State two-game slide and is evaluating his staff weekly. He confirmed Luke Fahey remains the starting quarterback against Northwestern.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165336/presser-bullets-ryan-day-is-extremely-disappointed-and-frustrated-reaffirms-that-luke-fahey-is-the-starting-qb-and", "publishedAt": "2026-11-10T18:34:00Z", "tags": ["Ohio State", "Ryan Day", "Luke Fahey", "football"]},
-{"id": "osu-rob-keys-special-teams", "category": "buckeyes", "title": "Rob Keys takes over Ohio State special teams after firing", "summary": "Rob Keys, an analyst and quality control coach since 2022, will coordinate special teams for the rest of the 2026 season. The change follows the firing of coordinator Robby Discher.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165328/rob-keys-will-be-ohio-state-s-special-teams-coordinator-for-rest-of-2026-season-after-robby-discher-s-firing", "publishedAt": "2026-11-10T17:20:00Z", "tags": ["Ohio State", "coaching", "special teams", "football"]},
-{"id": "osu-sonny-styles-victory-bell", "category": "buckeyes", "title": "Sonny Styles to ring Victory Bell before Northwestern game", "summary": "Former Ohio State linebacker Sonny Styles returns to Ohio Stadium to ring the Victory Bell on Saturday. He becomes the first active NFL player to ring it before a regular-season game.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165326/sonny-styles-returns-to-ohio-stadium-to-ring-victory-bell-before-northwestern-game", "publishedAt": "2026-11-10T15:18:00Z", "tags": ["Ohio State", "Sonny Styles", "tradition", "football"]},
-{"id": "osu-northwestern-chip-kelly", "category": "buckeyes", "title": "Chip Kelly brings high-scoring Northwestern offense to Columbus", "summary": "Ohio State hosts a 6-3 Northwestern team running a Chip Kelly offense that has surprised the Big Ten. The status of quarterback Aidan Chiles is uncertain after he missed last week with an injury.", "source": "Eleven Warriors", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165318/five-things-to-know-northwestern", "publishedAt": "2026-11-10T13:30:00Z", "tags": ["Ohio State", "Northwestern", "Chip Kelly", "preview"]},
-{"id": "f1-hamilton-rafah-visit", "category": "f1", "title": "Hamilton visits Rafah crossing on Gaza aid trip", "summary": "Lewis Hamilton toured the Egyptian side of the Rafah crossing and Egyptian Red Crescent warehouses, meeting aid workers. The North Sinai governor said the visit was a chance to see how supplies reach Gaza.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border", "publishedAt": "2026-11-10T20:14:34Z", "tags": ["Formula 1", "Lewis Hamilton", "Gaza", "humanitarian aid"]},
-{"id": "f1-malone-sells-liberty-voting-power", "category": "f1", "title": "Liberty Media founder John Malone sells F1 voting power", "summary": "John Malone, the Liberty Media founder and former chairman, has sold his significant voting power in Formula 1 parent company. The sale reshapes influence over the sport commercial rights holder.", "source": "The Race", "url": "https://www.the-race.com/business/liberty-media-founder-john-malone-sells-voting-power-f1-parent-company/", "publishedAt": "2026-11-10T17:09:30Z", "tags": ["Formula 1", "Liberty Media", "business", "ownership"]},
-{"id": "f1-wolff-antonelli-senninha", "category": "f1", "title": "Wolff: Antonelli is not Senna yet, but maybe a Senninha", "summary": "Toto Wolff said comparisons between Kimi Antonelli and Ayrton Senna are premature but called his champion driver a Senninha, a little Senna. The remark came as Brazilian media search for the next great Brazilian driver.", "source": "Motorsport.com", "url": "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonelli-isnt-ayrton-senna-yet-but-he-may-be-a-senninha-/10873544/", "publishedAt": "2026-11-10T16:25:05Z", "tags": ["Formula 1", "Kimi Antonelli", "Toto Wolff", "Mercedes"]},
-{"id": "f1-imola-reserve-venue-dropped", "category": "f1", "title": "F1 drops Imola as fallback with Middle East finale in doubt", "summary": "Formula 1 formally stood Imola down as a reserve venue, leaving Qatar on November 29 and Abu Dhabi on December 6 as the planned season finale. There is no backup plan if the Iran war escalates and the Gulf races cannot run.", "source": "The Race", "url": "https://www.the-race.com/formula-1/f1-stands-imola-down-what-it-means-for-2026-and-27-calendars/", "publishedAt": "2026-11-10T14:22:02Z", "tags": ["Formula 1", "Imola", "calendar", "Qatar"]},
-{"id": "tarkov-untar-season-teaser", "category": "tarkov", "title": "Tarkov players parse new UNTAR season teaser", "summary": "Players on the Escape from Tarkov subreddit are dissecting a teaser video tagged UNTAR as Battlestate prepares to reveal the Season 2 theme. Season 2 is due in December and replaces the Kord Breach season.", "source": "Reddit | r/EscapefromTarkov", "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xst721/discussion_new_season_untar_teaser_video/", "publishedAt": "2026-11-10T17:36:25Z", "tags": ["Escape from Tarkov", "season 2", "Battlestate Games", "community"]},
-{"id": "local-pammy-maye-guilty-verdict", "category": "local", "title": "Jury convicts Pammy Maye in death of 5-year-old Darnell Taylor", "summary": "A Franklin County jury found Pammy Maye guilty of aggravated murder, tampering with evidence and gross abuse of a corpse. The case stems from the 2024 death of Darnell Taylor, whose remains were found in a storm drain.", "source": "10TV", "url": "https://www.10tv.com/article/news/crime/pammy-maye-murder-trial-verdict-death-of-darnell-taylor/530-35579583-d9a8-4b78-b4bb-b50c866832dd", "publishedAt": "2026-11-10T20:05:31Z", "tags": ["Columbus", "courts", "Franklin County", "crime"]},
-{"id": "local-veterans-day-closures", "category": "local", "title": "Veterans Day 2026: what is open and closed around Columbus", "summary": "Columbus area services shift for Veterans Day on Wednesday, including trash collection changes and free COTA rides for veterans. Most government offices and some businesses close for the holiday.", "source": "NBC4", "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/ohio-trash-collection-vets-day/", "publishedAt": "2026-11-10T17:30:00Z", "tags": ["Columbus", "Veterans Day", "COTA", "service changes"]},
-{"id": "local-columbus-italian-restaurant-sale", "category": "local", "title": "Longtime Columbus Italian restaurant listed for sale", "summary": "A longtime northeast Columbus Italian restaurant is up for sale as its owner looks for a successor. The listing adds to a wave of turnover among locally owned restaurants in the city.", "source": "NBC4", "url": "https://www.nbc4i.com/news/local-news/columbus/longtime-columbus-italian-restaurant-listed-for-sale-as-owner-searches-for-successor/", "publishedAt": "2026-11-10T14:30:00Z", "tags": ["Columbus", "restaurants", "business", "local economy"]},
-{"id": "local-i71-polaris-fatal-crash", "category": "local", "title": "Woman struck by semi on I-71 near Polaris dies", "summary": "A 25-year-old woman injured in a weekend rear-end collision on Interstate 71 near Polaris died Monday night, Columbus police said. The crash remains under investigation.", "source": "NBC4", "url": "https://www.nbc4i.com/news/local-news/columbus/woman-struck-by-semi-truck-on-i-71-near-polaris-dies-two-days-later/", "publishedAt": "2026-11-10T13:15:00Z", "tags": ["Columbus", "traffic", "Polaris", "I-71"]}
-]}
+{
+  "meta": {
+    "updatedAt": "2026-11-11T12:20:00Z",
+    "generatedBy": "hermes-cron",
+    "title": "Daily Brief",
+    "windowHours": 12,
+    "count": 22
+  },
+  "stories": [
+    {
+      "id": "top-israel-parliament-20261111",
+      "category": "top",
+      "title": "Israel's new parliament sworn in as rivals vie to form government",
+      "summary": "Israel's newly elected Knesset was sworn in Wednesday, with Benjamin Netanyahu's main rival Gadi Eisenkot handed the first chance to assemble a governing coalition. The outcome will decide whether Netanyahu returns as prime minister or is pushed out after years in office.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crd939lpzjp9o",
+      "publishedAt": "2026-11-11T10:00:00Z",
+      "tags": ["israel", "politics", "netanyahu", "knesset"]
+    },
+    {
+      "id": "top-ustluga-drones-20261111",
+      "category": "top",
+      "title": "Ukrainian drones hit Russia's Ust-Luga port, sparking fire and diverting flights",
+      "summary": "Drone strikes overnight set fire to the port zone of Ust-Luga on Russia's Baltic coast and injured three workers, Leningrad region governor Alexander Drozdenko said. The attack forced Pulkovo Airport near St Petersburg to close temporarily, diverting inbound flights to Helsinki.",
+      "source": "Meduza",
+      "url": "https://meduza.io/en/news/2026/11/11/ukrainian-drones-strike-port-in-russia-s-leningrad-region-sparking-fire",
+      "publishedAt": "2026-11-11T08:13:00Z",
+      "tags": ["ukraine", "russia", "drones", "energy"]
+    },
+    {
+      "id": "top-iran-argentina-20261111",
+      "category": "top",
+      "title": "Iran designates Argentina's navy and air force as 'terrorist organizations'",
+      "summary": "Tehran said Wednesday it now treats Argentina's navy and air force as terrorist entities, a reciprocal move after Buenos Aires listed Iran's Revolutionary Guard Corps in April. The tit-for-tat escalation comes as Washington presses allies to isolate the IRGC.",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/world/2026/11/11/iran-designates-argentina-s-navy-and-air-force-as-terrorist-organizations-",
+      "publishedAt": "2026-11-11T06:16:00Z",
+      "tags": ["iran", "argentina", "diplomacy", "irgc"]
+    },
+    {
+      "id": "top-cop31-leaders-20261111",
+      "category": "top",
+      "title": "World leaders make their pitches at COP31 as Turkey pushes a new climate deal",
+      "summary": "Heads of state addressed the COP31 summit in Turkey on Wednesday, setting out competing climate priorities while negotiators try to agree on a fresh framework. Turkey is pushing its own deal text as talks run against the clock.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/cop/world-leaders-address-cop31-turkey-pushes-new-climate-deal-2026-11-11",
+      "publishedAt": "2026-11-11T06:00:00Z",
+      "tags": ["climate", "cop31", "turkey", "diplomacy"]
+    },
+    {
+      "id": "tech-maya-agent-swarm-20261111",
+      "category": "tech",
+      "title": "AI agent swarm may have found an unmapped Maya site in Mexico",
+      "summary": "Google researcher Pietro Miotti says 48 AI agents combing NASA lidar data flagged signs of an unrecorded ancient site in Mexico, and Mexico's national archaeology institute has replied. The find still needs fieldwork to confirm, but it's an early example of agents doing real discovery work.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031498/an-ai-agent-swarm-may-have-unearched-an-unmapped-maya-site",
+      "publishedAt": "2026-11-11T11:10:00Z",
+      "tags": ["ai-agents", "google", "archaeology", "research"]
+    },
+    {
+      "id": "tech-gmail-helpme-write-20261111",
+      "category": "tech",
+      "title": "Google extends Gmail's 'Help me write' AI to Workspace work accounts",
+      "summary": "Google is rolling out Gemini-powered 'Help me write' to all Workspace users 18 and older over the next two weeks, and expanding AI conversation summaries that synthesize key points and replies. It pushes generative AI deeper into workplace email, where compliance and data-handling concerns are sharper.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031489/google-is-bringing-gmails-help-me-write-ai-tool-to-work-accounts",
+      "publishedAt": "2026-11-11T10:10:00Z",
+      "tags": ["google", "gemini", "workspace", "email"]
+    },
+    {
+      "id": "tech-openai-veterans-20261111",
+      "category": "tech",
+      "title": "OpenAI says 20,000 veterans have claimed a free year of ChatGPT Plus",
+      "summary": "Ahead of Veterans Day, OpenAI said more than 20,000 transitioning service members and veterans have claimed a free year of ChatGPT Plus, backed by ID.me verification. The company is pairing the offer with job-transition training events through its Academy program.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans/",
+      "publishedAt": "2026-11-11T07:00:00Z",
+      "tags": ["openai", "chatgpt", "veterans", "access"]
+    },
+    {
+      "id": "browns-deadline-nothingburger-20261111",
+      "category": "browns",
+      "title": "Browns stand pat at the trade deadline with all four quarterbacks still on the roster",
+      "summary": "Cleveland made no trades before Tuesday's 4 p.m. deadline, keeping Deshaun Watson, Shedeur Sanders, Dillon Gabriel and Taylen Green on the 53-man roster. The inaction leaves the QB picture unresolved ahead of Sunday's home game against Houston.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/137722/cleveland-browns-news-a-big-nothingburger-at-the-trade-deadline",
+      "publishedAt": "2026-11-11T11:00:00Z",
+      "tags": ["browns", "nfl", "trade-deadline", "quarterbacks"]
+    },
+    {
+      "id": "browns-depth-chart-watson-20261111",
+      "category": "browns",
+      "title": "Browns' depth chart still lists Watson over Sanders as Monken stays quiet",
+      "summary": "Cleveland's unofficial depth chart released Tuesday keeps Deshaun Watson ahead of Shedeur Sanders, but coach Todd Monken has declined to name a starter for Sunday's game against the Texans. Watson cleared concussion protocol over the weekend after Sanders threw for 297 yards and two touchdowns in the overtime loss at New Orleans.",
+      "source": "Heavy",
+      "url": "https://heavy.com/sports/nfl/cleveland-browns/unveil-shedeur-sanders-depth-chart-decision/",
+      "publishedAt": "2026-11-11T09:36:00Z",
+      "tags": ["browns", "shedeur-sanders", "deshaun-watson", "depth-chart"]
+    },
+    {
+      "id": "browns-rg3-sanders-20261111",
+      "category": "browns",
+      "title": "Robert Griffin III says Shedeur Sanders should be Cleveland's starting QB",
+      "summary": "On his Outta Pocket podcast, the former Browns quarterback argued Sanders gives Cleveland explosive plays Watson hasn't, pointing to 60- and 64-yard gains against the Saints. ESPN has reported Watson will start Sunday in Houston, making this weekend a referendum on the call.",
+      "source": "Browns Nation",
+      "url": "https://www.brownsnation.com/robert-griffin-iii-takes-a-firm-side-in-the-browns-qb-debate/",
+      "publishedAt": "2026-11-11T08:00:00Z",
+      "tags": ["browns", "shedeur-sanders", "rg3", "quarterback-debate"]
+    },
+    {
+      "id": "buckeyes-skull-session-20261111",
+      "category": "buckeyes",
+      "title": "Urban Meyer: Ohio State is 'still in the hunt'; Tressel says 'never say never' on CFP",
+      "summary": "Meyer told The Triple Option that everything is still on the table for the 6-3 Buckeyes over their final three regular-season games, while Jim Tressel argued a three-loss team can still factor into the 12-team playoff. Ohio State sits at No. 20 in the CFP rankings but No. 4 in SP+.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165330/skull-session-urban-meyer-says-ohio-state-is-still-in-the-hunt-for-a-big-ten-and-national-title-jim-tressel-says-never-say-never-about-a-three-loss-cfp-bid-for-the-buckeyes",
+      "publishedAt": "2026-11-11T09:55:00Z",
+      "tags": ["buckeyes", "ohio-state", "cfp", "urban-meyer"]
+    },
+    {
+      "id": "buckeyes-day-staff-20261111",
+      "category": "buckeyes",
+      "title": "Ryan Day commits to his current coaching staff after firing special teams coordinator",
+      "summary": "Day said he is not planning further staff changes this season after Monday's dismissal of special teams coordinator Robby Discher, with analyst Rob Keys now running the unit. He also reaffirmed Luke Fahey as the starter against Northwestern despite back-to-back double-digit losses.",
+      "source": "ABC 6",
+      "url": "https://abc6onyourside.com/news/local/ryan-day-commits-to-current-coaching-staff-despite-recent-struggles-matt-patricia-arthur-smith",
+      "publishedAt": "2026-11-11T04:00:00Z",
+      "tags": ["buckeyes", "ryan-day", "coaching", "northwestern"]
+    },
+    {
+      "id": "buckeyes-cfp-path-20261111",
+      "category": "buckeyes",
+      "title": "Ohio State's path back to the CFP is improbable but not impossible",
+      "summary": "Ten teams have climbed from No. 20 or worse into the top 12 within four weeks, but several factors work against the Buckeyes. Their cleanest route: win out, have Oregon lose once, plus USC beating Indiana and UCLA beating USC.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165345/ohio-state-has-improbable-but-not-impossible-path-back-to-college-football-playoff",
+      "publishedAt": "2026-11-11T03:00:00Z",
+      "tags": ["buckeyes", "cfp", "big-ten", "playoff"]
+    },
+    {
+      "id": "buckeyes-cfp-no20-20261111",
+      "category": "buckeyes",
+      "title": "Ohio State falls to No. 20 in CFP rankings, its lowest ever",
+      "summary": "The second College Football Playoff rankings put the 6-3 Buckeyes at No. 20, the lowest CFP position in program history and their worst AP standing since September 2014. Analytics still like Ohio State, ranking it No. 4 in SP+ and No. 5 in ESPN's FPI.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165343/ohio-state-falls-in-the-cfp-rankings-after-suffering-third-loss-of-2026",
+      "publishedAt": "2026-11-11T00:45:00Z",
+      "tags": ["buckeyes", "cfp-rankings", "ohio-state", "ap-poll"]
+    },
+    {
+      "id": "f1-wolff-antonelli-20261111",
+      "category": "f1",
+      "title": "Toto Wolff: Antonelli isn't Senna yet, but he may be a 'Senninha'",
+      "summary": "Mercedes boss Toto Wolff compared his new world champion Kimi Antonelli to Ayrton Senna while cautioning against overstating the parallel. The remark lands as Mercedes celebrates the constructors' title and Antonelli heads toward the Las Vegas-Qatar-Abu Dhabi finale.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonelli-isnt-ayrton-senna-yet-but-he-may-be-a-senninha-/10873544/",
+      "publishedAt": "2026-11-11T07:00:00Z",
+      "tags": ["f1", "mercedes", "antonelli", "wolff"]
+    },
+    {
+      "id": "f1-imola-off-20261111",
+      "category": "f1",
+      "title": "F1 drops Imola as a backup finale with no plan B if the Iran war escalates",
+      "summary": "F1 told Imola on the November 10 deadline that it would not be needed as an alternative season closer, so 2026 will finish with Las Vegas, Qatar and Abu Dhabi as planned. Officials concede there is no fallback if the Middle East conflict worsens before early December.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/f1-2026-calendar-update-imola-off-the-table-no-plan-b-if-iran-war-escalates/10873643/",
+      "publishedAt": "2026-11-11T05:00:00Z",
+      "tags": ["f1", "calendar", "imola", "middle-east"]
+    },
+    {
+      "id": "f1-aduo-final-20261111",
+      "category": "f1",
+      "title": "FIA confirms no extra engine upgrades in final ADUO review",
+      "summary": "The FIA's third and final ADUO analysis found performance gaps shifted but granted no additional homologations to any power unit manufacturer. Mercedes, Ferrari, Audi and Honda keep the upgrade tokens they were already awarded for 2026 and 2027.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/10873566/",
+      "publishedAt": "2026-11-11T02:00:00Z",
+      "tags": ["f1", "fia", "power-units", "regulations"]
+    },
+    {
+      "id": "f1-stroll-dnf-20261111",
+      "category": "f1",
+      "title": "Honda at a loss to explain Lance Stroll's 13th DNF of the season",
+      "summary": "Honda says it cannot yet pin down the cause of Stroll's latest retirement in Brazil, his 13th of the 2026 campaign. The recurring failures have wrecked Aston Martin's season and raised questions about the works power unit's reliability.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/",
+      "publishedAt": "2026-11-11T01:00:00Z",
+      "tags": ["f1", "aston-martin", "honda", "reliability"]
+    },
+    {
+      "id": "local-franklinton-shooting-20261111",
+      "category": "local",
+      "title": "Man shot and killed near Greenlawn Cemetery in Franklinton",
+      "summary": "Columbus police were called to Sullivant and Brehl avenues just before 10:45 p.m. Tuesday and found a man shot; he died about an hour later at the hospital. No suspects have been identified and the investigation is ongoing.",
+      "source": "ABC 6",
+      "url": "https://abc6onyourside.com/news/local/man-shot-killed-near-greenlawn-cemetery-police-seek-suspects",
+      "publishedAt": "2026-11-11T11:03:00Z",
+      "tags": ["columbus", "franklinton", "crime", "shooting"]
+    },
+    {
+      "id": "local-hilltop-brothels-20261111",
+      "category": "local",
+      "title": "Woman accused of running two brothels out of a Hilltop home after SWAT raid",
+      "summary": "Columbus police arrested Gina Lizeth Cortes Caicedo on Monday after a SWAT operation on W. Mound Street, alleging she operated two brothels on the city's West Side. Neighbors told investigators the activity had been visible for months.",
+      "source": "ABC 6",
+      "url": "https://abc6onyourside.com/news/local/turning-a-blind-eye-woman-accused-of-operating-two-brothels-after-hilltop-raid-mound-street-richardson-ave-swat-operation-west-side-whatsapp-gina-lizeth-cortes-caicedo",
+      "publishedAt": "2026-11-11T03:00:00Z",
+      "tags": ["columbus", "hilltop", "crime", "police"]
+    },
+    {
+      "id": "local-comfest-future-20261111",
+      "category": "local",
+      "title": "ComFest's future in doubt after 50-plus years as costs outrun revenue",
+      "summary": "Organizers of the volunteer-run Columbus festival say rising costs and falling revenue could make next summer its last. They are surveying attendees and hunting for new funding and grants.",
+      "source": "ABC 6",
+      "url": "https://abc6onyourside.com/news/local/future-of-comfest-in-question-due-to-costs-increasing-and-revenue-decreasing-beating-heart-volunteer-beer-sales-grant-program-survey-attendee-funding-fundraiser-festival",
+      "publishedAt": "2026-11-11T02:00:00Z",
+      "tags": ["columbus", "comfest", "events", "local-business"]
+    },
+    {
+      "id": "local-flock-compromise-20261111",
+      "category": "local",
+      "title": "Ohio law enforcement groups seek a compromise to keep Flock cameras running",
+      "summary": "The state FOP, sheriffs' association, police chiefs and prosecutors asked lawmakers for misuse penalties, vendor accountability and mandatory audits rather than an outright ban on Flock license plate readers. Several central Ohio agencies, including Columbus police, have paused the technology amid misconduct allegations.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/ohio-law-enforcement-agencies-looking-for-flock-compromise/",
+      "publishedAt": "2026-11-11T01:00:00Z",
+      "tags": ["ohio", "columbus", "surveillance", "privacy"]
+    }
+  ]
+}
