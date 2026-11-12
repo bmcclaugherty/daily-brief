@@ -1,351 +1,250 @@
 {
   "meta": {
-    "updatedAt": "2026-11-11T20:30:00Z",
+    "updatedAt": "2026-11-12T12:06:22Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 24
+    "count": 17
   },
   "stories": [
     {
-      "id": "top-spain-general-strike",
+      "id": "nordic-defence-deal",
       "category": "top",
-      "title": "Clashes in Barcelona as thousands join Spain general strike",
-      "summary": "Spain's first general strike in 14 years brought tens of thousands into the streets over housing costs and wages, with scuffles breaking out in Barcelona. It signals how far cost-of-living anger is now spilling into national politics across Europe.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwvg25nypmrvo",
-      "publishedAt": "2026-11-11T19:59:48Z",
+      "title": "Nordic countries move toward a common defence deal",
+      "summary": "Norway said the Nordic countries will work toward a joint defence arrangement, deepening regional military cooperation. The push comes as European governments reassess security guarantees and procurement in the wake of the Ukraine war.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/nordic-countries-work-towards-common-defence-deal-norway-says-2026-11-12/",
+      "publishedAt": "2026-11-12T12:03:00Z",
       "tags": [
-        "spain",
-        "strike",
-        "housing",
-        "europe"
+        "Nordics",
+        "defence",
+        "Europe"
       ]
     },
     {
-      "id": "top-ukraine-talks-abu-dhabi",
+      "id": "g7-china-taiwan-warning",
       "category": "top",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Two days of US-mediated talks in Abu Dhabi produced agreement on a large prisoner exchange but no deal on a ceasefire or territory, and US envoys meet Putin and Zelensky on Thursday. The exchange is the first concrete result of direct Kyiv-Moscow talks in nine months.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ck792we7zrz4o",
-      "publishedAt": "2026-11-11T18:04:58Z",
+      "title": "G7 warns China's actions east of Taiwan threaten stability",
+      "summary": "G7 foreign ministers meeting in Paris issued a joint declaration saying China's increasingly assertive actions in the waters east of Taiwan threaten regional stability and freedom of navigation. The statement adds coordinated Western pressure on Beijing over its military posture near the island.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/g7-foreign-ministers-say-chinas-actions-east-taiwan-threaten-stability-2026-11-12/",
+      "publishedAt": "2026-11-12T09:05:00Z",
       "tags": [
-        "ukraine",
-        "russia",
+        "G7",
+        "China",
+        "Taiwan",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "russia-massive-strike-ukraine",
+      "category": "top",
+      "title": "Russia says it hit Ukrainian military factories in massive overnight strike",
+      "summary": "Russia's defence ministry said it launched a large overnight strike on Ukrainian military-industrial facilities as Moscow and Kyiv traded attacks on each other's capitals. The escalation came hours before US envoys sat down with Vladimir Putin.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-ukraine-exchange-attacks-capitals-us-envoys-head-moscow-2026-11-12/",
+      "publishedAt": "2026-11-12T09:00:00Z",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "war"
+      ]
+    },
+    {
+      "id": "us-envoys-moscow-talks",
+      "category": "top",
+      "title": "Kushner and Witkoff arrive in Moscow for Putin peace talks",
+      "summary": "US envoys Jared Kushner and Steve Witkoff landed in Moscow for talks with Vladimir Putin, the 10th in-person Witkoff-Putin meeting of the push to end the war. It follows two days of US-mediated trilateral talks in Abu Dhabi that yielded a planned prisoner exchange but no breakthrough on territory.",
+      "source": "Reuters via U.S. News",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-12/us-envoys-arrive-in-moscow-for-latest-round-of-ukrainian-peace-talks-with-putin",
+      "publishedAt": "2026-11-12T07:25:00Z",
+      "tags": [
+        "Ukraine",
+        "Russia",
         "diplomacy",
-        "abu-dhabi"
+        "United States"
       ]
     },
     {
-      "id": "top-bessent-relocated",
-      "category": "top",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary": "Bessent has moved onto a military base following alleged Iranian threats, making him one of several Trump administration officials living on bases for security reasons. It points to how Iran's retaliation campaign is now shaping daily security posture in Washington.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqr7gr0010r2o",
-      "publishedAt": "2026-11-11T16:45:11Z",
+      "id": "nvidia-huang-successors",
+      "category": "tech",
+      "title": "Who could replace Jensen Huang? TechCrunch runs the list",
+      "summary": "With Nvidia's board reportedly weighing a change at the top, TechCrunch circulated a self-described unscientific list of possible successors to CEO Jensen Huang. The speculation matters because Nvidia's leadership is now a market-wide risk factor for the AI buildout.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "publishedAt": "2026-11-12T04:05:00Z",
       "tags": [
-        "iran",
-        "treasury",
+        "Nvidia",
+        "AI",
+        "leadership"
+      ]
+    },
+    {
+      "id": "apache-http-rce-cve",
+      "category": "tech",
+      "title": "Critical RCE flaw found in Apache HTTP Server",
+      "summary": "Wiz published details of CVE-2026-119618, a critical remote code execution vulnerability in Apache HTTP Server, warning that unpatched servers are exposed. The disclosure shot to the top of Hacker News as administrators scrambled to patch internet-facing deployments.",
+      "source": "Wiz",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "publishedAt": "2026-11-12T03:20:00Z",
+      "tags": [
         "security",
-        "united-states"
+        "Apache",
+        "vulnerability"
       ]
     },
     {
-      "id": "top-indonesia-vp-resigns",
-      "category": "top",
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "summary": "Indonesia's vice president stepped down as President Prabowo's relationship with predecessor Joko Widodo deteriorates, unsettling the governing coalition. The exit raises questions about stability in Southeast Asia's largest economy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cmvgxgz87qqro",
-      "publishedAt": "2026-11-11T16:38:07Z",
-      "tags": [
-        "indonesia",
-        "politics",
-        "southeast-asia"
-      ]
-    },
-    {
-      "id": "tech-coreweave-prepayments",
+      "id": "nvidia-huang-scandal-timeline",
       "category": "tech",
-      "title": "CoreWeave turns to customer prepayments and shorter contracts to fund AI growth",
-      "summary": "In its third-quarter earnings, CoreWeave said it is asking customers to pay upfront and borrowing against specific contracts to finance its AI buildout. The shift suggests the AI infrastructure boom is increasingly dependent on strained financing arrangements.",
+      "title": "The Jensen Huang scandal, assembled into a timeline",
+      "summary": "TechCrunch laid out how allegations that Nvidia's CEO had an affair with a woman linked to Chinese intelligence unfolded, from the first reports to the board's response. Nvidia's board and federal authorities are examining whether trade secrets were compromised.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "publishedAt": "2026-11-11T19:54:00Z",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-12T01:10:00Z",
       "tags": [
-        "coreweave",
-        "ai-infrastructure",
-        "earnings"
+        "Nvidia",
+        "AI",
+        "governance"
       ]
     },
     {
-      "id": "tech-openai-10b-quarter",
-      "category": "tech",
-      "title": "OpenAI's quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "OpenAI's quarterly sales reportedly topped $10 billion, roughly a 50% jump from $6.7 billion the prior quarter. The pace shows enterprise and consumer AI spending is still accelerating despite cost concerns.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "publishedAt": "2026-11-11T16:14:44Z",
-      "tags": [
-        "openai",
-        "revenue",
-        "ai"
-      ]
-    },
-    {
-      "id": "tech-alphagenome-2",
-      "category": "tech",
-      "title": "Google's AlphaGenome 2 zooms in on the cellular roots of disease",
-      "summary": "DeepMind released AlphaGenome 2, trained on more than 100 million cell profiles across 68 tissues, to predict how genetic variants affect specific cell types. It is available through the AlphaGenome API for non-commercial research, with a private preview for commercial use.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "publishedAt": "2026-11-11T15:00:00Z",
-      "tags": [
-        "deepmind",
-        "genomics",
-        "ai",
-        "research"
-      ]
-    },
-    {
-      "id": "tech-databricks-genie",
-      "category": "tech",
-      "title": "Databricks' new Genie agent takes on multistep work unsupervised",
-      "summary": "Databricks updated Genie so it can run extended, multistep tasks using an ontology built over customer data, with CEO Ali Ghodsi using it internally to surface uncomfortable feedback. It is part of the push to sell always-on agents to business leaders rather than just developers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "publishedAt": "2026-11-11T15:00:00Z",
-      "tags": [
-        "databricks",
-        "agents",
-        "enterprise-ai"
-      ]
-    },
-    {
-      "id": "browns-run-defense-line-movement",
+      "id": "browns-monken-sanders-exchange",
       "category": "browns",
-      "title": "Browns' aggressive line movement blamed for run-defense woes",
-      "summary": "Cleveland's disruptive defensive line games are opening running lanes that opponents are attacking with trap and wham blocks, cleveland.com analysis found. Houston arrives Sunday with a run game that could exploit exactly that.",
+      "title": "Monken: 'fun' Sanders exchange, no plans to bench O-linemen",
+      "summary": "Browns coach Todd Monken downplayed a sideline exchange with Shedeur Sanders over play selection and said he has no plans to bench any of his offensive linemen. Deshaun Watson remains the starter for Sunday's home game against Houston, his former team.",
       "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/11/cleveland-browns-aggressive-line-movement-blamed-for-run-defense-woes.html",
-      "publishedAt": "2026-11-11T20:30:00Z",
+      "url": "https://www.cleveland.com/browns/2026/11/todd-monken-explains-fun-exchange-with-shedeur-sanders-over-play-selection-no-plans-to-bench-any-o-linemen-browns-takeaways.html",
+      "publishedAt": "2026-11-12T10:10:00Z",
       "tags": [
-        "browns",
-        "defense",
-        "scheme"
+        "Browns",
+        "NFL",
+        "Deshaun Watson"
       ]
     },
     {
-      "id": "browns-watson-start-texans",
-      "category": "browns",
-      "title": "Browns to start Deshaun Watson at quarterback vs. Texans",
-      "summary": "Cleveland is going back to Deshaun Watson against his former team on Sunday after he missed one game in the concussion protocol, with Shedeur Sanders returning to backup. The move ends a week of ambiguity from coach Todd Monken about the position.",
-      "source": "NFL.com",
-      "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-11",
-      "publishedAt": "2026-11-11T15:23:23Z",
-      "tags": [
-        "browns",
-        "deshaun-watson",
-        "quarterback"
-      ]
-    },
-    {
-      "id": "browns-watson-official-berea",
-      "category": "browns",
-      "title": "Watson back as Browns starter over Sanders for Week 10",
-      "summary": "One game lost to a concussion was not enough to cost Watson the job, with Cleveland naming him starter for the Nov. 15 home game against Houston. Sanders had rallied the Browns late in New Orleans but the staff still preferred Watson's experience.",
-      "source": "Akron Beacon Journal",
-      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/11/11/deshaun-watson-browns-starting-qb-shedeur-sanders-week-10/92714728007/",
-      "publishedAt": "2026-11-11T13:51:00Z",
-      "tags": [
-        "browns",
-        "deshaun-watson",
-        "shedeur-sanders"
-      ]
-    },
-    {
-      "id": "buckeyes-jj-4-it-all",
+      "id": "osu-lowest-cfp-ranking",
       "category": "buckeyes",
-      "title": "Ohio State launches 'JJ 4 It All' campaign for Jeremiah Smith",
-      "summary": "Ohio State is promoting Smith for the Heisman, Biletnikoff, Maxwell and Walter Camp awards while tying the push to beating Michigan. Smith leads the Big Ten in catches, yards and touchdowns and leads the nation in scoring catches.",
-      "source": "Ohio State Athletics",
-      "url": "https://ohiostatebuckeyes.com/news/2026/11/11/football-ohio-state-launches-jj-4-it-all-mission-for-jeremiah-smith",
-      "publishedAt": "2026-11-11T19:58:00Z",
+      "title": "Ohio State falls to No. 20, its lowest CFP ranking ever",
+      "summary": "The second College Football Playoff rankings of 2026 dropped Ohio State from No. 12 to No. 20 after the 41-28 home loss to Oregon, the lowest the program has ever sat in the CFP era. At 6-3 the Buckeyes no longer control their postseason fate and need help to reach the Big Ten title game.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/sports/buckeyes/buckeyes-plummet-to-lowest-ranking-ever-in-playoff-era/",
+      "publishedAt": "2026-11-12T11:10:00Z",
       "tags": [
-        "ohio-state",
-        "jeremiah-smith",
-        "awards"
+        "Ohio State",
+        "CFP",
+        "football"
       ]
     },
     {
-      "id": "buckeyes-fahey-starter-northwestern",
+      "id": "osu-skull-session-meyer-tressel",
       "category": "buckeyes",
-      "title": "Ryan Day sticks with Luke Fahey at quarterback vs. Northwestern",
-      "summary": "Day confirmed true freshman Luke Fahey will make his third straight start Saturday despite back-to-back losses, saying Tavien St. Clair remains one snap away but has not earned the job yet. The offense has sputtered since Julian Sayin's injury.",
-      "source": "Buckeyes Wire",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/11/11/ohio-state-football-ryan-day-starting-qb-luke-fahey-northwestern/92726555007/",
-      "publishedAt": "2026-11-11T18:03:00Z",
+      "title": "Meyer: Buckeyes 'still in the hunt'; Tressel says never say never",
+      "summary": "Urban Meyer said Ohio State is still in the hunt for a Big Ten and national title, while Jim Tressel refused to rule out a three-loss CFP bid ahead of Saturday's game against Northwestern. Ryan Day, meanwhile, said he is evaluating his staff weekly and reaffirmed Luke Fahey as starting quarterback.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165330/skull-session-urban-meyer-says-ohio-state-is-still-in-the-hunt-for-a-big-ten-and-national-title-jim-tressel-says-never-say-never-about-a-three-loss-cfp-bid-for-the-buckeyes",
+      "publishedAt": "2026-11-12T11:00:00Z",
       "tags": [
-        "ohio-state",
-        "quarterback",
-        "ryan-day"
+        "Ohio State",
+        "CFP",
+        "Ryan Day"
       ]
     },
     {
-      "id": "buckeyes-smith-walter-camp",
-      "category": "buckeyes",
-      "title": "Jeremiah Smith named Walter Camp Award semifinalist",
-      "summary": "Smith was named a semifinalist for the Walter Camp Player of the Year award for the second straight year, a day after landing on the Maxwell list. He has 69 catches for 1,200 yards and 14 touchdowns entering Week 11.",
-      "source": "Ohio State Athletics",
-      "url": "https://ohiostatebuckeyes.com/news/2026/11/11/football-smith-named-semifinalist-for-walter-camp-award",
-      "publishedAt": "2026-11-11T16:58:00Z",
-      "tags": [
-        "ohio-state",
-        "jeremiah-smith",
-        "awards"
-      ]
-    },
-    {
-      "id": "buckeyes-day-presser-takeaways",
-      "category": "buckeyes",
-      "title": "Three takeaways from Ryan Day's Week 11 press conference",
-      "summary": "Land-Grant Holy Land's read on Day's presser: Fahey stays at quarterback, getting the ball to Jeremiah Smith is 'always a priority' after he went untargeted for 32 minutes at Oregon, and the pass rush ranks next-to-last among Power 4 teams. Northwestern visits Ohio Stadium Saturday at noon.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/125892/3-things-from-ryan-days-week-11-presser-ohio-state-buckeyes-luke-fahey",
-      "publishedAt": "2026-11-11T10:01:00Z",
-      "tags": [
-        "ohio-state",
-        "analysis",
-        "northwestern"
-      ]
-    },
-    {
-      "id": "f1-verstappen-las-vegas",
+      "id": "f1-racing-bulls-lineup-2027",
       "category": "f1",
-      "title": "Verstappen heads to Las Vegas on an eight-race podium streak",
-      "summary": "Verstappen has finished in the top three in eight straight races and holds a 17-point cushion over George Russell for second in the standings. He says Las Vegas is hard to predict because energy management on its long start-finish straight changes the usual pecking order.",
-      "source": "Speedweek",
-      "url": "https://www.speedweek.com/en/a/formula-1/formula-1-verstappen-run-las-vegas",
-      "publishedAt": "2026-11-11T16:30:01Z",
+      "title": "Racing Bulls confirm Lawson and Lindblad for 2027",
+      "summary": "Racing Bulls will keep an unchanged line-up next season, with Liam Lawson and Arvid Lindblad both extending. The announcement settles one of the last open seats and leaves Haas as the main remaining question on the 2027 grid.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx",
+      "publishedAt": "2026-11-12T11:01:00Z",
       "tags": [
-        "f1",
-        "max-verstappen",
-        "las-vegas"
+        "F1",
+        "Racing Bulls",
+        "2027 grid"
       ]
     },
     {
-      "id": "f1-stella-mclaren-vegas",
+      "id": "f1-pirelli-wet-tyres-2027",
       "category": "f1",
-      "title": "Stella wants McLaren to 'finally' make peace with Las Vegas",
-      "summary": "McLaren's team principal called Las Vegas probably the team's toughest race but says he heads there with optimism after Lando Norris's wet-weather win in Brazil. Las Vegas opens F1's closing triple header on Nov. 21.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/andrea-stella-wants-mclaren-to-finally-make-peace-with-las-vegas/10873819/",
-      "publishedAt": "2026-11-11T11:18:24Z",
+      "title": "Pirelli confirms revised wet tyres for 2027 after Brazil criticism",
+      "summary": "Pirelli will bring a new specification of intermediate and full wet tyres next year after drivers complained about grip and warm-up at Interlagos. The new rubber is due for FIA homologation in December, with the problems partly tied to 2026's stiffer constructions and higher pressures.",
+      "source": "NewsOnF1 / GMM",
+      "url": "https://www.newsonf1.com/2026/11/pirelli-confirms-new-rain-tyres-after-criticism/",
+      "publishedAt": "2026-11-12T07:00:00Z",
       "tags": [
-        "f1",
-        "mclaren",
-        "las-vegas"
+        "F1",
+        "Pirelli",
+        "tyres"
       ]
     },
     {
-      "id": "f1-250kw-wet-cap-criticism",
+      "id": "f1-maffei-sale-prediction",
       "category": "f1",
-      "title": "Drivers criticise 250kW wet-weather power cap after Interlagos",
-      "summary": "Arvid Lindblad and Gabriel Bortoleto said the FIA's safety cap on electrical deployment, which cuts output from 350kW to 250kW in the wet, left them hitting an energy ceiling exactly when trying to overtake. Both lost ground in traffic in Brazil as a result.",
-      "source": "Motorcycle Sports",
-      "url": "https://motorcyclesports.net/arvid-lindblad-and-gabriel-bortoleto-criticize-f1s-new-250kw-speed-limit-at-sao-paulo-gp/",
-      "publishedAt": "2026-11-11T11:12:51Z",
+      "title": "Ex-Liberty boss predicts F1 will be sold and taken private",
+      "summary": "Greg Maffei, former president and CEO of Liberty Media, told Sportico's Invest New York conference that Formula 1's days as a publicly traded business may be numbered and that he expects the series to be sold. Liberty's share structure has been shifting, with John Malone's voting power recently falling to about 3%.",
+      "source": "NewsOnF1 / GMM",
+      "url": "https://www.newsonf1.com/2026/11/former-liberty-boss-predicts-f1-will-be-sold/",
+      "publishedAt": "2026-11-12T06:40:00Z",
       "tags": [
-        "f1",
-        "regulations",
-        "brazil"
+        "F1",
+        "Liberty Media",
+        "business"
       ]
     },
     {
-      "id": "f1-wet-race-analysis",
+      "id": "f1-alpine-stake-sale",
       "category": "f1",
-      "title": "What the Brazilian GP revealed about F1's ability to cope with rain",
-      "summary": "Autosport's review found the 2026 cars behaved better in the wet than feared and generated less spray, but Pirelli's intermediates remain slow to warm and wear quickly. Teams now worry a cold, wet Las Vegas weekend could expose the same tyre problem.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873789/",
-      "publishedAt": "2026-11-11T09:23:42Z",
+      "title": "Alpine minority shareholder steps up effort to sell stake",
+      "summary": "Otro Capital has appointed bankers BDT and MSD Partners to explore the sale of its 24% holding in the Alpine F1 team, according to Sportico. The move comes despite months of speculation linking buyers including Toto Wolff and Christian Horner to the Enstone outfit.",
+      "source": "NewsOnF1 / GMM",
+      "url": "https://www.newsonf1.com/2026/11/alpine-stake-still-for-sale-despite-multiple-offers/",
+      "publishedAt": "2026-11-12T06:20:00Z",
       "tags": [
-        "f1",
-        "pirelli",
-        "wet-weather"
+        "F1",
+        "Alpine",
+        "business"
       ]
     },
     {
-      "id": "tarkov-tarbank-tarcoin-nerf",
-      "category": "tarkov",
-      "title": "Players report tarcoin spawns in Tarbank have been quietly cut",
-      "summary": "Tarkov players are reporting far fewer tarcoins and smaller stacks from Tarbank runs than earlier in the season, with no matching line in the official patch notes. If confirmed, it is another stealth loot-economy change affecting progression in the Kord Breach season.",
-      "source": "r/EscapefromTarkov",
-      "url": "https://www.reddit.com/r/EscapefromTarkov/comments/1xtsmbu/discussion_when_was_tarbank_nerfed/",
-      "publishedAt": "2026-11-11T20:24:44Z",
-      "tags": [
-        "tarkov",
-        "loot",
-        "tarcoin"
-      ]
-    },
-    {
-      "id": "local-franklin-overdose-autopsies",
+      "id": "ohiohealth-new-albany-hospital",
       "category": "local",
-      "title": "Fentanyl killed four of five people in Franklin County overdose surge",
-      "summary": "Final autopsy results show fentanyl caused four of the five deaths in a single 24-hour overdose spike in September, 10TV reported. The findings underscore how potent the local drug supply remains despite years of overdose-reduction efforts.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/coroner-autopsies-reveal-fentanyl-killed-4-of-5-people-in-franklin-county-overdose-surge-columbus-ohio/530-94acd6f3-6a1b-4b2b-8be6-ea1547a00802",
-      "publishedAt": "2026-11-11T19:01:00Z",
+      "title": "OhioHealth plans $700M hospital at former Big Lots HQ",
+      "summary": "OhioHealth will invest $700 million to build a hospital at the former Big Lots headquarters in northeast Columbus, with an opening targeted for 2030. The project adds a major inpatient campus to the fast-growing New Albany corridor.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/ohiohealth-to-invest-700-million-in-new-hospital-at-former-big-lots-headquarters/",
+      "publishedAt": "2026-11-12T10:00:00Z",
       "tags": [
-        "columbus",
-        "fentanyl",
-        "public-health"
+        "Columbus",
+        "OhioHealth",
+        "health care"
       ]
     },
     {
-      "id": "local-licking-woman-pond",
+      "id": "mifflin-township-police-disband",
       "category": "local",
-      "title": "Missing Licking County woman found dead in pond",
-      "summary": "A 77-year-old woman reported missing in Licking County early Wednesday was found dead in a pond hours later, according to the sheriff's office. Authorities have not released a cause of death.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/missing-licking-county-woman-found-dead-in-pond/530-133fc0cd-6c68-447d-aafd-5fc98b9323fd",
-      "publishedAt": "2026-11-11T18:56:57Z",
+      "title": "Mifflin Township disbands its police department after levy fails",
+      "summary": "Mifflin Township trustees voted to shut down the township's police division after voters rejected a levy last week. Trustees called the decision painful, and the Franklin County community is now without its own police force.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/franklin-county/ohio-town-closes-police-department-after-levy-failure/",
+      "publishedAt": "2026-11-12T08:20:00Z",
       "tags": [
-        "licking-county",
-        "missing-person"
+        "Mifflin Township",
+        "Franklin County",
+        "levy"
       ]
     },
     {
-      "id": "local-ohiohealth-new-albany",
+      "id": "brunch-chain-columbus-expansion",
       "category": "local",
-      "title": "OhioHealth plans $700M, 160-bed hospital at former Big Lots HQ",
-      "summary": "OhioHealth will build New Albany Methodist Hospital near Hamilton Road and State Route 161 on the old Big Lots headquarters site, with construction expected to start in early 2027 and an opening around 2030. It adds another major medical campus to the fast-growing northeast Columbus corridor.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/article/news/local/boomtown-ohio/ohiohealth-announces-new-albany-methodist-hospital/530-ae6e15ef-dd11-439c-9884-87319ef85777",
-      "publishedAt": "2026-11-11T16:41:29Z",
-      "tags": [
-        "columbus",
-        "new-albany",
-        "healthcare",
-        "development"
-      ]
-    },
-    {
-      "id": "local-brunch-chain-gahanna",
-      "category": "local",
-      "title": "Kentucky brunch chain picks northeast Columbus for first central Ohio site",
-      "summary": "The chain is preparing to open in a retail strip near Gahanna and New Albany, with a second central Ohio location planned near Dublin. It is the latest restaurant group betting on the northeast corridor's growth.",
-      "source": "NBC4",
+      "title": "Brunch chain adds northeast Columbus location, plans Dublin-area site",
+      "summary": "A brunch eatery is entering the Columbus market with a restaurant in northeast Columbus near New Albany and a second location planned near Dublin. It is the latest out-of-market chain to target the region's growing northern suburbs.",
+      "source": "NBC4 WCMH",
       "url": "https://www.nbc4i.com/news/local-news/columbus/brunch-chain-to-open-in-northeast-columbus-add-location-near-dublin/",
-      "publishedAt": "2026-11-11T15:30:00Z",
+      "publishedAt": "2026-11-12T03:20:00Z",
       "tags": [
-        "gahanna",
-        "new-albany",
-        "business",
-        "food"
+        "Columbus",
+        "restaurants",
+        "development"
       ]
     }
   ]
