@@ -1,250 +1,324 @@
 {
   "meta": {
-    "updatedAt": "2026-11-12T12:06:22Z",
+    "updatedAt": "2026-11-12T20:36:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 17
+    "count": 21
   },
   "stories": [
     {
-      "id": "nordic-defence-deal",
+      "id": "top-russia-strike-1112",
       "category": "top",
-      "title": "Nordic countries move toward a common defence deal",
-      "summary": "Norway said the Nordic countries will work toward a joint defence arrangement, deepening regional military cooperation. The push comes as European governments reassess security guarantees and procurement in the wake of the Ukraine war.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/nordic-countries-work-towards-common-defence-deal-norway-says-2026-11-12/",
-      "publishedAt": "2026-11-12T12:03:00Z",
-      "tags": [
-        "Nordics",
-        "defence",
-        "Europe"
-      ]
-    },
-    {
-      "id": "g7-china-taiwan-warning",
-      "category": "top",
-      "title": "G7 warns China's actions east of Taiwan threaten stability",
-      "summary": "G7 foreign ministers meeting in Paris issued a joint declaration saying China's increasingly assertive actions in the waters east of Taiwan threaten regional stability and freedom of navigation. The statement adds coordinated Western pressure on Beijing over its military posture near the island.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/g7-foreign-ministers-say-chinas-actions-east-taiwan-threaten-stability-2026-11-12/",
-      "publishedAt": "2026-11-12T09:05:00Z",
-      "tags": [
-        "G7",
-        "China",
-        "Taiwan",
-        "diplomacy"
-      ]
-    },
-    {
-      "id": "russia-massive-strike-ukraine",
-      "category": "top",
-      "title": "Russia says it hit Ukrainian military factories in massive overnight strike",
-      "summary": "Russia's defence ministry said it launched a large overnight strike on Ukrainian military-industrial facilities as Moscow and Kyiv traded attacks on each other's capitals. The escalation came hours before US envoys sat down with Vladimir Putin.",
+      "title": "Russia says it hit military factories across Ukraine in overnight strike",
+      "summary": "Russia's military said it carried out a massive overnight strike on military factories across Ukraine, including in Kyiv, as Moscow and Kyiv exchanged attacks on each other's capitals. The strikes came as US envoys arrived in Moscow for peace talks.",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russia-ukraine-exchange-attacks-capitals-us-envoys-head-moscow-2026-11-12/",
-      "publishedAt": "2026-11-12T09:00:00Z",
+      "publishedAt": "2026-11-12T19:25:00Z",
       "tags": [
-        "Russia",
         "Ukraine",
-        "war"
+        "Russia",
+        "war",
+        "strikes"
       ]
     },
     {
-      "id": "us-envoys-moscow-talks",
+      "id": "top-putin-europe-talks-1112",
       "category": "top",
-      "title": "Kushner and Witkoff arrive in Moscow for Putin peace talks",
-      "summary": "US envoys Jared Kushner and Steve Witkoff landed in Moscow for talks with Vladimir Putin, the 10th in-person Witkoff-Putin meeting of the push to end the war. It follows two days of US-mediated trilateral talks in Abu Dhabi that yielded a planned prisoner exchange but no breakthrough on territory.",
-      "source": "Reuters via U.S. News",
-      "url": "https://www.usnews.com/news/world/articles/2026-11-12/us-envoys-arrive-in-moscow-for-latest-round-of-ukrainian-peace-talks-with-putin",
-      "publishedAt": "2026-11-12T07:25:00Z",
+      "title": "Putin agrees to let Europeans join next round of Ukraine peace talks",
+      "summary": "US envoy Steve Witkoff said Vladimir Putin agreed that European representatives will join the next round of trilateral talks, calling it an important moment. The Kremlin said the Witkoff-Kushner meeting was useful and that Putin will discuss Ukraine with Trump at an APEC summit this month.",
+      "source": "Reuters via The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236",
+      "publishedAt": "2026-11-12T18:15:00Z",
       "tags": [
         "Ukraine",
         "Russia",
         "diplomacy",
-        "United States"
+        "Putin"
       ]
     },
     {
-      "id": "nvidia-huang-successors",
+      "id": "top-dublin-epc-1112",
+      "category": "top",
+      "title": "Zelensky joins 40+ European leaders in Dublin, warns on US-Russia security framework",
+      "summary": "At the European Political Community summit in Dublin, Zelensky urged leaders to scrutinise what he called 'strange' attempts to agree a new Europe-Russia security framework. He also said restrictions on the Starshield satellite service are slowing Ukrainian interceptors.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+      "publishedAt": "2026-11-12T17:50:00Z",
+      "tags": [
+        "Ukraine",
+        "Europe",
+        "Zelensky",
+        "security"
+      ]
+    },
+    {
+      "id": "top-red-brigades-argentina-1112",
+      "category": "top",
+      "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
+      "summary": "A former member of Italy's Red Brigades has escaped from house arrest in Argentina, according to Al Jazeera.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina",
+      "publishedAt": "2026-11-12T14:10:00Z",
+      "tags": [
+        "Italy",
+        "Argentina",
+        "justice",
+        "extradition"
+      ]
+    },
+    {
+      "id": "tech-huggingface-1112",
       "category": "tech",
-      "title": "Who could replace Jensen Huang? TechCrunch runs the list",
-      "summary": "With Nvidia's board reportedly weighing a change at the top, TechCrunch circulated a self-described unscientific list of possible successors to CEO Jensen Huang. The speculation matters because Nvidia's leadership is now a market-wide risk factor for the AI buildout.",
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Huang's exit",
+      "summary": "Clément Delangue called Jensen Huang's departure a 'really sad day' and pledged to keep pushing open-source AI, raising questions about Nvidia's pending $12.9 billion acquisition of Hugging Face. Huang had been the industry's most visible open-model advocate.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "publishedAt": "2026-11-12T04:05:00Z",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "publishedAt": "2026-11-12T18:20:00Z",
+      "tags": [
+        "AI",
+        "open source",
+        "Nvidia",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "tech-nvidia-value-1112",
+      "category": "tech",
+      "title": "Nvidia on track to shed more than $700 billion in market value after Huang resigns",
+      "summary": "Nvidia shares fell again on Thursday, putting the chipmaker on course to lose over $700 billion in value since the prior US close. The selloff reflects investor anxiety about leadership at the centre of the AI buildout.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-stock-nvda-ceo-jensen-huang/",
+      "publishedAt": "2026-11-12T15:30:00Z",
+      "tags": [
+        "Nvidia",
+        "markets",
+        "AI",
+        "stocks"
+      ]
+    },
+    {
+      "id": "tech-huang-resigns-1112",
+      "category": "tech",
+      "title": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim chief",
+      "summary": "Nvidia's board announced Huang resigned effective immediately after an investigation into an affair with an alleged Chinese spy, with CFO Colette Kress stepping in as interim CEO. The exit removes the executive most associated with the AI boom he helped build.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+      "publishedAt": "2026-11-12T14:20:00Z",
       "tags": [
         "Nvidia",
         "AI",
-        "leadership"
+        "leadership",
+        "chips"
       ]
     },
     {
-      "id": "apache-http-rce-cve",
-      "category": "tech",
-      "title": "Critical RCE flaw found in Apache HTTP Server",
-      "summary": "Wiz published details of CVE-2026-119618, a critical remote code execution vulnerability in Apache HTTP Server, warning that unpatched servers are exposed. The disclosure shot to the top of Hacker News as administrators scrambled to patch internet-facing deployments.",
-      "source": "Wiz",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "publishedAt": "2026-11-12T03:20:00Z",
-      "tags": [
-        "security",
-        "Apache",
-        "vulnerability"
-      ]
-    },
-    {
-      "id": "nvidia-huang-scandal-timeline",
-      "category": "tech",
-      "title": "The Jensen Huang scandal, assembled into a timeline",
-      "summary": "TechCrunch laid out how allegations that Nvidia's CEO had an affair with a woman linked to Chinese intelligence unfolded, from the first reports to the board's response. Nvidia's board and federal authorities are examining whether trade secrets were compromised.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "2026-11-12T01:10:00Z",
-      "tags": [
-        "Nvidia",
-        "AI",
-        "governance"
-      ]
-    },
-    {
-      "id": "browns-monken-sanders-exchange",
+      "id": "browns-salute-service-1112",
       "category": "browns",
-      "title": "Monken: 'fun' Sanders exchange, no plans to bench O-linemen",
-      "summary": "Browns coach Todd Monken downplayed a sideline exchange with Shedeur Sanders over play selection and said he has no plans to bench any of his offensive linemen. Deshaun Watson remains the starter for Sunday's home game against Houston, his former team.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/11/todd-monken-explains-fun-exchange-with-shedeur-sanders-over-play-selection-no-plans-to-bench-any-o-linemen-browns-takeaways.html",
-      "publishedAt": "2026-11-12T10:10:00Z",
+      "title": "Browns plan Salute to Service tributes for Sunday's Texans game",
+      "summary": "Cleveland will mark its annual Salute to Service game against Houston with a Navy color guard, a T-6 flyover, an Honor Row for all six branches and an Army-Navy halftime skills challenge. Assistant team physician Dr. Benjamin Boswell, an Army Reserve officer, is the club's award nominee.",
+      "source": "clevelandbrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/browns-to-honor-military-heroes-during-annual-salute-to-service-game-against-houston-texans-on-nov-15",
+      "publishedAt": "2026-11-12T18:06:00Z",
       "tags": [
         "Browns",
-        "NFL",
-        "Deshaun Watson"
+        "Salute to Service",
+        "Texans",
+        "gameday"
       ]
     },
     {
-      "id": "osu-lowest-cfp-ranking",
+      "id": "browns-bond-1112",
+      "category": "browns",
+      "title": "Isaiah Bond's role in Cleveland is shrinking fast",
+      "summary": "The second-year receiver, viewed as a promising piece entering 2026, is barely seeing the field as the Browns' passing game leans on other targets. His fade raises questions about his future in a receiver room already reshaped by injuries.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/it-took-half-a-season-for-isaiah-bond-s-time-with-browns-to-start-running-out-01m73yccd72j",
+      "publishedAt": "2026-11-12T18:00:00Z",
+      "tags": [
+        "Browns",
+        "Isaiah Bond",
+        "roster",
+        "receivers"
+      ]
+    },
+    {
+      "id": "browns-boston-practice-1112",
+      "category": "browns",
+      "title": "Denzel Boston misses Thursday's practice; Elgton Jenkins returns",
+      "summary": "Rookie receiver Denzel Boston sat out again with a toe injury, leaving KC Concepcion in line for more targets against Houston. Center Elgton Jenkins was back at practice, but safety Ronnie Hickman (concussion) and fullback Michael Burton (calf) remained sidelined.",
+      "source": "4for4 (Daniel Oyefusi, ESPN)",
+      "url": "https://www.4for4.com/news/browns-wr-denzel-boston-absent-thursday%E2%80%99s-practice",
+      "publishedAt": "2026-11-12T17:30:00Z",
+      "tags": [
+        "Browns",
+        "injuries",
+        "Denzel Boston",
+        "Texans"
+      ]
+    },
+    {
+      "id": "buckeyes-day-ap-1112",
       "category": "buckeyes",
-      "title": "Ohio State falls to No. 20, its lowest CFP ranking ever",
-      "summary": "The second College Football Playoff rankings of 2026 dropped Ohio State from No. 12 to No. 20 after the 41-28 home loss to Oregon, the lowest the program has ever sat in the CFP era. At 6-3 the Buckeyes no longer control their postseason fate and need help to reach the Big Ten title game.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/sports/buckeyes/buckeyes-plummet-to-lowest-ranking-ever-in-playoff-era/",
-      "publishedAt": "2026-11-12T11:10:00Z",
+      "title": "Day confronts first regular-season losing streak, sticks with Luke Fahey at QB",
+      "summary": "Ryan Day acknowledged anger and frustration inside the Woody Hayes Athletic Center as Ohio State prepares for Northwestern after back-to-back double-digit losses. The AP reported Day is keeping freshman Luke Fahey as the starter rather than turning to Tavien St. Clair.",
+      "source": "Associated Press via Times Daily",
+      "url": "https://www.timesdaily.com/sports/day-buckeyes-stick-with-qb-amid-skid/article_bd3c8df8-789d-4291-97aa-e41f9f5272b5.html",
+      "publishedAt": "2026-11-12T20:20:00Z",
       "tags": [
         "Ohio State",
-        "CFP",
-        "football"
+        "Ryan Day",
+        "Luke Fahey",
+        "Northwestern"
       ]
     },
     {
-      "id": "osu-skull-session-meyer-tressel",
+      "id": "buckeyes-day-radio-1112",
       "category": "buckeyes",
-      "title": "Meyer: Buckeyes 'still in the hunt'; Tressel says never say never",
-      "summary": "Urban Meyer said Ohio State is still in the hunt for a Big Ten and national title, while Jim Tressel refused to rule out a three-loss CFP bid ahead of Saturday's game against Northwestern. Ryan Day, meanwhile, said he is evaluating his staff weekly and reaffirmed Luke Fahey as starting quarterback.",
+      "title": "Day: Buckeyes focused on winning final three games, starting with Northwestern",
+      "summary": "On his weekly radio show, Day said Ohio State is focused on beating Northwestern, Nebraska and Michigan before thinking about the postseason, while conceding the pass rush and missed interception chances must improve. Safety Earl Little Jr. said communication on defense is the priority against Chip Kelly's offense.",
       "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165330/skull-session-urban-meyer-says-ohio-state-is-still-in-the-hunt-for-a-big-ten-and-national-title-jim-tressel-says-never-say-never-about-a-three-loss-cfp-bid-for-the-buckeyes",
-      "publishedAt": "2026-11-12T11:00:00Z",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165371/ryan-day-radio-show-ryan-day-says-ohio-state-is-focused-on-winning-its-final-three-games-especially-the-rivalry",
+      "publishedAt": "2026-11-12T18:06:00Z",
       "tags": [
         "Ohio State",
-        "CFP",
-        "Ryan Day"
+        "Ryan Day",
+        "Northwestern",
+        "Big Ten"
       ]
     },
     {
-      "id": "f1-racing-bulls-lineup-2027",
+      "id": "buckeyes-rb-commit-1112",
+      "category": "buckeyes",
+      "title": "Buckeyes land four-star RB Daylon Gordon for 2027 class",
+      "summary": "Ohio State ended a long, bumpy search for a running back in the 2027 cycle by landing four-star Daylon Gordon. The commitment fills the biggest remaining hole in the class as the staff juggles late-season on-field problems with recruiting.",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-news/126040/buckeyes-finally-land-a-2027-running-back-as-team-prepares-for-northwestern",
+      "publishedAt": "2026-11-12T13:01:00Z",
+      "tags": [
+        "Ohio State",
+        "recruiting",
+        "2027 class",
+        "running back"
+      ]
+    },
+    {
+      "id": "f1-wolff-antonelli-1112",
       "category": "f1",
-      "title": "Racing Bulls confirm Lawson and Lindblad for 2027",
-      "summary": "Racing Bulls will keep an unchanged line-up next season, with Liam Lawson and Arvid Lindblad both extending. The announcement settles one of the last open seats and leaves Haas as the main remaining question on the 2027 grid.",
+      "title": "Wolff: Antonelli is no Senna yet, but may be a 'Senninha'",
+      "summary": "Mercedes team boss Toto Wolff tempered comparisons between newly crowned champion Kimi Antonelli and Ayrton Senna, suggesting the 20-year-old is more of a 'Senninha' for now. Antonelli became F1's youngest world champion in Mexico City earlier this month.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonelli-isnt-ayrton-senna-yet-but-he-may-be-a-senninha-/10873544/",
+      "publishedAt": "2026-11-12T15:30:00Z",
+      "tags": [
+        "F1",
+        "Mercedes",
+        "Antonelli",
+        "Wolff"
+      ]
+    },
+    {
+      "id": "f1-racing-bulls-1112",
+      "category": "f1",
+      "title": "Racing Bulls confirm unchanged Lawson-Lindblad line-up for 2027",
+      "summary": "Racing Bulls ended months of speculation by extending both Liam Lawson and Arvid Lindblad for 2027, leaving Red Bull junior Nikola Tsolov without a seat. The team opted for continuity in year two of the current regulations.",
       "source": "formula1.com",
       "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx",
       "publishedAt": "2026-11-12T11:01:00Z",
       "tags": [
         "F1",
         "Racing Bulls",
-        "2027 grid"
+        "Lawson",
+        "Lindblad"
       ]
     },
     {
-      "id": "f1-pirelli-wet-tyres-2027",
+      "id": "f1-aduo-1112",
       "category": "f1",
-      "title": "Pirelli confirms revised wet tyres for 2027 after Brazil criticism",
-      "summary": "Pirelli will bring a new specification of intermediate and full wet tyres next year after drivers complained about grip and warm-up at Interlagos. The new rubber is due for FIA homologation in December, with the problems partly tied to 2026's stiffer constructions and higher pressures.",
-      "source": "NewsOnF1 / GMM",
-      "url": "https://www.newsonf1.com/2026/11/pirelli-confirms-new-rain-tyres-after-criticism/",
-      "publishedAt": "2026-11-12T07:00:00Z",
+      "title": "FIA publishes latest ADUO results in final 2026 season review",
+      "summary": "The FIA released its latest additional development and upgrade opportunity (ADUO) findings as part of a final review of the 2026 power-unit landscape. The results determine how much extra engine development each manufacturer is allowed.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/",
+      "publishedAt": "2026-11-12T10:30:00Z",
       "tags": [
         "F1",
-        "Pirelli",
-        "tyres"
+        "FIA",
+        "power units",
+        "regulations"
       ]
     },
     {
-      "id": "f1-maffei-sale-prediction",
+      "id": "f1-stroll-dnf-1112",
       "category": "f1",
-      "title": "Ex-Liberty boss predicts F1 will be sold and taken private",
-      "summary": "Greg Maffei, former president and CEO of Liberty Media, told Sportico's Invest New York conference that Formula 1's days as a publicly traded business may be numbered and that he expects the series to be sold. Liberty's share structure has been shifting, with John Malone's voting power recently falling to about 3%.",
-      "source": "NewsOnF1 / GMM",
-      "url": "https://www.newsonf1.com/2026/11/former-liberty-boss-predicts-f1-will-be-sold/",
-      "publishedAt": "2026-11-12T06:40:00Z",
+      "title": "Honda at a loss to explain Lance Stroll's 13th DNF of the season",
+      "summary": "Honda said it is still working to pinpoint the cause of Lance Stroll's latest retirement, his 13th of the 2026 campaign. The repeated failures have wrecked Aston Martin's constructors' points haul in the final season of the current engine rules.",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/",
+      "publishedAt": "2026-11-12T09:30:00Z",
       "tags": [
         "F1",
-        "Liberty Media",
-        "business"
+        "Honda",
+        "Aston Martin",
+        "Stroll"
       ]
     },
     {
-      "id": "f1-alpine-stake-sale",
-      "category": "f1",
-      "title": "Alpine minority shareholder steps up effort to sell stake",
-      "summary": "Otro Capital has appointed bankers BDT and MSD Partners to explore the sale of its 24% holding in the Alpine F1 team, according to Sportico. The move comes despite months of speculation linking buyers including Toto Wolff and Christian Horner to the Enstone outfit.",
-      "source": "NewsOnF1 / GMM",
-      "url": "https://www.newsonf1.com/2026/11/alpine-stake-still-for-sale-despite-multiple-offers/",
-      "publishedAt": "2026-11-12T06:20:00Z",
-      "tags": [
-        "F1",
-        "Alpine",
-        "business"
-      ]
-    },
-    {
-      "id": "ohiohealth-new-albany-hospital",
+      "id": "local-columbus-issues-1112",
       "category": "local",
-      "title": "OhioHealth plans $700M hospital at former Big Lots HQ",
-      "summary": "OhioHealth will invest $700 million to build a hospital at the former Big Lots headquarters in northeast Columbus, with an opening targeted for 2030. The project adds a major inpatient campus to the fast-growing New Albany corridor.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/ohiohealth-to-invest-700-million-in-new-hospital-at-former-big-lots-headquarters/",
-      "publishedAt": "2026-11-12T10:00:00Z",
+      "title": "Columbus maps out years-long rollout of Issues 8 and 9",
+      "summary": "Council is moving quickly to seat an independent redistricting commission after voters approved ward-style representation, with applications possibly opening within a month. The expanded 13-member council phases in through 2027 and 2029 elections.",
+      "source": "Axios Columbus",
+      "url": "https://www.axios.com/local/columbus/2026/11/12/columbus-city-council-issue-8-9-changes-timeline",
+      "publishedAt": "2026-11-12T20:15:00Z",
       "tags": [
         "Columbus",
-        "OhioHealth",
-        "health care"
+        "City Council",
+        "redistricting",
+        "elections"
       ]
     },
     {
-      "id": "mifflin-township-police-disband",
+      "id": "local-pastor-son-guilty-1112",
       "category": "local",
-      "title": "Mifflin Township disbands its police department after levy fails",
-      "summary": "Mifflin Township trustees voted to shut down the township's police division after voters rejected a levy last week. Trustees called the decision painful, and the Franklin County community is now without its own police force.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/franklin-county/ohio-town-closes-police-department-after-levy-failure/",
-      "publishedAt": "2026-11-12T08:20:00Z",
+      "title": "New Albany pastor's son found guilty on all 27 sexual assault charges",
+      "summary": "A Knox County case ended with guilty verdicts on every count against the son of a New Albany pastor, NBC4 reported. The verdict closes a case that drew statewide attention.",
+      "source": "NBC4 (WCMH)",
+      "url": "https://www.nbc4i.com/news/local-news/knox-county/new-albany-pastors-son-guilty-on-all-27-sexual-assault-charges/",
+      "publishedAt": "2026-11-12T15:30:00Z",
       "tags": [
-        "Mifflin Township",
-        "Franklin County",
-        "levy"
+        "Knox County",
+        "courts",
+        "New Albany",
+        "crime"
       ]
     },
     {
-      "id": "brunch-chain-columbus-expansion",
+      "id": "local-acton-medicaid-1112",
       "category": "local",
-      "title": "Brunch chain adds northeast Columbus location, plans Dublin-area site",
-      "summary": "A brunch eatery is entering the Columbus market with a restaurant in northeast Columbus near New Albany and a second location planned near Dublin. It is the latest out-of-market chain to target the region's growing northern suburbs.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/brunch-chain-to-open-in-northeast-columbus-add-location-near-dublin/",
-      "publishedAt": "2026-11-12T03:20:00Z",
+      "title": "Acton outlines response to 2027 federal Medicaid changes",
+      "summary": "Ohio's incoming governor, Amy Acton, is sketching out how her administration will handle federal Medicaid changes set to take effect in 2027. The planning comes as she also faces questions about her refusal to speak with opponent Vivek Ramaswamy.",
+      "source": "NBC4 (WCMH)",
+      "url": "https://www.nbc4i.com/news/politics/medicaid-in-ohio-how-amy-acton-plans-to-respond-to-2027-federal-changes/",
+      "publishedAt": "2026-11-12T11:30:00Z",
       "tags": [
-        "Columbus",
-        "restaurants",
-        "development"
+        "Ohio",
+        "Amy Acton",
+        "Medicaid",
+        "politics"
+      ]
+    },
+    {
+      "id": "local-delaware-crash-1112",
+      "category": "local",
+      "title": "Teen killed after vehicle hits tree, catches fire in Delaware County",
+      "summary": "A teenager died after the vehicle they were in left the road, struck a tree and caught fire in Delaware County, according to NBC4.",
+      "source": "NBC4 (WCMH)",
+      "url": "https://www.nbc4i.com/news/local-news/delaware-county/teen-dead-after-vehicle-hits-tree-catches-on-fire-in-delaware-county/",
+      "publishedAt": "2026-11-12T11:30:00Z",
+      "tags": [
+        "Delaware County",
+        "crash",
+        "public safety"
       ]
     }
   ]
