@@ -1,201 +1,33 @@
 {
   "meta": {
-    "updatedAt": "2026-11-13T12:02:00Z",
+    "updatedAt": "2026-11-13T20:30:52Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 19
+    "count": 22
   },
   "stories": [
-    {
-      "id": "top-bahrain-radar",
-      "category": "top",
-      "title": "Iran's Revolutionary Guard says it destroyed a US radar in Bahrain",
-      "summary": "Iran's IRGC claimed it destroyed a U.S. early-warning radar in Bahrain, its first such claim in months, after a U.S. strike on a telecom tower in Sirik. Neither that claim nor a reported tanker mine blast in the Strait of Hormuz was independently verified.",
-      "source": "AP",
-      "url": "https://apnews.com/article/iran-us-bahrain-radar-strait-hormuz-5d73a23b5b8647d2515c35b267b36c08",
-      "publishedAt": "2026-11-13T09:09:00Z",
-      "tags": ["Iran", "US", "Bahrain", "Strait of Hormuz"]
-    },
-    {
-      "id": "top-iaea-isfahan",
-      "category": "top",
-      "title": "IAEA 'increasingly concerned' over Iran's Isfahan enrichment plant",
-      "summary": "The UN nuclear watchdog said it is increasingly concerned about an underground uranium-enrichment plant at Isfahan that Tehran has not let it inspect, as the Iran war continues. Iran's navy separately claimed it shot down a U.S. MQ-1 Predator drone over the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks",
-      "publishedAt": "2026-11-13T05:00:00Z",
-      "tags": ["IAEA", "Iran", "nuclear", "Isfahan"]
-    },
-    {
-      "id": "top-trump-gulf",
-      "category": "top",
-      "title": "Trump says Gulf allies urged restraint on Iran, claims US could finish it in 'three days'",
-      "summary": "Trump said Saudi Arabia, Qatar, the UAE and other Gulf states asked him to hold back on escalating against Iran, and that the U.S. could destroy the country's remaining energy, bridges and manufacturing in 'three days.' He said Israel is among the nations Washington is protecting.",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914787",
-      "publishedAt": "2026-11-13T05:46:00Z",
-      "tags": ["Trump", "Iran", "Saudi Arabia", "Gulf"]
-    },
-    {
-      "id": "top-trump-options",
-      "category": "top",
-      "title": "Trump confronts dwindling options to end the Iran conflict",
-      "summary": "NPR reports Trump's options to end the Iran war are narrowing after his midterm losses and Israel's political shakeup, leaving Gulf countries in limbo between pressure and patience.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6038881/trump-confronts-dwindling-options-to-end-conflict-with-iran",
-      "publishedAt": "2026-11-13T04:00:00Z",
-      "tags": ["Trump", "Iran", "Middle East", "analysis"]
-    },
-    {
-      "id": "tech-gemini-hydrogen",
-      "category": "tech",
-      "title": "Google releases Gemini 4 Hydrogen for fast agentic workflows",
-      "summary": "Google rolled out Gemini 4 Hydrogen, a faster, lower-cost model built for coding and AI-agent tasks, across AI Studio, the Gemini API and Search. It sits below the frontier Carbon and Argon models for rapid everyday agent work.",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "publishedAt": "2026-11-13T01:00:00Z",
-      "tags": ["Google", "Gemini", "AI", "LLM"]
-    },
-    {
-      "id": "tech-appletv-siri",
-      "category": "tech",
-      "title": "Apple TV 4K with Siri AI launches today at $299",
-      "summary": "Apple's fourth-generation Apple TV 4K, featuring an A19 chip and hands-free Siri AI, is available starting today at $299. Early hands-ons praise the new AI assistant and audio features while questioning the premium price.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/",
-      "publishedAt": "2026-11-13T01:00:00Z",
-      "tags": ["Apple", "Apple TV", "Siri", "AI"]
-    },
-    {
-      "id": "browns-monken-ol",
-      "category": "browns",
-      "title": "Monken says Browns won't change struggling offensive line",
-      "summary": "Browns coach Todd Monken said he will not change his offensive line despite Cleveland allowing an NFL-worst 38 sacks and committing the most pre-snap penalties. He called the starters 'our best players' and ruled out lineup changes.",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/nfl/browns/onsi/todd-monken-gives-one-concerning-update-on-the-browns-offensive-line-01m78n75px3t",
-      "publishedAt": "2026-11-13T11:56:00Z",
-      "tags": ["Browns", "Todd Monken", "offensive line", "NFL"]
-    },
-    {
-      "id": "buckeyes-skull-session",
-      "category": "buckeyes",
-      "title": "Skull Session: Buckeyes at No. 20, Jeremiah Smith's resolve, and a hypothetical Wake Forest matchup",
-      "summary": "Eleven Warriors' daily column frames Saturday's Northwestern game as a must-win after Ohio State slid to No. 20 in the CFP rankings, and notes a proposed 24-team playoff would have the Buckeyes facing Wake Forest.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165376/skull-session-buckeyes-fight-til-the-end-theres-no-quit-in-jeremiah-smith-and-ohio-state-would-face-wake-forest-in-the-first-round-of-a-24-team-cfp",
-      "publishedAt": "2026-11-13T09:55:00Z",
-      "tags": ["Ohio State", "CFP", "Jeremiah Smith", "Northwestern"]
-    },
-    {
-      "id": "buckeyes-yahoo-preview",
-      "category": "buckeyes",
-      "title": "Ohio State vs. Northwestern preview: Buckeyes need to win out to reach CFP",
-      "summary": "Yahoo's preview notes Ohio State has lost back-to-back regular-season games for the first time since 2011 and must win its final three games plus the Big Ten title to make the playoff. Freshman Luke Fahey starts his third straight game at quarterback.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/ohio-state-vs-northwestern-2026-113100671.html",
-      "publishedAt": "2026-11-13T11:31:00Z",
-      "tags": ["Ohio State", "Northwestern", "CFP", "Luke Fahey"]
-    },
-    {
-      "id": "buckeyes-three-keys",
-      "category": "buckeyes",
-      "title": "Three keys for Ohio State against Northwestern: heart, discipline, running game",
-      "summary": "Lettermen Row says Ohio State needs heart, discipline and a re-established running game to snap its two-game skid against Northwestern, after the defense allowed 71 combined points to USC and Oregon.",
-      "source": "On3",
-      "url": "https://www.on3.com/teams/ohio-state-buckeyes/news/three-keys-ohio-state-needs-heart-discipline-and-a-running-game-to-beat-northwestern/",
-      "publishedAt": "2026-11-13T07:00:00Z",
-      "tags": ["Ohio State", "Northwestern", "analysis"]
-    },
-    {
-      "id": "f1-tsunoda-hearing",
-      "category": "f1",
-      "title": "FIA sets Nov. 25 hearing for Audi's appeal over Tsunoda's Italian GP",
-      "summary": "The FIA's International Court of Appeal will hear Audi's challenge on Nov. 25 over Yuki Tsunoda's Italian GP grid incident, which could strip the Racing Bulls driver of his only championship point and promote Gabriel Bortoleto to 10th.",
-      "source": "GPblog",
-      "url": "https://www.gpblog.com/en/news/fia-sets-date-for-hearing-that-could-cost-tsunoda-a-championship-point",
-      "publishedAt": "2026-11-13T11:30:00Z",
-      "tags": ["F1", "FIA", "Tsunoda", "Audi"]
-    },
-    {
-      "id": "f1-hirakawa-haas",
-      "category": "f1",
-      "title": "Haas considers bringing back Hirakawa for Qatar and Abu Dhabi",
-      "summary": "Haas is reportedly weighing a return for Ryo Hirakawa in the season-ending Qatar and Abu Dhabi rounds, with Rafael Camara contesting Las Vegas first. No final driver plan has been confirmed by the team.",
-      "source": "The Judge13",
-      "url": "https://thejudge13.com/2026/11/13/haas-consider-hirakawa-return-as-camaras-f1-debut-reshapes-final-races-of-2026/",
-      "publishedAt": "2026-11-13T07:45:00Z",
-      "tags": ["F1", "Haas", "Hirakawa", "Camara"]
-    },
-    {
-      "id": "f1-antonelli-track-limits",
-      "category": "f1",
-      "title": "Antonelli names Austin as his track-limits 'turning point'",
-      "summary": "Champion Kimi Antonelli said the U.S. Grand Prix in Austin was the turning point for his track-limits struggles, still his biggest admitted weakness after exceeding limits 130 times this season.",
-      "source": "F1 Oversteer",
-      "url": "https://www.f1oversteer.com/news/kimi-antonelli-pinpoints-the-turning-point-weekend-for-his-track-limits-struggles-in-2026/",
-      "publishedAt": "2026-11-13T10:30:00Z",
-      "tags": ["F1", "Antonelli", "Mercedes"]
-    },
-    {
-      "id": "f1-hamilton-schumacher",
-      "category": "f1",
-      "title": "Schumacher: Hamilton 'simply not fast enough' compared to Leclerc",
-      "summary": "Ralf Schumacher said Lewis Hamilton's Ferrari tension stems from being slower than teammate Charles Leclerc rather than the team's equal-driver policy, questioning whether either is still title material.",
-      "source": "GPblog",
-      "url": "https://www.gpblog.com/en/news/the-problem-is-that-hamilton-is-simply-not-fast-enough-compared-to-leclerc",
-      "publishedAt": "2026-11-13T10:02:00Z",
-      "tags": ["F1", "Hamilton", "Leclerc", "Ferrari"]
-    },
-    {
-      "id": "tarkov-console-2027",
-      "category": "tarkov",
-      "title": "Tarkov console version will be announced in 2027, Buyanov confirms",
-      "summary": "Battlestate Games director Nikita Buyanov said the console version of Escape from Tarkov will be announced next year, though it 'won't be ready next year,' as the studio nears a publishing deal. A 2027 announcement is '100%' certain, he said.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/escape-from-tarkov-console-version-announcement-2027/",
-      "publishedAt": "2026-11-13T12:00:00Z",
-      "tags": ["Tarkov", "console", "Battlestate", "Buyanov"]
-    },
-    {
-      "id": "local-crew-3-0",
-      "category": "local",
-      "title": "Crew beat D.C. United 3-0 to stay in MLS playoff hunt",
-      "summary": "The Columbus Crew won 3-0 over D.C. United on goals from Zawadzki and Zaroury, keeping their MLS playoff push alive.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/mls/zawadzki-zaroury-score-as-crew-beat-d-c-united-3-0-to-stay-in-playoff-hunt/",
-      "publishedAt": "2026-11-13T11:53:00Z",
-      "tags": ["Columbus Crew", "MLS", "soccer"]
-    },
-    {
-      "id": "local-osu-professor-sentenced",
-      "category": "local",
-      "title": "Former OSU professor sentenced to life in wife's murder",
-      "summary": "A former Ohio State professor received a life sentence for the murder of his wife, in a case prosecutors tied to an alleged sextortion scheme.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/former-ohio-state-professor-gets-life-sentence-in-wifes-murder-after-alleged-sextortion-scheme/",
-      "publishedAt": "2026-11-13T04:00:00Z",
-      "tags": ["Columbus", "OSU", "crime"]
-    },
-    {
-      "id": "local-kindness-day",
-      "category": "local",
-      "title": "World Kindness Day stretches into a five-day celebration in Columbus",
-      "summary": "The Columbus Foundation's Center for HumanKindness launched its annual five-day Celebrate Kindness campaign today, featuring free YMCA meals, swag giveaways and seven surprise grants to school-serving nonprofits.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/lifestyle/kindness/2026/11/13/columbus-celebrates-world-kindness-day/92731500007/",
-      "publishedAt": "2026-11-13T05:00:00Z",
-      "tags": ["Columbus", "community", "World Kindness Day"]
-    },
-    {
-      "id": "local-gahanna-christmas-trees",
-      "category": "local",
-      "title": "Gahanna-area residents sending Christmas trees to service members",
-      "summary": "Residents across the Columbus area, including Gahanna, are collecting and shipping Christmas trees to U.S. service members stationed overseas, continuing a local holiday tradition.",
-      "source": "Buckeye Current",
-      "url": "https://gahanna.buckeyecurrent.com/article/columbus-area-residents-sending-service-members-christmas-trees-tib3is?site=gahanna",
-      "publishedAt": "2026-11-13T05:30:00Z",
-      "tags": ["Gahanna", "veterans", "holidays"]
-    }
+    {"id":"top-1","category":"top","title":"Iran claims strike on US radar in Bahrain; US says it downed two Iranian drones","summary":"Iran's Revolutionary Guard said it destroyed a US early-warning radar in Bahrain in retaliation for a strike on a telecom tower in southern Iran, while US Central Command said it shot down two Iranian attack drones and reported no damage or injuries. The exchange heightens tension in the Gulf amid a fragile lull in the US-Iran war.","source":"AP","url":"https://apnews.com/article/iran-us-bahrain-radar-strait-hormuz-5d73a23b5b8647d2515c35b267b36c08","publishedAt":"2026-11-13T15:00:00Z","tags":["Iran","Bahrain","US military","Gulf"]},
+    {"id":"top-2","category":"top","title":"Bus-truck collision in India's Assam kills at least 24","summary":"At least 24 people were killed and 11 injured when a container truck collided head-on with a bus near Kaziranga National Park in Assam, northeast India, police said. It is among the deadliest road accidents in the region this year.","source":"AP","url":"https://apnews.com/article/india-assam-bus-truck-collision-a7e5efd120b97b1fe2cc030dd77f08ba","publishedAt":"2026-11-13T14:30:00Z","tags":["India","Assam","road accident"]},
+    {"id":"top-3","category":"top","title":"Zelenskyy announces largest-ever Russia-Ukraine prisoner exchange","summary":"Ukrainian President Volodymyr Zelenskyy said Kyiv and Moscow have agreed to the war's largest prisoner-of-war exchange, calling it a 'real result' of negotiations with US envoys. European representatives are set to join the next round of peace talks.","source":"Euromaidan Press","url":"https://euromaidanpress.com/2026/11/13/the-wars-largest-pow-exchange-is-coming-zelenskyy-says-after-meeting-witkoff-and-kushner-russia-wont-discuss-sparing-the-grid/","publishedAt":"2026-11-13T09:00:00Z","tags":["Ukraine","Russia","prisoner exchange","peace talks"]},
+    {"id":"tech-1","category":"tech","title":"Microsoft 365 outage: services recovering after ~18 hours, 'not cyber or AI'","summary":"Microsoft said it 'addressed the underlying issue' behind a global outage of Outlook, Teams and Copilot that disrupted users in at least 70 countries, blaming a network capacity upgrade rather than a cyberattack or AI agents. Services began recovering Friday after roughly 18 hours.","source":"The Guardian","url":"https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports","publishedAt":"2026-11-13T17:41:00Z","tags":["Microsoft","outage","Microsoft 365","Copilot"]},
+    {"id":"tech-2","category":"tech","title":"Anthropic Claude hit by authentication outage across web and code tools","summary":"Anthropic's Claude.ai, Claude Code and platform console suffered elevated authentication errors starting around 09:58 UTC Friday, with users reporting login loops and hung sessions before services recovered about two hours later. The incident came as Microsoft separately worked through its own outage.","source":"Android Authority","url":"https://www.androidauthority.com/anthropic-claude-outage-nov-2026-3735078/","publishedAt":"2026-11-13T15:30:00Z","tags":["Anthropic","Claude","outage","AI"]},
+    {"id":"browns-3","category":"browns","title":"Monken: Browns won't change struggling offensive line","summary":"Despite allowing an NFL-high 38 sacks and having two tackles with the league's worst pressure rates, Todd Monken said he is not planning any offensive line changes. The unit faces another test as Deshaun Watson returns with his deeper dropbacks.","source":"Sports Illustrated","url":"https://www.si.com/nfl/browns/onsi/todd-monken-gives-one-concerning-update-on-the-browns-offensive-line-01m78n75px3t","publishedAt":"2026-11-13T20:26:00Z","tags":["Browns","offensive line","Todd Monken"]},
+    {"id":"browns-1","category":"browns","title":"Denzel Boston questionable for Week 10 vs Texans; Hickman, Burton ruled out","summary":"Rookie WR Denzel Boston (toe) is questionable for Sunday against Houston after returning to Friday practice as a limited participant, while FB Michael Burton (calf) and S Ronnie Hickman (concussion) were ruled out. Boston's toe is 'trending in the right direction,' Todd Monken said.","source":"clevelandbrowns.com","url":"https://www.clevelandbrowns.com/news/denzel-boston-questionable-for-week-10-vs-the-texans-injury-report","publishedAt":"2026-11-13T19:27:00Z","tags":["Browns","injury report","Denzel Boston","Texans"]},
+    {"id":"browns-4","category":"browns","title":"Jared Verse addresses sackless season, says he met with team psychiatrist","summary":"Edge rusher Jared Verse, who has no sacks through nine games, said he sought help from the team's sports psychiatrist to work through what he called a 'mental block.' Verse was acquired in the offseason trade that sent Myles Garrett to the Rams.","source":"Yahoo Sports","url":"https://sports.yahoo.com/articles/cleveland-browns-news-rumors-11-132532572.html","publishedAt":"2026-11-13T13:25:00Z","tags":["Browns","Jared Verse","mental health"]},
+    {"id":"browns-2","category":"browns","title":"Deshaun Watson returns as Browns starter against Texans","summary":"Todd Monken said Deshaun Watson will reclaim the starting quarterback job against Houston after clearing concussion protocol, citing his 'full body of work' over the first eight games. Second-year QB Shedeur Sanders filled in during a Week 9 overtime loss to the Saints.","source":"Yahoo Sports","url":"https://sports.yahoo.com/articles/todd-monken-lays-down-reasons-122833498.html","publishedAt":"2026-11-13T12:28:00Z","tags":["Browns","Deshaun Watson","Todd Monken"]},
+    {"id":"buckeyes-3","category":"buckeyes","title":"Justyn Martin still pushing for a chance in Ohio State's QB room","summary":"Fifth-year transfer Justyn Martin remains the third-string quarterback behind Luke Fahey and Tavien St. Clair but says he prepares 'like he's one snap away.' Martin is weighing whether to use a sixth year of eligibility at Ohio State in 2027.","source":"Eleven Warriors","url":"https://www.elevenwarriors.com/ohio-state-football/2026/11/165391/justyn-martin-still-hoping-for-a-chance-to-play-while-pushing-luke-fahey-tavien-st-clair-in-ohio-states-quarterback-room","publishedAt":"2026-11-13T19:56:00Z","tags":["Ohio State","quarterback","Justyn Martin"]},
+    {"id":"buckeyes-4","category":"buckeyes","title":"Buckeyes 'desperate for a win' heading into Northwestern","summary":"After consecutive losses dropped Ohio State to 6-3, Ryan Day said the team is 'desperate for a win' and must beat Northwestern at home Saturday. Center Carson Hinzman said the team has to rally around freshman QB Luke Fahey.","source":"Press Pros Magazine","url":"https://pressprosmagazine.com/2026/11/13/gilbert-buckeyes-strike-serious-tone-for-desperate-times/","publishedAt":"2026-11-13T17:00:00Z","tags":["Ohio State","Ryan Day","Northwestern"]},
+    {"id":"buckeyes-1","category":"buckeyes","title":"Ohio State fires special teams coordinator Robby Discher after nine games","summary":"Ryan Day fired special teams coordinator Robby Discher — his first in-season assistant firing — after costly errors swung losses to USC and Oregon. Senior analyst Rob Keys will oversee special teams by committee for the rest of the season.","source":"Land-Grant Holy Land","url":"https://www.landgrantholyland.com/ohio-state-football/126079/ohio-states-special-teams-swung-two-games-and-now-robby-discher-is-gone","publishedAt":"2026-11-13T14:01:00Z","tags":["Ohio State","special teams","Ryan Day"]},
+    {"id":"buckeyes-2","category":"buckeyes","title":"Brandon Inniss cleared for Northwestern; Luke Montgomery questionable","summary":"Receiver Brandon Inniss was cleared to play Saturday against Northwestern, but offensive lineman Luke Montgomery is questionable, keeping the injury bug alive on a struggling O-line. Quarterback Aidan Chiles is out for the Wildcats.","source":"Land-Grant Holy Land","url":"https://www.landgrantholyland.com/ohio-state-news/126140/inniss-is-cleared-for-northwestern-but-now-montgomery-is-questionable","publishedAt":"2026-11-13T13:01:00Z","tags":["Ohio State","injury report","Northwestern"]},
+    {"id":"f1-1","category":"f1","title":"Daily Mail boycotts F1 coverage after FIA revokes journalist's accreditation","summary":"The Daily Mail said it will boycott Formula 1 coverage for the final three races after the FIA revoked correspondent Jonathan McEvoy's accreditation over a column critical of Charles Leclerc. McEvoy called the move an attack on press freedom.","source":"GPFans","url":"https://www.gpfans.com/en/f1-news/1092854/f1-news-today-lewis-hamilton-not-fast-enough-verstappen-questions-ferrari-decision/","publishedAt":"2026-11-13T20:29:00Z","tags":["F1","FIA","media","Charles Leclerc"]},
+    {"id":"f1-4","category":"f1","title":"Yuki Tsunoda risks losing Monza point as FIA sets appeal hearing","summary":"The FIA confirmed Audi's appeal over Yuki Tsunoda's Monza restart will be heard November 25, more than two months after the Italian GP. If the appeal succeeds, Tsunoda could lose the point for tenth place, which would go to Gabriel Bortoleto.","source":"GPblog","url":"https://www.gpblog.com/en/news/f1-today-fia-bans-f1-journalist-after-leclerc-jibe-as-tsunoda-faces-key-hearing","publishedAt":"2026-11-13T18:00:00Z","tags":["F1","Yuki Tsunoda","FIA","Audi"]},
+    {"id":"f1-2","category":"f1","title":"Former Liberty Media CEO: F1 could be taken private by 2028 in $30B deal","summary":"Greg Maffei predicted Formula 1's public-market era could end within two years in a deal valuing the series near $30 billion. He suggested the opportunity to cash out is imminent as EBITDA growth stabilizes.","source":"FormulaKite","url":"https://formulakite.org/news/","publishedAt":"2026-11-13T17:30:00Z","tags":["F1","Liberty Media","business"]},
+    {"id":"f1-3","category":"f1","title":"Toto Wolff: Mercedes CEO rejected his repeated resignation offers","summary":"Toto Wolff revealed at the Golden Steering Wheel awards that he offered to resign multiple times during Mercedes' recent performance slump, but CEO Ola Kallenius refused each time. Wolff said the backing convinced him to stay and rebuild.","source":"The Grid Debrief","url":"https://thegriddebrief.com/around-the-grid","publishedAt":"2026-11-13T14:30:00Z","tags":["F1","Mercedes","Toto Wolff"]},
+    {"id":"tarkov-1","category":"tarkov","title":"Escape from Tarkov director: console version to be announced in 2027","summary":"Battlestate Games director Nikita Buyanov said a console version of Escape from Tarkov will be announced next year '100%,' though it won't be ready in 2027. The studio is still seeking a publishing partner and has yet to add controller support on PC.","source":"Wccftech","url":"https://wccftech.com/escape-from-tarkov-console-version-announcement-2027/","publishedAt":"2026-11-13T12:00:00Z","tags":["Tarkov","console","Battlestate Games"]},
+    {"id":"local-1","category":"local","title":"Hilliard teacher resigns after allegations of inappropriate relationship with student","summary":"A teacher at Hilliard's Ryan Griesmer Memorial Middle School resigned amid allegations of an inappropriate relationship with a student, with the district, police and the state education board reviewing the case. The matter remains under investigation.","source":"ABC 6","url":"https://abc6onyourside.com/news/local/hilliard-teacher-resigns-after-allegations-of-inappropriate-relationship-with-student-ryan-griesmer-memorial-middle-school-police-state-board-of-education-office-professional-conduct-review-investigate-district","publishedAt":"2026-11-13T18:30:00Z","tags":["Hilliard","education","investigation"]},
+    {"id":"local-3","category":"local","title":"Netflix's 'KPOP DEMON HUNTERS' live show coming to Schottenstein Center","summary":"Netflix and AEG Presents will bring the HUNTR/X live concert experience based on the animated 'KPOP DEMON HUNTERS' to Columbus's Schottenstein Center next summer, part of a wave of arena events landing in the city.","source":"ABC 6","url":"https://abc6onyourside.com/news/local/netflixs-kpop-demon-hunters-brings-huntrx-live-arena-show-to-columbus","publishedAt":"2026-11-13T16:30:00Z","tags":["Columbus","Netflix","entertainment"]},
+    {"id":"local-4","category":"local","title":"Giving Machine arrives at Polaris to support people in need","summary":"A 'Giving Machine' — a red vending machine that lets shoppers donate specific items to local charities — opened at Polaris Fashion Place on Friday as part of a holiday-season giving push connecting shoppers with nonprofit needs.","source":"ABC 6","url":"https://abc6onyourside.com/news/local/giving-machine-arrives-at-polaris-friday-offering-a-new-way-to-donate","publishedAt":"2026-11-13T15:30:00Z","tags":["Columbus","Polaris","charity","holidays"]},
+    {"id":"local-2","category":"local","title":"Ohio nurses plan complaints against OSU Wexner Medical Center over staffing","summary":"The Ohio Nurses Association said it will file state complaints against Ohio State's Wexner Medical Center CEO and The James' chief nursing officer, alleging staffing shortages contributed to canceled open-heart surgeries and ICU bed closures.","source":"The Ohio Flyover","url":"https://theohioflyover.com/friday-november-13-2026/","publishedAt":"2026-11-13T12:00:00Z","tags":["Columbus","OSU Wexner","nurses","healthcare"]}
   ]
 }
