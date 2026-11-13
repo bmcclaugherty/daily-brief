@@ -1,325 +1,201 @@
 {
   "meta": {
-    "updatedAt": "2026-11-12T20:36:00Z",
+    "updatedAt": "2026-11-13T12:02:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 21
+    "count": 19
   },
   "stories": [
     {
-      "id": "top-russia-strike-1112",
+      "id": "top-bahrain-radar",
       "category": "top",
-      "title": "Russia says it hit military factories across Ukraine in overnight strike",
-      "summary": "Russia's military said it carried out a massive overnight strike on military factories across Ukraine, including in Kyiv, as Moscow and Kyiv exchanged attacks on each other's capitals. The strikes came as US envoys arrived in Moscow for peace talks.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-ukraine-exchange-attacks-capitals-us-envoys-head-moscow-2026-11-12/",
-      "publishedAt": "2026-11-12T19:25:00Z",
-      "tags": [
-        "Ukraine",
-        "Russia",
-        "war",
-        "strikes"
-      ]
+      "title": "Iran's Revolutionary Guard says it destroyed a US radar in Bahrain",
+      "summary": "Iran's IRGC claimed it destroyed a U.S. early-warning radar in Bahrain, its first such claim in months, after a U.S. strike on a telecom tower in Sirik. Neither that claim nor a reported tanker mine blast in the Strait of Hormuz was independently verified.",
+      "source": "AP",
+      "url": "https://apnews.com/article/iran-us-bahrain-radar-strait-hormuz-5d73a23b5b8647d2515c35b267b36c08",
+      "publishedAt": "2026-11-13T09:09:00Z",
+      "tags": ["Iran", "US", "Bahrain", "Strait of Hormuz"]
     },
     {
-      "id": "top-putin-europe-talks-1112",
+      "id": "top-iaea-isfahan",
       "category": "top",
-      "title": "Putin agrees to let Europeans join next round of Ukraine peace talks",
-      "summary": "US envoy Steve Witkoff said Vladimir Putin agreed that European representatives will join the next round of trilateral talks, calling it an important moment. The Kremlin said the Witkoff-Kushner meeting was useful and that Putin will discuss Ukraine with Trump at an APEC summit this month.",
-      "source": "Reuters via The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236",
-      "publishedAt": "2026-11-12T18:15:00Z",
-      "tags": [
-        "Ukraine",
-        "Russia",
-        "diplomacy",
-        "Putin"
-      ]
-    },
-    {
-      "id": "top-dublin-epc-1112",
-      "category": "top",
-      "title": "Zelensky joins 40+ European leaders in Dublin, warns on US-Russia security framework",
-      "summary": "At the European Political Community summit in Dublin, Zelensky urged leaders to scrutinise what he called 'strange' attempts to agree a new Europe-Russia security framework. He also said restrictions on the Starshield satellite service are slowing Ukrainian interceptors.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-      "publishedAt": "2026-11-12T17:50:00Z",
-      "tags": [
-        "Ukraine",
-        "Europe",
-        "Zelensky",
-        "security"
-      ]
-    },
-    {
-      "id": "top-red-brigades-argentina-1112",
-      "category": "top",
-      "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
-      "summary": "A former member of Italy's Red Brigades has escaped from house arrest in Argentina, according to Al Jazeera.",
+      "title": "IAEA 'increasingly concerned' over Iran's Isfahan enrichment plant",
+      "summary": "The UN nuclear watchdog said it is increasingly concerned about an underground uranium-enrichment plant at Isfahan that Tehran has not let it inspect, as the Iran war continues. Iran's navy separately claimed it shot down a U.S. MQ-1 Predator drone over the Strait of Hormuz.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina",
-      "publishedAt": "2026-11-12T14:10:00Z",
-      "tags": [
-        "Italy",
-        "Argentina",
-        "justice",
-        "extradition"
-      ]
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks",
+      "publishedAt": "2026-11-13T05:00:00Z",
+      "tags": ["IAEA", "Iran", "nuclear", "Isfahan"]
     },
     {
-      "id": "tech-huggingface-1112",
+      "id": "top-trump-gulf",
+      "category": "top",
+      "title": "Trump says Gulf allies urged restraint on Iran, claims US could finish it in 'three days'",
+      "summary": "Trump said Saudi Arabia, Qatar, the UAE and other Gulf states asked him to hold back on escalating against Iran, and that the U.S. could destroy the country's remaining energy, bridges and manufacturing in 'three days.' He said Israel is among the nations Washington is protecting.",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914787",
+      "publishedAt": "2026-11-13T05:46:00Z",
+      "tags": ["Trump", "Iran", "Saudi Arabia", "Gulf"]
+    },
+    {
+      "id": "top-trump-options",
+      "category": "top",
+      "title": "Trump confronts dwindling options to end the Iran conflict",
+      "summary": "NPR reports Trump's options to end the Iran war are narrowing after his midterm losses and Israel's political shakeup, leaving Gulf countries in limbo between pressure and patience.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038881/trump-confronts-dwindling-options-to-end-conflict-with-iran",
+      "publishedAt": "2026-11-13T04:00:00Z",
+      "tags": ["Trump", "Iran", "Middle East", "analysis"]
+    },
+    {
+      "id": "tech-gemini-hydrogen",
       "category": "tech",
-      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Huang's exit",
-      "summary": "Clément Delangue called Jensen Huang's departure a 'really sad day' and pledged to keep pushing open-source AI, raising questions about Nvidia's pending $12.9 billion acquisition of Hugging Face. Huang had been the industry's most visible open-model advocate.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "publishedAt": "2026-11-12T18:20:00Z",
-      "tags": [
-        "AI",
-        "open source",
-        "Nvidia",
-        "Hugging Face"
-      ]
+      "title": "Google releases Gemini 4 Hydrogen for fast agentic workflows",
+      "summary": "Google rolled out Gemini 4 Hydrogen, a faster, lower-cost model built for coding and AI-agent tasks, across AI Studio, the Gemini API and Search. It sits below the frontier Carbon and Argon models for rapid everyday agent work.",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "publishedAt": "2026-11-13T01:00:00Z",
+      "tags": ["Google", "Gemini", "AI", "LLM"]
     },
     {
-      "id": "tech-nvidia-value-1112",
+      "id": "tech-appletv-siri",
       "category": "tech",
-      "title": "Nvidia on track to shed more than $700 billion in market value after Huang resigns",
-      "summary": "Nvidia shares fell again on Thursday, putting the chipmaker on course to lose over $700 billion in value since the prior US close. The selloff reflects investor anxiety about leadership at the centre of the AI buildout.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/nvidia-stock-nvda-ceo-jensen-huang/",
-      "publishedAt": "2026-11-12T15:30:00Z",
-      "tags": [
-        "Nvidia",
-        "markets",
-        "AI",
-        "stocks"
-      ]
+      "title": "Apple TV 4K with Siri AI launches today at $299",
+      "summary": "Apple's fourth-generation Apple TV 4K, featuring an A19 chip and hands-free Siri AI, is available starting today at $299. Early hands-ons praise the new AI assistant and audio features while questioning the premium price.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/",
+      "publishedAt": "2026-11-13T01:00:00Z",
+      "tags": ["Apple", "Apple TV", "Siri", "AI"]
     },
     {
-      "id": "tech-huang-resigns-1112",
-      "category": "tech",
-      "title": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim chief",
-      "summary": "Nvidia's board announced Huang resigned effective immediately after an investigation into an affair with an alleged Chinese spy, with CFO Colette Kress stepping in as interim CEO. The exit removes the executive most associated with the AI boom he helped build.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-      "publishedAt": "2026-11-12T14:20:00Z",
-      "tags": [
-        "Nvidia",
-        "AI",
-        "leadership",
-        "chips"
-      ]
-    },
-    {
-      "id": "browns-salute-service-1112",
+      "id": "browns-monken-ol",
       "category": "browns",
-      "title": "Browns plan Salute to Service tributes for Sunday's Texans game",
-      "summary": "Cleveland will mark its annual Salute to Service game against Houston with a Navy color guard, a T-6 flyover, an Honor Row for all six branches and an Army-Navy halftime skills challenge. Assistant team physician Dr. Benjamin Boswell, an Army Reserve officer, is the club's award nominee.",
-      "source": "clevelandbrowns.com",
-      "url": "https://www.clevelandbrowns.com/news/browns-to-honor-military-heroes-during-annual-salute-to-service-game-against-houston-texans-on-nov-15",
-      "publishedAt": "2026-11-12T18:06:00Z",
-      "tags": [
-        "Browns",
-        "Salute to Service",
-        "Texans",
-        "gameday"
-      ]
+      "title": "Monken says Browns won't change struggling offensive line",
+      "summary": "Browns coach Todd Monken said he will not change his offensive line despite Cleveland allowing an NFL-worst 38 sacks and committing the most pre-snap penalties. He called the starters 'our best players' and ruled out lineup changes.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/nfl/browns/onsi/todd-monken-gives-one-concerning-update-on-the-browns-offensive-line-01m78n75px3t",
+      "publishedAt": "2026-11-13T11:56:00Z",
+      "tags": ["Browns", "Todd Monken", "offensive line", "NFL"]
     },
     {
-      "id": "browns-bond-1112",
-      "category": "browns",
-      "title": "Isaiah Bond's role in Cleveland is shrinking fast",
-      "summary": "The second-year receiver, viewed as a promising piece entering 2026, is barely seeing the field as the Browns' passing game leans on other targets. His fade raises questions about his future in a receiver room already reshaped by injuries.",
-      "source": "Dawg Pound Daily",
-      "url": "https://dawgpounddaily.com/it-took-half-a-season-for-isaiah-bond-s-time-with-browns-to-start-running-out-01m73yccd72j",
-      "publishedAt": "2026-11-12T18:00:00Z",
-      "tags": [
-        "Browns",
-        "Isaiah Bond",
-        "roster",
-        "receivers"
-      ]
-    },
-    {
-      "id": "browns-boston-practice-1112",
-      "category": "browns",
-      "title": "Denzel Boston misses Thursday's practice; Elgton Jenkins returns",
-      "summary": "Rookie receiver Denzel Boston sat out again with a toe injury, leaving KC Concepcion in line for more targets against Houston. Center Elgton Jenkins was back at practice, but safety Ronnie Hickman (concussion) and fullback Michael Burton (calf) remained sidelined.",
-      "source": "4for4 (Daniel Oyefusi, ESPN)",
-      "url": "https://www.4for4.com/news/browns-wr-denzel-boston-absent-thursday%E2%80%99s-practice",
-      "publishedAt": "2026-11-12T17:30:00Z",
-      "tags": [
-        "Browns",
-        "injuries",
-        "Denzel Boston",
-        "Texans"
-      ]
-    },
-    {
-      "id": "buckeyes-day-ap-1112",
+      "id": "buckeyes-skull-session",
       "category": "buckeyes",
-      "title": "Day confronts first regular-season losing streak, sticks with Luke Fahey at QB",
-      "summary": "Ryan Day acknowledged anger and frustration inside the Woody Hayes Athletic Center as Ohio State prepares for Northwestern after back-to-back double-digit losses. The AP reported Day is keeping freshman Luke Fahey as the starter rather than turning to Tavien St. Clair.",
-      "source": "Associated Press via Times Daily",
-      "url": "https://www.timesdaily.com/sports/day-buckeyes-stick-with-qb-amid-skid/article_bd3c8df8-789d-4291-97aa-e41f9f5272b5.html",
-      "publishedAt": "2026-11-12T20:20:00Z",
-      "tags": [
-        "Ohio State",
-        "Ryan Day",
-        "Luke Fahey",
-        "Northwestern"
-      ]
-    },
-    {
-      "id": "buckeyes-day-radio-1112",
-      "category": "buckeyes",
-      "title": "Day: Buckeyes focused on winning final three games, starting with Northwestern",
-      "summary": "On his weekly radio show, Day said Ohio State is focused on beating Northwestern, Nebraska and Michigan before thinking about the postseason, while conceding the pass rush and missed interception chances must improve. Safety Earl Little Jr. said communication on defense is the priority against Chip Kelly's offense.",
+      "title": "Skull Session: Buckeyes at No. 20, Jeremiah Smith's resolve, and a hypothetical Wake Forest matchup",
+      "summary": "Eleven Warriors' daily column frames Saturday's Northwestern game as a must-win after Ohio State slid to No. 20 in the CFP rankings, and notes a proposed 24-team playoff would have the Buckeyes facing Wake Forest.",
       "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165371/ryan-day-radio-show-ryan-day-says-ohio-state-is-focused-on-winning-its-final-three-games-especially-the-rivalry",
-      "publishedAt": "2026-11-12T18:06:00Z",
-      "tags": [
-        "Ohio State",
-        "Ryan Day",
-        "Northwestern",
-        "Big Ten"
-      ]
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165376/skull-session-buckeyes-fight-til-the-end-theres-no-quit-in-jeremiah-smith-and-ohio-state-would-face-wake-forest-in-the-first-round-of-a-24-team-cfp",
+      "publishedAt": "2026-11-13T09:55:00Z",
+      "tags": ["Ohio State", "CFP", "Jeremiah Smith", "Northwestern"]
     },
     {
-      "id": "buckeyes-rb-commit-1112",
+      "id": "buckeyes-yahoo-preview",
       "category": "buckeyes",
-      "title": "Buckeyes land four-star RB Daylon Gordon for 2027 class",
-      "summary": "Ohio State ended a long, bumpy search for a running back in the 2027 cycle by landing four-star Daylon Gordon. The commitment fills the biggest remaining hole in the class as the staff juggles late-season on-field problems with recruiting.",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-news/126040/buckeyes-finally-land-a-2027-running-back-as-team-prepares-for-northwestern",
-      "publishedAt": "2026-11-12T13:01:00Z",
-      "tags": [
-        "Ohio State",
-        "recruiting",
-        "2027 class",
-        "running back"
-      ]
+      "title": "Ohio State vs. Northwestern preview: Buckeyes need to win out to reach CFP",
+      "summary": "Yahoo's preview notes Ohio State has lost back-to-back regular-season games for the first time since 2011 and must win its final three games plus the Big Ten title to make the playoff. Freshman Luke Fahey starts his third straight game at quarterback.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/ohio-state-vs-northwestern-2026-113100671.html",
+      "publishedAt": "2026-11-13T11:31:00Z",
+      "tags": ["Ohio State", "Northwestern", "CFP", "Luke Fahey"]
     },
     {
-      "id": "f1-wolff-antonelli-1112",
+      "id": "buckeyes-three-keys",
+      "category": "buckeyes",
+      "title": "Three keys for Ohio State against Northwestern: heart, discipline, running game",
+      "summary": "Lettermen Row says Ohio State needs heart, discipline and a re-established running game to snap its two-game skid against Northwestern, after the defense allowed 71 combined points to USC and Oregon.",
+      "source": "On3",
+      "url": "https://www.on3.com/teams/ohio-state-buckeyes/news/three-keys-ohio-state-needs-heart-discipline-and-a-running-game-to-beat-northwestern/",
+      "publishedAt": "2026-11-13T07:00:00Z",
+      "tags": ["Ohio State", "Northwestern", "analysis"]
+    },
+    {
+      "id": "f1-tsunoda-hearing",
       "category": "f1",
-      "title": "Wolff: Antonelli is no Senna yet, but may be a 'Senninha'",
-      "summary": "Mercedes team boss Toto Wolff tempered comparisons between newly crowned champion Kimi Antonelli and Ayrton Senna, suggesting the 20-year-old is more of a 'Senninha' for now. Antonelli became F1's youngest world champion in Mexico City earlier this month.",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonelli-isnt-ayrton-senna-yet-but-he-may-be-a-senninha-/10873544/",
-      "publishedAt": "2026-11-12T15:30:00Z",
-      "tags": [
-        "F1",
-        "Mercedes",
-        "Antonelli",
-        "Wolff"
-      ]
+      "title": "FIA sets Nov. 25 hearing for Audi's appeal over Tsunoda's Italian GP",
+      "summary": "The FIA's International Court of Appeal will hear Audi's challenge on Nov. 25 over Yuki Tsunoda's Italian GP grid incident, which could strip the Racing Bulls driver of his only championship point and promote Gabriel Bortoleto to 10th.",
+      "source": "GPblog",
+      "url": "https://www.gpblog.com/en/news/fia-sets-date-for-hearing-that-could-cost-tsunoda-a-championship-point",
+      "publishedAt": "2026-11-13T11:30:00Z",
+      "tags": ["F1", "FIA", "Tsunoda", "Audi"]
     },
     {
-      "id": "f1-racing-bulls-1112",
+      "id": "f1-hirakawa-haas",
       "category": "f1",
-      "title": "Racing Bulls confirm unchanged Lawson-Lindblad line-up for 2027",
-      "summary": "Racing Bulls ended months of speculation by extending both Liam Lawson and Arvid Lindblad for 2027, leaving Red Bull junior Nikola Tsolov without a seat. The team opted for continuity in year two of the current regulations.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx",
-      "publishedAt": "2026-11-12T11:01:00Z",
-      "tags": [
-        "F1",
-        "Racing Bulls",
-        "Lawson",
-        "Lindblad"
-      ]
+      "title": "Haas considers bringing back Hirakawa for Qatar and Abu Dhabi",
+      "summary": "Haas is reportedly weighing a return for Ryo Hirakawa in the season-ending Qatar and Abu Dhabi rounds, with Rafael Camara contesting Las Vegas first. No final driver plan has been confirmed by the team.",
+      "source": "The Judge13",
+      "url": "https://thejudge13.com/2026/11/13/haas-consider-hirakawa-return-as-camaras-f1-debut-reshapes-final-races-of-2026/",
+      "publishedAt": "2026-11-13T07:45:00Z",
+      "tags": ["F1", "Haas", "Hirakawa", "Camara"]
     },
     {
-      "id": "f1-aduo-1112",
+      "id": "f1-antonelli-track-limits",
       "category": "f1",
-      "title": "FIA publishes latest ADUO results in final 2026 season review",
-      "summary": "The FIA released its latest additional development and upgrade opportunity (ADUO) findings as part of a final review of the 2026 power-unit landscape. The results determine how much extra engine development each manufacturer is allowed.",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/",
-      "publishedAt": "2026-11-12T10:30:00Z",
-      "tags": [
-        "F1",
-        "FIA",
-        "power units",
-        "regulations"
-      ]
+      "title": "Antonelli names Austin as his track-limits 'turning point'",
+      "summary": "Champion Kimi Antonelli said the U.S. Grand Prix in Austin was the turning point for his track-limits struggles, still his biggest admitted weakness after exceeding limits 130 times this season.",
+      "source": "F1 Oversteer",
+      "url": "https://www.f1oversteer.com/news/kimi-antonelli-pinpoints-the-turning-point-weekend-for-his-track-limits-struggles-in-2026/",
+      "publishedAt": "2026-11-13T10:30:00Z",
+      "tags": ["F1", "Antonelli", "Mercedes"]
     },
     {
-      "id": "f1-stroll-dnf-1112",
+      "id": "f1-hamilton-schumacher",
       "category": "f1",
-      "title": "Honda at a loss to explain Lance Stroll's 13th DNF of the season",
-      "summary": "Honda said it is still working to pinpoint the cause of Lance Stroll's latest retirement, his 13th of the 2026 campaign. The repeated failures have wrecked Aston Martin's constructors' points haul in the final season of the current engine rules.",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/",
-      "publishedAt": "2026-11-12T09:30:00Z",
-      "tags": [
-        "F1",
-        "Honda",
-        "Aston Martin",
-        "Stroll"
-      ]
+      "title": "Schumacher: Hamilton 'simply not fast enough' compared to Leclerc",
+      "summary": "Ralf Schumacher said Lewis Hamilton's Ferrari tension stems from being slower than teammate Charles Leclerc rather than the team's equal-driver policy, questioning whether either is still title material.",
+      "source": "GPblog",
+      "url": "https://www.gpblog.com/en/news/the-problem-is-that-hamilton-is-simply-not-fast-enough-compared-to-leclerc",
+      "publishedAt": "2026-11-13T10:02:00Z",
+      "tags": ["F1", "Hamilton", "Leclerc", "Ferrari"]
     },
     {
-      "id": "local-columbus-issues-1112",
-      "category": "local",
-      "title": "Columbus maps out years-long rollout of Issues 8 and 9",
-      "summary": "Council is moving quickly to seat an independent redistricting commission after voters approved ward-style representation, with applications possibly opening within a month. The expanded 13-member council phases in through 2027 and 2029 elections.",
-      "source": "Axios Columbus",
-      "url": "https://www.axios.com/local/columbus/2026/11/12/columbus-city-council-issue-8-9-changes-timeline",
-      "publishedAt": "2026-11-12T20:15:00Z",
-      "tags": [
-        "Columbus",
-        "City Council",
-        "redistricting",
-        "elections"
-      ]
+      "id": "tarkov-console-2027",
+      "category": "tarkov",
+      "title": "Tarkov console version will be announced in 2027, Buyanov confirms",
+      "summary": "Battlestate Games director Nikita Buyanov said the console version of Escape from Tarkov will be announced next year, though it 'won't be ready next year,' as the studio nears a publishing deal. A 2027 announcement is '100%' certain, he said.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/escape-from-tarkov-console-version-announcement-2027/",
+      "publishedAt": "2026-11-13T12:00:00Z",
+      "tags": ["Tarkov", "console", "Battlestate", "Buyanov"]
     },
     {
-      "id": "local-pastor-son-guilty-1112",
+      "id": "local-crew-3-0",
       "category": "local",
-      "title": "New Albany pastor's son found guilty on all 27 sexual assault charges",
-      "summary": "A Knox County case ended with guilty verdicts on every count against the son of a New Albany pastor, NBC4 reported. The verdict closes a case that drew statewide attention.",
-      "source": "NBC4 (WCMH)",
-      "url": "https://www.nbc4i.com/news/local-news/knox-county/new-albany-pastors-son-guilty-on-all-27-sexual-assault-charges/",
-      "publishedAt": "2026-11-12T15:30:00Z",
-      "tags": [
-        "Knox County",
-        "courts",
-        "New Albany",
-        "crime"
-      ]
+      "title": "Crew beat D.C. United 3-0 to stay in MLS playoff hunt",
+      "summary": "The Columbus Crew won 3-0 over D.C. United on goals from Zawadzki and Zaroury, keeping their MLS playoff push alive.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/mls/zawadzki-zaroury-score-as-crew-beat-d-c-united-3-0-to-stay-in-playoff-hunt/",
+      "publishedAt": "2026-11-13T11:53:00Z",
+      "tags": ["Columbus Crew", "MLS", "soccer"]
     },
     {
-      "id": "local-acton-medicaid-1112",
+      "id": "local-osu-professor-sentenced",
       "category": "local",
-      "title": "Acton outlines response to 2027 federal Medicaid changes",
-      "summary": "Ohio's incoming governor, Amy Acton, is sketching out how her administration will handle federal Medicaid changes set to take effect in 2027. The planning comes as she also faces questions about her refusal to speak with opponent Vivek Ramaswamy.",
-      "source": "NBC4 (WCMH)",
-      "url": "https://www.nbc4i.com/news/politics/medicaid-in-ohio-how-amy-acton-plans-to-respond-to-2027-federal-changes/",
-      "publishedAt": "2026-11-12T11:30:00Z",
-      "tags": [
-        "Ohio",
-        "Amy Acton",
-        "Medicaid",
-        "politics"
-      ]
+      "title": "Former OSU professor sentenced to life in wife's murder",
+      "summary": "A former Ohio State professor received a life sentence for the murder of his wife, in a case prosecutors tied to an alleged sextortion scheme.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/former-ohio-state-professor-gets-life-sentence-in-wifes-murder-after-alleged-sextortion-scheme/",
+      "publishedAt": "2026-11-13T04:00:00Z",
+      "tags": ["Columbus", "OSU", "crime"]
     },
     {
-      "id": "local-delaware-crash-1112",
+      "id": "local-kindness-day",
       "category": "local",
-      "title": "Teen killed after vehicle hits tree, catches fire in Delaware County",
-      "summary": "A teenager died after the vehicle they were in left the road, struck a tree and caught fire in Delaware County, according to NBC4.",
-      "source": "NBC4 (WCMH)",
-      "url": "https://www.nbc4i.com/news/local-news/delaware-county/teen-dead-after-vehicle-hits-tree-catches-on-fire-in-delaware-county/",
-      "publishedAt": "2026-11-12T11:30:00Z",
-      "tags": [
-        "Delaware County",
-        "crash",
-        "public safety"
-      ]
+      "title": "World Kindness Day stretches into a five-day celebration in Columbus",
+      "summary": "The Columbus Foundation's Center for HumanKindness launched its annual five-day Celebrate Kindness campaign today, featuring free YMCA meals, swag giveaways and seven surprise grants to school-serving nonprofits.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/lifestyle/kindness/2026/11/13/columbus-celebrates-world-kindness-day/92731500007/",
+      "publishedAt": "2026-11-13T05:00:00Z",
+      "tags": ["Columbus", "community", "World Kindness Day"]
+    },
+    {
+      "id": "local-gahanna-christmas-trees",
+      "category": "local",
+      "title": "Gahanna-area residents sending Christmas trees to service members",
+      "summary": "Residents across the Columbus area, including Gahanna, are collecting and shipping Christmas trees to U.S. service members stationed overseas, continuing a local holiday tradition.",
+      "source": "Buckeye Current",
+      "url": "https://gahanna.buckeyecurrent.com/article/columbus-area-residents-sending-service-members-christmas-trees-tib3is?site=gahanna",
+      "publishedAt": "2026-11-13T05:30:00Z",
+      "tags": ["Gahanna", "veterans", "holidays"]
     }
   ]
 }
