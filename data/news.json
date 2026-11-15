@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-15T12:00:00Z",
+    "updatedAt": "2026-11-15T20:36:29Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
@@ -8,124 +8,180 @@
   },
   "stories": [
     {
-      "id": "top-faa-ground-stop-l3harris",
+      "id": "top-1",
       "category": "top",
-      "title": "US aviation shutdown blamed on a single L3Harris-installed router",
-      "summary": "A nearly five-hour US aviation shutdown that disrupted more than 20,000 flights may trace to a single router installed by contractor L3Harris, officials said. The failure renewed scrutiny of the aging air-traffic-control telecom system.",
-      "source": "CNBC-TV18",
-      "url": "https://www.cnbctv18.com/world/us-aviation-shutdown-how-an-l3harris-installed-router-disrupted-thousands-of-flights-across-america-20034207.htm",
-      "publishedAt": "2026-11-15T04:00:00Z",
-      "tags": ["faa", "aviation", "l3harris", "air-travel"]
+      "title": "UN peacekeeping mission in Western Sahara ends after 35 years",
+      "summary": "The UN's Western Sahara peacekeeping mission ceased operations Sunday after 35 years, a casualty of a US-Russia standoff at the Security Council over the disputed territory's future.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/western-sahara-un-peacekeepers-morocco-algeria-030e303c58207060265d8748c1db3778",
+      "publishedAt": "2026-11-15T12:00:00Z",
+      "tags": [
+        "Western Sahara",
+        "UN",
+        "Morocco",
+        "US-Russia"
+      ]
     },
     {
-      "id": "top-iran-hormuz-tankers",
+      "id": "top-2",
       "category": "top",
-      "title": "Iran's navy says three oil tankers caught fire after hitting mines in Strait of Hormuz",
-      "summary": "Iran's navy said three oil tankers caught fire after striking naval mines in the Strait of Hormuz and warned ships to avoid a restricted zone. The incidents escalate tensions between Iran, the US and Israel in a vital oil chokepoint.",
-      "source": "Economic Times (ANI)",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-navy-says-three-oil-tankers-catch-fire-after-hitting-naval-mines-in-hormuz/articleshow/135845096.cms",
-      "publishedAt": "2026-11-15T01:03:00Z",
-      "tags": ["iran", "hormuz", "oil", "tensions"]
+      "title": "Southeast Asian leaders open ASEAN summit in Manila",
+      "summary": "The 49th ASEAN Summit opened in Manila on Sunday, with the Myanmar conflict, South China Sea tensions and regional trade topping the agenda for the three-day gathering.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/asean-summit-manila-philippines-china-trump-ca9bb47cc109a1ca9e57be787b137095",
+      "publishedAt": "2026-11-15T10:00:00Z",
+      "tags": [
+        "ASEAN",
+        "Philippines",
+        "diplomacy"
+      ]
     },
     {
-      "id": "tech-eli-lilly-amodei",
+      "id": "top-3",
+      "category": "top",
+      "title": "Judge blocks Trump plan to close Washington DC golf course",
+      "summary": "A federal judge issued a temporary order Sunday blocking the Trump administration's plan to shut down and renovate the East Potomac Golf Links, the latest step in a months-long dispute over the public course.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6j9mn7l14y0o",
+      "publishedAt": "2026-11-15T15:00:00Z",
+      "tags": [
+        "Trump",
+        "Washington DC",
+        "courts"
+      ]
+    },
+    {
+      "id": "tech-1",
       "category": "tech",
-      "title": "Eli Lilly CEO pushes back on Anthropic chief's 'cure everything' medical claims",
-      "summary": "Eli Lilly's CEO joined critics pushing back on Anthropic CEO Dario Amodei's prediction that AI will cure cancer and heart disease within a decade. The pushback comes as Anthropic moves toward its Nasdaq IPO.",
-      "source": "Gary Marcus (Substack)",
-      "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
-      "publishedAt": "2026-11-15T10:00:00Z",
-      "tags": ["ai", "anthropic", "healthcare", "ipo"]
+      "title": "Apple's Siri-powered smart glasses reportedly launching next year",
+      "summary": "Apple plans to unveil its first smart glasses at WWDC 2027 and ship them before year-end, per Mark Gurman: iPhone-tethered frames built around Siri AI and third-party app integration.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
+      "publishedAt": "2026-11-15T18:00:00Z",
+      "tags": [
+        "Apple",
+        "smart glasses",
+        "Siri",
+        "AI"
+      ]
     },
     {
-      "id": "browns-week10-texans-preview",
+      "id": "tech-2",
+      "category": "tech",
+      "title": "Bessent urges Nvidia to hire an outside CEO, questions China sales",
+      "summary": "Treasury Secretary Scott Bessent questioned whether Nvidia's earnings were inflated by chip sales routed to China and gave the board 10 days to answer, urging a dramatic shakeup with an external CEO.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo",
+      "publishedAt": "2026-11-15T18:30:00Z",
+      "tags": [
+        "Nvidia",
+        "AI chips",
+        "Treasury",
+        "China"
+      ]
+    },
+    {
+      "id": "tech-3",
+      "category": "tech",
+      "title": "Hyundai Home Shopping debuts AI broadcasts with no hosts or cameras",
+      "summary": "Hyundai Home Shopping launched AI-REAL, a system that generates entire sales broadcasts - voice, visuals and product scenes - with no human hosts, cutting partner production costs by more than 80% in a pilot.",
+      "source": "Korea Herald",
+      "url": "https://www.koreaherald.com/article/10937399",
+      "publishedAt": "2026-11-15T15:00:00Z",
+      "tags": [
+        "AI",
+        "retail",
+        "South Korea",
+        "automation"
+      ]
+    },
+    {
+      "id": "browns-1",
       "category": "browns",
-      "title": "Browns host Texans in must-win Week 10 matchup before bye",
-      "summary": "The Browns (5-4) host the Texans in Week 10 needing to snap a two-game losing streak before their bye, with Deshaun Watson returning at quarterback against his former team. A third straight loss would drop Cleveland to 5-5 and out of playoff position.",
-      "source": "SB Nation / Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-search-elusive-113000296.html",
-      "publishedAt": "2026-11-15T11:30:00Z",
-      "tags": ["browns", "texans", "watson", "week-10"]
+      "title": "Browns announce inactives for Week 10 vs. Texans",
+      "summary": "Cleveland released its inactive list for Sunday's home game against Houston, the Browns' final contest before their bye week.",
+      "source": "clevelandbrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/browns-announce-inactives-for-week-10-vs-the-texans",
+      "publishedAt": "2026-11-15T16:30:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "Texans",
+        "Week 10"
+      ]
     },
     {
-      "id": "browns-watson-starts-texans",
+      "id": "browns-2",
       "category": "browns",
-      "title": "Deshaun Watson starts as Browns host Texans with bye week looming",
-      "summary": "Deshaun Watson starts Sunday's 1 p.m. game against Houston in what cleveland.com calls a 'prove-it game' against his former team. Cleveland has slipped from first to third in the AFC North after two straight losses.",
-      "source": "5AM Cleveland",
-      "url": "https://5amclevelandoh.com/local-news/editions/11-15-2026",
-      "publishedAt": "2026-11-15T10:00:00Z",
-      "tags": ["browns", "watson", "texans", "afc-north"]
+      "title": "Browns host Texans in Week 10 with bye week on deck",
+      "summary": "Cleveland hosts Houston at Huntington Bank Field on Sunday, looking to snap a two-game losing streak and reach its bye week on an upswing.",
+      "source": "Akron Beacon Journal",
+      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/11/15/browns-score-updates-texans-nfl-odds-tv-channel-weather--live/92724432007/",
+      "publishedAt": "2026-11-15T14:00:00Z",
+      "tags": [
+        "Browns",
+        "NFL",
+        "Texans"
+      ]
     },
     {
-      "id": "browns-hey-mary-kay-watson",
-      "category": "browns",
-      "title": "Hey, Mary Kay: Must Watson keep earning the Browns' starting job weekly?",
-      "summary": "Mary Kay Cabot fields readers' questions on whether Deshaun Watson must keep earning the Browns' starting quarterback job each week. The mailbag comes as Watson faces a pivotal game against his former team.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/11/must-deshaun-watson-earn-his-starting-job-every-week-hey-mary-kay.html",
-      "publishedAt": "2026-11-15T10:00:00Z",
-      "tags": ["browns", "watson", "quarterback", "q-and-a"]
-    },
-    {
-      "id": "buckeyes-mens-basketball-preview",
+      "id": "buckeyes-1",
       "category": "buckeyes",
-      "title": "Ohio State men's basketball opens season Monday with expanded NCAA field",
-      "summary": "With the NCAA Tournament field expanded, Ohio State men's basketball has fewer excuses as it opens its season Monday night against UIC. The Buckeyes are aiming to end a run of disappointing seasons.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-mens-basketball-preview-expanded-ncaa-field-opens-wide-door/",
-      "publishedAt": "2026-11-15T06:00:00Z",
-      "tags": ["buckeyes", "basketball", "ncaa"]
-    },
-    {
-      "id": "buckeyes-post-northwestern-quotes",
-      "category": "buckeyes",
-      "title": "Ryan Day praises resilience as Buckeyes snap skid over Northwestern",
-      "summary": "Ohio State snapped a two-game losing streak with a 28-19 win over Northwestern, and Ryan Day praised his team for bouncing back. Jeremiah Smith set the Big Ten career receiving record in the victory.",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/ohiostate/football/ohio-state-embracing-their-reality-top-quotes-after-win-over-northwestern-01m7e919ebd8",
-      "publishedAt": "2026-11-15T00:30:00Z",
-      "tags": ["buckeyes", "football", "ryan-day", "jeremiah-smith"]
-    },
-    {
-      "id": "local-three-ohio-counties-election",
-      "category": "local",
-      "title": "Three Ohio counties to watch as voters decide Senate, governor races",
-      "summary": "Ohio's closely contested Senate and governor races will test whether Democrats can regain ground in former strongholds. Wood County has backed every US Senate winner in Ohio since 1982.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/three-ohio-counties-to-watch-as-voters-decide-senate-and-governors-races/",
-      "publishedAt": "2026-11-15T11:55:00Z",
-      "tags": ["ohio", "election", "senate", "governor"]
-    },
-    {
-      "id": "local-besa-senior-wish-list",
-      "category": "local",
-      "title": "NBC4's Season of Giving with Besa returns to brighten seniors' holidays",
-      "summary": "NBC4's Season of Giving with Besa launched WISH, letting central Ohioans fill a holiday wish list for a senior in need. The program has grown from 26 seniors in 2012 to more than 2,000 across 13 counties.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/nbc4-season-of-giving-with-besa-fill-a-holiday-wish-list-for-a-central-ohio-senior/",
+      "title": "Eleven Warriors: Ohio State should skip a non-playoff bowl game",
+      "summary": "With the Buckeyes' playoff path narrow after Saturday's 28-19 win over Northwestern, Eleven Warriors argues OSU has little to gain from a non-playoff bowl and should turn its focus to 2027.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165365/ohio-state-should-opt-out-of-its-bowl-game-and-focus-its-efforts-on-preparing-for-next-season",
       "publishedAt": "2026-11-15T11:30:00Z",
-      "tags": ["columbus", "besa", "giving", "holidays"]
+      "tags": [
+        "Ohio State",
+        "Buckeyes",
+        "bowl",
+        "CFP"
+      ]
     },
     {
-      "id": "local-early-voting-turnout",
+      "id": "local-1",
       "category": "local",
-      "title": "Early voting wraps up with strong turnout ahead of Ohio Election Day",
-      "summary": "Ohio wrapped up early voting with strong turnout ahead of Election Day. The Senate and governor races drew heavy statewide interest.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/your-local-election-hq/early-voting-wraps-up-with-strong-turnout-ahead-of-election-day/",
-      "publishedAt": "2026-11-15T11:00:00Z",
-      "tags": ["ohio", "election", "early-voting"]
+      "title": "Ohio judge strikes down last parts of state's abortion 'Heartbeat Law'",
+      "summary": "An Ohio judge tossed out the final remnants of the state's six-week abortion ban, ruling doctors are not legally required to ask why a patient seeks an abortion or test for fetal cardiac activity.",
+      "source": "NBC4 Columbus",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/ohio-judge-strikes-down-remaining-parts-of-states-abortion-heartbeat-law/",
+      "publishedAt": "2026-11-15T09:30:00Z",
+      "tags": [
+        "Ohio",
+        "abortion",
+        "courts",
+        "Columbus"
+      ]
     },
     {
-      "id": "local-scotus-home-distilling",
+      "id": "local-2",
       "category": "local",
-      "title": "Supreme Court to review home-distilling ban fought by Newark, Ohio brewer",
-      "summary": "The US Supreme Court will review a federal home-distilling ban challenged by a Newark, Ohio brewer. Conflicting lower-court rulings mean the ban currently applies differently in Texas and Ohio.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/u-s-supreme-court-agrees-to-review-federal-home-distilling-ban-ohio-man-is-fighting/",
-      "publishedAt": "2026-11-15T10:00:00Z",
-      "tags": ["scotus", "ohio", "distilling", "legal"]
+      "title": "Person shot in south Columbus overnight",
+      "summary": "One person was hospitalized in critical condition after an overnight shooting near Parsons Avenue and East Innis Avenue in south Columbus, with no suspect information released.",
+      "source": "NBC4 Columbus",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/person-shot-in-south-columbus/",
+      "publishedAt": "2026-11-15T12:07:00Z",
+      "tags": [
+        "Columbus",
+        "crime",
+        "shooting"
+      ]
+    },
+    {
+      "id": "local-3",
+      "category": "local",
+      "title": "Ohio State nurses call for investigation of Wexner Medical Center leaders",
+      "summary": "Nurses at Ohio State's Wexner Medical Center are calling for an investigation of executive staff members, tied to a new incentive program at the hospital.",
+      "source": "NBC4 Columbus",
+      "url": "https://www.nbc4i.com/news/local-news/ohio-state-university/with-new-incentive-program-in-place-ohio-state-nurses-request-investigation/",
+      "publishedAt": "2026-11-15T14:30:00Z",
+      "tags": [
+        "Ohio State",
+        "healthcare",
+        "labor",
+        "Columbus"
+      ]
     }
   ]
 }
