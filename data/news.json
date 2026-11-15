@@ -1,28 +1,131 @@
 {
   "meta": {
-    "updatedAt": "2026-11-14T20:31:00Z",
+    "updatedAt": "2026-11-15T12:00:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 12
   },
   "stories": [
-    {"id":"fr-protests-1114","category":"top","title":"France sees fifth straight Saturday of nationwide protests","summary":"France saw a fifth consecutive Saturday of nationwide demonstrations, with the interior ministry counting about 106,000 marchers, including 24,000 in Paris, over living costs, education funding and a proposed police bill.","source":"Euronews","url":"https://www.euronews.com/2026/11/14/france-sees-fifth-consecutive-saturday-of-nationwide-protests","publishedAt":"2026-11-14T18:11:00Z","tags":["france","protests","police-bill","cost-of-living"]},
-    {"id":"portugal-housing-1114","category":"top","title":"Tens of thousands march across Portugal over housing costs","summary":"Tens of thousands marched in more than 30 Portuguese cities on Saturday in the largest protest yet against soaring housing costs that many say have put renting or buying a home out of reach.","source":"AP","url":"https://apnews.com/article/portugal-housing-protest-9605c8504a2e25b9f36266dd43ddcb23","publishedAt":"2026-11-14T17:30:00Z","tags":["portugal","housing","protests"]},
-    {"id":"canada-philippines-fta-1114","category":"top","title":"Canada and Philippines conclude free-trade talks","summary":"Canada and the Philippines concluded negotiations on a free-trade agreement just one year after launching talks, with a signing targeted for 2027 as Ottawa works to diversify its trade beyond the US.","source":"Euronews","url":"https://www.euronews.com/2026/11/14/canada-and-the-philippines-conclude-talks-on-free-trade-deal-mark-carney-says","publishedAt":"2026-11-14T15:09:00Z","tags":["canada","philippines","trade","asean"]},
-    {"id":"trump-xi-putin-1114","category":"top","title":"Trump, Putin and Xi set for unprecedented trilateral meeting","summary":"The White House and the Kremlin confirmed Donald Trump, Vladimir Putin and Xi Jinping will hold an unprecedented trilateral meeting Thursday on the APEC sidelines in Shenzhen, where Trump plans to raise nuclear-arms reduction.","source":"The Independent","url":"https://www.independent.co.uk/asia/china/donald-trump-vladimir-putin-xi-jinping-shenzhen-meeting-b3084953.html","publishedAt":"2026-11-14T11:30:00Z","tags":["trump","putin","xi","apec","diplomacy"]},
-    {"id":"faa-groundstop-cause-1114","category":"tech","title":"Transportation secretary blames routine upgrade for ground stop","summary":"US Transportation Secretary Sean Duffy blamed a routine copper-wire equipment upgrade for the nationwide FAA ground stop that halted flights Friday, saying investigators are looking at whether incompetence or faulty equipment caused the chaos.","source":"TechCrunch","url":"https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/","publishedAt":"2026-11-14T18:30:00Z","tags":["faa","outage","air-travel","infrastructure"]},
-    {"id":"microsoft-restored-1114","category":"tech","title":"Microsoft says services fully restored after day-long outage","summary":"Microsoft said its Outlook, Teams and Copilot services were fully restored after a global outage that disrupted users across more than 70 countries, which the company attributed to a network capacity upgrade.","source":"BBC","url":"https://www.bbc.com/news/articles/c6rrg51rkz09o","publishedAt":"2026-11-14T17:30:00Z","tags":["microsoft","outage","cloud","365"]},
-    {"id":"nvidia-ceo-search-1114","category":"tech","title":"Nvidia board approached Arm CEO Rene Haas about top job","summary":"Nvidia board has approached Arm CEO Rene Haas about succeeding Jensen Huang, with Tim Cook among other names floated as the search for a new chief executive gets underway after Huang stepped down.","source":"Business Insider","url":"https://www.businessinsider.com/nvidia-new-ceo-candidates-replace-jensen-huang-2026-11","publishedAt":"2026-11-14T17:30:00Z","tags":["nvidia","jensen-huang","arm","chips"]},
-    {"id":"huang-exit-asia-1114","category":"tech","title":"Asian governments react to Jensen Huang exit","summary":"Asian governments are reacting to Nvidia CEO Jensen Huang exit, with the leadership upheaval raising questions about chip supply and AI investment across the region.","source":"TechCrunch","url":"https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/","publishedAt":"2026-11-14T16:30:00Z","tags":["nvidia","jensen-huang","ai","asia"]},
-    {"id":"texans-injuries-1114","category":"browns","title":"Texans rule out Hunter, Al-Shaair and Montgomery vs. Browns","summary":"The Texans ruled out All-Pro defensive end Danielle Hunter, Pro Bowl linebacker Azeez Al-Shaair and running back David Montgomery for Sunday game in Cleveland, a boost for the 5-4 Browns against a shorthanded Houston defense.","source":"ESPN","url":"https://www.espn.com/nfl/story/_/id/50481864/rb-montgomery-de-hunter-texans-ruled-vs-browns","publishedAt":"2026-11-14T19:41:00Z","tags":["browns","texans","injury-report","nfl"]},
-    {"id":"browns-roster-1114","category":"browns","title":"Browns make three roster moves ahead of Texans game","summary":"Cleveland signed tight end Carsen Ryan to the active roster, placed fullback Michael Burton on injured reserve with a calf injury and elevated tight end Zaire Mitchell-Paden ahead of Sunday matchup with Houston.","source":"Browns Nation","url":"https://www.brownsnation.com/browns-announce-3-roster-moves-on-saturday-2/","publishedAt":"2026-11-14T18:00:00Z","tags":["browns","roster","texans","nfl"]},
-    {"id":"osu-northwestern-final-1114","category":"buckeyes","title":"Ohio State beats Northwestern 28-19 to snap skid","summary":"Ohio State defeated Northwestern 28-19 at Ohio Stadium to snap a two-game losing streak, improving to 7-3 as the Buckeyes try to steady a rocky 2026 season.","source":"10TV WBNS","url":"https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-marching-band/ohio-state-football-vs-northwestern-wildcats-live-updates/530-654f7416-e36f-4bf1-a60c-6680b13765f6","publishedAt":"2026-11-14T20:20:00Z","tags":["ohio-state","buckeyes","northwestern","college-football"]},
-    {"id":"osu-northwestern-preview-1114","category":"buckeyes","title":"Buckeyes host Northwestern needing a win","summary":"Ohio State hosted Northwestern at noon at Ohio Stadium with the Buckeyes entering at 6-3 and No. 20 in the College Football Playoff rankings after back-to-back losses to USC and Oregon.","source":"Columbus Dispatch","url":"https://www.dispatch.com/story/sports/college/football/2026/11/14/ohio-state-football-vs-northwestern-how-to-watch-tv-channel-stream-info/92697114007/","publishedAt":"2026-11-14T15:30:00Z","tags":["ohio-state","buckeyes","northwestern","college-football"]},
-    {"id":"wolff-antonelli-1114","category":"f1","title":"Wolff: Antonelli is not yet a Senna, but may be a Senninha","summary":"Mercedes boss Toto Wolff said Kimi Antonelli is not yet Ayrton Senna but may become a Senninha, praising the rookie early promise while tempering comparisons to the Brazilian legend.","source":"Motorsport.com","url":"https://www.motorsport.com/f1/news/toto-wolff-kimi-antonelli-isnt-ayrton-senna-yet-but-he-may-be-a-senninha-/10873544/","publishedAt":"2026-11-14T15:30:00Z","tags":["f1","mercedes","antonelli","wolff"]},
-    {"id":"honda-stroll-dnf-1114","category":"f1","title":"Honda struggling to explain Stroll 13th DNF of season","summary":"Honda said it is struggling to explain Lance Stroll completing his 13th non-finish of the 2026 season, the latest reliability setback in a difficult campaign for the Japanese power unit supplier.","source":"Motorsport.com","url":"https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/","publishedAt":"2026-11-14T09:30:00Z","tags":["f1","honda","aston-martin","stroll"]},
-    {"id":"tarkov-seasonal-ease-1114","category":"tarkov","title":"Tarkov eases seasonal quests and battle pass grind","summary":"Battlestate Games eased Escape from Tarkov Kord Breach season: many seasonal quests now have simpler objectives and lower start requirements, Black Division operatives spawn more often but hit softer, and battle pass document limits were raised.","source":"ixbt.games","url":"https://ixbt.games/en/news/2026/11/14/razrabotciki-escape-from-tarkov-uprostili-vypolnenie-sezonnyx-zadanii-i-prokacku-boevogo-propuska.html","publishedAt":"2026-11-14T19:46:00Z","tags":["tarkov","battlestate","kord-breach","seasonal"]},
-    {"id":"ohio-hsfb-playoffs-1114","category":"local","title":"Second round of Ohio high school football playoffs set","summary":"Regional quarterfinal matchups are set for the second round of the Ohio high school football playoffs, with Columbus-area teams learning their next opponents as the road to Canton continues.","source":"NBC4 WCMH-TV","url":"https://www.nbc4i.com/sports/ffn/regional-quarterfinals-for-ohio-high-school-football-playoffs-set/","publishedAt":"2026-11-14T19:30:00Z","tags":["columbus","high-school-football","playoffs","ohsaa"]}
+    {
+      "id": "top-faa-ground-stop-l3harris",
+      "category": "top",
+      "title": "US aviation shutdown blamed on a single L3Harris-installed router",
+      "summary": "A nearly five-hour US aviation shutdown that disrupted more than 20,000 flights may trace to a single router installed by contractor L3Harris, officials said. The failure renewed scrutiny of the aging air-traffic-control telecom system.",
+      "source": "CNBC-TV18",
+      "url": "https://www.cnbctv18.com/world/us-aviation-shutdown-how-an-l3harris-installed-router-disrupted-thousands-of-flights-across-america-20034207.htm",
+      "publishedAt": "2026-11-15T04:00:00Z",
+      "tags": ["faa", "aviation", "l3harris", "air-travel"]
+    },
+    {
+      "id": "top-iran-hormuz-tankers",
+      "category": "top",
+      "title": "Iran's navy says three oil tankers caught fire after hitting mines in Strait of Hormuz",
+      "summary": "Iran's navy said three oil tankers caught fire after striking naval mines in the Strait of Hormuz and warned ships to avoid a restricted zone. The incidents escalate tensions between Iran, the US and Israel in a vital oil chokepoint.",
+      "source": "Economic Times (ANI)",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-navy-says-three-oil-tankers-catch-fire-after-hitting-naval-mines-in-hormuz/articleshow/135845096.cms",
+      "publishedAt": "2026-11-15T01:03:00Z",
+      "tags": ["iran", "hormuz", "oil", "tensions"]
+    },
+    {
+      "id": "tech-eli-lilly-amodei",
+      "category": "tech",
+      "title": "Eli Lilly CEO pushes back on Anthropic chief's 'cure everything' medical claims",
+      "summary": "Eli Lilly's CEO joined critics pushing back on Anthropic CEO Dario Amodei's prediction that AI will cure cancer and heart disease within a decade. The pushback comes as Anthropic moves toward its Nasdaq IPO.",
+      "source": "Gary Marcus (Substack)",
+      "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "publishedAt": "2026-11-15T10:00:00Z",
+      "tags": ["ai", "anthropic", "healthcare", "ipo"]
+    },
+    {
+      "id": "browns-week10-texans-preview",
+      "category": "browns",
+      "title": "Browns host Texans in must-win Week 10 matchup before bye",
+      "summary": "The Browns (5-4) host the Texans in Week 10 needing to snap a two-game losing streak before their bye, with Deshaun Watson returning at quarterback against his former team. A third straight loss would drop Cleveland to 5-5 and out of playoff position.",
+      "source": "SB Nation / Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-search-elusive-113000296.html",
+      "publishedAt": "2026-11-15T11:30:00Z",
+      "tags": ["browns", "texans", "watson", "week-10"]
+    },
+    {
+      "id": "browns-watson-starts-texans",
+      "category": "browns",
+      "title": "Deshaun Watson starts as Browns host Texans with bye week looming",
+      "summary": "Deshaun Watson starts Sunday's 1 p.m. game against Houston in what cleveland.com calls a 'prove-it game' against his former team. Cleveland has slipped from first to third in the AFC North after two straight losses.",
+      "source": "5AM Cleveland",
+      "url": "https://5amclevelandoh.com/local-news/editions/11-15-2026",
+      "publishedAt": "2026-11-15T10:00:00Z",
+      "tags": ["browns", "watson", "texans", "afc-north"]
+    },
+    {
+      "id": "browns-hey-mary-kay-watson",
+      "category": "browns",
+      "title": "Hey, Mary Kay: Must Watson keep earning the Browns' starting job weekly?",
+      "summary": "Mary Kay Cabot fields readers' questions on whether Deshaun Watson must keep earning the Browns' starting quarterback job each week. The mailbag comes as Watson faces a pivotal game against his former team.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/11/must-deshaun-watson-earn-his-starting-job-every-week-hey-mary-kay.html",
+      "publishedAt": "2026-11-15T10:00:00Z",
+      "tags": ["browns", "watson", "quarterback", "q-and-a"]
+    },
+    {
+      "id": "buckeyes-mens-basketball-preview",
+      "category": "buckeyes",
+      "title": "Ohio State men's basketball opens season Monday with expanded NCAA field",
+      "summary": "With the NCAA Tournament field expanded, Ohio State men's basketball has fewer excuses as it opens its season Monday night against UIC. The Buckeyes are aiming to end a run of disappointing seasons.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-mens-basketball-preview-expanded-ncaa-field-opens-wide-door/",
+      "publishedAt": "2026-11-15T06:00:00Z",
+      "tags": ["buckeyes", "basketball", "ncaa"]
+    },
+    {
+      "id": "buckeyes-post-northwestern-quotes",
+      "category": "buckeyes",
+      "title": "Ryan Day praises resilience as Buckeyes snap skid over Northwestern",
+      "summary": "Ohio State snapped a two-game losing streak with a 28-19 win over Northwestern, and Ryan Day praised his team for bouncing back. Jeremiah Smith set the Big Ten career receiving record in the victory.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/ohiostate/football/ohio-state-embracing-their-reality-top-quotes-after-win-over-northwestern-01m7e919ebd8",
+      "publishedAt": "2026-11-15T00:30:00Z",
+      "tags": ["buckeyes", "football", "ryan-day", "jeremiah-smith"]
+    },
+    {
+      "id": "local-three-ohio-counties-election",
+      "category": "local",
+      "title": "Three Ohio counties to watch as voters decide Senate, governor races",
+      "summary": "Ohio's closely contested Senate and governor races will test whether Democrats can regain ground in former strongholds. Wood County has backed every US Senate winner in Ohio since 1982.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/three-ohio-counties-to-watch-as-voters-decide-senate-and-governors-races/",
+      "publishedAt": "2026-11-15T11:55:00Z",
+      "tags": ["ohio", "election", "senate", "governor"]
+    },
+    {
+      "id": "local-besa-senior-wish-list",
+      "category": "local",
+      "title": "NBC4's Season of Giving with Besa returns to brighten seniors' holidays",
+      "summary": "NBC4's Season of Giving with Besa launched WISH, letting central Ohioans fill a holiday wish list for a senior in need. The program has grown from 26 seniors in 2012 to more than 2,000 across 13 counties.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/nbc4-season-of-giving-with-besa-fill-a-holiday-wish-list-for-a-central-ohio-senior/",
+      "publishedAt": "2026-11-15T11:30:00Z",
+      "tags": ["columbus", "besa", "giving", "holidays"]
+    },
+    {
+      "id": "local-early-voting-turnout",
+      "category": "local",
+      "title": "Early voting wraps up with strong turnout ahead of Ohio Election Day",
+      "summary": "Ohio wrapped up early voting with strong turnout ahead of Election Day. The Senate and governor races drew heavy statewide interest.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/your-local-election-hq/early-voting-wraps-up-with-strong-turnout-ahead-of-election-day/",
+      "publishedAt": "2026-11-15T11:00:00Z",
+      "tags": ["ohio", "election", "early-voting"]
+    },
+    {
+      "id": "local-scotus-home-distilling",
+      "category": "local",
+      "title": "Supreme Court to review home-distilling ban fought by Newark, Ohio brewer",
+      "summary": "The US Supreme Court will review a federal home-distilling ban challenged by a Newark, Ohio brewer. Conflicting lower-court rulings mean the ban currently applies differently in Texas and Ohio.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/u-s-supreme-court-agrees-to-review-federal-home-distilling-ban-ohio-man-is-fighting/",
+      "publishedAt": "2026-11-15T10:00:00Z",
+      "tags": ["scotus", "ohio", "distilling", "legal"]
+    }
   ]
 }
-
