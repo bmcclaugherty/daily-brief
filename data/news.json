@@ -1,181 +1,241 @@
 {
   "meta": {
-    "updatedAt": "2026-11-16T12:09:31Z",
+    "updatedAt": "2026-11-16T20:31:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 17
+    "count": 23
   },
   "stories": [
     {
-      "id": "top-houthi-aden-20261116",
+      "id": "top-kerch-bridge-20261116",
       "category": "top",
-      "title": "Houthis advance toward Aden after Yemen forces quit Bab el-Mandeb",
-      "summary": "Yemeni government forces withdrew from the Bab el-Mandeb area to reinforce Aden, leaving the Iran-aligned Houthis in control of the key Red Sea chokepoint. The pullback ends a six-week, Saudi-backed campaign to retake the coast.",
-      "source": "International Business Times",
-      "url": "https://www.ibtimes.com/houthis-advance-toward-aden-government-forces-withdraw-3809785",
-      "publishedAt": "2026-11-16T11:20:00Z",
-      "tags": ["yemen", "houthis", "red-sea", "shipping"]
-    },
-    {
-      "id": "top-china-trilateral-20261116",
-      "category": "top",
-      "title": "China calls Xi-Putin-Trump meeting 'groundbreaking'",
-      "summary": "China's foreign ministry said this week's Xi-Putin-Trump meeting in Shenzhen has 'groundbreaking significance' and will promote world peace and stability. The Thursday trilateral on the APEC sidelines would be the first face-to-face meeting of the three leaders.",
+      "title": "Ukraine drones hit Kerch bridge linking Russia and Crimea",
+      "summary": "Ukrainian drones struck the Kerch Strait bridge overnight, with the Kremlin calling the damage minor and traffic temporarily restricted. The strike came amid what Russia called Ukraine's largest drone attack of the war.",
       "source": "Reuters",
-      "url": "https://www.usnews.com/news/world/articles/2026-11-16/china-says-xi-putin-trump-meeting-has-groundbreaking-significance",
-      "publishedAt": "2026-11-16T07:45:00Z",
-      "tags": ["china", "russia", "us", "diplomacy"]
+      "url": "https://www.reuters.com/world/ukraine-hits-key-crimean-bridge-curbing-traffic-russian-governor-says-2026-11-16/",
+      "publishedAt": "2026-11-16T18:30:00Z",
+      "tags": ["ukraine", "russia", "crimea", "drones"]
     },
     {
-      "id": "top-asean-southchinasea-20261116",
+      "id": "top-ukraine-nuclear-risk-20261116",
       "category": "top",
-      "title": "ASEAN and China fail to agree on South China Sea code",
-      "summary": "ASEAN and China ended their Manila talks without agreeing on a South China Sea code of conduct, with the Philippines' envoy saying 'there is no conclusion yet.' Whether the code would be legally binding remains among the unresolved issues.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code",
-      "publishedAt": "2026-11-16T07:00:00Z",
-      "tags": ["asean", "china", "south-china-sea"]
+      "title": "Regulators warn nuclear accident risk in Ukraine is rising this winter",
+      "summary": "Nuclear safety regulators from 38 countries warned that Russian attacks on Ukraine's power grid are raising the risk of a nuclear accident this winter and urged Moscow to stop. A nationwide blackout could affect all nine operating reactors at once, they said.",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-faces-rising-nuclear-accident-risk-this-winter-regulators-warn/",
+      "publishedAt": "2026-11-16T16:14:00Z",
+      "tags": ["ukraine", "nuclear", "energy", "russia"]
     },
     {
-      "id": "top-eisenkot-netanyahu-20261116",
+      "id": "top-trump-asia-ukraine-20261116",
       "category": "top",
-      "title": "Eisenkot says Netanyahu can't remain Israel PM amid vote-meddling claims",
-      "summary": "Israeli opposition leader Gadi Eisenkot said Benjamin Netanyahu cannot remain prime minister amid alleged meddling in Israel's 2026 election. The claim escalates the political crisis over the integrity of the vote.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling",
-      "publishedAt": "2026-11-16T06:00:00Z",
-      "tags": ["israel", "netanyahu", "elections"]
+      "title": "Trump to raise Ukraine war in Xi-Putin meeting; may meet Kim Jong Un",
+      "summary": "President Trump said he plans to discuss Russia's war in Ukraine during this week's trilateral meeting with Xi Jinping and Vladimir Putin in Shenzhen, and that he may meet Kim Jong Un while in China.",
+      "source": "AP",
+      "url": "https://apnews.com/article/president-donald-trump-asia-a31165456bf217de16f1c4e646b72bd2",
+      "publishedAt": "2026-11-16T16:00:00Z",
+      "tags": ["trump", "china", "russia", "ukraine"]
     },
     {
-      "id": "tech-cantwell-nvidia-20261116",
-      "category": "tech",
-      "title": "Senator slams Commerce Dept for flow of Nvidia AI chips to China",
-      "summary": "Sen. Maria Cantwell accused the Commerce Department of letting advanced Nvidia AI chips reach China, saying it 'undermined America's national security.' In a letter to Secretary Howard Lutnick, she cited warnings about Megaspeed and other pathways used to divert chips ahead of this week's Xi meeting.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
-      "publishedAt": "2026-11-16T11:00:00Z",
-      "tags": ["nvidia", "ai-chips", "export-controls", "china"]
+      "id": "top-rostov-oil-depot-20261116",
+      "category": "top",
+      "title": "Ukraine strikes oil depot in Russia's Rostov Oblast, General Staff confirms",
+      "summary": "Ukrainian drones struck an oil depot in Russia's Rostov Oblast, setting it ablaze, Ukraine's General Staff confirmed. The attack was part of a wider overnight drone campaign.",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/fuel-depot-in-azov-russia-reportedly-in-flames-following-ukrainian-drone-attacks/",
+      "publishedAt": "2026-11-16T15:59:00Z",
+      "tags": ["ukraine", "russia", "drones", "energy"]
     },
     {
-      "id": "tech-qwen4-max-20261116",
+      "id": "tech-openai-apollo-20261116",
       "category": "tech",
-      "title": "Alibaba launches Qwen4-Max flagship AI model",
-      "summary": "Alibaba launched Qwen4-Max, a 2.4-trillion-parameter flagship model it says tops several coding benchmarks while cutting task costs about 60% versus its predecessor. Unlike earlier Qwen releases, its weights are closed.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights",
-      "publishedAt": "2026-11-16T08:49:00Z",
-      "tags": ["alibaba", "ai", "llm", "china"]
-    },
-    {
-      "id": "tech-plural-fund-20261116",
-      "category": "tech",
-      "title": "VC firm Plural raises $1.1B to back Europe's next 'moonshots'",
-      "summary": "Operator-led VC firm Plural raised 1 billion euros ($1.1B) for its third fund, with two-thirds for early-stage investments and the rest for follow-ons. An early Helsing backer, it will target energy, AI infrastructure, defense and health.",
+      "title": "OpenAI to embed Apollo researchers to investigate AI subversion",
+      "summary": "OpenAI will embed researchers from Apollo to investigate AI subversion, deepening its work on safety risks from models that could undermine human oversight. The move follows growing focus on AI safety at the lab.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
-      "publishedAt": "2026-11-16T07:00:00Z",
-      "tags": ["venture-capital", "europe", "ai", "defense"]
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "publishedAt": "2026-11-16T19:40:00Z",
+      "tags": ["openai", "ai-safety", "apollo"]
     },
     {
-      "id": "tech-apple-ai-health-20261116",
+      "id": "tech-openai-csam-20261116",
       "category": "tech",
-      "title": "Apple launches app to study how people use AI for health",
-      "summary": "Apple launched the Apple Health AI Usage Study, a US research app built with OpenEvidence to study how people use conversational AI for health questions. It will examine trust, response quality and everyday health actions.",
+      "title": "OpenAI releases image classifier and ChatGPT warnings to combat CSAM",
+      "summary": "OpenAI shipped a new image classifier and added ChatGPT warnings aimed at combating child sexual abuse material. The tools are the company's latest step in content safety.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "publishedAt": "2026-11-16T02:00:00Z",
-      "tags": ["apple", "ai", "health"]
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "publishedAt": "2026-11-16T19:35:00Z",
+      "tags": ["openai", "safety", "csam"]
+    },
+    {
+      "id": "tech-nvidia-board-huang-20261116",
+      "category": "tech",
+      "title": "Nvidia board won't consider reinstating Jensen Huang despite petition",
+      "summary": "Nvidia's board is not considering reinstating Jensen Huang as CEO despite an online petition that has drawn more than 180,000 signatures. Huang resigned last week amid reports of an affair with a suspected Chinese spy.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/",
+      "publishedAt": "2026-11-16T19:30:00Z",
+      "tags": ["nvidia", "jensen-huang", "ai"]
+    },
+    {
+      "id": "tech-us-chip-export-controls-20261116",
+      "category": "tech",
+      "title": "US tightens AI chip export controls to curb China's remote access",
+      "summary": "The US issued new rules restricting remote access to advanced AI chips and servers, the latest step to limit China's ability to use American computing power. The change follows the Nvidia espionage scandal.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "publishedAt": "2026-11-16T18:35:00Z",
+      "tags": ["ai", "chips", "china", "policy"]
+    },
+    {
+      "id": "browns-fannin-20261116",
+      "category": "browns",
+      "title": "Harold Fannin Jr.'s breakout continues as Browns head to bye",
+      "summary": "Rookie tight end Harold Fannin Jr. has caught 25 passes for 378 yards over his last four games, averaging 94.5 yards per contest over the past month. Cleveland enters its bye week at 6-4 after beating Houston.",
+      "source": "TheOBR via Cleveland19",
+      "url": "https://www.cleveland19.com/2026/11/16/cleveland-browns-news-rumors-111626-praise-44/",
+      "publishedAt": "2026-11-16T12:19:00Z",
+      "tags": ["browns", "fannin", "nfl"]
+    },
+    {
+      "id": "browns-fans-joy-20261116",
+      "category": "browns",
+      "title": "Browns are 6-4 behind comebacks, yet fans haven't fallen in love",
+      "summary": "Cleveland is 6-4 behind a string of thrilling comebacks, but the fanbase hasn't fully embraced the team. Deshaun Watson threw the decisive fourth-quarter touchdown in Sunday's 27-24 win over Houston.",
+      "source": "The Athletic",
+      "url": "https://www.nytimes.com/athletic/7785599/2026/11/16/browns-winning-deshaun-watson-fans-joy/",
+      "publishedAt": "2026-11-16T11:30:00Z",
+      "tags": ["browns", "nfl", "watson"]
+    },
+    {
+      "id": "browns-playoffs-overreactions-20261116",
+      "category": "browns",
+      "title": "Browns' comeback win over Texans fuels playoff talk",
+      "summary": "The Browns pulled off another Houdini act, rallying from 17 points down to beat the Texans 27-24, and the win has Cleveland thinking about the postseason. Cleveland heads into the bye at 6-4.",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/pro/browns/2026/11/16/browns-comeback-win-texans-playoffs-overeactions/92724877007/",
+      "publishedAt": "2026-11-16T11:30:00Z",
+      "tags": ["browns", "nfl", "playoffs"]
     },
     {
       "id": "browns-texans-takeaways-20261116",
       "category": "browns",
-      "title": "Browns beat Texans 27-24, head to bye at 6-4",
-      "summary": "The Browns improved to 6-4 with a 27-24 comeback win over the Texans, already surpassing their preseason win-total projection. Cleveland erased a 17-0 deficit behind Deshaun Watson and a defense that shut down C.J. Stroud after halftime.",
-      "source": "Browns Wire (USA Today)",
+      "title": "Browns beat Texans 27-24, rally from 17 down to move to 6-4",
+      "summary": "Cleveland erased a 17-point deficit to beat Houston 27-24, already surpassing its preseason over/under win total of 5.5. The Browns stayed undefeated at home and head into the bye week.",
+      "source": "Browns Wire",
       "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/11/16/3-instant-takeaways-from-the-browns-27-24-win-over-the-texans/92800996007/",
-      "publishedAt": "2026-11-16T10:00:00Z",
-      "tags": ["browns", "nfl", "deshaun-watson"]
+      "publishedAt": "2026-11-16T10:30:00Z",
+      "tags": ["browns", "nfl", "texans"]
     },
     {
-      "id": "buckeyes-wbb-fdu-20261116",
+      "id": "buckeyes-ap-poll-20261116",
       "category": "buckeyes",
-      "title": "No. 17 Ohio State women rout Fairleigh Dickinson 93-49",
-      "summary": "Freshmen Diaz and Mobley led No. 17 Ohio State women's basketball to a 93-49 win over Fairleigh Dickinson.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/sports/buckeyes/freshmen-diaz-mobley-lead-no-17-ohio-state-women-to-93-49-victory-over-fairleigh-dickinson/",
-      "publishedAt": "2026-11-16T05:00:00Z",
-      "tags": ["ohio-state", "womens-basketball"]
+      "title": "Ohio State jumps five spots to No. 16 in latest AP Poll",
+      "summary": "The Buckeyes climbed five spots to No. 16 in the AP Poll after their 28-19 win over Northwestern. Ohio State owns road wins over No. 6 Indiana and No. 13 Iowa but remains on the CFP bubble.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165496/ohio-state-jumps-five-spots-to-no-16-in-the-latest-ap-poll",
+      "publishedAt": "2026-11-16T19:29:00Z",
+      "tags": ["buckeyes", "ap-poll", "cfp"]
     },
     {
-      "id": "buckeyes-coaches-poll-20261116",
+      "id": "buckeyes-smith-biletnikoff-20261116",
       "category": "buckeyes",
-      "title": "Ohio State moves up in Coaches Poll after Northwestern win",
-      "summary": "Ohio State moved up in the Week 11 Coaches Poll after snapping a two-game skid with a 28-19 win over Northwestern. The Buckeyes sit on the College Football Playoff bubble with two regular-season games left.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-moves-up-in-week-11-coaches-poll-after-defeating-northwestern-28-19/",
-      "publishedAt": "2026-11-16T01:00:00Z",
-      "tags": ["ohio-state", "college-football", "rankings"]
+      "title": "Jeremiah Smith named Biletnikoff Award semifinalist for third straight season",
+      "summary": "Jeremiah Smith is a Biletnikoff Award semifinalist for a third consecutive season. He leads the Buckeyes with 80 catches, 1,317 receiving yards and 15 touchdowns.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165495/jeremiah-smith-named-biletnikoff-award-semifinalist-for-third-straight-season",
+      "publishedAt": "2026-11-16T19:07:00Z",
+      "tags": ["buckeyes", "jeremiah-smith", "biletnikoff"]
     },
     {
-      "id": "buckeyes-nebraska-kickoff-20261116",
+      "id": "buckeyes-cfp-odds-20261116",
       "category": "buckeyes",
-      "title": "Kickoff time set for Ohio State's trip to Nebraska",
-      "summary": "Kickoff time is set for Ohio State's Nov. 21 game at Nebraska, the first of two must-win games for the Buckeyes' fading College Football Playoff hopes.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/sports/buckeyes/when-ohio-state-plays-nebraska-kickoff-time-for-nov-21-2026-announced/",
-      "publishedAt": "2026-11-16T01:00:00Z",
-      "tags": ["ohio-state", "nebraska", "college-football"]
+      "title": "Ohio State still in hunt for Big Ten title and CFP spot, odds say",
+      "summary": "Despite a two-game losing streak, the 7-3 Buckeyes remain in contention for the Big Ten championship game and a College Football Playoff spot. Ohio State visits Nebraska on Nov. 21.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/11/16/ohio-state-football-betting-odds-cfp-big-ten-championship-osu-buckeyes/92809114007/",
+      "publishedAt": "2026-11-16T17:24:00Z",
+      "tags": ["buckeyes", "cfp", "big-ten"]
     },
     {
-      "id": "f1-mclaren-p3-20261116",
+      "id": "buckeyes-heisman-push-20261116",
+      "category": "buckeyes",
+      "title": "Ohio State hard-launches 'JJ 4 It All' Heisman push for Jeremiah Smith",
+      "summary": "The Buckeyes officially launched their JJ 4 It All campaign for Jeremiah Smith's Heisman bid after his record-setting game against Northwestern. Ryan Day said the program has an obligation to this young man.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165477/four-fingers-in-the-air-ohio-state-hard-launches-push-for-jeremiah-smith-to-win-the-heisman-trophy-following-win",
+      "publishedAt": "2026-11-16T15:10:00Z",
+      "tags": ["buckeyes", "heisman", "jeremiah-smith"]
+    },
+    {
+      "id": "f1-hamilton-marketability-20261116",
       "category": "f1",
-      "title": "McLaren determined to take P3 fight 'down to the wire'",
-      "summary": "McLaren racing director Randy Singh said the team is determined to take its fight for third in the constructors' championship down to the wire. McLaren trails Red Bull by 17 points entering the final Las Vegas, Qatar and Abu Dhabi rounds.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/well-make-sure-it-goes-down-to-the-wire-mclaren-on-determination-to-finish-p3-in-teams-championship.2CPaMf6YTIkLE4pZlahf9y",
-      "publishedAt": "2026-11-16T11:00:00Z",
-      "tags": ["f1", "mclaren", "constructors"]
+      "title": "Hamilton drops to 22nd in sports marketability ranking as Leclerc leads F1",
+      "summary": "Lewis Hamilton fell from first to 22nd in SportsPro's ranking of the world's 50 most marketable athletes, with Ferrari teammate Charles Leclerc now the top-ranked F1 driver in second.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/kimi-antonelli-salary-las-vegas-grand-prix",
+      "publishedAt": "2026-11-16T19:04:00Z",
+      "tags": ["f1", "hamilton", "ferrari"]
+    },
+    {
+      "id": "f1-antonelli-salary-20261116",
+      "category": "f1",
+      "title": "Antonelli expected to earn less than Russell despite 2026 title",
+      "summary": "Kimi Antonelli is expected to earn less than Mercedes teammate George Russell next season despite winning the 2026 title as F1's youngest-ever world champion at 20. His bonuses are estimated at 10-12 million euros.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/kimi-antonelli-mercedes-salary-george-russell",
+      "publishedAt": "2026-11-16T18:00:00Z",
+      "tags": ["f1", "mercedes", "antonelli"]
     },
     {
       "id": "f1-haas-camara-20261116",
       "category": "f1",
-      "title": "Haas keeps Camara for Las Vegas GP, Hirakawa in for FP1",
-      "summary": "Haas confirmed rookie Rafael Camara will race again at the Las Vegas Grand Prix, with Ryo Hirakawa taking the car for FP1. Camara made his F1 debut in Brazil as Haas battles Audi for seventh in the constructors' standings.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/haas-sticks-with-rafael-camara-for-las-vegas-ryo-hirakawa-in-for-fp1/10874781/",
-      "publishedAt": "2026-11-16T11:00:00Z",
-      "tags": ["f1", "haas", "las-vegas-gp"]
+      "title": "Haas confirms Rafael Camara will race at Las Vegas Grand Prix",
+      "summary": "Haas confirmed Rafael Camara will race at this weekend's Las Vegas Grand Prix, his second F1 start after debuting in Brazil. Ryo Hirakawa will take Oliver Bearman's car for FP1.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/haas-confirm-esteban-ocon-replacement-las-vegas-rafael-camara",
+      "publishedAt": "2026-11-16T15:30:00Z",
+      "tags": ["f1", "haas", "camara", "las-vegas"]
     },
     {
-      "id": "f1-whats-left-20261116",
+      "id": "f1-vegas-race-week-20261116",
       "category": "f1",
-      "title": "What is left to fight for in F1 2026?",
-      "summary": "With both 2026 titles decided, Autosport breaks down what's still at stake over the final three races — a five-driver fight for second behind champion Kimi Antonelli and Red Bull vs McLaren for third in the constructors'.",
-      "source": "Autosport",
-      "url": "https://www.autosport.com/f1/news/what-is-left-to-fight-for-in-f1-2026/10874769/",
-      "publishedAt": "2026-11-16T09:31:00Z",
-      "tags": ["f1", "2026-season", "championship"]
+      "title": "Five storylines to watch as F1 heads to Las Vegas",
+      "summary": "With both championships decided, focus shifts to the fight for third in the constructors' standings, where Red Bull leads McLaren by 17 points. Racing Bulls confirmed Lawson and Lindblad will continue into 2027.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
+      "publishedAt": "2026-11-16T13:00:00Z",
+      "tags": ["f1", "las-vegas", "red-bull", "mclaren"]
     },
     {
-      "id": "local-osu-robbery-20261116",
-      "category": "local",
-      "title": "One injured in attempted robbery on Ohio State campus",
-      "summary": "One person was injured in an attempted robbery on the Ohio State campus, Columbus police said. OSU police said safety is a priority as the investigation continues.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/one-injured-after-attempted-robbery-on-ohio-state-campus/",
-      "publishedAt": "2026-11-16T11:54:00Z",
-      "tags": ["columbus", "ohio-state", "crime"]
+      "id": "tarkov-city-drops-20261116",
+      "category": "tarkov",
+      "title": "Tarkov City Twitch Drops campaign launches with unique PMC shirts",
+      "summary": "Battlestate Games launched the Tarkov City Twitch Drops campaign, rewarding viewers with in-game containers and two unique PMC shirts. The campaign runs through Nov. 23.",
+      "source": "All Patch Notes",
+      "url": "https://allpatchnotes.com/g/escape-from-tarkov/tarkov-city-drops-campaign",
+      "publishedAt": "2026-11-16T15:30:00Z",
+      "tags": ["tarkov", "twitch-drops", "event"]
     },
     {
-      "id": "local-south-columbus-shooting-20261116",
+      "id": "tarkov-city-drops-steam-20261116",
+      "category": "tarkov",
+      "title": "Escape from Tarkov announces Tarkov City Drops Campaign",
+      "summary": "Battlestate Games announced the Tarkov City Twitch Drops campaign, headlined by two unique shirts for your PMC, as a way to bring resort vibes to Tarkov.",
+      "source": "Escape from Tarkov",
+      "url": "https://steamcommunity.com/games/3932890/announcements/detail/677389277779199055",
+      "publishedAt": "2026-11-16T15:00:00Z",
+      "tags": ["tarkov", "twitch-drops", "event"]
+    },
+    {
+      "id": "local-gahanna-budget-20261116",
       "category": "local",
-      "title": "One dead in south Columbus shooting",
-      "summary": "One person is dead following a shooting in south Columbus, police said Monday morning.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/person-shot-in-south-columbus/",
-      "publishedAt": "2026-11-16T11:47:00Z",
-      "tags": ["columbus", "crime"]
+      "title": "Gahanna City Council takes up 2027 budget and utility rate hikes",
+      "summary": "Gahanna City Council meets Monday night for a public hearing on the fiscal 2027 budget and an ordinance setting new utility rates and fees starting Jan. 1, 2027. Council will also weigh a $365,000 self-insurance fund appropriation.",
+      "source": "Ohio Record",
+      "url": "https://ohiorecord.org/gahanna/meetings/2026-11-16-city-council-november-16-2026-4a39a342-4e26-4b59-9c76-386b11f2b4d9",
+      "publishedAt": "2026-11-16T17:00:00Z",
+      "tags": ["gahanna", "city-council", "budget"]
     }
   ]
 }
