@@ -1,187 +1,181 @@
 {
   "meta": {
-    "updatedAt": "2026-11-15T20:36:29Z",
+    "updatedAt": "2026-11-16T12:09:31Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 17
   },
   "stories": [
     {
-      "id": "top-1",
+      "id": "top-houthi-aden-20261116",
       "category": "top",
-      "title": "UN peacekeeping mission in Western Sahara ends after 35 years",
-      "summary": "The UN's Western Sahara peacekeeping mission ceased operations Sunday after 35 years, a casualty of a US-Russia standoff at the Security Council over the disputed territory's future.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/western-sahara-un-peacekeepers-morocco-algeria-030e303c58207060265d8748c1db3778",
-      "publishedAt": "2026-11-15T12:00:00Z",
-      "tags": [
-        "Western Sahara",
-        "UN",
-        "Morocco",
-        "US-Russia"
-      ]
+      "title": "Houthis advance toward Aden after Yemen forces quit Bab el-Mandeb",
+      "summary": "Yemeni government forces withdrew from the Bab el-Mandeb area to reinforce Aden, leaving the Iran-aligned Houthis in control of the key Red Sea chokepoint. The pullback ends a six-week, Saudi-backed campaign to retake the coast.",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/houthis-advance-toward-aden-government-forces-withdraw-3809785",
+      "publishedAt": "2026-11-16T11:20:00Z",
+      "tags": ["yemen", "houthis", "red-sea", "shipping"]
     },
     {
-      "id": "top-2",
+      "id": "top-china-trilateral-20261116",
       "category": "top",
-      "title": "Southeast Asian leaders open ASEAN summit in Manila",
-      "summary": "The 49th ASEAN Summit opened in Manila on Sunday, with the Myanmar conflict, South China Sea tensions and regional trade topping the agenda for the three-day gathering.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/asean-summit-manila-philippines-china-trump-ca9bb47cc109a1ca9e57be787b137095",
-      "publishedAt": "2026-11-15T10:00:00Z",
-      "tags": [
-        "ASEAN",
-        "Philippines",
-        "diplomacy"
-      ]
+      "title": "China calls Xi-Putin-Trump meeting 'groundbreaking'",
+      "summary": "China's foreign ministry said this week's Xi-Putin-Trump meeting in Shenzhen has 'groundbreaking significance' and will promote world peace and stability. The Thursday trilateral on the APEC sidelines would be the first face-to-face meeting of the three leaders.",
+      "source": "Reuters",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-16/china-says-xi-putin-trump-meeting-has-groundbreaking-significance",
+      "publishedAt": "2026-11-16T07:45:00Z",
+      "tags": ["china", "russia", "us", "diplomacy"]
     },
     {
-      "id": "top-3",
+      "id": "top-asean-southchinasea-20261116",
       "category": "top",
-      "title": "Judge blocks Trump plan to close Washington DC golf course",
-      "summary": "A federal judge issued a temporary order Sunday blocking the Trump administration's plan to shut down and renovate the East Potomac Golf Links, the latest step in a months-long dispute over the public course.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c6j9mn7l14y0o",
-      "publishedAt": "2026-11-15T15:00:00Z",
-      "tags": [
-        "Trump",
-        "Washington DC",
-        "courts"
-      ]
+      "title": "ASEAN and China fail to agree on South China Sea code",
+      "summary": "ASEAN and China ended their Manila talks without agreeing on a South China Sea code of conduct, with the Philippines' envoy saying 'there is no conclusion yet.' Whether the code would be legally binding remains among the unresolved issues.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code",
+      "publishedAt": "2026-11-16T07:00:00Z",
+      "tags": ["asean", "china", "south-china-sea"]
     },
     {
-      "id": "tech-1",
+      "id": "top-eisenkot-netanyahu-20261116",
+      "category": "top",
+      "title": "Eisenkot says Netanyahu can't remain Israel PM amid vote-meddling claims",
+      "summary": "Israeli opposition leader Gadi Eisenkot said Benjamin Netanyahu cannot remain prime minister amid alleged meddling in Israel's 2026 election. The claim escalates the political crisis over the integrity of the vote.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling",
+      "publishedAt": "2026-11-16T06:00:00Z",
+      "tags": ["israel", "netanyahu", "elections"]
+    },
+    {
+      "id": "tech-cantwell-nvidia-20261116",
       "category": "tech",
-      "title": "Apple's Siri-powered smart glasses reportedly launching next year",
-      "summary": "Apple plans to unveil its first smart glasses at WWDC 2027 and ship them before year-end, per Mark Gurman: iPhone-tethered frames built around Siri AI and third-party app integration.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
-      "publishedAt": "2026-11-15T18:00:00Z",
-      "tags": [
-        "Apple",
-        "smart glasses",
-        "Siri",
-        "AI"
-      ]
+      "title": "Senator slams Commerce Dept for flow of Nvidia AI chips to China",
+      "summary": "Sen. Maria Cantwell accused the Commerce Department of letting advanced Nvidia AI chips reach China, saying it 'undermined America's national security.' In a letter to Secretary Howard Lutnick, she cited warnings about Megaspeed and other pathways used to divert chips ahead of this week's Xi meeting.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "publishedAt": "2026-11-16T11:00:00Z",
+      "tags": ["nvidia", "ai-chips", "export-controls", "china"]
     },
     {
-      "id": "tech-2",
+      "id": "tech-qwen4-max-20261116",
       "category": "tech",
-      "title": "Bessent urges Nvidia to hire an outside CEO, questions China sales",
-      "summary": "Treasury Secretary Scott Bessent questioned whether Nvidia's earnings were inflated by chip sales routed to China and gave the board 10 days to answer, urging a dramatic shakeup with an external CEO.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo",
-      "publishedAt": "2026-11-15T18:30:00Z",
-      "tags": [
-        "Nvidia",
-        "AI chips",
-        "Treasury",
-        "China"
-      ]
+      "title": "Alibaba launches Qwen4-Max flagship AI model",
+      "summary": "Alibaba launched Qwen4-Max, a 2.4-trillion-parameter flagship model it says tops several coding benchmarks while cutting task costs about 60% versus its predecessor. Unlike earlier Qwen releases, its weights are closed.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights",
+      "publishedAt": "2026-11-16T08:49:00Z",
+      "tags": ["alibaba", "ai", "llm", "china"]
     },
     {
-      "id": "tech-3",
+      "id": "tech-plural-fund-20261116",
       "category": "tech",
-      "title": "Hyundai Home Shopping debuts AI broadcasts with no hosts or cameras",
-      "summary": "Hyundai Home Shopping launched AI-REAL, a system that generates entire sales broadcasts - voice, visuals and product scenes - with no human hosts, cutting partner production costs by more than 80% in a pilot.",
-      "source": "Korea Herald",
-      "url": "https://www.koreaherald.com/article/10937399",
-      "publishedAt": "2026-11-15T15:00:00Z",
-      "tags": [
-        "AI",
-        "retail",
-        "South Korea",
-        "automation"
-      ]
+      "title": "VC firm Plural raises $1.1B to back Europe's next 'moonshots'",
+      "summary": "Operator-led VC firm Plural raised 1 billion euros ($1.1B) for its third fund, with two-thirds for early-stage investments and the rest for follow-ons. An early Helsing backer, it will target energy, AI infrastructure, defense and health.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "publishedAt": "2026-11-16T07:00:00Z",
+      "tags": ["venture-capital", "europe", "ai", "defense"]
     },
     {
-      "id": "browns-1",
+      "id": "tech-apple-ai-health-20261116",
+      "category": "tech",
+      "title": "Apple launches app to study how people use AI for health",
+      "summary": "Apple launched the Apple Health AI Usage Study, a US research app built with OpenEvidence to study how people use conversational AI for health questions. It will examine trust, response quality and everyday health actions.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "publishedAt": "2026-11-16T02:00:00Z",
+      "tags": ["apple", "ai", "health"]
+    },
+    {
+      "id": "browns-texans-takeaways-20261116",
       "category": "browns",
-      "title": "Browns announce inactives for Week 10 vs. Texans",
-      "summary": "Cleveland released its inactive list for Sunday's home game against Houston, the Browns' final contest before their bye week.",
-      "source": "clevelandbrowns.com",
-      "url": "https://www.clevelandbrowns.com/news/browns-announce-inactives-for-week-10-vs-the-texans",
-      "publishedAt": "2026-11-15T16:30:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "Texans",
-        "Week 10"
-      ]
+      "title": "Browns beat Texans 27-24, head to bye at 6-4",
+      "summary": "The Browns improved to 6-4 with a 27-24 comeback win over the Texans, already surpassing their preseason win-total projection. Cleveland erased a 17-0 deficit behind Deshaun Watson and a defense that shut down C.J. Stroud after halftime.",
+      "source": "Browns Wire (USA Today)",
+      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/11/16/3-instant-takeaways-from-the-browns-27-24-win-over-the-texans/92800996007/",
+      "publishedAt": "2026-11-16T10:00:00Z",
+      "tags": ["browns", "nfl", "deshaun-watson"]
     },
     {
-      "id": "browns-2",
-      "category": "browns",
-      "title": "Browns host Texans in Week 10 with bye week on deck",
-      "summary": "Cleveland hosts Houston at Huntington Bank Field on Sunday, looking to snap a two-game losing streak and reach its bye week on an upswing.",
-      "source": "Akron Beacon Journal",
-      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/11/15/browns-score-updates-texans-nfl-odds-tv-channel-weather--live/92724432007/",
-      "publishedAt": "2026-11-15T14:00:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "Texans"
-      ]
-    },
-    {
-      "id": "buckeyes-1",
+      "id": "buckeyes-wbb-fdu-20261116",
       "category": "buckeyes",
-      "title": "Eleven Warriors: Ohio State should skip a non-playoff bowl game",
-      "summary": "With the Buckeyes' playoff path narrow after Saturday's 28-19 win over Northwestern, Eleven Warriors argues OSU has little to gain from a non-playoff bowl and should turn its focus to 2027.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165365/ohio-state-should-opt-out-of-its-bowl-game-and-focus-its-efforts-on-preparing-for-next-season",
-      "publishedAt": "2026-11-15T11:30:00Z",
-      "tags": [
-        "Ohio State",
-        "Buckeyes",
-        "bowl",
-        "CFP"
-      ]
+      "title": "No. 17 Ohio State women rout Fairleigh Dickinson 93-49",
+      "summary": "Freshmen Diaz and Mobley led No. 17 Ohio State women's basketball to a 93-49 win over Fairleigh Dickinson.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/sports/buckeyes/freshmen-diaz-mobley-lead-no-17-ohio-state-women-to-93-49-victory-over-fairleigh-dickinson/",
+      "publishedAt": "2026-11-16T05:00:00Z",
+      "tags": ["ohio-state", "womens-basketball"]
     },
     {
-      "id": "local-1",
-      "category": "local",
-      "title": "Ohio judge strikes down last parts of state's abortion 'Heartbeat Law'",
-      "summary": "An Ohio judge tossed out the final remnants of the state's six-week abortion ban, ruling doctors are not legally required to ask why a patient seeks an abortion or test for fetal cardiac activity.",
-      "source": "NBC4 Columbus",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/ohio-judge-strikes-down-remaining-parts-of-states-abortion-heartbeat-law/",
-      "publishedAt": "2026-11-15T09:30:00Z",
-      "tags": [
-        "Ohio",
-        "abortion",
-        "courts",
-        "Columbus"
-      ]
+      "id": "buckeyes-coaches-poll-20261116",
+      "category": "buckeyes",
+      "title": "Ohio State moves up in Coaches Poll after Northwestern win",
+      "summary": "Ohio State moved up in the Week 11 Coaches Poll after snapping a two-game skid with a 28-19 win over Northwestern. The Buckeyes sit on the College Football Playoff bubble with two regular-season games left.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-moves-up-in-week-11-coaches-poll-after-defeating-northwestern-28-19/",
+      "publishedAt": "2026-11-16T01:00:00Z",
+      "tags": ["ohio-state", "college-football", "rankings"]
     },
     {
-      "id": "local-2",
+      "id": "buckeyes-nebraska-kickoff-20261116",
+      "category": "buckeyes",
+      "title": "Kickoff time set for Ohio State's trip to Nebraska",
+      "summary": "Kickoff time is set for Ohio State's Nov. 21 game at Nebraska, the first of two must-win games for the Buckeyes' fading College Football Playoff hopes.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/sports/buckeyes/when-ohio-state-plays-nebraska-kickoff-time-for-nov-21-2026-announced/",
+      "publishedAt": "2026-11-16T01:00:00Z",
+      "tags": ["ohio-state", "nebraska", "college-football"]
+    },
+    {
+      "id": "f1-mclaren-p3-20261116",
+      "category": "f1",
+      "title": "McLaren determined to take P3 fight 'down to the wire'",
+      "summary": "McLaren racing director Randy Singh said the team is determined to take its fight for third in the constructors' championship down to the wire. McLaren trails Red Bull by 17 points entering the final Las Vegas, Qatar and Abu Dhabi rounds.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/well-make-sure-it-goes-down-to-the-wire-mclaren-on-determination-to-finish-p3-in-teams-championship.2CPaMf6YTIkLE4pZlahf9y",
+      "publishedAt": "2026-11-16T11:00:00Z",
+      "tags": ["f1", "mclaren", "constructors"]
+    },
+    {
+      "id": "f1-haas-camara-20261116",
+      "category": "f1",
+      "title": "Haas keeps Camara for Las Vegas GP, Hirakawa in for FP1",
+      "summary": "Haas confirmed rookie Rafael Camara will race again at the Las Vegas Grand Prix, with Ryo Hirakawa taking the car for FP1. Camara made his F1 debut in Brazil as Haas battles Audi for seventh in the constructors' standings.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/haas-sticks-with-rafael-camara-for-las-vegas-ryo-hirakawa-in-for-fp1/10874781/",
+      "publishedAt": "2026-11-16T11:00:00Z",
+      "tags": ["f1", "haas", "las-vegas-gp"]
+    },
+    {
+      "id": "f1-whats-left-20261116",
+      "category": "f1",
+      "title": "What is left to fight for in F1 2026?",
+      "summary": "With both 2026 titles decided, Autosport breaks down what's still at stake over the final three races — a five-driver fight for second behind champion Kimi Antonelli and Red Bull vs McLaren for third in the constructors'.",
+      "source": "Autosport",
+      "url": "https://www.autosport.com/f1/news/what-is-left-to-fight-for-in-f1-2026/10874769/",
+      "publishedAt": "2026-11-16T09:31:00Z",
+      "tags": ["f1", "2026-season", "championship"]
+    },
+    {
+      "id": "local-osu-robbery-20261116",
       "category": "local",
-      "title": "Person shot in south Columbus overnight",
-      "summary": "One person was hospitalized in critical condition after an overnight shooting near Parsons Avenue and East Innis Avenue in south Columbus, with no suspect information released.",
-      "source": "NBC4 Columbus",
+      "title": "One injured in attempted robbery on Ohio State campus",
+      "summary": "One person was injured in an attempted robbery on the Ohio State campus, Columbus police said. OSU police said safety is a priority as the investigation continues.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/one-injured-after-attempted-robbery-on-ohio-state-campus/",
+      "publishedAt": "2026-11-16T11:54:00Z",
+      "tags": ["columbus", "ohio-state", "crime"]
+    },
+    {
+      "id": "local-south-columbus-shooting-20261116",
+      "category": "local",
+      "title": "One dead in south Columbus shooting",
+      "summary": "One person is dead following a shooting in south Columbus, police said Monday morning.",
+      "source": "NBC4 WCMH",
       "url": "https://www.nbc4i.com/news/local-news/columbus/person-shot-in-south-columbus/",
-      "publishedAt": "2026-11-15T12:07:00Z",
-      "tags": [
-        "Columbus",
-        "crime",
-        "shooting"
-      ]
-    },
-    {
-      "id": "local-3",
-      "category": "local",
-      "title": "Ohio State nurses call for investigation of Wexner Medical Center leaders",
-      "summary": "Nurses at Ohio State's Wexner Medical Center are calling for an investigation of executive staff members, tied to a new incentive program at the hospital.",
-      "source": "NBC4 Columbus",
-      "url": "https://www.nbc4i.com/news/local-news/ohio-state-university/with-new-incentive-program-in-place-ohio-state-nurses-request-investigation/",
-      "publishedAt": "2026-11-15T14:30:00Z",
-      "tags": [
-        "Ohio State",
-        "healthcare",
-        "labor",
-        "Columbus"
-      ]
+      "publishedAt": "2026-11-16T11:47:00Z",
+      "tags": ["columbus", "crime"]
     }
   ]
 }
