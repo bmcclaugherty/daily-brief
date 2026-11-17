@@ -1,215 +1,31 @@
 {
   "meta": {
-    "updatedAt": "2026-11-17T12:11:06Z",
+    "updatedAt": "2026-11-17T20:37:06Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 14
+    "count": 20
   },
   "stories": [
-    {
-      "id": "top-tanker-khasab-20261117",
-      "category": "top",
-      "title": "Tanker disabled, crew missing after attacks north of Oman's Khasab",
-      "summary": "A tanker transiting the Strait of Hormuz was hit twice north of Oman's Khasab, leaving it disabled with an engine-room fire and its crew unaccounted for, UKMTO said. It adds to security concerns in the world's most important oil-shipping chokepoint.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/crew-tanker-unaccounted-after-second-attack-north-omans-khasab-ukmto-says-2026-11-17/",
-      "publishedAt": "2026-11-17T10:00:00Z",
-      "tags": [
-        "Oman",
-        "Strait of Hormuz",
-        "shipping",
-        "maritime security"
-      ]
-    },
-    {
-      "id": "top-ukraine-kerch-bridge-20261117",
-      "category": "top",
-      "title": "Ukraine strikes Kerch bridge as Russia reports 1,336 drones downed",
-      "summary": "Ukrainian drones and missiles struck the Kerch bridge linking Crimea to Russia overnight, an operation Zelenskyy called 'unprecedented,' while Moscow said it intercepted 1,336 drones. The escalation comes days before a Trump-Putin-Xi summit in Shenzhen.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-      "publishedAt": "2026-11-17T09:50:00Z",
-      "tags": [
-        "Ukraine",
-        "Russia",
-        "Kerch bridge",
-        "drones"
-      ]
-    },
-    {
-      "id": "top-united-outage-20261117",
-      "category": "top",
-      "title": "United Airlines resolves 'widespread system outage' that delayed flights",
-      "summary": "United Airlines said it resolved a widespread system outage Monday that delayed departures, days after a faulty router prompted an FAA nationwide ground stop. It was the latest in a string of disruptions to US air travel and banking systems.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
-      "publishedAt": "2026-11-17T02:00:00Z",
-      "tags": [
-        "United Airlines",
-        "air travel",
-        "outage"
-      ]
-    },
-    {
-      "id": "tech-china-distillation-20261117",
-      "category": "tech",
-      "title": "Reuters: Chinese labs are distilling OpenAI models to train rivals",
-      "summary": "A Reuters review of 300-plus Chinese documents found distillation of US frontier model outputs, including OpenAI's o1 and GPT-4o, has moved into mainstream industrial use to train domestic models such as Qwen. The practice slips past US chip export curbs.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/",
-      "publishedAt": "2026-11-17T11:40:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Qwen",
-        "China"
-      ]
-    },
-    {
-      "id": "tech-claude-verification-20261117",
-      "category": "tech",
-      "title": "Anthropic details how the Claude Code team approaches verification",
-      "summary": "Anthropic published a deep-dive on how its Claude Code team verifies the coding agent's work before trusting changes. The post lands as AI coding agents become central to developer workflows.",
-      "source": "Anthropic (Claude blog)",
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "publishedAt": "2026-11-17T11:00:00Z",
-      "tags": [
-        "Anthropic",
-        "Claude Code",
-        "coding agents",
-        "verification"
-      ]
-    },
-    {
-      "id": "tech-nvidia-rubin-hpc-20261117",
-      "category": "tech",
-      "title": "Nvidia unveils Rubin HPC GPU with 50,000+ CUDA cores at SC26",
-      "summary": "Nvidia announced the Rubin HPC GPU at SC26, packing more than 50,000 CUDA cores, sparse-data acceleration and seventh-generation NVLink, with availability expected in 2028. It targets scientific computing and agentic AI workloads.",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/330881/20261117/nvidia-rubin-hpc-gpu-unveiled-sc26-50000-cuda-cores-no-memory-bandwidth-figure.htm",
-      "publishedAt": "2026-11-17T09:00:00Z",
-      "tags": [
-        "Nvidia",
-        "GPU",
-        "HPC",
-        "SC26"
-      ]
-    },
-    {
-      "id": "browns-bye-week-20261117",
-      "category": "browns",
-      "title": "Browns ride 6-4 start into bye week as passing-game questions linger",
-      "summary": "The Browns head into their bye at 6-4 after a comeback win over Houston, but Deshaun Watson hasn't thrown a touchdown pass in four straight games, a stretch in which Cleveland has still won three. Seven games remain in the AFC playoff race.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/138353/cleveland-browns-news-looking-ahead-to-a-stress-free-week",
-      "publishedAt": "2026-11-17T11:00:00Z",
-      "tags": [
-        "Browns",
-        "NFL",
-        "Deshaun Watson",
-        "bye week"
-      ]
-    },
-    {
-      "id": "buckeyes-mbb-prairie-view-20261117",
-      "category": "buckeyes",
-      "title": "Ohio State men's basketball pulls away from Prairie View A&M",
-      "summary": "Ohio State used a big second half to beat Prairie View A&M 86-59, keeping the Buckeyes rolling through the early non-conference slate.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-pulls-away-in-2nd-half-to-beat-prairie-view-am-86-59/",
-      "publishedAt": "2026-11-17T10:00:00Z",
-      "tags": [
-        "Ohio State",
-        "basketball",
-        "Buckeyes"
-      ]
-    },
-    {
-      "id": "buckeyes-wsoc-1seed-20261117",
-      "category": "buckeyes",
-      "title": "Ohio State women's soccer lands No. 1 seed in NCAA bracket",
-      "summary": "Ohio State earned a No. 1 seed in the NCAA women's soccer tournament, putting the Buckeyes' path to the College Cup through Columbus.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/sports/buckeyes/ncaa-womens-soccer-tournament-where-buckeyes-sit-in-2026-bracket/",
-      "publishedAt": "2026-11-17T05:00:00Z",
-      "tags": [
-        "Ohio State",
-        "soccer",
-        "NCAA tournament"
-      ]
-    },
-    {
-      "id": "f1-astonmartin-livery-20261117",
-      "category": "f1",
-      "title": "Aston Martin reveals bespoke livery for Las Vegas Grand Prix",
-      "summary": "Aston Martin showcased a one-off livery it will run at the Las Vegas Grand Prix, continuing the team's tradition of special designs for the race weekend.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/gallery-aston-martin-showcase-bespoke-livery-for-las-vegas-grand-prix.7f71lWPYrxvriroCo30iaY",
-      "publishedAt": "2026-11-17T12:05:00Z",
-      "tags": [
-        "F1",
-        "Aston Martin",
-        "Las Vegas GP",
-        "livery"
-      ]
-    },
-    {
-      "id": "f1-vegas-road-closures-20261117",
-      "category": "f1",
-      "title": "F1 race week brings road closures to the Las Vegas Strip",
-      "summary": "Road closures along the Las Vegas Strip ramp up this week as the Grand Prix returns Thursday, with the circuit set to host tens of thousands of visitors each night.",
-      "source": "Las Vegas Sun",
-      "url": "https://lasvegassun.com/news/2026/nov/17/f1-race-week-brings-road-closures-to-the-strip-sta/",
-      "publishedAt": "2026-11-17T10:00:00Z",
-      "tags": [
-        "F1",
-        "Las Vegas GP",
-        "Las Vegas",
-        "traffic"
-      ]
-    },
-    {
-      "id": "local-homeless-camp-20261117",
-      "category": "local",
-      "title": "Columbus City Council weighs response as south-side camp faces clearing",
-      "summary": "As an unsheltered encampment in south Columbus faces clearing, city council is weighing how to address homelessness amid broader debate over shelter capacity and outreach.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/as-camp-faces-clearing-how-columbus-city-council-is-addressing-homelessness/",
-      "publishedAt": "2026-11-17T11:20:00Z",
-      "tags": [
-        "Columbus",
-        "homelessness",
-        "city council"
-      ]
-    },
-    {
-      "id": "local-gas-prices-20261117",
-      "category": "local",
-      "title": "Columbus-area gas prices keep falling",
-      "summary": "Gas prices across the Columbus area continued to decline, extending a recent slide as crude costs ease and drivers see the lowest pump prices in weeks.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-area-gas-prices-continue-to-fall/",
-      "publishedAt": "2026-11-17T03:00:00Z",
-      "tags": [
-        "Columbus",
-        "gas prices",
-        "Ohio"
-      ]
-    },
-    {
-      "id": "local-targeted-homicide-20261117",
-      "category": "local",
-      "title": "Two in custody after 'targeted' Columbus homicide; four suspects named",
-      "summary": "Columbus police named four suspects and said two are in custody in what they described as a targeted homicide, with the investigation still active.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/police-name-four-suspects-in-targeted-columbus-homicide/",
-      "publishedAt": "2026-11-17T01:00:00Z",
-      "tags": [
-        "Columbus",
-        "crime",
-        "police"
-      ]
-    }
+    {"id":"top-canada-china-trade-1117","category":"top","title":"China to cut tariffs on Canadian pork and seafood ahead of APEC","summary":"China will cut tariffs on roughly C$400 million of Canadian exports including pork and seafood, as Xi Jinping met Prime Minister Mark Carney ahead of the APEC summit. Carney hailed greater predictability and stability in China-Canada relations.","source":"Reuters","url":"https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/","publishedAt":"2026-11-17T13:30:00Z","tags":["china","canada","trade","apec"]},
+    {"id":"top-iran-dirty-bomb-1117","category":"top","title":"Trump says US taking Iran dirty-bomb report seriously","summary":"Trump said Tuesday the US is taking seriously the possibility Iran could be planning a so-called dirty-bomb attack in Washington, after a CNN report citing US intelligence. Tehran denied the report.","source":"Reuters","url":"https://www.reuters.com/world/middle-east/tehran-denies-report-potential-iranian-plan-detonate-dirty-bomb-washington-2026-11-17/","publishedAt":"2026-11-17T12:30:00Z","tags":["iran","trump","national security","dirty bomb"]},
+    {"id":"top-crimea-bridge-1117","category":"top","title":"Ukraine damages Crimean bridge in second day of strikes","summary":"Ukrainian drones and missiles hit the Kerch bridge linking Russia to occupied Crimea for a second straight day, collapsing the road span days before Putin is set to meet Trump and Xi. Zelenskiy called it retaliation for Russian strikes on Ukrainian infrastructure.","source":"Reuters","url":"https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/","publishedAt":"2026-11-17T10:30:00Z","tags":["ukraine","russia","crimea","kerch bridge"]},
+    {"id":"tech-nsa-network-1117","category":"tech","title":"NSA classified internal network went down, officials say no attack","summary":"NSANet, the NSA classified internal communications network, went offline Tuesday during what the agency described as routine maintenance. Officials said there was no indication of a cyberattack and that mission-critical systems remained operational.","source":"NBC News","url":"https://www.nbcnews.com/politics/national-security/classified-nsa-network-went-no-indication-was-attack-sources-say-rcna609859","publishedAt":"2026-11-17T19:14:00Z","tags":["nsa","cybersecurity","outage","national security"]},
+    {"id":"tech-gpt-62-1117","category":"tech","title":"OpenAI introduces GPT-6.2 Astra and Sol models","summary":"OpenAI launched GPT-6.2 Astra, a frontier model aimed at professional and scientific work, and GPT-6.2 Sol, a smaller model for everyday tasks. Both deliver better results while using fewer output tokens, lowering cost per task.","source":"OpenAI","url":"https://openai.com/index/introducing-gpt-6-2-astra-sol/","publishedAt":"2026-11-17T18:30:00Z","tags":["openai","gpt-6.2","ai","models"]},
+    {"id":"tech-huang-return-1117","category":"tech","title":"Jensen Huang says he would be honored to return as Nvidia CEO","summary":"In his first public statement since resigning, Nvidia founder Jensen Huang signaled he would return as CEO if the board decides it serves the company, as an open letter from more than 10,000 employees and tech figures backed him.","source":"TechCrunch","url":"https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/","publishedAt":"2026-11-17T16:44:00Z","tags":["nvidia","jensen huang","ai chips","tech"]},
+    {"id":"tech-voyage-labs-1117","category":"tech","title":"Voyage Labs raises $12M for AI travel assistant","summary":"Voyage Labs announced a $12 million seed round led by Kleiner Perkins for Atlas, an AI assistant that plans and books entire trips. The funding will expand supplier partnerships and grow its engineering team.","source":"TechCrunch","url":"https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/","publishedAt":"2026-11-17T15:00:00Z","tags":["startup","funding","ai","travel"]},
+    {"id":"browns-snf-flex-1117","category":"browns","title":"Browns-Raiders game flexed to Sunday Night Football","summary":"The NFL flexed the Browns Week 12 game against the Las Vegas Raiders on Nov. 29 to Sunday Night Football, giving a 6-4 Cleveland team a rare prime-time spotlight after it rallied past Houston on Sunday.","source":"Touchdown Wire","url":"https://touchdownwire.usatoday.com/story/sports/nfl/2026/11/17/cleveland-browns-las-vegas-raiders-flexed-snf/92829851007/","publishedAt":"2026-11-17T19:17:00Z","tags":["browns","nfl","schedule","sunday night football"]},
+    {"id":"browns-daily-dawg-1117","category":"browns","title":"OBR: Browns fans embrace a winning season with guarded optimism","summary":"TheOBR daily roundup says Browns fans are enjoying a 6-4 start but staying guarded, noting Todd Monken is one of only seven Browns coaches to open 6-4 or better. It frames the fanbase cautious embrace of a rare winning season.","source":"Cleveland19 / TheOBR","url":"https://www.cleveland19.com/2026/11/17/cleveland-browns-news-rumors-111726-true-embrace/","publishedAt":"2026-11-17T13:28:00Z","tags":["browns","nfl","todd monken","fans"]},
+    {"id":"buckeyes-day-unflappable-1117","category":"buckeyes","title":"Ryan Day calls Luke Fahey pretty unflappable after first win","summary":"Ryan Day praised true freshman QB Luke Fahey as pretty unflappable ahead of the trip to Nebraska on Saturday, backing him as the starter despite fan calls for a change. Fahey won his first game as starter against Northwestern.","source":"Heavy.com","url":"https://heavy.com/sports/college-football/ohio-state-buckeyes/ohio-state-ryan-day-sends-2-word-message-qb-luke-fahey/","publishedAt":"2026-11-17T19:44:00Z","tags":["ohio state","ryan day","luke fahey","cfb"]},
+    {"id":"buckeyes-jackson-injury-1117","category":"buckeyes","title":"Jakoobi Jackson still not running, Day says return unclear","summary":"Ryan Day said running back Jakoobi Jackson is still week to week and has not started running since foot surgery, making a regular-season return unlikely. Bo Jackson has carried the load in his absence.","source":"A to Z Sports","url":"https://atozsports.com/college-football/ohio-state-buckeyes-news/ryan-day-injury-update-before-week-11-nebraska-cornhuskers-big-ten-game/","publishedAt":"2026-11-17T18:35:00Z","tags":["ohio state","injuries","running back","cfb"]},
+    {"id":"buckeyes-day-presser-1117","category":"buckeyes","title":"Day: Buckeyes still hopeful for College Football Playoff berth","summary":"Ryan Day said Ohio State remains in the College Football Playoff conversation, citing two road wins over top-15 teams, but acknowledged the Buckeyes need help. He said Jake Cook is definitely in the mix to start on the offensive line at Nebraska.","source":"Eleven Warriors","url":"https://www.elevenwarriors.com/ohio-state-football/2026/11/165516/presser-bullets-ryan-day-says-ohio-state-remains-hopeful-about-college-football-playoff-thought-luke-fahey-and-offensive-line-improved-against-northwestern","publishedAt":"2026-11-17T18:23:00Z","tags":["ohio state","ryan day","cfp","cfb"]},
+    {"id":"buckeyes-ol-siereveld-1117","category":"buckeyes","title":"Day locks in Siereveld at left tackle, Moore at right tackle","summary":"Ryan Day said Austin Siereveld will stay at left tackle and Ian Moore at right tackle, keeping the line that beat Northwestern. He added Jake Cook will keep playing, not just as the sixth lineman.","source":"Scarlet and Game","url":"https://scarletandgame.com/ryan-day-announces-starting-lineup-changes-to-ohio-state-s-offensive-line","publishedAt":"2026-11-17T17:43:00Z","tags":["ohio state","offensive line","austin siereveld","cfb"]},
+    {"id":"f1-hamilton-diversity-1117","category":"f1","title":"Hamilton: much still to do on F1 diversity","summary":"Lewis Hamilton said there is still much work to do on diversity in Formula 1, continuing his push for greater inclusion in a sport he argues remains far from where it should be.","source":"BBC Sport","url":"https://www.bbc.co.uk/sport/formula1/articles/c52e8kpnje42o","publishedAt":"2026-11-17T20:04:00Z","tags":["f1","lewis hamilton","diversity"]},
+    {"id":"f1-one-race-wonders-1117","category":"f1","title":"BBC looks back at Formula 1 one-race wonders","summary":"A BBC Sport feature revisits drivers who raced in Formula 1 just once, exploring what became of those who reached the sport pinnacle for a single grand prix.","source":"BBC Sport","url":"https://www.bbc.co.uk/sport/formula1/articles/cqp9dr4kedd3o","publishedAt":"2026-11-17T19:30:00Z","tags":["f1","history","drivers"]},
+    {"id":"tarkov-mobile-topdown-1117","category":"tarkov","title":"Tarkov mobile spin-off will be a top-down extraction shooter","summary":"Battlestate Games confirmed its upcoming Escape from Tarkov mobile spin-off will use a top-down view rather than first-person, a separate experience set in the same universe. An official reveal could come in 2027.","source":"gamer.org","url":"https://www.gamer.org/escape-from-tarkov-mobile-spin-off-top-down-gameplay/","publishedAt":"2026-11-17T14:30:00Z","tags":["tarkov","mobile","battlestate games","top-down"]},
+    {"id":"tarkov-pve-pvp-interview-1117","category":"tarkov","title":"Tarkov Nikita Buyanov: I want everybody to be happy on PvE vs PvP","summary":"Battlestate Games studio head Nikita Buyanov said about 60 percent of Tarkov players are on the PvE platform and pushed back on the idea that PvP is dying, saying the studio wants both audiences to be happy.","source":"Insider Gaming","url":"https://insider-gaming.com/interview-tarkov-head-on-pve-vs-pvp-debate/","publishedAt":"2026-11-17T13:00:00Z","tags":["tarkov","battlestate games","pve","pvp"]},
+    {"id":"local-estrella-tower-1117","category":"local","title":"Estrella Tower project gets final Downtown Commission approval","summary":"Columbus Business First reports the Downtown Commission gave final approval to the Estrella Tower development, with a rooftop pool and penthouses added to the concept.","source":"Columbus Business First","url":"https://www.bizjournals.com/columbus/news/2026/11/17/estrella-tower-final-approval-downtown-commission.html","publishedAt":"2026-11-17T19:22:00Z","tags":["columbus","development","downtown","real estate"]},
+    {"id":"local-council-lufthansa-1117","category":"local","title":"Columbus Council delays Lufthansa subsidy vote for Frankfurt flight","summary":"Columbus City Council voted 9-0 to strip $300,000 earmarked for Lufthansa from a One Columbus funding package, delaying a decision on subsidizing the city first direct flight to Europe. The move extends a dispute with Mayor Ginther over city investment authority.","source":"Columbus Dispatch","url":"https://www.dispatch.com/story/news/local/2026/11/17/council-puts-brakes-on-ginther-backed-german-flight-subsidy/92815921007/","publishedAt":"2026-11-17T15:00:00Z","tags":["columbus","city council","lufthansa","airport"]},
+    {"id":"local-juvenile-crash-1117","category":"local","title":"Juvenile injured in single-car crash in northeast Columbus","summary":"A juvenile was taken to the hospital after a single-car crash on the northeast side early Tuesday, according to 10TV.","source":"10TV","url":"https://www.10tv.com/article/news/local/juvenile-injured-in-single-car-crash-in-northeast-columbus-joyce-avenue/530-37c0fd85-2331-4897-b53c-60ccef06ef4c","publishedAt":"2026-11-17T11:00:00Z","tags":["columbus","traffic","accident","northeast side"]}
   ]
 }
