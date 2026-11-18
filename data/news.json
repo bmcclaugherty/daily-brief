@@ -1,171 +1,201 @@
 {
   "meta": {
-    "updatedAt": "2026-11-18T12:09:50Z",
+    "updatedAt": "2026-11-18T20:39:18Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 16
+    "count": 19
   },
   "stories": [
     {
-      "id": "top-xi-putin-sanctions-20261118",
+      "id": "top-apec-trump-xi-putin-shenzhen",
       "category": "top",
-      "title": "Xi, Putin blast Western sanctions as Trump lands in China for APEC",
-      "summary": "China's Xi Jinping and Russia's Vladimir Putin used the APEC summit in Shenzhen to denounce Western sanctions, with Putin calling Western powers 'former hegemons,' as Donald Trump arrived for a three-way meeting.",
+      "title": "Xi welcomes Trump to China ahead of trilateral with Putin",
+      "summary": "Trump landed in Shenzhen Wednesday and was greeted personally at the airport by Xi Jinping, with the two set for a historic Thursday trilateral expected to cover the Iran and Ukraine wars, trade, AI and nuclear weapons. Xi pledged to stand up against trade protectionism in pointed pre-summit speeches alongside Putin.",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/chinas-xi-calls-free-open-trade-apec-summit-2026-11-18/",
-      "publishedAt": "2026-11-18T11:00:00Z",
-      "tags": ["APEC", "China", "Russia", "trade"]
+      "publishedAt": "2026-11-18T19:40:00Z",
+      "tags": ["trump", "china", "apec"]
     },
     {
-      "id": "top-philippines-trade-20261118",
+      "id": "top-board-of-peace-gaza-report",
       "category": "top",
-      "title": "Trump says US concluded a 'very big trade deal' with Philippines",
-      "summary": "Trump announced during a Manila state visit that the US had consummated 'the biggest trade deal we've ever made,' but Philippine officials said only an understanding on economic cooperation was reached and nothing was signed.",
+      "title": "White House Board of Peace faults Israel and Hamas for failure to end Gaza war",
+      "summary": "The body overseeing the US-backed ceasefire plan accused both sides of failing to meet their commitments in a 12-page report to the UN Security Council. It warns a ceasefire that delivers nothing visible cannot be sustained indefinitely, with the population of Gaza facing another winter in tents and rubble.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-says-us-has-concluded-very-big-trade-deal-with-philippines-2026-11-18/",
-      "publishedAt": "2026-11-18T10:30:00Z",
-      "tags": ["Trump", "Philippines", "trade"]
+      "url": "https://www.reuters.com/world/middle-east/trumps-board-peace-faults-israel-hamas-failure-end-gaza-war-2026-11-18/",
+      "publishedAt": "2026-11-18T11:40:00Z",
+      "tags": ["gaza", "israel-hamas", "ceasefire"]
     },
     {
-      "id": "top-iran-kuwait-20261118",
+      "id": "top-ethiopia-eritrea-border-buildup",
       "category": "top",
-      "title": "Iran fires on US air base in Kuwait after US strikes on Qeshm Island",
-      "summary": "Iran said it targeted US drone and missile sites in Kuwait overnight in retaliation for American strikes on Qeshm Island in the Strait of Hormuz, widening Tehran's attacks on Gulf neighbors.",
-      "source": "AP",
-      "url": "https://apnews.com/article/iran-us-kuwait-gulf-attacks-bahrain-b1f0b530cffe951e6fcc1e27b2e1af94",
-      "publishedAt": "2026-11-18T10:00:00Z",
-      "tags": ["Iran", "Kuwait", "Gulf", "military"]
+      "title": "Ethiopia and Eritrea amass forces along border, heightening war fears",
+      "summary": "Conflict monitors and militia-linked sources say the build-up has brought the two armies within striking distance of each other, fuelling fears of outright war between the historic rivals. ACLED and the International Crisis Group are among those tracking the escalation.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/ethiopia-eritrea-amass-forces-along-border-heightening-war-fears-sources-say-2026-11-18/",
+      "publishedAt": "2026-11-18T11:35:00Z",
+      "tags": ["ethiopia", "eritrea", "africa"]
     },
     {
-      "id": "top-xi-multipolar-20261118",
+      "id": "top-eu-45bn-ukraine-loan",
       "category": "top",
-      "title": "Xi says Russia and China should 'lead' push to a multipolar world",
-      "summary": "At the APEC summit in Shenzhen, Xi Jinping said Beijing and Moscow should jointly lead the shift away from a US-dominated order, as the two leaders projected strategic alignment on trade and energy.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world",
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "tags": ["China", "Russia", "geopolitics", "APEC"]
+      "title": "EU proposes 45-billion-euro loan to Ukraine backed by joint debt",
+      "summary": "The European Commission unveiled the package - 25 billion euros for weapons and 20 billion for budget support - to cover two-thirds of the 70-billion-euro financing gap for 2027, with repayment contingent on Russia paying reparations. Von der Leyen said she is confident all 27 member states will back it.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/18/von-der-leyen-proposes-45bn-loan-to-ukraine-backed-by-joint-debt",
+      "publishedAt": "2026-11-18T10:43:00Z",
+      "tags": ["ukraine", "eu", "russia"]
     },
     {
-      "id": "tech-anthropic-ipo-20261118",
+      "id": "tech-gta6-review-embargo-99-metascore",
       "category": "tech",
-      "title": "Anthropic prices blockbuster IPO today; ANT begins trading Thursday",
-      "summary": "The Claude maker sets its final IPO price today (825M shares at $70-$78, up to ~$1.4T valuation) and starts trading on Nasdaq as ANT on Nov. 19, the biggest public test yet of the AI boom.",
-      "source": "RTÉ",
-      "url": "https://www.rte.ie/news/business/2026/1118/1599642-anthropic-set-to-price-ipo/",
-      "publishedAt": "2026-11-18T10:34:00Z",
-      "tags": ["Anthropic", "IPO", "AI", "Nasdaq"]
+      "title": "GTA 6 reviews land: 99 Metascore with 118 perfect scores",
+      "summary": "A day before its Nov 19 worldwide launch, the GTA 6 review embargo lifted with a record-tying 99 Metascore - level with Ocarina of Time for the highest ever - from 147 PS5 critic reviews, 118 of them perfect scores and zero mixed or negative.",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/354998/gta-6-review-roundup-99-on-metacritic-and-118-perfect-scores",
+      "publishedAt": "2026-11-18T19:50:00Z",
+      "tags": ["gaming", "gta-6", "rockstar"]
     },
     {
-      "id": "tech-entra-agent-id-20261118",
+      "id": "tech-waymo-freeway-suspension",
       "category": "tech",
-      "title": "Microsoft Entra adds AI agent identity, passkeys and access controls at Ignite",
-      "summary": "Microsoft's Ignite 2026 identity updates extend Entra to AI agents, including ones Microsoft didn't build, adding agent identity, conditional access and an MCP firewall, mostly in preview.",
-      "source": "WindowsForum",
-      "url": "https://windowsforum.com/news/microsoft-entra-at-ignite-2026-ai-agent-identity-passkeys-and-conditional-access-previews.452914/",
-      "publishedAt": "2026-11-18T01:00:00Z",
-      "tags": ["Microsoft", "Ignite", "AI agents", "Entra"]
+      "title": "Waymo suspends freeway driving after California construction-zone ban",
+      "summary": "The California DMV ordered the driverless cars off state freeways over construction-zone incursions it called an imminent hazard, and the Alphabet unit has now pulled freeway rides across all of its markets. Its robotaxis continue operating on surface streets.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+      "publishedAt": "2026-11-18T16:24:00Z",
+      "tags": ["waymo", "autonomous-vehicles", "regulation"]
     },
     {
-      "id": "buckeyes-cfp-rankings-20261118",
+      "id": "tech-nvidia-beat-anthropic-ipo",
+      "category": "tech",
+      "title": "Wall Street digests Nvidia beat as Anthropic IPO pricing nears",
+      "summary": "US stocks were mixed Wednesday as investors weighed a big Nvidia earnings beat - revenue up 103% to $115.8 billion - along with hawkish Fed minutes, with attention turning to the pricing of the Anthropic initial public offering as the next catalyst for the AI trade.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18/",
+      "publishedAt": "2026-11-18T10:40:00Z",
+      "tags": ["nvidia", "ai", "stock-market"]
+    },
+    {
+      "id": "tech-senators-ai-cyber-threats",
+      "category": "tech",
+      "title": "Senators urge immediate White House action on AI-enabled cyber threats",
+      "summary": "Cantwell (D-WA) and Rounds (R-SD) warned AI czar Jay Clayton that AI is finding and exploiting software weaknesses faster than defenses can respond - citing PHP website flaws, rogue AI agents accessing bank accounts and breaches in Japan - and called for a coordinated national defensive-AI effort.",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/11/18/cyber-threats-infrastructure-congress-01172093",
+      "publishedAt": "2026-11-18T10:10:00Z",
+      "tags": ["ai", "cybersecurity", "congress"]
+    },
+    {
+      "id": "browns-kosar-one-year-after-transplant",
+      "category": "browns",
+      "title": "Bernie Kosar celebrates one year after life-saving liver transplant",
+      "summary": "The Browns legend returned to University Hospitals with his doctors a year after his November 2025 liver transplant, sharing his recovery journey and celebrating how far he has come.",
+      "source": "Fox 8 Cleveland",
+      "url": "https://fox8.com/video/bernie-kosar-speaks-1-year-after-transplant/12383127/",
+      "publishedAt": "2026-11-18T16:01:00Z",
+      "tags": ["bernie-kosar", "browns", "cleveland"]
+    },
+    {
+      "id": "browns-6-4-fraud-watch",
+      "category": "browns",
+      "title": "Fraud watch on the 6-4 Browns? Power rankings lean the other way",
+      "summary": "The Browns are the first team in NFL history to win six games in a season all by four points or fewer, and national media keeps asking if they are legit as the bye week begins - even as Fox jumps them to 13th in its power rankings and beat writers note that beating the Raiders would make a playoff berth a virtual lock.",
+      "source": "Cleveland 19",
+      "url": "https://www.cleveland19.com/2026/11/18/cleveland-browns-news-rumors-111826-define-your-terms/",
+      "publishedAt": "2026-11-18T13:30:00Z",
+      "tags": ["browns", "nfl", "power-rankings"]
+    },
+    {
+      "id": "browns-raiders-game-flexed-to-snf",
+      "category": "browns",
+      "title": "NFL flexes Browns-Raiders into Sunday Night Football",
+      "summary": "The league moved the Nov 29 home game against Las Vegas into the primetime slot - the first Browns regular-season game on Sunday Night Football since 2021. History is not on their side: Cleveland is 2-11 all-time on Sunday nights.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/138429/cleveland-browns-news-jared-verse-deshaun-watson-bernie-kosar",
+      "publishedAt": "2026-11-18T11:00:00Z",
+      "tags": ["browns", "snf", "raiders"]
+    },
+    {
+      "id": "buckeyes-playoff-hopes-at-nebraska",
       "category": "buckeyes",
-      "title": "Ohio State climbs to No. 14 in latest CFP rankings",
-      "summary": "After five teams ranked ahead of them lost, the Buckeyes jumped six spots to No. 14 in Tuesday's College Football Playoff rankings, within striking distance of the final at-large berth with two weeks left.",
-      "source": "Buckeyes Wire",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/11/17/ohio-state-football-cfp-rankings-third-release-favorable/92837179007/",
-      "publishedAt": "2026-11-18T03:07:00Z",
-      "tags": ["CFP", "rankings", "football"]
+      "title": "No. 14 Buckeyes look to keep playoff hopes alive at Nebraska",
+      "summary": "Ohio State (7-3) visits Lincoln on Saturday needing wins over Nebraska and Michigan - plus help - to stay in the Big Ten title and CFP races. Ryan Day says his team needs help but knows there is a chance, while Nebraska coach Matt Rhule calls Jeremiah Smith undoubtedly the best player in football.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/ohio-state-looks-to-keep-playoff-hopes-alive-at-nebraska/",
+      "publishedAt": "2026-11-18T17:19:00Z",
+      "tags": ["ohio-state", "college-football", "cfp"]
     },
     {
-      "id": "buckeyes-cfp-ap-20261118",
+      "id": "buckeyes-cfp-rooting-guide",
       "category": "buckeyes",
-      "title": "Georgia stays No. 1; Ohio State jumps six spots to No. 14 in CFP rankings",
-      "summary": "The committee's third ranking kept Georgia on top and moved the 7-3 Buckeyes to No. 14 after their win over Northwestern, with Oregon at No. 13 standing between Ohio State and a playoff berth.",
-      "source": "AP",
-      "url": "https://apnews.com/article/college-football-playoff-rankings-3f917a59dd1f908edcd8e020bb57e5fe",
-      "publishedAt": "2026-11-18T02:00:00Z",
-      "tags": ["CFP", "rankings", "football"]
+      "title": "Who Ohio State needs to lose to make the College Football Playoff",
+      "summary": "After the third CFP rankings of the season, the updated rooting guide breaks down which contenders the Buckeyes need to stumble over the final weeks to keep playoff hopes alive.",
+      "source": "Heavy",
+      "url": "https://heavy.com/sports/college-football/ohio-state-buckeyes/who-ohio-state-needs-lose-make-college-football-playoff/",
+      "publishedAt": "2026-11-18T11:35:00Z",
+      "tags": ["ohio-state", "cfp", "college-football"]
     },
     {
-      "id": "buckeyes-bubble-on3-20261118",
-      "category": "buckeyes",
-      "title": "Ohio State moves into CFP 'bubble territory' at No. 14",
-      "summary": "On3's breakdown: the Buckeyes still need help to crack the 12-team field, but wins over No. 15 Iowa and No. 8 Indiana keep their resume alive with two weeks to go.",
-      "source": "On3",
-      "url": "https://www.on3.com/teams/ohio-state-buckeyes/news/ohio-state-moves-into-bubble-territory-of-latest-college-football-playoff-rankings/",
-      "publishedAt": "2026-11-18T03:30:00Z",
-      "tags": ["CFP", "rankings", "football"]
+      "id": "f1-crawford-vegas-fp1-alonso-out",
+      "category": "f1",
+      "title": "Alonso to miss Las Vegas FP1 as Aston Martin run Crawford at home",
+      "summary": "Aston Martin will put American reserve driver Jak Crawford in the AMR26 for first practice on the Vegas Strip - his first F1 session on home soil and fifth of the season - while Fernando Alonso sits the session out.",
+      "source": "GPblog",
+      "url": "https://www.gpblog.com/en/breaking-news/alonso-to-miss-las-vegas-fp1-as-aston-martin-announce-driver-change",
+      "publishedAt": "2026-11-18T18:31:00Z",
+      "tags": ["f1", "las-vegas", "aston-martin"]
     },
     {
-      "id": "f1-piastri-penalty-20261118",
+      "id": "f1-ecclestone-hamilton-piastri-roundup",
+      "category": "f1",
+      "title": "Ecclestone urges Hamilton to consider retirement; Piastri penalty to be confirmed",
+      "summary": "Bernie Ecclestone says it is too late for Hamilton to change how Ferrari operates and the 41-year-old should think about quitting, while the FIA is expected to ratify the 10-place Las Vegas grid penalty for Oscar Piastri during Thursday practice.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/fia-lewis-hamilton-las-vegas-grand-prix-2026-penalty-retire",
+      "publishedAt": "2026-11-18T18:02:00Z",
+      "tags": ["f1", "lewis-hamilton", "las-vegas"]
+    },
+    {
+      "id": "f1-whoop-official-partnership",
+      "category": "f1",
+      "title": "Formula 1 and WHOOP announce landmark partnership",
+      "summary": "The health-wearable company becomes an F1 Official Partner in a multi-year deal to weave driver biometrics into broadcast storytelling for fans. WHOOP will also back F1 ACADEMY efforts to develop female talent in motorsport.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-and-whoop-announce-landmark-partnership-to-bring-fans-closer-to-the-human-side-of-racing.1YTsprVRx7MPlaDJnniexm",
+      "publishedAt": "2026-11-18T17:07:00Z",
+      "tags": ["f1", "whoop", "partnership"]
+    },
+    {
+      "id": "f1-piastri-ten-place-grid-penalty",
       "category": "f1",
       "title": "Piastri set for 10-place grid penalty at Las Vegas GP",
-      "summary": "McLaren confirms Oscar Piastri will take a new internal combustion engine for Las Vegas, triggering a 10-place grid drop, while both McLarens get Mercedes' long-awaited ADUO turbo upgrade.",
+      "summary": "A reliability issue forces a fifth internal combustion engine of the season on the McLaren driver, triggering a 10-place grid drop for the race. McLaren hopes the overtaking spots on the Strip - plus a new floor and the upgraded Mercedes turbo - can rescue the weekend.",
       "source": "formula1.com",
       "url": "https://www.formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk",
       "publishedAt": "2026-11-18T10:51:00Z",
-      "tags": ["McLaren", "Las Vegas GP", "grid penalty"]
+      "tags": ["f1", "oscar-piastri", "las-vegas"]
     },
     {
-      "id": "f1-mercedes-aduo-20261118",
-      "category": "f1",
-      "title": "Mercedes to run upgraded turbo on Antonelli's car only in Vegas",
-      "summary": "Toto Wolff says the new ADUO turbo goes to Kimi Antonelli alone in Las Vegas; fitting it to George Russell would trigger a five-place penalty the team won't risk in his fight for P2.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/mercedes-aduo-upgrade-las-vegas-kimi-antonelli",
-      "publishedAt": "2026-11-18T09:09:00Z",
-      "tags": ["Mercedes", "Antonelli", "Las Vegas GP"]
-    },
-    {
-      "id": "f1-hamilton-fp1-20261118",
-      "category": "f1",
-      "title": "Hamilton to sit out Vegas FP1; Beganovic takes the Ferrari seat",
-      "summary": "Ferrari confirmed Dino Beganovic will drive Lewis Hamilton's car in Thursday's first practice in Las Vegas, while Bernie Ecclestone questioned whether Fred Vasseur is the right leader for the team.",
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1093004/f1-news-today-fred-vasseur-overwhelmed-ferrari-lewis-hamilton-replaced-las-vegas-gp/",
-      "publishedAt": "2026-11-18T07:30:00Z",
-      "tags": ["Ferrari", "Hamilton", "Las Vegas GP"]
-    },
-    {
-      "id": "f1-leclerc-vegas-20261118",
-      "category": "f1",
-      "title": "Leclerc expects a 'difficult' Las Vegas weekend for Ferrari",
-      "summary": "Charles Leclerc concedes Ferrari likely won't end its winless run since July in Las Vegas, citing cold temperatures, even as the team is well placed to seal second in the constructors' championship.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/charles-leclerc-ferrari-las-vegas-prospects-revealed",
-      "publishedAt": "2026-11-18T03:00:00Z",
-      "tags": ["Ferrari", "Leclerc", "Las Vegas GP"]
-    },
-    {
-      "id": "local-axios-population-20261118",
+      "id": "local-ohio-concealed-carry-18",
       "category": "local",
-      "title": "Central Ohio may hit 3M residents later than forecast",
-      "summary": "New Mid-Ohio Regional Planning Commission projections put the 15-county region at 2.7M-3.04M people by 2050, up to 450,000 fewer than its last forecast, with local deaths expected to outpace births by 2040.",
-      "source": "Axios Columbus",
-      "url": "https://www.axios.com/local/columbus/2026/11/18/population-growth-projections-2050",
-      "publishedAt": "2026-11-18T11:45:00Z",
-      "tags": ["population", "MORPC", "Central Ohio"]
+      "title": "Ohio House weighs concealed carry at 18 - no permit, no training",
+      "summary": "SB 278 would lower the Ohio permitless-carry age from 21 to 18, allow loaded guns in vehicles, ease sawed-off shotgun and silencer rules, and let citizens sue cities over local gun laws for punitive damages. The lame-duck vote comes before Gov.-elect Amy Acton takes office in January.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/politics/state/2026/11/18/ohio-may-let-18-year-olds-carry-concealed-weapon-without-training/92824266007/",
+      "publishedAt": "2026-11-18T18:36:00Z",
+      "tags": ["ohio", "gun-policy", "statehouse"]
     },
     {
-      "id": "local-flock-deputy-20261118",
+      "id": "local-columbus-forecast-sunny-then-rain",
       "category": "local",
-      "title": "Franklin County deputy suspended over Flock camera misuse",
-      "summary": "A Franklin County sheriff's deputy was suspended after allegedly misusing Flock license-plate camera data, NBC4 reports.",
-      "source": "NBC4",
-      "url": "https://www.nbc4i.com/news/local-news/franklin-county/franklin-county-deputy-suspended-over-flock-camera-misuse/",
-      "publishedAt": "2026-11-18T03:00:00Z",
-      "tags": ["Franklin County", "sheriff", "surveillance"]
-    },
-    {
-      "id": "local-osu-car-breakins-20261118",
-      "category": "local",
-      "title": "OSU-area student hit by repeat car break-ins questions police response",
-      "summary": "A student near North High Street says his and his girlfriend's cars were broken into three times in two months, and that police declined to act despite video and AirPods location data; he's taking the complaint to City Council.",
-      "source": "ABC6",
-      "url": "https://abc6onyourside.com/news/local/college-student-becomes-repeat-car-break-in-victim-in-columbus-questions-police-response-ohio-state-north-high-street-university-district-wright",
-      "publishedAt": "2026-11-18T02:52:00Z",
-      "tags": ["OSU", "crime", "University District"]
+      "title": "Sunny and dry through Saturday; rain likely late Sunday",
+      "summary": "Central Ohio stays sunny with highs climbing from 58 today to the mid-60s by Friday and Saturday, before a cold front brings rain late Sunday and knocks Thanksgiving week back into the 40s.",
+      "source": "ABC 6 Columbus",
+      "url": "https://abc6onyourside.com/news/local/columbus-weather-sunny-dry-days-through-saturday-rain-likely-late-sunday",
+      "publishedAt": "2026-11-18T10:49:00Z",
+      "tags": ["columbus", "weather", "forecast"]
     }
   ]
 }
