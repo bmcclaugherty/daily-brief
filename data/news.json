@@ -1,31 +1,171 @@
 {
   "meta": {
-    "updatedAt": "2026-11-17T20:37:06Z",
+    "updatedAt": "2026-11-18T12:09:50Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 20
+    "count": 16
   },
   "stories": [
-    {"id":"top-canada-china-trade-1117","category":"top","title":"China to cut tariffs on Canadian pork and seafood ahead of APEC","summary":"China will cut tariffs on roughly C$400 million of Canadian exports including pork and seafood, as Xi Jinping met Prime Minister Mark Carney ahead of the APEC summit. Carney hailed greater predictability and stability in China-Canada relations.","source":"Reuters","url":"https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/","publishedAt":"2026-11-17T13:30:00Z","tags":["china","canada","trade","apec"]},
-    {"id":"top-iran-dirty-bomb-1117","category":"top","title":"Trump says US taking Iran dirty-bomb report seriously","summary":"Trump said Tuesday the US is taking seriously the possibility Iran could be planning a so-called dirty-bomb attack in Washington, after a CNN report citing US intelligence. Tehran denied the report.","source":"Reuters","url":"https://www.reuters.com/world/middle-east/tehran-denies-report-potential-iranian-plan-detonate-dirty-bomb-washington-2026-11-17/","publishedAt":"2026-11-17T12:30:00Z","tags":["iran","trump","national security","dirty bomb"]},
-    {"id":"top-crimea-bridge-1117","category":"top","title":"Ukraine damages Crimean bridge in second day of strikes","summary":"Ukrainian drones and missiles hit the Kerch bridge linking Russia to occupied Crimea for a second straight day, collapsing the road span days before Putin is set to meet Trump and Xi. Zelenskiy called it retaliation for Russian strikes on Ukrainian infrastructure.","source":"Reuters","url":"https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/","publishedAt":"2026-11-17T10:30:00Z","tags":["ukraine","russia","crimea","kerch bridge"]},
-    {"id":"tech-nsa-network-1117","category":"tech","title":"NSA classified internal network went down, officials say no attack","summary":"NSANet, the NSA classified internal communications network, went offline Tuesday during what the agency described as routine maintenance. Officials said there was no indication of a cyberattack and that mission-critical systems remained operational.","source":"NBC News","url":"https://www.nbcnews.com/politics/national-security/classified-nsa-network-went-no-indication-was-attack-sources-say-rcna609859","publishedAt":"2026-11-17T19:14:00Z","tags":["nsa","cybersecurity","outage","national security"]},
-    {"id":"tech-gpt-62-1117","category":"tech","title":"OpenAI introduces GPT-6.2 Astra and Sol models","summary":"OpenAI launched GPT-6.2 Astra, a frontier model aimed at professional and scientific work, and GPT-6.2 Sol, a smaller model for everyday tasks. Both deliver better results while using fewer output tokens, lowering cost per task.","source":"OpenAI","url":"https://openai.com/index/introducing-gpt-6-2-astra-sol/","publishedAt":"2026-11-17T18:30:00Z","tags":["openai","gpt-6.2","ai","models"]},
-    {"id":"tech-huang-return-1117","category":"tech","title":"Jensen Huang says he would be honored to return as Nvidia CEO","summary":"In his first public statement since resigning, Nvidia founder Jensen Huang signaled he would return as CEO if the board decides it serves the company, as an open letter from more than 10,000 employees and tech figures backed him.","source":"TechCrunch","url":"https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/","publishedAt":"2026-11-17T16:44:00Z","tags":["nvidia","jensen huang","ai chips","tech"]},
-    {"id":"tech-voyage-labs-1117","category":"tech","title":"Voyage Labs raises $12M for AI travel assistant","summary":"Voyage Labs announced a $12 million seed round led by Kleiner Perkins for Atlas, an AI assistant that plans and books entire trips. The funding will expand supplier partnerships and grow its engineering team.","source":"TechCrunch","url":"https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/","publishedAt":"2026-11-17T15:00:00Z","tags":["startup","funding","ai","travel"]},
-    {"id":"browns-snf-flex-1117","category":"browns","title":"Browns-Raiders game flexed to Sunday Night Football","summary":"The NFL flexed the Browns Week 12 game against the Las Vegas Raiders on Nov. 29 to Sunday Night Football, giving a 6-4 Cleveland team a rare prime-time spotlight after it rallied past Houston on Sunday.","source":"Touchdown Wire","url":"https://touchdownwire.usatoday.com/story/sports/nfl/2026/11/17/cleveland-browns-las-vegas-raiders-flexed-snf/92829851007/","publishedAt":"2026-11-17T19:17:00Z","tags":["browns","nfl","schedule","sunday night football"]},
-    {"id":"browns-daily-dawg-1117","category":"browns","title":"OBR: Browns fans embrace a winning season with guarded optimism","summary":"TheOBR daily roundup says Browns fans are enjoying a 6-4 start but staying guarded, noting Todd Monken is one of only seven Browns coaches to open 6-4 or better. It frames the fanbase cautious embrace of a rare winning season.","source":"Cleveland19 / TheOBR","url":"https://www.cleveland19.com/2026/11/17/cleveland-browns-news-rumors-111726-true-embrace/","publishedAt":"2026-11-17T13:28:00Z","tags":["browns","nfl","todd monken","fans"]},
-    {"id":"buckeyes-day-unflappable-1117","category":"buckeyes","title":"Ryan Day calls Luke Fahey pretty unflappable after first win","summary":"Ryan Day praised true freshman QB Luke Fahey as pretty unflappable ahead of the trip to Nebraska on Saturday, backing him as the starter despite fan calls for a change. Fahey won his first game as starter against Northwestern.","source":"Heavy.com","url":"https://heavy.com/sports/college-football/ohio-state-buckeyes/ohio-state-ryan-day-sends-2-word-message-qb-luke-fahey/","publishedAt":"2026-11-17T19:44:00Z","tags":["ohio state","ryan day","luke fahey","cfb"]},
-    {"id":"buckeyes-jackson-injury-1117","category":"buckeyes","title":"Jakoobi Jackson still not running, Day says return unclear","summary":"Ryan Day said running back Jakoobi Jackson is still week to week and has not started running since foot surgery, making a regular-season return unlikely. Bo Jackson has carried the load in his absence.","source":"A to Z Sports","url":"https://atozsports.com/college-football/ohio-state-buckeyes-news/ryan-day-injury-update-before-week-11-nebraska-cornhuskers-big-ten-game/","publishedAt":"2026-11-17T18:35:00Z","tags":["ohio state","injuries","running back","cfb"]},
-    {"id":"buckeyes-day-presser-1117","category":"buckeyes","title":"Day: Buckeyes still hopeful for College Football Playoff berth","summary":"Ryan Day said Ohio State remains in the College Football Playoff conversation, citing two road wins over top-15 teams, but acknowledged the Buckeyes need help. He said Jake Cook is definitely in the mix to start on the offensive line at Nebraska.","source":"Eleven Warriors","url":"https://www.elevenwarriors.com/ohio-state-football/2026/11/165516/presser-bullets-ryan-day-says-ohio-state-remains-hopeful-about-college-football-playoff-thought-luke-fahey-and-offensive-line-improved-against-northwestern","publishedAt":"2026-11-17T18:23:00Z","tags":["ohio state","ryan day","cfp","cfb"]},
-    {"id":"buckeyes-ol-siereveld-1117","category":"buckeyes","title":"Day locks in Siereveld at left tackle, Moore at right tackle","summary":"Ryan Day said Austin Siereveld will stay at left tackle and Ian Moore at right tackle, keeping the line that beat Northwestern. He added Jake Cook will keep playing, not just as the sixth lineman.","source":"Scarlet and Game","url":"https://scarletandgame.com/ryan-day-announces-starting-lineup-changes-to-ohio-state-s-offensive-line","publishedAt":"2026-11-17T17:43:00Z","tags":["ohio state","offensive line","austin siereveld","cfb"]},
-    {"id":"f1-hamilton-diversity-1117","category":"f1","title":"Hamilton: much still to do on F1 diversity","summary":"Lewis Hamilton said there is still much work to do on diversity in Formula 1, continuing his push for greater inclusion in a sport he argues remains far from where it should be.","source":"BBC Sport","url":"https://www.bbc.co.uk/sport/formula1/articles/c52e8kpnje42o","publishedAt":"2026-11-17T20:04:00Z","tags":["f1","lewis hamilton","diversity"]},
-    {"id":"f1-one-race-wonders-1117","category":"f1","title":"BBC looks back at Formula 1 one-race wonders","summary":"A BBC Sport feature revisits drivers who raced in Formula 1 just once, exploring what became of those who reached the sport pinnacle for a single grand prix.","source":"BBC Sport","url":"https://www.bbc.co.uk/sport/formula1/articles/cqp9dr4kedd3o","publishedAt":"2026-11-17T19:30:00Z","tags":["f1","history","drivers"]},
-    {"id":"tarkov-mobile-topdown-1117","category":"tarkov","title":"Tarkov mobile spin-off will be a top-down extraction shooter","summary":"Battlestate Games confirmed its upcoming Escape from Tarkov mobile spin-off will use a top-down view rather than first-person, a separate experience set in the same universe. An official reveal could come in 2027.","source":"gamer.org","url":"https://www.gamer.org/escape-from-tarkov-mobile-spin-off-top-down-gameplay/","publishedAt":"2026-11-17T14:30:00Z","tags":["tarkov","mobile","battlestate games","top-down"]},
-    {"id":"tarkov-pve-pvp-interview-1117","category":"tarkov","title":"Tarkov Nikita Buyanov: I want everybody to be happy on PvE vs PvP","summary":"Battlestate Games studio head Nikita Buyanov said about 60 percent of Tarkov players are on the PvE platform and pushed back on the idea that PvP is dying, saying the studio wants both audiences to be happy.","source":"Insider Gaming","url":"https://insider-gaming.com/interview-tarkov-head-on-pve-vs-pvp-debate/","publishedAt":"2026-11-17T13:00:00Z","tags":["tarkov","battlestate games","pve","pvp"]},
-    {"id":"local-estrella-tower-1117","category":"local","title":"Estrella Tower project gets final Downtown Commission approval","summary":"Columbus Business First reports the Downtown Commission gave final approval to the Estrella Tower development, with a rooftop pool and penthouses added to the concept.","source":"Columbus Business First","url":"https://www.bizjournals.com/columbus/news/2026/11/17/estrella-tower-final-approval-downtown-commission.html","publishedAt":"2026-11-17T19:22:00Z","tags":["columbus","development","downtown","real estate"]},
-    {"id":"local-council-lufthansa-1117","category":"local","title":"Columbus Council delays Lufthansa subsidy vote for Frankfurt flight","summary":"Columbus City Council voted 9-0 to strip $300,000 earmarked for Lufthansa from a One Columbus funding package, delaying a decision on subsidizing the city first direct flight to Europe. The move extends a dispute with Mayor Ginther over city investment authority.","source":"Columbus Dispatch","url":"https://www.dispatch.com/story/news/local/2026/11/17/council-puts-brakes-on-ginther-backed-german-flight-subsidy/92815921007/","publishedAt":"2026-11-17T15:00:00Z","tags":["columbus","city council","lufthansa","airport"]},
-    {"id":"local-juvenile-crash-1117","category":"local","title":"Juvenile injured in single-car crash in northeast Columbus","summary":"A juvenile was taken to the hospital after a single-car crash on the northeast side early Tuesday, according to 10TV.","source":"10TV","url":"https://www.10tv.com/article/news/local/juvenile-injured-in-single-car-crash-in-northeast-columbus-joyce-avenue/530-37c0fd85-2331-4897-b53c-60ccef06ef4c","publishedAt":"2026-11-17T11:00:00Z","tags":["columbus","traffic","accident","northeast side"]}
+    {
+      "id": "top-xi-putin-sanctions-20261118",
+      "category": "top",
+      "title": "Xi, Putin blast Western sanctions as Trump lands in China for APEC",
+      "summary": "China's Xi Jinping and Russia's Vladimir Putin used the APEC summit in Shenzhen to denounce Western sanctions, with Putin calling Western powers 'former hegemons,' as Donald Trump arrived for a three-way meeting.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/chinas-xi-calls-free-open-trade-apec-summit-2026-11-18/",
+      "publishedAt": "2026-11-18T11:00:00Z",
+      "tags": ["APEC", "China", "Russia", "trade"]
+    },
+    {
+      "id": "top-philippines-trade-20261118",
+      "category": "top",
+      "title": "Trump says US concluded a 'very big trade deal' with Philippines",
+      "summary": "Trump announced during a Manila state visit that the US had consummated 'the biggest trade deal we've ever made,' but Philippine officials said only an understanding on economic cooperation was reached and nothing was signed.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-says-us-has-concluded-very-big-trade-deal-with-philippines-2026-11-18/",
+      "publishedAt": "2026-11-18T10:30:00Z",
+      "tags": ["Trump", "Philippines", "trade"]
+    },
+    {
+      "id": "top-iran-kuwait-20261118",
+      "category": "top",
+      "title": "Iran fires on US air base in Kuwait after US strikes on Qeshm Island",
+      "summary": "Iran said it targeted US drone and missile sites in Kuwait overnight in retaliation for American strikes on Qeshm Island in the Strait of Hormuz, widening Tehran's attacks on Gulf neighbors.",
+      "source": "AP",
+      "url": "https://apnews.com/article/iran-us-kuwait-gulf-attacks-bahrain-b1f0b530cffe951e6fcc1e27b2e1af94",
+      "publishedAt": "2026-11-18T10:00:00Z",
+      "tags": ["Iran", "Kuwait", "Gulf", "military"]
+    },
+    {
+      "id": "top-xi-multipolar-20261118",
+      "category": "top",
+      "title": "Xi says Russia and China should 'lead' push to a multipolar world",
+      "summary": "At the APEC summit in Shenzhen, Xi Jinping said Beijing and Moscow should jointly lead the shift away from a US-dominated order, as the two leaders projected strategic alignment on trade and energy.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world",
+      "publishedAt": "2026-11-18T08:00:00Z",
+      "tags": ["China", "Russia", "geopolitics", "APEC"]
+    },
+    {
+      "id": "tech-anthropic-ipo-20261118",
+      "category": "tech",
+      "title": "Anthropic prices blockbuster IPO today; ANT begins trading Thursday",
+      "summary": "The Claude maker sets its final IPO price today (825M shares at $70-$78, up to ~$1.4T valuation) and starts trading on Nasdaq as ANT on Nov. 19, the biggest public test yet of the AI boom.",
+      "source": "RTÉ",
+      "url": "https://www.rte.ie/news/business/2026/1118/1599642-anthropic-set-to-price-ipo/",
+      "publishedAt": "2026-11-18T10:34:00Z",
+      "tags": ["Anthropic", "IPO", "AI", "Nasdaq"]
+    },
+    {
+      "id": "tech-entra-agent-id-20261118",
+      "category": "tech",
+      "title": "Microsoft Entra adds AI agent identity, passkeys and access controls at Ignite",
+      "summary": "Microsoft's Ignite 2026 identity updates extend Entra to AI agents, including ones Microsoft didn't build, adding agent identity, conditional access and an MCP firewall, mostly in preview.",
+      "source": "WindowsForum",
+      "url": "https://windowsforum.com/news/microsoft-entra-at-ignite-2026-ai-agent-identity-passkeys-and-conditional-access-previews.452914/",
+      "publishedAt": "2026-11-18T01:00:00Z",
+      "tags": ["Microsoft", "Ignite", "AI agents", "Entra"]
+    },
+    {
+      "id": "buckeyes-cfp-rankings-20261118",
+      "category": "buckeyes",
+      "title": "Ohio State climbs to No. 14 in latest CFP rankings",
+      "summary": "After five teams ranked ahead of them lost, the Buckeyes jumped six spots to No. 14 in Tuesday's College Football Playoff rankings, within striking distance of the final at-large berth with two weeks left.",
+      "source": "Buckeyes Wire",
+      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/11/17/ohio-state-football-cfp-rankings-third-release-favorable/92837179007/",
+      "publishedAt": "2026-11-18T03:07:00Z",
+      "tags": ["CFP", "rankings", "football"]
+    },
+    {
+      "id": "buckeyes-cfp-ap-20261118",
+      "category": "buckeyes",
+      "title": "Georgia stays No. 1; Ohio State jumps six spots to No. 14 in CFP rankings",
+      "summary": "The committee's third ranking kept Georgia on top and moved the 7-3 Buckeyes to No. 14 after their win over Northwestern, with Oregon at No. 13 standing between Ohio State and a playoff berth.",
+      "source": "AP",
+      "url": "https://apnews.com/article/college-football-playoff-rankings-3f917a59dd1f908edcd8e020bb57e5fe",
+      "publishedAt": "2026-11-18T02:00:00Z",
+      "tags": ["CFP", "rankings", "football"]
+    },
+    {
+      "id": "buckeyes-bubble-on3-20261118",
+      "category": "buckeyes",
+      "title": "Ohio State moves into CFP 'bubble territory' at No. 14",
+      "summary": "On3's breakdown: the Buckeyes still need help to crack the 12-team field, but wins over No. 15 Iowa and No. 8 Indiana keep their resume alive with two weeks to go.",
+      "source": "On3",
+      "url": "https://www.on3.com/teams/ohio-state-buckeyes/news/ohio-state-moves-into-bubble-territory-of-latest-college-football-playoff-rankings/",
+      "publishedAt": "2026-11-18T03:30:00Z",
+      "tags": ["CFP", "rankings", "football"]
+    },
+    {
+      "id": "f1-piastri-penalty-20261118",
+      "category": "f1",
+      "title": "Piastri set for 10-place grid penalty at Las Vegas GP",
+      "summary": "McLaren confirms Oscar Piastri will take a new internal combustion engine for Las Vegas, triggering a 10-place grid drop, while both McLarens get Mercedes' long-awaited ADUO turbo upgrade.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk",
+      "publishedAt": "2026-11-18T10:51:00Z",
+      "tags": ["McLaren", "Las Vegas GP", "grid penalty"]
+    },
+    {
+      "id": "f1-mercedes-aduo-20261118",
+      "category": "f1",
+      "title": "Mercedes to run upgraded turbo on Antonelli's car only in Vegas",
+      "summary": "Toto Wolff says the new ADUO turbo goes to Kimi Antonelli alone in Las Vegas; fitting it to George Russell would trigger a five-place penalty the team won't risk in his fight for P2.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/mercedes-aduo-upgrade-las-vegas-kimi-antonelli",
+      "publishedAt": "2026-11-18T09:09:00Z",
+      "tags": ["Mercedes", "Antonelli", "Las Vegas GP"]
+    },
+    {
+      "id": "f1-hamilton-fp1-20261118",
+      "category": "f1",
+      "title": "Hamilton to sit out Vegas FP1; Beganovic takes the Ferrari seat",
+      "summary": "Ferrari confirmed Dino Beganovic will drive Lewis Hamilton's car in Thursday's first practice in Las Vegas, while Bernie Ecclestone questioned whether Fred Vasseur is the right leader for the team.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1093004/f1-news-today-fred-vasseur-overwhelmed-ferrari-lewis-hamilton-replaced-las-vegas-gp/",
+      "publishedAt": "2026-11-18T07:30:00Z",
+      "tags": ["Ferrari", "Hamilton", "Las Vegas GP"]
+    },
+    {
+      "id": "f1-leclerc-vegas-20261118",
+      "category": "f1",
+      "title": "Leclerc expects a 'difficult' Las Vegas weekend for Ferrari",
+      "summary": "Charles Leclerc concedes Ferrari likely won't end its winless run since July in Las Vegas, citing cold temperatures, even as the team is well placed to seal second in the constructors' championship.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/charles-leclerc-ferrari-las-vegas-prospects-revealed",
+      "publishedAt": "2026-11-18T03:00:00Z",
+      "tags": ["Ferrari", "Leclerc", "Las Vegas GP"]
+    },
+    {
+      "id": "local-axios-population-20261118",
+      "category": "local",
+      "title": "Central Ohio may hit 3M residents later than forecast",
+      "summary": "New Mid-Ohio Regional Planning Commission projections put the 15-county region at 2.7M-3.04M people by 2050, up to 450,000 fewer than its last forecast, with local deaths expected to outpace births by 2040.",
+      "source": "Axios Columbus",
+      "url": "https://www.axios.com/local/columbus/2026/11/18/population-growth-projections-2050",
+      "publishedAt": "2026-11-18T11:45:00Z",
+      "tags": ["population", "MORPC", "Central Ohio"]
+    },
+    {
+      "id": "local-flock-deputy-20261118",
+      "category": "local",
+      "title": "Franklin County deputy suspended over Flock camera misuse",
+      "summary": "A Franklin County sheriff's deputy was suspended after allegedly misusing Flock license-plate camera data, NBC4 reports.",
+      "source": "NBC4",
+      "url": "https://www.nbc4i.com/news/local-news/franklin-county/franklin-county-deputy-suspended-over-flock-camera-misuse/",
+      "publishedAt": "2026-11-18T03:00:00Z",
+      "tags": ["Franklin County", "sheriff", "surveillance"]
+    },
+    {
+      "id": "local-osu-car-breakins-20261118",
+      "category": "local",
+      "title": "OSU-area student hit by repeat car break-ins questions police response",
+      "summary": "A student near North High Street says his and his girlfriend's cars were broken into three times in two months, and that police declined to act despite video and AirPods location data; he's taking the complaint to City Council.",
+      "source": "ABC6",
+      "url": "https://abc6onyourside.com/news/local/college-student-becomes-repeat-car-break-in-victim-in-columbus-questions-police-response-ohio-state-north-high-street-university-district-wright",
+      "publishedAt": "2026-11-18T02:52:00Z",
+      "tags": ["OSU", "crime", "University District"]
+    }
   ]
 }
