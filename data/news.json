@@ -1,201 +1,181 @@
 {
   "meta": {
-    "updatedAt": "2026-11-18T20:39:18Z",
+    "updatedAt": "2026-11-19T12:11:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 19
+    "count": 17
   },
   "stories": [
     {
-      "id": "top-apec-trump-xi-putin-shenzhen",
+      "id": "top-icj-myanmar-genocide-20261119",
       "category": "top",
-      "title": "Xi welcomes Trump to China ahead of trilateral with Putin",
-      "summary": "Trump landed in Shenzhen Wednesday and was greeted personally at the airport by Xi Jinping, with the two set for a historic Thursday trilateral expected to cover the Iran and Ukraine wars, trade, AI and nuclear weapons. Xi pledged to stand up against trade protectionism in pointed pre-summit speeches alongside Putin.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/chinas-xi-calls-free-open-trade-apec-summit-2026-11-18/",
-      "publishedAt": "2026-11-18T19:40:00Z",
-      "tags": ["trump", "china", "apec"]
+      "title": "UN's top court rules Myanmar committed genocide against Rohingya",
+      "summary": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya during its 2017 'clearance operations' - the first time an international court has found a state guilty of genocide. Gambia brought the case on behalf of the roughly 730,000 Rohingya displaced by the crackdown.",
+      "source": "Human Rights Watch",
+      "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-responsible-for-rohingya-genocide",
+      "publishedAt": "2026-11-19T11:30:00Z",
+      "tags": ["myanmar", "rohingya", "icj", "human-rights"]
     },
     {
-      "id": "top-board-of-peace-gaza-report",
+      "id": "top-israel-gaza-yellow-line-20261119",
       "category": "top",
-      "title": "White House Board of Peace faults Israel and Hamas for failure to end Gaza war",
-      "summary": "The body overseeing the US-backed ceasefire plan accused both sides of failing to meet their commitments in a 12-page report to the UN Security Council. It warns a ceasefire that delivers nothing visible cannot be sustained indefinitely, with the population of Gaza facing another winter in tents and rubble.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trumps-board-peace-faults-israel-hamas-failure-end-gaza-war-2026-11-18/",
-      "publishedAt": "2026-11-18T11:40:00Z",
-      "tags": ["gaza", "israel-hamas", "ceasefire"]
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "summary": "The Israeli military said a 'targeted' operation dismantled a 'terror tunnel' west of the Yellow Line marking the more than 60% of Gaza it occupies; Hamas called it a flagrant violation of the October 2025 ceasefire. Violence has continued for 13 months despite the truce.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cw8r7510degno",
+      "publishedAt": "2026-11-19T11:20:00Z",
+      "tags": ["israel", "gaza", "ceasefire", "hamas"]
     },
     {
-      "id": "top-ethiopia-eritrea-border-buildup",
+      "id": "top-trump-putin-xi-peace-declaration-20261119",
       "category": "top",
-      "title": "Ethiopia and Eritrea amass forces along border, heightening war fears",
-      "summary": "Conflict monitors and militia-linked sources say the build-up has brought the two armies within striking distance of each other, fuelling fears of outright war between the historic rivals. ACLED and the International Crisis Group are among those tracking the escalation.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/ethiopia-eritrea-amass-forces-along-border-heightening-war-fears-sources-say-2026-11-18/",
-      "publishedAt": "2026-11-18T11:35:00Z",
-      "tags": ["ethiopia", "eritrea", "africa"]
+      "title": "Trump, Putin and Xi issue 'declaration toward peace' after Shenzhen summit",
+      "summary": "The leaders ended an unprecedented 90-minute trilateral meeting on the sidelines of APEC with a four-point declaration: nuclear war can never be won, the UN should be reformed, refined petroleum supply should grow, and the ICC 'must not abuse its jurisdiction.' None of them spoke afterward, and deep differences over Ukraine, Iran and trade remain.",
+      "source": "Al-Monitor (Reuters)",
+      "url": "https://www.al-monitor.com/originals/2026/11/china-and-russia-release-peace-declaration-after-trump-xi-putin-meeting",
+      "publishedAt": "2026-11-19T10:00:00Z",
+      "tags": ["trump", "putin", "xi-jinping", "apec"]
     },
     {
-      "id": "top-eu-45bn-ukraine-loan",
+      "id": "top-senegal-migrant-boat-20261119",
       "category": "top",
-      "title": "EU proposes 45-billion-euro loan to Ukraine backed by joint debt",
-      "summary": "The European Commission unveiled the package - 25 billion euros for weapons and 20 billion for budget support - to cover two-thirds of the 70-billion-euro financing gap for 2027, with repayment contingent on Russia paying reparations. Von der Leyen said she is confident all 27 member states will back it.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/18/von-der-leyen-proposes-45bn-loan-to-ukraine-backed-by-joint-debt",
-      "publishedAt": "2026-11-18T10:43:00Z",
-      "tags": ["ukraine", "eu", "russia"]
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal",
+      "summary": "A boat carrying around 100 migrants sank off Senegal's coast with dozens missing; local media report at least four bodies recovered. It comes days after another deadly capsizing in Senegalese waters as Spain declares a migration emergency.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c58j484089ewo",
+      "publishedAt": "2026-11-19T09:00:00Z",
+      "tags": ["senegal", "migration", "africa"]
     },
     {
-      "id": "tech-gta6-review-embargo-99-metascore",
+      "id": "tech-anthropic-ipo-20261119",
       "category": "tech",
-      "title": "GTA 6 reviews land: 99 Metascore with 118 perfect scores",
-      "summary": "A day before its Nov 19 worldwide launch, the GTA 6 review embargo lifted with a record-tying 99 Metascore - level with Ocarina of Time for the highest ever - from 147 PS5 critic reviews, 118 of them perfect scores and zero mixed or negative.",
-      "source": "TechPowerUp",
-      "url": "https://www.techpowerup.com/354998/gta-6-review-roundup-99-on-metacritic-and-118-perfect-scores",
-      "publishedAt": "2026-11-18T19:50:00Z",
-      "tags": ["gaming", "gta-6", "rockstar"]
+      "title": "Anthropic raises $81.3bn in biggest IPO of all time",
+      "summary": "Anthropic raised $81.3bn in the largest initial public offering on record, topping SpaceX's $75bn June debut and valuing the five-year-old Claude maker around $1.5tn. It's the first US firm focused exclusively on AI to go public, instantly placing it among the most valuable companies in the world.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time",
+      "publishedAt": "2026-11-19T11:05:00Z",
+      "tags": ["anthropic", "ipo", "ai", "claude"]
     },
     {
-      "id": "tech-waymo-freeway-suspension",
+      "id": "tech-php-8-6-release-20261119",
       "category": "tech",
-      "title": "Waymo suspends freeway driving after California construction-zone ban",
-      "summary": "The California DMV ordered the driverless cars off state freeways over construction-zone incursions it called an imminent hazard, and the Alphabet unit has now pulled freeway rides across all of its markets. Its robotaxis continue operating on surface streets.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
-      "publishedAt": "2026-11-18T16:24:00Z",
-      "tags": ["waymo", "autonomous-vehicles", "regulation"]
+      "title": "PHP 8.6 releases today with partial function application and polling API",
+      "summary": "PHP 8.6 lands today with partial function application, a stopwatch-style Duration class, a native polling API and a new clamp() function, aiming at more expressive code and scalable I/O for event-loop libraries like ReactPHP. A separate critical PHP security release is also due Nov. 19.",
+      "source": "php.net",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "publishedAt": "2026-11-19T11:00:00Z",
+      "tags": ["php", "release", "open-source", "security"]
     },
     {
-      "id": "tech-nvidia-beat-anthropic-ipo",
+      "id": "tech-gta6-launch-20261119",
       "category": "tech",
-      "title": "Wall Street digests Nvidia beat as Anthropic IPO pricing nears",
-      "summary": "US stocks were mixed Wednesday as investors weighed a big Nvidia earnings beat - revenue up 103% to $115.8 billion - along with hawkish Fed minutes, with attention turning to the pricing of the Anthropic initial public offering as the next catalyst for the AI trade.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18/",
-      "publishedAt": "2026-11-18T10:40:00Z",
-      "tags": ["nvidia", "ai", "stock-market"]
+      "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
+      "summary": "Grand Theft Auto VI launched at midnight around the world, ending a 13-year wait between instalments and drawing strong early reviews. The release caps one of the longest and most closely watched development cycles in gaming.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait",
+      "publishedAt": "2026-11-19T10:00:00Z",
+      "tags": ["gta6", "gaming", "rockstar", "launch"]
     },
     {
-      "id": "tech-senators-ai-cyber-threats",
+      "id": "tech-ruby2shell-rce-20261119",
       "category": "tech",
-      "title": "Senators urge immediate White House action on AI-enabled cyber threats",
-      "summary": "Cantwell (D-WA) and Rounds (R-SD) warned AI czar Jay Clayton that AI is finding and exploiting software weaknesses faster than defenses can respond - citing PHP website flaws, rogue AI agents accessing bank accounts and breaches in Japan - and called for a coordinated national defensive-AI effort.",
-      "source": "Politico",
-      "url": "https://www.politico.com/news/2026/11/18/cyber-threats-infrastructure-congress-01172093",
-      "publishedAt": "2026-11-18T10:10:00Z",
-      "tags": ["ai", "cybersecurity", "congress"]
+      "title": "Ruby2ßhell: pre-authentication RCE disclosed in stock Rails",
+      "summary": "Researchers disclosed 'Ruby2ßhell' (GHSA-34m4-m9fh-gqp5), a one-byte heap overflow in Ruby's string case-conversion reachable without authentication in common Ruby web frameworks and self-hosted software. Fixes are in Ruby 3.3.14, 3.4.13 and 4.0.10; releases back to 2.4 are affected.",
+      "source": "Veria Labs",
+      "url": "https://verialabs.com/ruby2shell/",
+      "publishedAt": "2026-11-19T08:00:00Z",
+      "tags": ["ruby", "security", "rce", "rails"]
     },
     {
-      "id": "browns-kosar-one-year-after-transplant",
+      "id": "browns-raiders-flex-snf-20261119",
       "category": "browns",
-      "title": "Bernie Kosar celebrates one year after life-saving liver transplant",
-      "summary": "The Browns legend returned to University Hospitals with his doctors a year after his November 2025 liver transplant, sharing his recovery journey and celebrating how far he has come.",
-      "source": "Fox 8 Cleveland",
-      "url": "https://fox8.com/video/bernie-kosar-speaks-1-year-after-transplant/12383127/",
-      "publishedAt": "2026-11-18T16:01:00Z",
-      "tags": ["bernie-kosar", "browns", "cleveland"]
+      "title": "Browns' Nov. 29 home game vs. Raiders flexed to Sunday Night Football",
+      "summary": "Cleveland's Nov. 29 home game against the Raiders has been flexed into Sunday Night Football, a primetime reward for a surprise 6-4 start that has the Browns in the AFC playoff mix.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/11/browns-home-game-vs-the-raiders-on-nov-29-has-been-flexed-to-sunday-night-football.html",
+      "publishedAt": "2026-11-19T11:00:00Z",
+      "tags": ["browns", "nfl", "raiders", "flex-scheduling"]
     },
     {
-      "id": "browns-6-4-fraud-watch",
+      "id": "browns-watson-fans-divided-20261119",
       "category": "browns",
-      "title": "Fraud watch on the 6-4 Browns? Power rankings lean the other way",
-      "summary": "The Browns are the first team in NFL history to win six games in a season all by four points or fewer, and national media keeps asking if they are legit as the bye week begins - even as Fox jumps them to 13th in its power rankings and beat writers note that beating the Raiders would make a playoff berth a virtual lock.",
-      "source": "Cleveland 19",
-      "url": "https://www.cleveland19.com/2026/11/18/cleveland-browns-news-rumors-111826-define-your-terms/",
-      "publishedAt": "2026-11-18T13:30:00Z",
-      "tags": ["browns", "nfl", "power-rankings"]
+      "title": "Deshaun Watson keeps winning, but not all Browns fans are ready to forgive",
+      "summary": "Deshaun Watson has led the Browns to six wins this season, but Cleveland fans remain divided over his troubled past - and his long-term future with the team stays uncertain even as the wins pile up.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/11/deshaun-watson-keeps-winning-but-not-all-browns-fans-are-ready-to-forgive.html",
+      "publishedAt": "2026-11-19T10:00:00Z",
+      "tags": ["browns", "deshaun-watson", "nfl"]
     },
     {
-      "id": "browns-raiders-game-flexed-to-snf",
+      "id": "browns-texans-winners-losers-20261119",
       "category": "browns",
-      "title": "NFL flexes Browns-Raiders into Sunday Night Football",
-      "summary": "The league moved the Nov 29 home game against Las Vegas into the primetime slot - the first Browns regular-season game on Sunday Night Football since 2021. History is not on their side: Cleveland is 2-11 all-time on Sunday nights.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/138429/cleveland-browns-news-jared-verse-deshaun-watson-bernie-kosar",
-      "publishedAt": "2026-11-18T11:00:00Z",
-      "tags": ["browns", "snf", "raiders"]
+      "title": "Winners and losers from the Browns' 27-24 win over the Texans",
+      "summary": "Quinshon Judkins' second-half touchdown and a defensive turnaround powered Cleveland's comeback from 17-0 down against Houston; cleveland.com's breakdown flags what still needs fixing heading into the bye.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/11/winners-and-losers-from-the-browns-27-24-win-over-the-texans.html",
+      "publishedAt": "2026-11-19T03:00:00Z",
+      "tags": ["browns", "nfl", "week-10", "houston-texans"]
     },
     {
-      "id": "buckeyes-playoff-hopes-at-nebraska",
+      "id": "browns-bye-week-awards-20261119",
+      "category": "browns",
+      "title": "Browns bye week awards: best wins, boldest calls and biggest mysteries",
+      "summary": "At 6-4 and on a much-needed bye, the Browns hand out awards for the best wins, boldest coaching decisions and defensive turnaround behind the surprise season - plus the key concerns heading into the final stretch.",
+      "source": "cleveland.com",
+      "url": "https://www.cleveland.com/browns/2026/11/browns-bye-week-awards-best-wins-boldest-calls-and-biggest-mysteries.html",
+      "publishedAt": "2026-11-19T02:00:00Z",
+      "tags": ["browns", "nfl", "bye-week"]
+    },
+    {
+      "id": "buckeyes-cfp-rankings-no14-20261119",
       "category": "buckeyes",
-      "title": "No. 14 Buckeyes look to keep playoff hopes alive at Nebraska",
-      "summary": "Ohio State (7-3) visits Lincoln on Saturday needing wins over Nebraska and Michigan - plus help - to stay in the Big Ten title and CFP races. Ryan Day says his team needs help but knows there is a chance, while Nebraska coach Matt Rhule calls Jeremiah Smith undoubtedly the best player in football.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/ohio-state-looks-to-keep-playoff-hopes-alive-at-nebraska/",
-      "publishedAt": "2026-11-18T17:19:00Z",
-      "tags": ["ohio-state", "college-football", "cfp"]
+      "title": "Buckeyes move up six spots to No. 14 in CFP rankings ahead of Nebraska trip",
+      "summary": "Ohio State jumped from 20th to 14th in the College Football Playoff rankings after five teams above it lost, putting the Buckeyes back on the at-large bubble. They still need to climb three more spots, so a 2-0 finish - starting Saturday at Nebraska - is non-negotiable.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-moves-up-in-playoff-rankings-ahead-of-trip-to-nebraska/",
+      "publishedAt": "2026-11-19T02:10:00Z",
+      "tags": ["buckeyes", "cfp-rankings", "college-football-playoff", "nebraska"]
     },
     {
-      "id": "buckeyes-cfp-rooting-guide",
-      "category": "buckeyes",
-      "title": "Who Ohio State needs to lose to make the College Football Playoff",
-      "summary": "After the third CFP rankings of the season, the updated rooting guide breaks down which contenders the Buckeyes need to stumble over the final weeks to keep playoff hopes alive.",
-      "source": "Heavy",
-      "url": "https://heavy.com/sports/college-football/ohio-state-buckeyes/who-ohio-state-needs-lose-make-college-football-playoff/",
-      "publishedAt": "2026-11-18T11:35:00Z",
-      "tags": ["ohio-state", "cfp", "college-football"]
-    },
-    {
-      "id": "f1-crawford-vegas-fp1-alonso-out",
+      "id": "f1-hamilton-ferrari-trust-20261119",
       "category": "f1",
-      "title": "Alonso to miss Las Vegas FP1 as Aston Martin run Crawford at home",
-      "summary": "Aston Martin will put American reserve driver Jak Crawford in the AMR26 for first practice on the Vegas Strip - his first F1 session on home soil and fifth of the season - while Fernando Alonso sits the session out.",
-      "source": "GPblog",
-      "url": "https://www.gpblog.com/en/breaking-news/alonso-to-miss-las-vegas-fp1-as-aston-martin-announce-driver-change",
-      "publishedAt": "2026-11-18T18:31:00Z",
-      "tags": ["f1", "las-vegas", "aston-martin"]
+      "title": "Hamilton: No trust problem with Ferrari team",
+      "summary": "Lewis Hamilton says there are no trust issues at Ferrari and the team is 'super united,' despite two recent incidents in which he ignored a team call to pit for fresh tyres. The comments come as F1 heads toward the Las Vegas Grand Prix weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/formula1/articles/cr8683z1wdp2o",
+      "publishedAt": "2026-11-19T07:00:00Z",
+      "tags": ["f1", "lewis-hamilton", "ferrari"]
     },
     {
-      "id": "f1-ecclestone-hamilton-piastri-roundup",
-      "category": "f1",
-      "title": "Ecclestone urges Hamilton to consider retirement; Piastri penalty to be confirmed",
-      "summary": "Bernie Ecclestone says it is too late for Hamilton to change how Ferrari operates and the 41-year-old should think about quitting, while the FIA is expected to ratify the 10-place Las Vegas grid penalty for Oscar Piastri during Thursday practice.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/fia-lewis-hamilton-las-vegas-grand-prix-2026-penalty-retire",
-      "publishedAt": "2026-11-18T18:02:00Z",
-      "tags": ["f1", "lewis-hamilton", "las-vegas"]
-    },
-    {
-      "id": "f1-whoop-official-partnership",
-      "category": "f1",
-      "title": "Formula 1 and WHOOP announce landmark partnership",
-      "summary": "The health-wearable company becomes an F1 Official Partner in a multi-year deal to weave driver biometrics into broadcast storytelling for fans. WHOOP will also back F1 ACADEMY efforts to develop female talent in motorsport.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/formula-1-and-whoop-announce-landmark-partnership-to-bring-fans-closer-to-the-human-side-of-racing.1YTsprVRx7MPlaDJnniexm",
-      "publishedAt": "2026-11-18T17:07:00Z",
-      "tags": ["f1", "whoop", "partnership"]
-    },
-    {
-      "id": "f1-piastri-ten-place-grid-penalty",
-      "category": "f1",
-      "title": "Piastri set for 10-place grid penalty at Las Vegas GP",
-      "summary": "A reliability issue forces a fifth internal combustion engine of the season on the McLaren driver, triggering a 10-place grid drop for the race. McLaren hopes the overtaking spots on the Strip - plus a new floor and the upgraded Mercedes turbo - can rescue the weekend.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk",
-      "publishedAt": "2026-11-18T10:51:00Z",
-      "tags": ["f1", "oscar-piastri", "las-vegas"]
-    },
-    {
-      "id": "local-ohio-concealed-carry-18",
+      "id": "local-columbus-teen-crash-death-20261119",
       "category": "local",
-      "title": "Ohio House weighs concealed carry at 18 - no permit, no training",
-      "summary": "SB 278 would lower the Ohio permitless-carry age from 21 to 18, allow loaded guns in vehicles, ease sawed-off shotgun and silencer rules, and let citizens sue cities over local gun laws for punitive damages. The lame-duck vote comes before Gov.-elect Amy Acton takes office in January.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/politics/state/2026/11/18/ohio-may-let-18-year-olds-carry-concealed-weapon-without-training/92824266007/",
-      "publishedAt": "2026-11-18T18:36:00Z",
-      "tags": ["ohio", "gun-policy", "statehouse"]
+      "title": "13-year-old driver dies after northeast Columbus crash",
+      "summary": "Columbus police say 13-year-old Bobby Summerall III has died from injuries suffered when the Hyundai Sonata he was driving struck a tree on Joyce Avenue early Tuesday. Two juveniles reportedly fled the scene, and the Accident Investigation Unit probe continues.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/13-year-old-driver-of-vehicle-dies-after-northeast-columbus-crash/",
+      "publishedAt": "2026-11-19T11:15:00Z",
+      "tags": ["columbus", "crash", "police"]
     },
     {
-      "id": "local-columbus-forecast-sunny-then-rain",
+      "id": "local-russo-secretary-of-state-20261119",
       "category": "local",
-      "title": "Sunny and dry through Saturday; rain likely late Sunday",
-      "summary": "Central Ohio stays sunny with highs climbing from 58 today to the mid-60s by Friday and Saturday, before a cold front brings rain late Sunday and knocks Thanksgiving week back into the 40s.",
-      "source": "ABC 6 Columbus",
-      "url": "https://abc6onyourside.com/news/local/columbus-weather-sunny-dry-days-through-saturday-rain-likely-late-sunday",
-      "publishedAt": "2026-11-18T10:49:00Z",
-      "tags": ["columbus", "weather", "forecast"]
+      "title": "Russo to prioritize voter outreach as Ohio's next secretary of state",
+      "summary": "Columbus-area Democrat Allison Russo, Ohio's incoming secretary of state, says voter outreach will be a top priority for the office once she takes over in January.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/politics/allison-russo-to-prioritize-voter-outreach-as-ohios-next-secretary-of-state/",
+      "publishedAt": "2026-11-19T11:00:00Z",
+      "tags": ["ohio", "allison-russo", "secretary-of-state", "politics"]
+    },
+    {
+      "id": "local-acton-rural-ohio-20261119",
+      "category": "local",
+      "title": "What Gov.-elect Amy Acton plans to change for rural Ohioans",
+      "summary": "Gov.-elect Amy Acton lays out what she plans to change for rural Ohioans in a new NBC4 interview - the latest transition step ahead of her Jan. 11 inauguration.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/politics/what-gov-elect-amy-acton-plans-to-change-for-rural-ohioans/",
+      "publishedAt": "2026-11-19T11:10:00Z",
+      "tags": ["ohio", "amy-acton", "governor", "transition"]
     }
   ]
 }
