@@ -1,181 +1,201 @@
 {
   "meta": {
-    "updatedAt": "2026-11-19T12:11:00Z",
+    "updatedAt": "2026-11-19T20:41:50Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 17
+    "count": 19
   },
   "stories": [
     {
-      "id": "top-icj-myanmar-genocide-20261119",
+      "id": "top-kushner-russia-nato-ukraine",
       "category": "top",
-      "title": "UN's top court rules Myanmar committed genocide against Rohingya",
-      "summary": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya during its 2017 'clearance operations' - the first time an international court has found a state guilty of genocide. Gambia brought the case on behalf of the roughly 730,000 Rohingya displaced by the crackdown.",
-      "source": "Human Rights Watch",
-      "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-responsible-for-rohingya-genocide",
-      "publishedAt": "2026-11-19T11:30:00Z",
-      "tags": ["myanmar", "rohingya", "icj", "human-rights"]
+      "title": "Russia 'comfortable' with NATO-like security guarantees for Ukraine, Trump envoy says",
+      "summary": "U.S. envoy Jared Kushner said in Berlin that Russia is 'comfortable' with NATO-like security guarantees for Ukraine as part of a deal to end the war, hours after Trump's first-ever trilateral talks with Putin in Shenzhen. The remarks came as U.S. envoys joined a Berlin meeting with Ukraine's Zelenskyy and more than 40 European leaders.",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/kushner-says-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-to-end-war-after-trump-talks-with-putin",
+      "publishedAt": "2026-11-19T18:32:00Z",
+      "tags": ["Ukraine", "Russia", "diplomacy"]
     },
     {
-      "id": "top-israel-gaza-yellow-line-20261119",
+      "id": "top-trump-xi-putin-shenzhen-summit",
       "category": "top",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "summary": "The Israeli military said a 'targeted' operation dismantled a 'terror tunnel' west of the Yellow Line marking the more than 60% of Gaza it occupies; Hamas called it a flagrant violation of the October 2025 ceasefire. Violence has continued for 13 months despite the truce.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cw8r7510degno",
-      "publishedAt": "2026-11-19T11:20:00Z",
-      "tags": ["israel", "gaza", "ceasefire", "hamas"]
+      "title": "Trump, Xi and Putin hold unprecedented Shenzhen summit, issue 'peace declaration' but achieve little",
+      "summary": "The first three-way meeting of the U.S., Chinese and Russian leaders ended after about 90 minutes with a symbolic declaration on UN reform, oil supplies and nuclear-risk dialogue, but no breakthroughs on Ukraine or Iran. Putin ruled out direct talks with Kyiv, and Trump left without taking reporters' questions.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
+      "publishedAt": "2026-11-19T17:18:00Z",
+      "tags": ["summit", "China", "Russia"]
     },
     {
-      "id": "top-trump-putin-xi-peace-declaration-20261119",
+      "id": "top-china-ai-chip-restrictions-fallout",
       "category": "top",
-      "title": "Trump, Putin and Xi issue 'declaration toward peace' after Shenzhen summit",
-      "summary": "The leaders ended an unprecedented 90-minute trilateral meeting on the sidelines of APEC with a four-point declaration: nuclear war can never be won, the UN should be reformed, refined petroleum supply should grow, and the ICC 'must not abuse its jurisdiction.' None of them spoke afterward, and deep differences over Ukraine, Iran and trade remain.",
-      "source": "Al-Monitor (Reuters)",
-      "url": "https://www.al-monitor.com/originals/2026/11/china-and-russia-release-peace-declaration-after-trump-xi-putin-meeting",
-      "publishedAt": "2026-11-19T10:00:00Z",
-      "tags": ["trump", "putin", "xi-jinping", "apec"]
+      "title": "Alibaba and Tencent brace for AI hits after US tightens Nvidia chip access",
+      "summary": "Chinese tech giants are warning that new U.S. rules restricting remote access to advanced chips will disrupt AI model training, with Tencent's president saying the curbs 'set everyone back in China.' A U.S. think tank estimated overseas data centers could have supplied roughly a third of China's AI compute by 2027.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/alibaba-ai-chip-china-us-nvidia-huang-922a7ccb3ee1b1336af112ace0e3b288",
+      "publishedAt": "2026-11-19T15:40:00Z",
+      "tags": ["China", "AI chips", "export controls"]
     },
     {
-      "id": "top-senegal-migrant-boat-20261119",
-      "category": "top",
-      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal",
-      "summary": "A boat carrying around 100 migrants sank off Senegal's coast with dozens missing; local media report at least four bodies recovered. It comes days after another deadly capsizing in Senegalese waters as Spain declares a migration emergency.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c58j484089ewo",
-      "publishedAt": "2026-11-19T09:00:00Z",
-      "tags": ["senegal", "migration", "africa"]
-    },
-    {
-      "id": "tech-anthropic-ipo-20261119",
+      "id": "tech-meta-muse-privacy-report",
       "category": "tech",
-      "title": "Anthropic raises $81.3bn in biggest IPO of all time",
-      "summary": "Anthropic raised $81.3bn in the largest initial public offering on record, topping SpaceX's $75bn June debut and valuing the five-year-old Claude maker around $1.5tn. It's the first US firm focused exclusively on AI to go public, instantly placing it among the most valuable companies in the world.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time",
-      "publishedAt": "2026-11-19T11:05:00Z",
-      "tags": ["anthropic", "ipo", "ai", "claude"]
+      "title": "Meta's Muse AI agent mixed up conversations and could be exposing private data, report says",
+      "summary": "Internal Meta posts reviewed by Reuters show employees flagged Muse surfacing other people's bank balances and reading encrypted Signal messages via Android push notifications, alongside possible cross-account context leaks. Meta calls the incidents isolated and says many were AI 'hallucinations.'",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "publishedAt": "2026-11-19T17:38:00Z",
+      "tags": ["Meta", "AI agents", "privacy"]
     },
     {
-      "id": "tech-php-8-6-release-20261119",
+      "id": "tech-anthropic-nasdaq-debut",
       "category": "tech",
-      "title": "PHP 8.6 releases today with partial function application and polling API",
-      "summary": "PHP 8.6 lands today with partial function application, a stopwatch-style Duration class, a native polling API and a new clamp() function, aiming at more expressive code and scalable I/O for event-loop libraries like ReactPHP. A separate critical PHP security release is also due Nov. 19.",
-      "source": "php.net",
-      "url": "https://www.php.net/releases/8.6/en.php",
-      "publishedAt": "2026-11-19T11:00:00Z",
-      "tags": ["php", "release", "open-source", "security"]
+      "title": "Anthropic jumps 34% in Nasdaq debut after record $81B IPO",
+      "summary": "Anthropic opened trading at $111.50, 34% above its $83 IPO price, valuing the Claude maker near $2 trillion after the biggest IPO on record, topping SpaceX. Shares slipped back under $100 by afternoon as the Nasdaq fell more than 1.5%.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+      "publishedAt": "2026-11-19T17:01:00Z",
+      "tags": ["Anthropic", "IPO", "AI"]
     },
     {
-      "id": "tech-gta6-launch-20261119",
+      "id": "tech-uk-tribunal-apple-encryption-order",
       "category": "tech",
-      "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
-      "summary": "Grand Theft Auto VI launched at midnight around the world, ending a 13-year wait between instalments and drawing strong early reviews. The release caps one of the longest and most closely watched development cycles in gaming.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait",
-      "publishedAt": "2026-11-19T10:00:00Z",
-      "tags": ["gta6", "gaming", "rockstar", "launch"]
+      "title": "UK tribunal forces Home Office to acknowledge secret Apple encryption order",
+      "summary": "An Investigatory Powers Tribunal ruled the UK government must confirm it served Apple a secret 'technical capability notice' demanding access to encrypted data, calling the secrecy claim 'fanciful.' Apple's challenge to the order can now largely proceed in open court.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/",
+      "publishedAt": "2026-11-19T14:06:00Z",
+      "tags": ["Apple", "encryption", "privacy", "UK"]
     },
     {
-      "id": "tech-ruby2shell-rce-20261119",
+      "id": "tech-tsmc-samsung-china-halt",
       "category": "tech",
-      "title": "Ruby2ßhell: pre-authentication RCE disclosed in stock Rails",
-      "summary": "Researchers disclosed 'Ruby2ßhell' (GHSA-34m4-m9fh-gqp5), a one-byte heap overflow in Ruby's string case-conversion reachable without authentication in common Ruby web frameworks and self-hosted software. Fixes are in Ruby 3.3.14, 3.4.13 and 4.0.10; releases back to 2.4 are affected.",
-      "source": "Veria Labs",
-      "url": "https://verialabs.com/ruby2shell/",
-      "publishedAt": "2026-11-19T08:00:00Z",
-      "tags": ["ruby", "security", "rce", "rails"]
+      "title": "TSMC and Samsung suspend some chip shipments to China under new US curbs",
+      "summary": "The world's two biggest foundries have halted some China shipments while applying for U.S. export licenses, after new rules took effect Thursday closing a loophole Chinese chip designers used to get advanced chips made. Chinese customers are largely restricted to older 28/40nm processes, and some smartphone chip orders are paused too.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/",
+      "publishedAt": "2026-11-19T13:45:00Z",
+      "tags": ["TSMC", "Samsung", "export controls"]
     },
     {
-      "id": "browns-raiders-flex-snf-20261119",
+      "id": "browns-bye-week-camaraderie-reading",
       "category": "browns",
-      "title": "Browns' Nov. 29 home game vs. Raiders flexed to Sunday Night Football",
-      "summary": "Cleveland's Nov. 29 home game against the Raiders has been flexed into Sunday Night Football, a primetime reward for a surprise 6-4 start that has the Browns in the AFC playoff mix.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/11/browns-home-game-vs-the-raiders-on-nov-29-has-been-flexed-to-sunday-night-football.html",
-      "publishedAt": "2026-11-19T11:00:00Z",
-      "tags": ["browns", "nfl", "raiders", "flex-scheduling"]
+      "title": "Browns build camaraderie by reading more than just the playbook",
+      "summary": "A Fox 8 feature on how the Browns are building team chemistry through shared reading beyond the playbook during their bye week. Cleveland returns to action Nov. 29 against the Raiders on Sunday Night Football.",
+      "source": "Fox 8 News",
+      "url": "https://fox8.com/news/cleveland-browns-build-camaraderie-by-reading-more-than-just-the-playbook/",
+      "publishedAt": "2026-11-19T17:35:00Z",
+      "tags": ["Cleveland Browns", "NFL", "bye week"]
     },
     {
-      "id": "browns-watson-fans-divided-20261119",
+      "id": "browns-sign-te-carsen-ryan",
       "category": "browns",
-      "title": "Deshaun Watson keeps winning, but not all Browns fans are ready to forgive",
-      "summary": "Deshaun Watson has led the Browns to six wins this season, but Cleveland fans remain divided over his troubled past - and his long-term future with the team stays uncertain even as the wins pile up.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/11/deshaun-watson-keeps-winning-but-not-all-browns-fans-are-ready-to-forgive.html",
-      "publishedAt": "2026-11-19T10:00:00Z",
-      "tags": ["browns", "deshaun-watson", "nfl"]
+      "title": "Browns re-sign rookie TE Carsen Ryan to the practice squad",
+      "summary": "Cleveland signed the seventh-round pick out of BYU back to the practice squad Thursday, two days after waiving him to open a roster spot. Ryan has appeared in nine games this season, almost entirely on special teams.",
+      "source": "ClevelandBrowns.com",
+      "url": "https://www.clevelandbrowns.com/news/browns-sign-te-carsen-ryan-to-the-practice-squad-x0701",
+      "publishedAt": "2026-11-19T15:51:00Z",
+      "tags": ["Cleveland Browns", "roster moves", "practice squad"]
     },
     {
-      "id": "browns-texans-winners-losers-20261119",
-      "category": "browns",
-      "title": "Winners and losers from the Browns' 27-24 win over the Texans",
-      "summary": "Quinshon Judkins' second-half touchdown and a defensive turnaround powered Cleveland's comeback from 17-0 down against Houston; cleveland.com's breakdown flags what still needs fixing heading into the bye.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/11/winners-and-losers-from-the-browns-27-24-win-over-the-texans.html",
-      "publishedAt": "2026-11-19T03:00:00Z",
-      "tags": ["browns", "nfl", "week-10", "houston-texans"]
-    },
-    {
-      "id": "browns-bye-week-awards-20261119",
-      "category": "browns",
-      "title": "Browns bye week awards: best wins, boldest calls and biggest mysteries",
-      "summary": "At 6-4 and on a much-needed bye, the Browns hand out awards for the best wins, boldest coaching decisions and defensive turnaround behind the surprise season - plus the key concerns heading into the final stretch.",
-      "source": "cleveland.com",
-      "url": "https://www.cleveland.com/browns/2026/11/browns-bye-week-awards-best-wins-boldest-calls-and-biggest-mysteries.html",
-      "publishedAt": "2026-11-19T02:00:00Z",
-      "tags": ["browns", "nfl", "bye-week"]
-    },
-    {
-      "id": "buckeyes-cfp-rankings-no14-20261119",
+      "id": "buckeyes-nebraska-ap-preview",
       "category": "buckeyes",
-      "title": "Buckeyes move up six spots to No. 14 in CFP rankings ahead of Nebraska trip",
-      "summary": "Ohio State jumped from 20th to 14th in the College Football Playoff rankings after five teams above it lost, putting the Buckeyes back on the at-large bubble. They still need to climb three more spots, so a 2-0 finish - starting Saturday at Nebraska - is non-negotiable.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-moves-up-in-playoff-rankings-ahead-of-trip-to-nebraska/",
-      "publishedAt": "2026-11-19T02:10:00Z",
-      "tags": ["buckeyes", "cfp-rankings", "college-football-playoff", "nebraska"]
+      "title": "No. 16 Ohio State 'getting back to basics' with playoff hopes revived before Nebraska",
+      "summary": "The Buckeyes (7-3, 5-2 Big Ten) rose six spots to No. 14 in the College Football Playoff rankings and suddenly have a live at-large path if they win at Nebraska and vs Michigan and get some upsets. Freshman QB Luke Fahey stays under center with Julian Sayin (elbow) out again.",
+      "source": "AP via Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/no-16-ohio-state-getting-192234250.html",
+      "publishedAt": "2026-11-19T19:22:00Z",
+      "tags": ["Ohio State", "College Football Playoff", "Nebraska"]
     },
     {
-      "id": "f1-hamilton-ferrari-trust-20261119",
+      "id": "buckeyes-nebraska-dispatch-predictions",
+      "category": "buckeyes",
+      "title": "Ohio State vs. Nebraska predictions: Are the Buckeyes on upset alert?",
+      "summary": "Dispatch writers pick Saturday's game in Lincoln, where 7-3 Ohio State is only a narrow favorite despite its rankings jump. A loss would end the Buckeyes' Big Ten title and playoff hopes.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/11/19/ohio-state-nebraska-football-predictions-final-score-osu-buckeyes/92813336007/",
+      "publishedAt": "2026-11-19T10:05:00Z",
+      "tags": ["Ohio State", "Nebraska", "predictions"]
+    },
+    {
+      "id": "f1-lawson-marko-red-bull",
       "category": "f1",
-      "title": "Hamilton: No trust problem with Ferrari team",
-      "summary": "Lewis Hamilton says there are no trust issues at Ferrari and the team is 'super united,' despite two recent incidents in which he ignored a team call to pit for fresh tyres. The comments come as F1 heads toward the Las Vegas Grand Prix weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/cr8683z1wdp2o",
-      "publishedAt": "2026-11-19T07:00:00Z",
-      "tags": ["f1", "lewis-hamilton", "ferrari"]
+      "title": "Liam Lawson 'grateful' Helmut Marko no longer calls the shots at Red Bull",
+      "summary": "The Racing Bulls driver said he is relieved the former Red Bull adviser no longer makes final driver decisions, after Marko opposed keeping him for 2027. Lawson sits on 89 points this season, best of the rest behind F1's big four teams.",
+      "source": "GPblog",
+      "url": "https://www.gpblog.com/en/news/liam-lawson-grateful-helmut-marko-doesnt-call-the-shots-anymore",
+      "publishedAt": "2026-11-19T19:00:00Z",
+      "tags": ["Formula 1", "Red Bull", "Liam Lawson"]
     },
     {
-      "id": "local-columbus-teen-crash-death-20261119",
-      "category": "local",
-      "title": "13-year-old driver dies after northeast Columbus crash",
-      "summary": "Columbus police say 13-year-old Bobby Summerall III has died from injuries suffered when the Hyundai Sonata he was driving struck a tree on Joyce Avenue early Tuesday. Two juveniles reportedly fled the scene, and the Accident Investigation Unit probe continues.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/13-year-old-driver-of-vehicle-dies-after-northeast-columbus-crash/",
-      "publishedAt": "2026-11-19T11:15:00Z",
-      "tags": ["columbus", "crash", "police"]
+      "id": "f1-haas-bearman-2027",
+      "category": "f1",
+      "title": "Haas confirms Bearman will stay for 2027 alongside Camara",
+      "summary": "Haas ended speculation over Oliver Bearman's future by confirming he remains for 2027, paired with rookie Rafael Camara. It resolves a week in which Bearman admitted the unsigned contract had become a mental burden.",
+      "source": "GPblog",
+      "url": "https://www.gpblog.com/en/breaking-news/haas-confirms-bearman-will-stay-for-2027-as-camaras-teammate",
+      "publishedAt": "2026-11-19T18:30:00Z",
+      "tags": ["Formula 1", "Haas", "driver market"]
     },
     {
-      "id": "local-russo-secretary-of-state-20261119",
-      "category": "local",
-      "title": "Russo to prioritize voter outreach as Ohio's next secretary of state",
-      "summary": "Columbus-area Democrat Allison Russo, Ohio's incoming secretary of state, says voter outreach will be a top priority for the office once she takes over in January.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/politics/allison-russo-to-prioritize-voter-outreach-as-ohios-next-secretary-of-state/",
-      "publishedAt": "2026-11-19T11:00:00Z",
-      "tags": ["ohio", "allison-russo", "secretary-of-state", "politics"]
+      "id": "f1-antonelli-piastri-vegas-penalties",
+      "category": "f1",
+      "title": "Antonelli takes five-place Vegas grid penalty as Piastri drops ten",
+      "summary": "World champion Kimi Antonelli will lose five grid places in Las Vegas after Mercedes fitted a sixth engine to his car, joining Oscar Piastri, who already faces a ten-place drop. Both penalties still need formal FIA confirmation ahead of Saturday's grid.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/grid-today-nov-19-antonelli-160000646.html",
+      "publishedAt": "2026-11-19T16:00:00Z",
+      "tags": ["Formula 1", "Las Vegas GP", "grid penalty"]
     },
     {
-      "id": "local-acton-rural-ohio-20261119",
+      "id": "f1-hamilton-movie-sequel",
+      "category": "f1",
+      "title": "Hamilton confirms work underway on F1 movie sequel",
+      "summary": "Lewis Hamilton told a Las Vegas fan forum that a sequel to 'F1: The Movie' is in development, with the seven-time champion again producing. He also recounted flying an F-16 at 9.5G and joked he told Tom Cruise he's 'ready for Top Gun 3.'",
+      "source": "GPblog",
+      "url": "https://www.gpblog.com/en/news/hamilton-reveals-big-f1-movie-sequel-news-in-las-vegas",
+      "publishedAt": "2026-11-19T15:15:00Z",
+      "tags": ["Formula 1", "Lewis Hamilton", "movies"]
+    },
+    {
+      "id": "tarkov-season-2-untar-control",
+      "category": "tarkov",
+      "title": "Tarkov Season 2 'UNTAR Control' modifiers revealed by Nikita Buyanov",
+      "summary": "Battlestate's studio head posted the full modifier list for December's Season 2: UN troops hostile to all Scavs, an insurance ban, restricted extracts and supply shortages, plus pickable quirks like phantom sounds and a 15% chance to drop magazines on reload. The flea market unlocks only after a global objective is completed.",
+      "source": "ixbt.games",
+      "url": "https://ixbt.games/en/news/2026/11/19/igroki-v-escape-from-tarkov-skoro-polucat-sizu-i-lisatsia-dostupa-k-nekotorym-vyxodam-nikita-buianov-pokazal-modifikatory-sezona-untar-control.html",
+      "publishedAt": "2026-11-19T18:00:00Z",
+      "tags": ["Escape from Tarkov", "Season 2", "Battlestate"]
+    },
+    {
+      "id": "tarkov-1-3-5-0-technical-patch",
+      "category": "tarkov",
+      "title": "Escape from Tarkov patch 1.3.5.0 to overhaul raid reconnection and loading",
+      "summary": "Battlestate's developer diary details patch 1.3.5.0's technical work: a redesigned resource-loading architecture, broader performance improvements, and a reconnect flow that drops players straight back into an interrupted raid without a main-menu detour. Stash and trading screens also get improved network-error handling.",
+      "source": "games.gg",
+      "url": "https://games.gg/news/escape-from-tarkov-1-3-5-0-technical-patch/",
+      "publishedAt": "2026-11-19T11:37:00Z",
+      "tags": ["Escape from Tarkov", "patch 1.3.5.0", "Battlestate"]
+    },
+    {
+      "id": "local-wildlights-columbus-zoo",
       "category": "local",
-      "title": "What Gov.-elect Amy Acton plans to change for rural Ohioans",
-      "summary": "Gov.-elect Amy Acton lays out what she plans to change for rural Ohioans in a new NBC4 interview - the latest transition step ahead of her Jan. 11 inauguration.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/politics/what-gov-elect-amy-acton-plans-to-change-for-rural-ohioans/",
-      "publishedAt": "2026-11-19T11:10:00Z",
-      "tags": ["ohio", "amy-acton", "governor", "transition"]
+      "title": "Wildlights returns to the Columbus Zoo for its 38th year",
+      "summary": "The Columbus Zoo's Wildlights opens Friday and runs through Jan. 3, adding new Starlight Safari and LEGO Bricktopia attractions to millions of LED lights, with train and carousel rides now included with admission. Zoo members get a first look at tonight's member night.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/entertainment/events/2026/11/19/wildlights-olumbus-zoo-times-dates-details-cost/92758921007/",
+      "publishedAt": "2026-11-19T10:02:00Z",
+      "tags": ["Columbus", "Columbus Zoo", "holidays"]
+    },
+    {
+      "id": "local-wanderlights-downtown",
+      "category": "local",
+      "title": "Wanderlights returns with 500,000 lights and free admission downtown",
+      "summary": "The free downtown light display links Columbus Commons, Bicentennial Park and the Lazarus Building with more than half a million lights from Friday through Feb. 14. December 'Wander Nights' add a holiday market, carousel rides and a free covered trolley.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/entertainment/events/2026/11/19/wanderlights-returns-with-500000-lights-and-free-admission/92798562007/",
+      "publishedAt": "2026-11-19T10:02:00Z",
+      "tags": ["Columbus", "downtown", "holidays"]
     }
   ]
 }
