@@ -1,201 +1,141 @@
 {
   "meta": {
-    "updatedAt": "2026-11-19T20:41:50Z",
+    "updatedAt": "2026-11-20T12:12:45Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 19
+    "count": 13
   },
   "stories": [
     {
-      "id": "top-kushner-russia-nato-ukraine",
+      "id": "n20-top-uk-eu-summit",
       "category": "top",
-      "title": "Russia 'comfortable' with NATO-like security guarantees for Ukraine, Trump envoy says",
-      "summary": "U.S. envoy Jared Kushner said in Berlin that Russia is 'comfortable' with NATO-like security guarantees for Ukraine as part of a deal to end the war, hours after Trump's first-ever trilateral talks with Putin in Shenzhen. The remarks came as U.S. envoys joined a Berlin meeting with Ukraine's Zelenskyy and more than 40 European leaders.",
-      "source": "PBS NewsHour (AP)",
-      "url": "https://www.pbs.org/newshour/world/kushner-says-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-to-end-war-after-trump-talks-with-putin",
-      "publishedAt": "2026-11-19T18:32:00Z",
-      "tags": ["Ukraine", "Russia", "diplomacy"]
+      "title": "UK and EU seal post-Brexit 'reset' deal at Brussels summit",
+      "summary": "The UK and EU concluded a reset deal covering a youth mobility scheme allowing 100,000 young people to live, work and study in each direction, closer agrifood trade rules and linked carbon markets. The divisive question of equal tuition fees for EU students in Britain was deferred to talks over the next six months.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal",
+      "publishedAt": "2026-11-20T11:45:00Z",
+      "tags": ["EU", "UK", "Brexit", "summit"]
     },
     {
-      "id": "top-trump-xi-putin-shenzhen-summit",
+      "id": "n20-top-stocks-losing-streak",
       "category": "top",
-      "title": "Trump, Xi and Putin hold unprecedented Shenzhen summit, issue 'peace declaration' but achieve little",
-      "summary": "The first three-way meeting of the U.S., Chinese and Russian leaders ended after about 90 minutes with a symbolic declaration on UN reform, oil supplies and nuclear-risk dialogue, but no breakthroughs on Ukraine or Iran. Putin ruled out direct talks with Kyiv, and Trump left without taking reporters' questions.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
-      "publishedAt": "2026-11-19T17:18:00Z",
-      "tags": ["summit", "China", "Russia"]
+      "title": "Global stocks head for longest losing streak since 2023 as AI trade unravels",
+      "summary": "A gauge of global equities fell for a seventh straight session, the longest run since 2023, with Anthropic dropping more than 7% Friday after its record IPO and chipmakers extending a 35% slide from their June peak. Gold fell below $3,600 as investors sought safety in bonds.",
+      "source": "Bloomberg (via swissinfo.ch)",
+      "url": "https://www.swissinfo.ch/eng/global-stocks-hit-longest-losing-run-since-2023%3A-markets-wrap/92410554",
+      "publishedAt": "2026-11-20T09:11:00Z",
+      "tags": ["markets", "stocks", "AI", "gold"]
     },
     {
-      "id": "top-china-ai-chip-restrictions-fallout",
+      "id": "n20-top-nike-f1",
       "category": "top",
-      "title": "Alibaba and Tencent brace for AI hits after US tightens Nvidia chip access",
-      "summary": "Chinese tech giants are warning that new U.S. rules restricting remote access to advanced chips will disrupt AI model training, with Tencent's president saying the curbs 'set everyone back in China.' A U.S. think tank estimated overseas data centers could have supplied roughly a third of China's AI compute by 2027.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/alibaba-ai-chip-china-us-nvidia-huang-922a7ccb3ee1b1336af112ace0e3b288",
-      "publishedAt": "2026-11-19T15:40:00Z",
-      "tags": ["China", "AI chips", "export controls"]
+      "title": "Nike signs long-term deal to become Formula 1's official apparel partner",
+      "summary": "Formula 1 announced a long-term global partnership with Nike, making it the series' official apparel and uniform supplier from 2027, replacing Puma, with support for the all-female F1 ACADEMY. A limited Nike x Las Vegas Grand Prix capsule collection launches Friday during the Vegas race weekend.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd",
+      "publishedAt": "2026-11-20T00:02:00Z",
+      "tags": ["Nike", "Formula 1", "business"]
     },
     {
-      "id": "tech-meta-muse-privacy-report",
+      "id": "n20-tech-cyber-director",
       "category": "tech",
-      "title": "Meta's Muse AI agent mixed up conversations and could be exposing private data, report says",
-      "summary": "Internal Meta posts reviewed by Reuters show employees flagged Muse surfacing other people's bank balances and reading encrypted Signal messages via Android push notifications, alongside possible cross-account context leaks. Meta calls the incidents isolated and says many were AI 'hallucinations.'",
+      "title": "US national cyber director Sean Cairncross stepping down",
+      "summary": "White House national cyber director Sean Cairncross is leaving the post, Axios reported, in an amicable split timed so a Senate-confirmed successor can be seated before Democrats take control of Congress in January. The departure comes amid a flurry of unexplained technical outages reported by US businesses.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "publishedAt": "2026-11-19T17:38:00Z",
-      "tags": ["Meta", "AI agents", "privacy"]
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "publishedAt": "2026-11-20T09:14:00Z",
+      "tags": ["cybersecurity", "White House", "policy"]
     },
     {
-      "id": "tech-anthropic-nasdaq-debut",
+      "id": "n20-tech-anthropic-ipo-takeaways",
       "category": "tech",
-      "title": "Anthropic jumps 34% in Nasdaq debut after record $81B IPO",
-      "summary": "Anthropic opened trading at $111.50, 34% above its $83 IPO price, valuing the Claude maker near $2 trillion after the biggest IPO on record, topping SpaceX. Shares slipped back under $100 by afternoon as the Nasdaq fell more than 1.5%.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-      "publishedAt": "2026-11-19T17:01:00Z",
+      "title": "Anthropic's record IPO: key takeaways and what's next for AI",
+      "summary": "The Claude maker's $81.3 billion IPO, the largest on record, priced at $83 and closed Thursday up 17% at $97.17, valuing Anthropic around $1.5 trillion. The historic debut failed to steady AI stocks, and shares slipped further in early Friday trading.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
+      "publishedAt": "2026-11-20T04:00:00Z",
       "tags": ["Anthropic", "IPO", "AI"]
     },
     {
-      "id": "tech-uk-tribunal-apple-encryption-order",
+      "id": "n20-tech-anthropic-founders",
       "category": "tech",
-      "title": "UK tribunal forces Home Office to acknowledge secret Apple encryption order",
-      "summary": "An Investigatory Powers Tribunal ruled the UK government must confirm it served Apple a secret 'technical capability notice' demanding access to encrypted data, calling the secrecy claim 'fanciful.' Apple's challenge to the order can now largely proceed in open court.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/",
-      "publishedAt": "2026-11-19T14:06:00Z",
-      "tags": ["Apple", "encryption", "privacy", "UK"]
+      "title": "Anthropic's seven founders cashed out nearly $2B in record IPO",
+      "summary": "The seven co-founders sold roughly $2 billion of stock in the Claude maker's record-breaking listing, TechCrunch reports. The IPO minted thousands of employee millionaires, while early backer Dustin Moskovitz said he felt uneasy about the windfall.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "publishedAt": "2026-11-20T03:05:00Z",
+      "tags": ["Anthropic", "IPO", "startups"]
     },
     {
-      "id": "tech-tsmc-samsung-china-halt",
-      "category": "tech",
-      "title": "TSMC and Samsung suspend some chip shipments to China under new US curbs",
-      "summary": "The world's two biggest foundries have halted some China shipments while applying for U.S. export licenses, after new rules took effect Thursday closing a loophole Chinese chip designers used to get advanced chips made. Chinese customers are largely restricted to older 28/40nm processes, and some smartphone chip orders are paused too.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/",
-      "publishedAt": "2026-11-19T13:45:00Z",
-      "tags": ["TSMC", "Samsung", "export controls"]
-    },
-    {
-      "id": "browns-bye-week-camaraderie-reading",
-      "category": "browns",
-      "title": "Browns build camaraderie by reading more than just the playbook",
-      "summary": "A Fox 8 feature on how the Browns are building team chemistry through shared reading beyond the playbook during their bye week. Cleveland returns to action Nov. 29 against the Raiders on Sunday Night Football.",
-      "source": "Fox 8 News",
-      "url": "https://fox8.com/news/cleveland-browns-build-camaraderie-by-reading-more-than-just-the-playbook/",
-      "publishedAt": "2026-11-19T17:35:00Z",
-      "tags": ["Cleveland Browns", "NFL", "bye week"]
-    },
-    {
-      "id": "browns-sign-te-carsen-ryan",
-      "category": "browns",
-      "title": "Browns re-sign rookie TE Carsen Ryan to the practice squad",
-      "summary": "Cleveland signed the seventh-round pick out of BYU back to the practice squad Thursday, two days after waiving him to open a roster spot. Ryan has appeared in nine games this season, almost entirely on special teams.",
-      "source": "ClevelandBrowns.com",
-      "url": "https://www.clevelandbrowns.com/news/browns-sign-te-carsen-ryan-to-the-practice-squad-x0701",
-      "publishedAt": "2026-11-19T15:51:00Z",
-      "tags": ["Cleveland Browns", "roster moves", "practice squad"]
-    },
-    {
-      "id": "buckeyes-nebraska-ap-preview",
+      "id": "n20-buckeyes-osu-nebraska-injuries",
       "category": "buckeyes",
-      "title": "No. 16 Ohio State 'getting back to basics' with playoff hopes revived before Nebraska",
-      "summary": "The Buckeyes (7-3, 5-2 Big Ten) rose six spots to No. 14 in the College Football Playoff rankings and suddenly have a live at-large path if they win at Nebraska and vs Michigan and get some upsets. Freshman QB Luke Fahey stays under center with Julian Sayin (elbow) out again.",
-      "source": "AP via Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/no-16-ohio-state-getting-192234250.html",
-      "publishedAt": "2026-11-19T19:22:00Z",
-      "tags": ["Ohio State", "College Football Playoff", "Nebraska"]
+      "title": "Sayin out again as Ohio State heads to Nebraska; Fahey set for third straight start",
+      "summary": "Ohio State's Thursday availability report lists quarterback Julian Sayin among seven Buckeyes ruled out for Saturday's game at Nebraska, meaning freshman Luke Fahey starts a third straight game. At 7-3 and No. 14 in the CFP rankings, Ohio State likely needs to win out, starting noon ET Saturday on FOX.",
+      "source": "cfbvibes",
+      "url": "https://cfbvibes.com/teams/ohio-state/injury-report/",
+      "publishedAt": "2026-11-20T05:00:00Z",
+      "tags": ["Ohio State", "injury report", "Nebraska", "Big Ten"]
     },
     {
-      "id": "buckeyes-nebraska-dispatch-predictions",
-      "category": "buckeyes",
-      "title": "Ohio State vs. Nebraska predictions: Are the Buckeyes on upset alert?",
-      "summary": "Dispatch writers pick Saturday's game in Lincoln, where 7-3 Ohio State is only a narrow favorite despite its rankings jump. A loss would end the Buckeyes' Big Ten title and playoff hopes.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/11/19/ohio-state-nebraska-football-predictions-final-score-osu-buckeyes/92813336007/",
-      "publishedAt": "2026-11-19T10:05:00Z",
-      "tags": ["Ohio State", "Nebraska", "predictions"]
-    },
-    {
-      "id": "f1-lawson-marko-red-bull",
+      "id": "n20-f1-teams-thursday",
       "category": "f1",
-      "title": "Liam Lawson 'grateful' Helmut Marko no longer calls the shots at Red Bull",
-      "summary": "The Racing Bulls driver said he is relieved the former Red Bull adviser no longer makes final driver decisions, after Marko opposed keeping him for 2027. Lawson sits on 89 points this season, best of the rest behind F1's big four teams.",
-      "source": "GPblog",
-      "url": "https://www.gpblog.com/en/news/liam-lawson-grateful-helmut-marko-doesnt-call-the-shots-anymore",
-      "publishedAt": "2026-11-19T19:00:00Z",
-      "tags": ["Formula 1", "Red Bull", "Liam Lawson"]
+      "title": "Grid penalties stack up after rain-hit opening day in Las Vegas",
+      "summary": "Kimi Antonelli's new internal combustion engine earns the Mercedes rookie a five-place grid drop for Sunday's race, adding to penalties already confirmed for Piastri, Sainz, Bearman and Stroll. Teams wrote off Thursday's wet sessions as offering little useful data with dry conditions forecast for Friday's running.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-thursday-in-las-vegas-2026.4jnMZFzCSpX9y63f0rmnQW",
+      "publishedAt": "2026-11-20T10:59:00Z",
+      "tags": ["F1", "Las Vegas GP", "grid penalties"]
     },
     {
-      "id": "f1-haas-bearman-2027",
+      "id": "n20-f1-verstappen-balance",
       "category": "f1",
-      "title": "Haas confirms Bearman will stay for 2027 alongside Camara",
-      "summary": "Haas ended speculation over Oliver Bearman's future by confirming he remains for 2027, paired with rookie Rafael Camara. It resolves a week in which Bearman admitted the unsigned contract had become a mental burden.",
-      "source": "GPblog",
-      "url": "https://www.gpblog.com/en/breaking-news/haas-confirms-bearman-will-stay-for-2027-as-camaras-teammate",
-      "publishedAt": "2026-11-19T18:30:00Z",
-      "tags": ["Formula 1", "Haas", "driver market"]
+      "title": "Red Bull working to fix Verstappen's balance issues after tricky Vegas practice",
+      "summary": "Max Verstappen managed only 13th in a damp FP2, reporting balance and energy-management problems as Red Bull's technical director admitted the team has work to do ahead of Friday practice and qualifying. Team mate Isack Hadjar was a more encouraging fourth.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/red-bull-working-to-understand-and-fix-verstappens-balance-issues-after-tricky-las-vegas-practice.2CbSLmEnwmgW8h0V1Ujr03",
+      "publishedAt": "2026-11-20T07:03:00Z",
+      "tags": ["F1", "Red Bull", "Verstappen", "Las Vegas GP"]
     },
     {
-      "id": "f1-antonelli-piastri-vegas-penalties",
+      "id": "n20-f1-fp2-russell",
       "category": "f1",
-      "title": "Antonelli takes five-place Vegas grid penalty as Piastri drops ten",
-      "summary": "World champion Kimi Antonelli will lose five grid places in Las Vegas after Mercedes fitted a sixth engine to his car, joining Oscar Piastri, who already faces a ten-place drop. Both penalties still need formal FIA confirmation ahead of Saturday's grid.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/grid-today-nov-19-antonelli-160000646.html",
-      "publishedAt": "2026-11-19T16:00:00Z",
-      "tags": ["Formula 1", "Las Vegas GP", "grid penalty"]
+      "title": "Russell tops wet second practice in Las Vegas; FP1 washout yields no lap times",
+      "summary": "George Russell set the pace in a rain-affected FP2 with a late 1:47.272, 0.071s clear of Alpine's Pierre Gasly, after the opening session produced no timed laps at all. Ferrari's Charles Leclerc was third as the track never fully dried.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc",
+      "publishedAt": "2026-11-20T05:17:00Z",
+      "tags": ["F1", "practice", "Mercedes", "Las Vegas GP"]
     },
     {
-      "id": "f1-hamilton-movie-sequel",
+      "id": "n20-f1-sainz-penalty",
       "category": "f1",
-      "title": "Hamilton confirms work underway on F1 movie sequel",
-      "summary": "Lewis Hamilton told a Las Vegas fan forum that a sequel to 'F1: The Movie' is in development, with the seven-time champion again producing. He also recounted flying an F-16 at 9.5G and joked he told Tom Cruise he's 'ready for Top Gun 3.'",
-      "source": "GPblog",
-      "url": "https://www.gpblog.com/en/news/hamilton-reveals-big-f1-movie-sequel-news-in-las-vegas",
-      "publishedAt": "2026-11-19T15:15:00Z",
-      "tags": ["Formula 1", "Lewis Hamilton", "movies"]
+      "title": "Sainz handed 10-place grid penalty for Las Vegas GP after turbo change",
+      "summary": "Williams fitted a fifth turbocharger to Carlos Sainz's car, exceeding his season allocation and triggering a 10-place grid drop. Oscar Piastri also faces 10 places lost for a new engine, while George Russell opted against Mercedes' upgraded turbo to avoid a penalty of his own.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/sainz-handed-grid-penalty-for-las-vegas-grand-prix-after-turbo-change.hKQ2ZkbOHVlu58FKLxMca",
+      "publishedAt": "2026-11-20T00:15:00Z",
+      "tags": ["F1", "Williams", "grid penalty", "Las Vegas GP"]
     },
     {
-      "id": "tarkov-season-2-untar-control",
-      "category": "tarkov",
-      "title": "Tarkov Season 2 'UNTAR Control' modifiers revealed by Nikita Buyanov",
-      "summary": "Battlestate's studio head posted the full modifier list for December's Season 2: UN troops hostile to all Scavs, an insurance ban, restricted extracts and supply shortages, plus pickable quirks like phantom sounds and a 15% chance to drop magazines on reload. The flea market unlocks only after a global objective is completed.",
-      "source": "ixbt.games",
-      "url": "https://ixbt.games/en/news/2026/11/19/igroki-v-escape-from-tarkov-skoro-polucat-sizu-i-lisatsia-dostupa-k-nekotorym-vyxodam-nikita-buianov-pokazal-modifikatory-sezona-untar-control.html",
-      "publishedAt": "2026-11-19T18:00:00Z",
-      "tags": ["Escape from Tarkov", "Season 2", "Battlestate"]
-    },
-    {
-      "id": "tarkov-1-3-5-0-technical-patch",
-      "category": "tarkov",
-      "title": "Escape from Tarkov patch 1.3.5.0 to overhaul raid reconnection and loading",
-      "summary": "Battlestate's developer diary details patch 1.3.5.0's technical work: a redesigned resource-loading architecture, broader performance improvements, and a reconnect flow that drops players straight back into an interrupted raid without a main-menu detour. Stash and trading screens also get improved network-error handling.",
-      "source": "games.gg",
-      "url": "https://games.gg/news/escape-from-tarkov-1-3-5-0-technical-patch/",
-      "publishedAt": "2026-11-19T11:37:00Z",
-      "tags": ["Escape from Tarkov", "patch 1.3.5.0", "Battlestate"]
-    },
-    {
-      "id": "local-wildlights-columbus-zoo",
+      "id": "n20-local-hockey-tonk",
       "category": "local",
-      "title": "Wildlights returns to the Columbus Zoo for its 38th year",
-      "summary": "The Columbus Zoo's Wildlights opens Friday and runs through Jan. 3, adding new Starlight Safari and LEGO Bricktopia attractions to millions of LED lights, with train and carousel rides now included with admission. Zoo members get a first look at tonight's member night.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/entertainment/events/2026/11/19/wildlights-olumbus-zoo-times-dates-details-cost/92758921007/",
-      "publishedAt": "2026-11-19T10:02:00Z",
-      "tags": ["Columbus", "Columbus Zoo", "holidays"]
+      "title": "Blue Jackets to host 'Hockey Tonk' country night Nov. 25 vs. Devils",
+      "summary": "The Columbus Blue Jackets announced a 'Hockey Tonk' themed night at Nationwide Arena for their Nov. 25 game against New Jersey, featuring live country music, mechanical bull rides and a country anthem performance from BELLES.",
+      "source": "ABC6 (WSYX)",
+      "url": "https://abc6onyourside.com/news/local/blue-jackets-host-hockey-tonk-night-with-country-music-and-fan-events-new-jersey-devils-nov-25-2026-cbj-jukebox-games",
+      "publishedAt": "2026-11-20T11:35:00Z",
+      "tags": ["Blue Jackets", "Columbus", "events"]
     },
     {
-      "id": "local-wanderlights-downtown",
+      "id": "n20-local-weekend-weather",
       "category": "local",
-      "title": "Wanderlights returns with 500,000 lights and free admission downtown",
-      "summary": "The free downtown light display links Columbus Commons, Bicentennial Park and the Lazarus Building with more than half a million lights from Friday through Feb. 14. December 'Wander Nights' add a holiday market, carousel rides and a free covered trolley.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/entertainment/events/2026/11/19/wanderlights-returns-with-500000-lights-and-free-admission/92798562007/",
-      "publishedAt": "2026-11-19T10:02:00Z",
-      "tags": ["Columbus", "downtown", "holidays"]
+      "title": "Sunny, mild weekend ahead for central Ohio before Sunday-night rain",
+      "summary": "Friday hits 67 under sunny skies with Saturday near 65, before a cold front brings scattered light rain Sunday night and a much cooler week. Highs drop to 49 Monday, with a chance of rain or snow showers returning by Thursday.",
+      "source": "ABC6 (WSYX)",
+      "url": "https://abc6onyourside.com/news/local/columbus-ohio-weather-forecast-beautiful-weekend-friday-saturday-sunday-november-20-2026-rain-sunday",
+      "publishedAt": "2026-11-20T10:00:00Z",
+      "tags": ["weather", "Columbus", "weekend"]
     }
   ]
 }
