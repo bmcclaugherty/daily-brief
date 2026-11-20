@@ -1,141 +1,131 @@
 {
   "meta": {
-    "updatedAt": "2026-11-20T12:12:45Z",
+    "updatedAt": "2026-11-20T21:40:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 13
+    "count": 12
   },
   "stories": [
     {
-      "id": "n20-top-uk-eu-summit",
+      "id": "trump-asia-trip-trade-deals-2026-11-20",
       "category": "top",
-      "title": "UK and EU seal post-Brexit 'reset' deal at Brussels summit",
-      "summary": "The UK and EU concluded a reset deal covering a youth mobility scheme allowing 100,000 young people to live, work and study in each direction, closer agrifood trade rules and linked carbon markets. The divisive question of equal tuition fees for EU students in Britain was deferred to talks over the next six months.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal",
-      "publishedAt": "2026-11-20T11:45:00Z",
-      "tags": ["EU", "UK", "Brexit", "summit"]
+      "title": "Trump touts Philippines and Thailand trade deals in first presser since Putin-Xi summit",
+      "summary": "President Donald Trump held his first news conference since returning from Asia, touting new trade agreements with the Philippines and Thailand and saying around 10 more deals could be announced soon. It was his first extended session with reporters since Thursday's unprecedented three-way meeting with Xi Jinping and Vladimir Putin in Shenzhen.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/f270901f-c85c-5564-a6c8-aceea5eade06",
+      "publishedAt": "2026-11-20T19:30:00Z",
+      "tags": ["Trump", "trade", "White House", "Asia"]
     },
     {
-      "id": "n20-top-stocks-losing-streak",
+      "id": "eu-uk-summit-joint-statement-2026-11-20",
       "category": "top",
-      "title": "Global stocks head for longest losing streak since 2023 as AI trade unravels",
-      "summary": "A gauge of global equities fell for a seventh straight session, the longest run since 2023, with Anthropic dropping more than 7% Friday after its record IPO and chipmakers extending a 35% slide from their June peak. Gold fell below $3,600 as investors sought safety in bonds.",
-      "source": "Bloomberg (via swissinfo.ch)",
-      "url": "https://www.swissinfo.ch/eng/global-stocks-hit-longest-losing-run-since-2023%3A-markets-wrap/92410554",
-      "publishedAt": "2026-11-20T09:11:00Z",
-      "tags": ["markets", "stocks", "AI", "gold"]
+      "title": "EU and UK agree 'reset' deal at second post-Brexit summit in Brussels",
+      "summary": "European Council President António Costa, Commission President Ursula von der Leyen and UK Prime Minister Andy Burnham met in Brussels today and adopted a joint statement, with the UK Treasury estimating the deal is worth about £17 billion (0.5% of GDP). It includes easier EU travel and work rights for Britons under 31, a linked carbon market and lower food-export costs, with an implementation Bill due in Parliament next week.",
+      "source": "consilium.europa.eu",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/joint-statement-eu-united-kingdom-summit-20-november-2026/",
+      "publishedAt": "2026-11-20T13:07:00Z",
+      "tags": ["EU", "United Kingdom", "Brexit", "diplomacy"]
     },
     {
-      "id": "n20-top-nike-f1",
-      "category": "top",
-      "title": "Nike signs long-term deal to become Formula 1's official apparel partner",
-      "summary": "Formula 1 announced a long-term global partnership with Nike, making it the series' official apparel and uniform supplier from 2027, replacing Puma, with support for the all-female F1 ACADEMY. A limited Nike x Las Vegas Grand Prix capsule collection launches Friday during the Vegas race weekend.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd",
-      "publishedAt": "2026-11-20T00:02:00Z",
-      "tags": ["Nike", "Formula 1", "business"]
-    },
-    {
-      "id": "n20-tech-cyber-director",
+      "id": "anthropic-riemann-hypothesis-claim-2026-11-20",
       "category": "tech",
-      "title": "US national cyber director Sean Cairncross stepping down",
-      "summary": "White House national cyber director Sean Cairncross is leaving the post, Axios reported, in an amicable split timed so a Senate-confirmed successor can be seated before Democrats take control of Congress in January. The departure comes amid a flurry of unexplained technical outages reported by US businesses.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-      "publishedAt": "2026-11-20T09:14:00Z",
-      "tags": ["cybersecurity", "White House", "policy"]
+      "title": "Anthropic employee's claimed proof of the Riemann Hypothesis blows up online",
+      "summary": "A researcher at AI lab Anthropic has posted what they describe as a general proof of the Riemann Hypothesis, one of math's most famous unsolved problems. The claim rocketed to the top of Hacker News with more than 800 points in roughly an hour, though it has yet to be publicly vetted by mathematicians.",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50574968",
+      "publishedAt": "2026-11-20T20:20:00Z",
+      "tags": ["Anthropic", "mathematics", "research", "Hacker News"]
     },
     {
-      "id": "n20-tech-anthropic-ipo-takeaways",
+      "id": "pragmatik-labs-5b-valuation-2026-11-20",
       "category": "tech",
-      "title": "Anthropic's record IPO: key takeaways and what's next for AI",
-      "summary": "The Claude maker's $81.3 billion IPO, the largest on record, priced at $83 and closed Thursday up 17% at $97.17, valuing Anthropic around $1.5 trillion. The historic debut failed to steady AI stocks, and shares slipped further in early Friday trading.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
-      "publishedAt": "2026-11-20T04:00:00Z",
-      "tags": ["Anthropic", "IPO", "AI"]
+      "title": "Ex-Alibaba AI chief's startup doubles valuation to $5B in three months",
+      "summary": "Pragmatik Labs, the Shanghai AI-agent startup founded by Junyang Lin after he left Alibaba's Qwen team, closed new funding at a $5 billion valuation, up from $2B in August, with investors including CDH Investments and Geely's parent, per Bloomberg. The speed of the jump shows how hot China's crowded AI-agent market has become.",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/",
+      "publishedAt": "2026-11-20T19:34:00Z",
+      "tags": ["AI", "funding", "China", "startups"]
     },
     {
-      "id": "n20-tech-anthropic-founders",
+      "id": "youtube-school-districts-settlement-2026-11-20",
       "category": "tech",
-      "title": "Anthropic's seven founders cashed out nearly $2B in record IPO",
-      "summary": "The seven co-founders sold roughly $2 billion of stock in the Claude maker's record-breaking listing, TechCrunch reports. The IPO minted thousands of employee millionaires, while early backer Dustin Moskovitz said he felt uneasy about the windfall.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "publishedAt": "2026-11-20T03:05:00Z",
-      "tags": ["Anthropic", "IPO", "startups"]
+      "title": "YouTube nears $3B settlement with US school districts over addiction claims",
+      "summary": "YouTube has reached an agreement in principle to pay roughly $3 billion to thousands of US school districts that accused it of designing an addictive platform that harmed students' mental health, sources told Reuters. A final deal could still be months away, but it would be the first big financial reckoning for social media's classroom harms.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/youtube-nears-3-billion-settlement-with-us-school-districts-over-addiction-2026-11-20/",
+      "publishedAt": "2026-11-20T19:30:00Z",
+      "tags": ["YouTube", "Google", "lawsuit", "mental health"]
     },
     {
-      "id": "n20-buckeyes-osu-nebraska-injuries",
+      "id": "browns-defense-bye-week-grades-2026-11-20",
+      "category": "browns",
+      "title": "Browns defense earns its bye-week grades: new faces, similar results",
+      "summary": "Dawgs By Nature's bye-week report card finds a defense that lost Myles Garrett and coordinator Jim Schwartz but still thrives, with Denzel Ward playing at an All-Pro level and Carson Schwesinger emerging as a top-10 linebacker. The run defense is the main thing to fix before the flexed Sunday-night date with the Raiders in Week 12.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/138502/grading-the-browns-defense-new-faces-similar-results-at-the-bye-week",
+      "publishedAt": "2026-11-20T12:50:00Z",
+      "tags": ["Cleveland Browns", "NFL", "bye week", "defense"]
+    },
+    {
+      "id": "osu-friday-skull-session-nebraska-2026-11-20",
       "category": "buckeyes",
-      "title": "Sayin out again as Ohio State heads to Nebraska; Fahey set for third straight start",
-      "summary": "Ohio State's Thursday availability report lists quarterback Julian Sayin among seven Buckeyes ruled out for Saturday's game at Nebraska, meaning freshman Luke Fahey starts a third straight game. At 7-3 and No. 14 in the CFP rankings, Ohio State likely needs to win out, starting noon ET Saturday on FOX.",
-      "source": "cfbvibes",
-      "url": "https://cfbvibes.com/teams/ohio-state/injury-report/",
-      "publishedAt": "2026-11-20T05:00:00Z",
-      "tags": ["Ohio State", "injury report", "Nebraska", "Big Ten"]
+      "title": "Friday Skull Session: Buckeyes prep for Nebraska with CFP hopes on the line",
+      "summary": "Eleven Warriors' Friday Skull Session sets up No. 14 Ohio State's trip to Nebraska, where the 6-4 Cornhuskers field the nation's No. 1 third-down defense and DC Rob Aurich calls Jeremiah Smith 'the LeBron James of college football receivers.' The Buckeyes (7-3) likely need to win out, starting with Saturday's noon game on FOX, to stay in the College Football Playoff race.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165568/skull-session-the-cornhuskers-once-struck-fear-in-the-hearts-of-opponents-nebraska-defensive-coordinator-rob-aurich",
+      "publishedAt": "2026-11-20T09:55:00Z",
+      "tags": ["Ohio State", "Nebraska", "college football", "Jeremiah Smith"]
     },
     {
-      "id": "n20-f1-teams-thursday",
+      "id": "f1-v8-engines-2030-agreement-2026-11-20",
       "category": "f1",
-      "title": "Grid penalties stack up after rain-hit opening day in Las Vegas",
-      "summary": "Kimi Antonelli's new internal combustion engine earns the Mercedes rookie a five-place grid drop for Sunday's race, adding to penalties already confirmed for Piastri, Sainz, Bearman and Stroll. Teams wrote off Thursday's wet sessions as offering little useful data with dry conditions forecast for Friday's running.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-thursday-in-las-vegas-2026.4jnMZFzCSpX9y63f0rmnQW",
-      "publishedAt": "2026-11-20T10:59:00Z",
-      "tags": ["F1", "Las Vegas GP", "grid penalties"]
+      "title": "F1 agrees to return to V8 turbo engines from 2030",
+      "summary": "The FIA, F1's commercial arm, the teams and every power-unit maker unanimously agreed on a framework to replace today's complex V6 hybrids with lighter, cheaper 2.1-litre turbocharged V8s running on sustainable fuels from 2030. Final rules go to the World Motor Sport Council in Shanghai next month, in the sport's biggest engine shake-up announced ahead of this weekend's Las Vegas GP.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/formula1/articles/cvj6l7nk611jo",
+      "publishedAt": "2026-11-20T20:15:00Z",
+      "tags": ["Formula 1", "FIA", "engines", "2030"]
     },
     {
-      "id": "n20-f1-verstappen-balance",
-      "category": "f1",
-      "title": "Red Bull working to fix Verstappen's balance issues after tricky Vegas practice",
-      "summary": "Max Verstappen managed only 13th in a damp FP2, reporting balance and energy-management problems as Red Bull's technical director admitted the team has work to do ahead of Friday practice and qualifying. Team mate Isack Hadjar was a more encouraging fourth.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/red-bull-working-to-understand-and-fix-verstappens-balance-issues-after-tricky-las-vegas-practice.2CbSLmEnwmgW8h0V1Ujr03",
-      "publishedAt": "2026-11-20T07:03:00Z",
-      "tags": ["F1", "Red Bull", "Verstappen", "Las Vegas GP"]
-    },
-    {
-      "id": "n20-f1-fp2-russell",
-      "category": "f1",
-      "title": "Russell tops wet second practice in Las Vegas; FP1 washout yields no lap times",
-      "summary": "George Russell set the pace in a rain-affected FP2 with a late 1:47.272, 0.071s clear of Alpine's Pierre Gasly, after the opening session produced no timed laps at all. Ferrari's Charles Leclerc was third as the track never fully dried.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc",
-      "publishedAt": "2026-11-20T05:17:00Z",
-      "tags": ["F1", "practice", "Mercedes", "Las Vegas GP"]
-    },
-    {
-      "id": "n20-f1-sainz-penalty",
-      "category": "f1",
-      "title": "Sainz handed 10-place grid penalty for Las Vegas GP after turbo change",
-      "summary": "Williams fitted a fifth turbocharger to Carlos Sainz's car, exceeding his season allocation and triggering a 10-place grid drop. Oscar Piastri also faces 10 places lost for a new engine, while George Russell opted against Mercedes' upgraded turbo to avoid a penalty of his own.",
-      "source": "formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/sainz-handed-grid-penalty-for-las-vegas-grand-prix-after-turbo-change.hKQ2ZkbOHVlu58FKLxMca",
-      "publishedAt": "2026-11-20T00:15:00Z",
-      "tags": ["F1", "Williams", "grid penalty", "Las Vegas GP"]
-    },
-    {
-      "id": "n20-local-hockey-tonk",
+      "id": "dicks-dublin-grand-opening-2026-11-20",
       "category": "local",
-      "title": "Blue Jackets to host 'Hockey Tonk' country night Nov. 25 vs. Devils",
-      "summary": "The Columbus Blue Jackets announced a 'Hockey Tonk' themed night at Nationwide Arena for their Nov. 25 game against New Jersey, featuring live country music, mechanical bull rides and a country anthem performance from BELLES.",
-      "source": "ABC6 (WSYX)",
-      "url": "https://abc6onyourside.com/news/local/blue-jackets-host-hockey-tonk-night-with-country-music-and-fan-events-new-jersey-devils-nov-25-2026-cbj-jukebox-games",
-      "publishedAt": "2026-11-20T11:35:00Z",
-      "tags": ["Blue Jackets", "Columbus", "events"]
+      "title": "DICK'S Sporting Goods cuts the ribbon on remodeled Dublin store",
+      "summary": "DICK'S Sporting Goods opens its remodeled Dublin store at 6111 Sawmill Road today with a three-day grand-opening bash featuring mystery gift cards for the first 100 adults daily, a golf hitting bay and a House of Cleats. Browns rookie wide receiver KC Concepcion signs autographs Sunday from noon to 1:30, with wristbands handed out from 9 a.m.",
+      "source": "ABC 6 (WSYX)",
+      "url": "https://abc6onyourside.com/news/local/dicks-sporting-goods-to-open-new-dublin-store-with-grand-opening-weekend-celebrations-kc-concepcion-corbin-carroll-arizona-cleveland-autograph-signing-ribbon-cutting-festivities-fans-gear-golf-hitting-bay-house-of-cleats-dj-grand-challenge-wristbands",
+      "publishedAt": "2026-11-20T16:29:00Z",
+      "tags": ["Dublin", "retail", "grand opening", "Cleveland Browns"]
     },
     {
-      "id": "n20-local-weekend-weather",
+      "id": "michael-brooks-arraignment-emily-foster-2026-11-20",
       "category": "local",
-      "title": "Sunny, mild weekend ahead for central Ohio before Sunday-night rain",
-      "summary": "Friday hits 67 under sunny skies with Saturday near 65, before a cold front brings scattered light rain Sunday night and a much cooler week. Highs drop to 49 Monday, with a chance of rain or snow showers returning by Thursday.",
-      "source": "ABC6 (WSYX)",
+      "title": "Man accused of killing Columbus journalist Emily Foster finally arraigned",
+      "summary": "Michael Brooks, accused of stabbing longtime journalist and former Ohio State communications leader Emily Foster to death in her University District home in September 2023, is being arraigned on a murder charge Friday, more than three years after the killing. Brooks had been released from jail just a day before Foster's death and fled to Georgia, where a homeowner captured him during a burglary attempt.",
+      "source": "ABC 6 (WSYX)",
+      "url": "https://abc6onyourside.com/news/local/man-accused-michael-brooks-killing-journalist-emily-foster-2023-finally-being-arraigned-murder-stabbing-university-district-luka-avenue-columbus-ohio-osu",
+      "publishedAt": "2026-11-20T14:24:00Z",
+      "tags": ["Columbus", "courts", "Emily Foster", "crime"]
+    },
+    {
+      "id": "crew-playoffs-inter-miami-preview-2026-11-20",
+      "category": "local",
+      "title": "Crew open playoff run Saturday at Messi's Inter Miami",
+      "summary": "Axios Columbus previews the Crew's MLS Cup playoff opener: a best-of-three series at defending champion Inter Miami beginning Saturday at 6 p.m. on Apple TV, with Game 2 next Friday in Columbus. Columbus rides a season-ending six-game winning streak against a Miami side that won just five of its final 17 regular-season matches, though sportsbooks still make Messi's team the heavy favorite.",
+      "source": "Axios Columbus",
+      "url": "https://www.axios.com/local/columbus/2026/11/20/columbus-crew-mls-playoffs-inter-miami-messi",
+      "publishedAt": "2026-11-20T13:30:00Z",
+      "tags": ["Columbus Crew", "MLS", "Lionel Messi", "playoffs"]
+    },
+    {
+      "id": "columbus-weekend-weather-forecast-2026-11-20",
+      "category": "local",
+      "title": "Columbus weather: sunny, mild weekend before a Sunday-night cold front",
+      "summary": "Central Ohio gets a mostly sunny, mild stretch through the weekend with highs in the mid-60s before a cold front brings light rain Sunday night and a much cooler week with highs in the 40s. Forecasters are also watching a midweek system that could bring rain or snow showers Wednesday night into Thanksgiving.",
+      "source": "ABC 6 (WSYX)",
       "url": "https://abc6onyourside.com/news/local/columbus-ohio-weather-forecast-beautiful-weekend-friday-saturday-sunday-november-20-2026-rain-sunday",
-      "publishedAt": "2026-11-20T10:00:00Z",
-      "tags": ["weather", "Columbus", "weekend"]
+      "publishedAt": "2026-11-20T10:57:00Z",
+      "tags": ["Columbus", "weather", "weekend", "Thanksgiving"]
     }
   ]
 }
