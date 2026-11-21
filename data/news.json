@@ -1,131 +1,281 @@
 {
   "meta": {
-    "updatedAt": "2026-11-20T21:40:00Z",
+    "updatedAt": "2026-11-21T12:13:12Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 18
   },
   "stories": [
     {
-      "id": "trump-asia-trip-trade-deals-2026-11-20",
+      "id": "top-kryvyi-rih-strike",
       "category": "top",
-      "title": "Trump touts Philippines and Thailand trade deals in first presser since Putin-Xi summit",
-      "summary": "President Donald Trump held his first news conference since returning from Asia, touting new trade agreements with the Philippines and Thailand and saying around 10 more deals could be announced soon. It was his first extended session with reporters since Thursday's unprecedented three-way meeting with Xi Jinping and Vladimir Putin in Shenzhen.",
+      "title": "Russian ballistic missile strike on Zelenskyy's hometown of Kryvyi Rih kills 2, wounds 60",
+      "summary": "A Russian ballistic missile hit the center of Kryvyi Rih, President Zelenskyy's hometown, on Friday night, killing a 7-year-old boy and a 20-year-old woman and wounding about 60 people, including children. The strike damaged buildings, started several fires and forced an overnight relief center for residents.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef",
+      "publishedAt": "2026-11-21T11:25:00Z",
+      "tags": [
+        "ukraine",
+        "russia",
+        "kryvyi-rih",
+        "missile-strike"
+      ]
+    },
+    {
+      "id": "top-chapo-isidro-arrested",
+      "category": "top",
+      "title": "FBI Ten Most Wanted cartel boss El Chapo Isidro captured in Sinaloa raid",
+      "summary": "Mexican special forces captured Fausto Isidro Meza Flores, alias El Chapo Isidro, in Guasave, Sinaloa with US intelligence support; the FBI had a $5 million bounty on him. The raid set off gun battles, burning vehicles and highway blockades across the region, and two alleged accomplices were also detained.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/fbis-most-wanted-drug-lord-chapo-isidro-captured-mexico-12751085",
+      "publishedAt": "2026-11-21T10:35:00Z",
+      "tags": [
+        "mexico",
+        "sinaloa",
+        "fbi",
+        "cartel"
+      ]
+    },
+    {
+      "id": "top-cop31-deadlock",
+      "category": "top",
+      "title": "COP31 climate talks deadlocked as fossil-fuel fight pushes summit into overtime",
+      "summary": "Negotiations among nearly 200 countries in Antalya have slipped into overtime over a draft deal that no longer mentions fossil fuels, with countries split over carbon-capture language. Developing nations are also angry that a pledge to ramp adaptation funding to $120bn by 2035 was dropped from the text.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+      "publishedAt": "2026-11-21T07:31:05Z",
+      "tags": [
+        "cop31",
+        "climate",
+        "fossil-fuels",
+        "turkey"
+      ]
+    },
+    {
+      "id": "top-denmark-russia-plot",
+      "category": "top",
+      "title": "Denmark says it thwarted Russian plot to kill US-Ukrainian rapper Kyivstoner",
+      "summary": "Danish authorities say their security service stopped a Russian intelligence plot to assassinate US-Ukrainian rapper Kyivstoner near Copenhagen in September, and Denmark is expelling a Russian diplomat over the case - a fresh flashpoint in Europe's standoff with Moscow.",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604",
+      "publishedAt": "2026-11-21T06:11:05Z",
+      "tags": [
+        "denmark",
+        "russia",
+        "espionage",
+        "ukraine"
+      ]
+    },
+    {
+      "id": "tech-riemann-hypothesis",
+      "category": "tech",
+      "title": "Anthropic mathematician claims to have solved the Riemann hypothesis with Claude's help",
+      "summary": "Levent Alpoge, a mathematician at Anthropic, says he produced a Lean-verifiable proof of the Riemann hypothesis - the 167-year-old Millennium Prize problem - working alongside Claude. If verified, it would be the strongest evidence yet that AI can crack problems that resisted generations of mathematicians; the claim is lighting up math circles and Hacker News.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/f270901f-c85c-5564-a6c8-aceea5eade06",
-      "publishedAt": "2026-11-20T19:30:00Z",
-      "tags": ["Trump", "trade", "White House", "Asia"]
+      "url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+      "publishedAt": "2026-11-21T00:20:00Z",
+      "tags": [
+        "ai",
+        "anthropic",
+        "mathematics",
+        "claude"
+      ]
     },
     {
-      "id": "eu-uk-summit-joint-statement-2026-11-20",
-      "category": "top",
-      "title": "EU and UK agree 'reset' deal at second post-Brexit summit in Brussels",
-      "summary": "European Council President António Costa, Commission President Ursula von der Leyen and UK Prime Minister Andy Burnham met in Brussels today and adopted a joint statement, with the UK Treasury estimating the deal is worth about £17 billion (0.5% of GDP). It includes easier EU travel and work rights for Britons under 31, a linked carbon market and lower food-export costs, with an implementation Bill due in Parliament next week.",
-      "source": "consilium.europa.eu",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/joint-statement-eu-united-kingdom-summit-20-november-2026/",
-      "publishedAt": "2026-11-20T13:07:00Z",
-      "tags": ["EU", "United Kingdom", "Brexit", "diplomacy"]
-    },
-    {
-      "id": "anthropic-riemann-hypothesis-claim-2026-11-20",
-      "category": "tech",
-      "title": "Anthropic employee's claimed proof of the Riemann Hypothesis blows up online",
-      "summary": "A researcher at AI lab Anthropic has posted what they describe as a general proof of the Riemann Hypothesis, one of math's most famous unsolved problems. The claim rocketed to the top of Hacker News with more than 800 points in roughly an hour, though it has yet to be publicly vetted by mathematicians.",
-      "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=50574968",
-      "publishedAt": "2026-11-20T20:20:00Z",
-      "tags": ["Anthropic", "mathematics", "research", "Hacker News"]
-    },
-    {
-      "id": "pragmatik-labs-5b-valuation-2026-11-20",
-      "category": "tech",
-      "title": "Ex-Alibaba AI chief's startup doubles valuation to $5B in three months",
-      "summary": "Pragmatik Labs, the Shanghai AI-agent startup founded by Junyang Lin after he left Alibaba's Qwen team, closed new funding at a $5 billion valuation, up from $2B in August, with investors including CDH Investments and Geely's parent, per Bloomberg. The speed of the jump shows how hot China's crowded AI-agent market has become.",
-      "source": "PYMNTS",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/",
-      "publishedAt": "2026-11-20T19:34:00Z",
-      "tags": ["AI", "funding", "China", "startups"]
-    },
-    {
-      "id": "youtube-school-districts-settlement-2026-11-20",
-      "category": "tech",
-      "title": "YouTube nears $3B settlement with US school districts over addiction claims",
-      "summary": "YouTube has reached an agreement in principle to pay roughly $3 billion to thousands of US school districts that accused it of designing an addictive platform that harmed students' mental health, sources told Reuters. A final deal could still be months away, but it would be the first big financial reckoning for social media's classroom harms.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/youtube-nears-3-billion-settlement-with-us-school-districts-over-addiction-2026-11-20/",
-      "publishedAt": "2026-11-20T19:30:00Z",
-      "tags": ["YouTube", "Google", "lawsuit", "mental health"]
-    },
-    {
-      "id": "browns-defense-bye-week-grades-2026-11-20",
+      "id": "browns-bye-week-dawg-chow",
       "category": "browns",
-      "title": "Browns defense earns its bye-week grades: new faces, similar results",
-      "summary": "Dawgs By Nature's bye-week report card finds a defense that lost Myles Garrett and coordinator Jim Schwartz but still thrives, with Denzel Ward playing at an All-Pro level and Carson Schwesinger emerging as a top-10 linebacker. The run defense is the main thing to fix before the flexed Sunday-night date with the Raiders in Week 12.",
+      "title": "Bye-weekend Dawg Chow: Browns sit at 6-4 with seven games to decide their season",
+      "summary": "Dawgs By Nature's Saturday roundup collects the week's best Browns reads heading into the bye: the Beacon Journal's seven players who will decide the playoff push, Terry Pluto's look at how Todd Monken became head coach, and Harold Fannin Jr.'s growth into a game captain. Next up: the Raiders on Sunday Night Football in Week 12.",
       "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/138502/grading-the-browns-defense-new-faces-similar-results-at-the-bye-week",
-      "publishedAt": "2026-11-20T12:50:00Z",
-      "tags": ["Cleveland Browns", "NFL", "bye week", "defense"]
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/138640/cleveland-browns-news-thom-darden-todd-monken-harold-fannin-kc-concepcion",
+      "publishedAt": "2026-11-21T11:30:00Z",
+      "tags": [
+        "browns",
+        "bye-week",
+        "playoffs",
+        "nfl"
+      ]
     },
     {
-      "id": "osu-friday-skull-session-nebraska-2026-11-20",
+      "id": "browns-watson-contract-question",
+      "category": "browns",
+      "title": "Browns commentator warns Deshaun Watson may want out after QB dodges extension question",
+      "summary": "With Watson driving Cleveland's 6-4 start, the quarterback brushed off a question about signing an extension - saying it is up to his agent - prompting a commentator to argue he cannot wait to get out of Cleveland. The contract decision now hangs over a surprise playoff push.",
+      "source": "College Sports Network",
+      "url": "https://collegefootballnetwork.com/nfl/browns-commentator-raises-alarm-over-deshaun-watsons-future/",
+      "publishedAt": "2026-11-21T07:44:40Z",
+      "tags": [
+        "browns",
+        "deshaun-watson",
+        "contract",
+        "nfl"
+      ]
+    },
+    {
+      "id": "buckeyes-nebraska-pick",
       "category": "buckeyes",
-      "title": "Friday Skull Session: Buckeyes prep for Nebraska with CFP hopes on the line",
-      "summary": "Eleven Warriors' Friday Skull Session sets up No. 14 Ohio State's trip to Nebraska, where the 6-4 Cornhuskers field the nation's No. 1 third-down defense and DC Rob Aurich calls Jeremiah Smith 'the LeBron James of college football receivers.' The Buckeyes (7-3) likely need to win out, starting with Saturday's noon game on FOX, to stay in the College Football Playoff race.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165568/skull-session-the-cornhuskers-once-struck-fear-in-the-hearts-of-opponents-nebraska-defensive-coordinator-rob-aurich",
-      "publishedAt": "2026-11-20T09:55:00Z",
-      "tags": ["Ohio State", "Nebraska", "college football", "Jeremiah Smith"]
+      "title": "Ohio State vs. Nebraska pick: Cornhuskers to cover as No. 14 Buckeyes visit Lincoln",
+      "summary": "Action Network's game-day breakdown likes Nebraska to cover a roughly 3-point home spread against Ohio State, which is 2-2 on the road this season, with the total around 41.5. It is the Buckeyes' final road game before The Game against Michigan on Nov. 28.",
+      "source": "Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/ohio-state-buckeyes-vs-nebraska-cornhuskers-prediction-pick-odds-college-football-saturday-november-21",
+      "publishedAt": "2026-11-21T10:06:00Z",
+      "tags": [
+        "buckeyes",
+        "nebraska",
+        "week-12",
+        "cfp"
+      ]
     },
     {
-      "id": "f1-v8-engines-2030-agreement-2026-11-20",
+      "id": "buckeyes-nebraska-live-blog",
+      "category": "buckeyes",
+      "title": "Ohio State at Nebraska: live updates as No. 14 Buckeyes try to keep CFP hopes alive",
+      "summary": "No. 14 Ohio State (7-3) visits Nebraska (6-4) at Memorial Stadium in Lincoln, with kickoff at noon ET on FOX. The Buckeyes sit three spots outside the projected College Football Playoff field, so every remaining game is effectively an elimination game.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/ohio-state-football-nebraska-live-100127962.html",
+      "publishedAt": "2026-11-21T10:01:27Z",
+      "tags": [
+        "buckeyes",
+        "nebraska",
+        "college-football",
+        "cfp"
+      ]
+    },
+    {
+      "id": "buckeyes-nebraska-how-to-watch",
+      "category": "buckeyes",
+      "title": "How to watch Ohio State at Nebraska: noon ET Saturday on FOX and FOX One",
+      "summary": "Game-day viewing guide: No. 14 Ohio State (7-3), fresh off a 28-19 win over Northwestern, faces Nebraska (6-4), which shut out Rutgers 31-0, at 12:00 p.m. ET on FOX - also streaming on FOX One.",
+      "source": "FOX Sports",
+      "url": "https://www.fox.com/sports/football/college-football/watch-ohio-state-buckeyes-vs-nebraska-cornhuskers-nov-21-2026",
+      "publishedAt": "2026-11-21T00:20:00Z",
+      "tags": [
+        "buckeyes",
+        "nebraska",
+        "how-to-watch",
+        "fox"
+      ]
+    },
+    {
+      "id": "f1-norris-mclaren-straights",
       "category": "f1",
-      "title": "F1 agrees to return to V8 turbo engines from 2030",
-      "summary": "The FIA, F1's commercial arm, the teams and every power-unit maker unanimously agreed on a framework to replace today's complex V6 hybrids with lighter, cheaper 2.1-litre turbocharged V8s running on sustainable fuels from 2030. Final rules go to the World Motor Sport Council in Shanghai next month, in the sport's biggest engine shake-up announced ahead of this weekend's Las Vegas GP.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/cvj6l7nk611jo",
-      "publishedAt": "2026-11-20T20:15:00Z",
-      "tags": ["Formula 1", "FIA", "engines", "2030"]
+      "title": "Lando Norris brands McLaren awful in the straight despite P3 on Las Vegas grid",
+      "summary": "Norris qualified third, 0.093s off inherited pole, but tore into McLaren's straight-line deficit - saying the car is shocking in the straights - noting Antonelli's slipstream was worth up to 16 km/h. McLaren trails Red Bull by 17 points in the constructors' fight with three rounds left.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-slams-mclaren-as-awful-in-the-straight-despite-third-on-las-vegas-gp-grid/10876306/",
+      "publishedAt": "2026-11-21T07:10:00Z",
+      "tags": [
+        "f1",
+        "las-vegas-gp",
+        "norris",
+        "mclaren"
+      ]
     },
     {
-      "id": "dicks-dublin-grand-opening-2026-11-20",
-      "category": "local",
-      "title": "DICK'S Sporting Goods cuts the ribbon on remodeled Dublin store",
-      "summary": "DICK'S Sporting Goods opens its remodeled Dublin store at 6111 Sawmill Road today with a three-day grand-opening bash featuring mystery gift cards for the first 100 adults daily, a golf hitting bay and a House of Cleats. Browns rookie wide receiver KC Concepcion signs autographs Sunday from noon to 1:30, with wristbands handed out from 9 a.m.",
-      "source": "ABC 6 (WSYX)",
-      "url": "https://abc6onyourside.com/news/local/dicks-sporting-goods-to-open-new-dublin-store-with-grand-opening-weekend-celebrations-kc-concepcion-corbin-carroll-arizona-cleveland-autograph-signing-ribbon-cutting-festivities-fans-gear-golf-hitting-bay-house-of-cleats-dj-grand-challenge-wristbands",
-      "publishedAt": "2026-11-20T16:29:00Z",
-      "tags": ["Dublin", "retail", "grand opening", "Cleveland Browns"]
+      "id": "f1-russell-verstappen-clash",
+      "category": "f1",
+      "title": "George Russell slams Verstappen after Las Vegas practice collision",
+      "summary": "Russell muscled past Verstappen after the Red Bull forced his way by in final practice, making side-on contact at Turn 14 and earning Verstappen a stewards' warning - Somebody's got to stand up to that guy, Russell said. The two will share the front row in Saturday night's race.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876300/",
+      "publishedAt": "2026-11-21T06:26:51Z",
+      "tags": [
+        "f1",
+        "las-vegas-gp",
+        "russell",
+        "verstappen"
+      ]
     },
     {
-      "id": "michael-brooks-arraignment-emily-foster-2026-11-20",
-      "category": "local",
-      "title": "Man accused of killing Columbus journalist Emily Foster finally arraigned",
-      "summary": "Michael Brooks, accused of stabbing longtime journalist and former Ohio State communications leader Emily Foster to death in her University District home in September 2023, is being arraigned on a murder charge Friday, more than three years after the killing. Brooks had been released from jail just a day before Foster's death and fled to Georgia, where a homeowner captured him during a burglary attempt.",
-      "source": "ABC 6 (WSYX)",
-      "url": "https://abc6onyourside.com/news/local/man-accused-michael-brooks-killing-journalist-emily-foster-2023-finally-being-arraigned-murder-stabbing-university-district-luka-avenue-columbus-ohio-osu",
-      "publishedAt": "2026-11-20T14:24:00Z",
-      "tags": ["Columbus", "courts", "Emily Foster", "crime"]
+      "id": "f1-russell-tops-fp3",
+      "category": "f1",
+      "title": "Russell tops final Las Vegas practice, seven tenths clear, before Verstappen flashpoint",
+      "summary": "In the only dry practice session of the weekend, Russell ended FP3 0.7s clear of Norris with a 1m34.041s lap on the slippery Strip circuit, then clashed with Verstappen at the end of the session in an incident noted by the stewards.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-tops-final-practice-after-max-verstappen-collision/10876181/",
+      "publishedAt": "2026-11-21T05:44:00Z",
+      "tags": [
+        "f1",
+        "las-vegas-gp",
+        "practice",
+        "mercedes"
+      ]
     },
     {
-      "id": "crew-playoffs-inter-miami-preview-2026-11-20",
-      "category": "local",
-      "title": "Crew open playoff run Saturday at Messi's Inter Miami",
-      "summary": "Axios Columbus previews the Crew's MLS Cup playoff opener: a best-of-three series at defending champion Inter Miami beginning Saturday at 6 p.m. on Apple TV, with Game 2 next Friday in Columbus. Columbus rides a season-ending six-game winning streak against a Miami side that won just five of its final 17 regular-season matches, though sportsbooks still make Messi's team the heavy favorite.",
-      "source": "Axios Columbus",
-      "url": "https://www.axios.com/local/columbus/2026/11/20/columbus-crew-mls-playoffs-inter-miami-messi",
-      "publishedAt": "2026-11-20T13:30:00Z",
-      "tags": ["Columbus Crew", "MLS", "Lionel Messi", "playoffs"]
+      "id": "f1-vegas-qualifying-verstappen-pole",
+      "category": "f1",
+      "title": "Antonelli fastest in Las Vegas qualifying, but Verstappen inherits pole; Ferraris out in Q2",
+      "summary": "Kimi Antonelli set the fastest time in Las Vegas qualifying (1m33.893s) for the eighth time this season, but a five-place engine penalty promotes Max Verstappen to pole, with Russell and Norris completing the top three. Lewis Hamilton and Charles Leclerc both failed to reach Q3.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-qualifying-report-10876231/10876231/",
+      "publishedAt": "2026-11-21T05:23:00Z",
+      "tags": [
+        "f1",
+        "las-vegas-gp",
+        "qualifying",
+        "antonelli"
+      ]
     },
     {
-      "id": "columbus-weekend-weather-forecast-2026-11-20",
+      "id": "local-nbc4-season-of-giving",
       "category": "local",
-      "title": "Columbus weather: sunny, mild weekend before a Sunday-night cold front",
-      "summary": "Central Ohio gets a mostly sunny, mild stretch through the weekend with highs in the mid-60s before a cold front brings light rain Sunday night and a much cooler week with highs in the 40s. Forecasters are also watching a midweek system that could bring rain or snow showers Wednesday night into Thanksgiving.",
-      "source": "ABC 6 (WSYX)",
-      "url": "https://abc6onyourside.com/news/local/columbus-ohio-weather-forecast-beautiful-weekend-friday-saturday-sunday-november-20-2026-rain-sunday",
-      "publishedAt": "2026-11-20T10:57:00Z",
-      "tags": ["Columbus", "weather", "weekend", "Thanksgiving"]
+      "title": "NBC4 Season of Giving launches: fill a holiday wish list for a central Ohio senior",
+      "summary": "NBC4's annual Season of Giving with Besa is underway, inviting residents to fill holiday wish lists for local seniors in need - a program that started with 26 seniors in 2012 and now serves hundreds across central Ohio.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/nbc4-season-of-giving-with-besa-fill-a-holiday-wish-list-for-a-central-ohio-senior/",
+      "publishedAt": "2026-11-21T11:34:00Z",
+      "tags": [
+        "columbus",
+        "holidays",
+        "community",
+        "seniors"
+      ]
+    },
+    {
+      "id": "local-dv-officer-training",
+      "category": "local",
+      "title": "Ohio officers start new regional domestic-violence training program",
+      "summary": "Law enforcement officers across Ohio have begun new regional domestic-violence training funded through the state Office of Criminal Justice Services, an effort to improve and standardize how departments respond to domestic-violence calls statewide.",
+      "source": "WSYX ABC 6",
+      "url": "https://abc6onyourside.com/news/local/law-enforcement-officers-dive-into-new-regional-domestic-violence-training-statewide-rea-associates-criminal-justice-funded-ohio-department-of-public-safety-office-of-criminal-justice-services-dublin-calls-deaths-cases-fatalities-odvn",
+      "publishedAt": "2026-11-21T11:29:00Z",
+      "tags": [
+        "ohio",
+        "law-enforcement",
+        "public-safety",
+        "training"
+      ]
+    },
+    {
+      "id": "local-cbj-hockey-tonk",
+      "category": "local",
+      "title": "Blue Jackets announce Hockey Tonk country night for Nov. 25 game vs. Devils",
+      "summary": "The Jackets Jukebox series gets a country twist: the Nov. 25 game against New Jersey at Nationwide Arena will feature live music from BELLES, a mechanical bull and themed entertainment around the arena.",
+      "source": "WSYX ABC 6",
+      "url": "https://abc6onyourside.com/news/local/blue-jackets-host-hockey-tonk-night-with-country-music-and-fan-events-new-jersey-devils-nov-25-2026-cbj-jukebox-games",
+      "publishedAt": "2026-11-21T11:06:00Z",
+      "tags": [
+        "columbus",
+        "blue-jackets",
+        "nhl",
+        "events"
+      ]
+    },
+    {
+      "id": "local-fantasy-of-lights",
+      "category": "local",
+      "title": "Butch Bando's Fantasy of Lights returns with 30+ new displays for year 10",
+      "summary": "The Central Ohio drive-through holiday light tradition is back with an expanded Blue Jackets display and a first-ever JEGS feature, celebrating 10 years of partnership with A Kid Again, which funds outings for families of children with serious illnesses.",
+      "source": "WSYX ABC 6",
+      "url": "https://abc6onyourside.com/news/local/butch-bandos-fantasy-of-lights-adds-new-displays-celebrates-10-years-with-a-kid-again-holiday-traditions-drive-thru-light-show-displays",
+      "publishedAt": "2026-11-21T07:06:00Z",
+      "tags": [
+        "columbus",
+        "holidays",
+        "events",
+        "family"
+      ]
     }
   ]
 }
