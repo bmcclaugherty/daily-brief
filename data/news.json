@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-21T12:13:12Z",
+    "updatedAt": "2026-11-21T20:37:10Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
@@ -8,273 +8,268 @@
   },
   "stories": [
     {
-      "id": "top-kryvyi-rih-strike",
+      "id": "top-20261121-el-chapo-isidro-capture",
       "category": "top",
-      "title": "Russian ballistic missile strike on Zelenskyy's hometown of Kryvyi Rih kills 2, wounds 60",
-      "summary": "A Russian ballistic missile hit the center of Kryvyi Rih, President Zelenskyy's hometown, on Friday night, killing a 7-year-old boy and a 20-year-old woman and wounding about 60 people, including children. The strike damaged buildings, started several fires and forced an overnight relief center for residents.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef",
-      "publishedAt": "2026-11-21T11:25:00Z",
+      "title": "FBI Top-10 cartel boss 'El Chapo Isidro' captured in Sinaloa raid that killed 11",
+      "summary": "Mexican forces captured Fausto Isidro Meza Flores, one of the FBI's 10 most-wanted fugitives, in a Friday-night raid in Guasave, Sinaloa, and flew him to Mexico City with two top lieutenants. The operation, aided by U.S. intelligence, killed four soldiers and seven suspected gunmen and set off burning roadblocks - and experts warn picking off capos could trigger another wave of faction violence.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
+      "publishedAt": "2026-11-21T19:58:00Z",
+      "tags": [
+        "mexico",
+        "cartel",
+        "fbi",
+        "sinaloa"
+      ]
+    },
+    {
+      "id": "top-20261121-kryvyi-rih-missile-strike",
+      "category": "top",
+      "title": "Ballistic missile attack on Zelenskyy's hometown Kryvyi Rih kills 2, wounds 60",
+      "summary": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown killed two people and wounded 60 others, local officials said Saturday. The attack added to uncertainty over Washington-brokered peace efforts and came hours after two Russian missiles and a suspected drone came down in Poland.",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
+      "publishedAt": "2026-11-21T17:30:00Z",
       "tags": [
         "ukraine",
         "russia",
         "kryvyi-rih",
-        "missile-strike"
+        "war"
       ]
     },
     {
-      "id": "top-chapo-isidro-arrested",
+      "id": "top-20261121-un-killer-robots-2028",
       "category": "top",
-      "title": "FBI Ten Most Wanted cartel boss El Chapo Isidro captured in Sinaloa raid",
-      "summary": "Mexican special forces captured Fausto Isidro Meza Flores, alias El Chapo Isidro, in Guasave, Sinaloa with US intelligence support; the FBI had a $5 million bounty on him. The raid set off gun battles, burning vehicles and highway blockades across the region, and two alleged accomplices were also detained.",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/fbis-most-wanted-drug-lord-chapo-isidro-captured-mexico-12751085",
-      "publishedAt": "2026-11-21T10:35:00Z",
+      "title": "UN talks end with softened pledge to draft 'killer robot' rules by 2028",
+      "summary": "Week-long UN talks in Geneva ended Saturday with only a softened pledge to develop rules for lethal autonomous weapons by 2028, after Russian opposition blocked binding commitments. Human-rights groups, who had wanted legally binding rules quickly, called the outcome deeply disappointing.",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/europe/un-talks-killer-robots-weapons-russia-b3089057.html",
+      "publishedAt": "2026-11-21T13:59:00Z",
       "tags": [
-        "mexico",
-        "sinaloa",
-        "fbi",
-        "cartel"
+        "un",
+        "geneva",
+        "autonomous-weapons",
+        "russia"
       ]
     },
     {
-      "id": "top-cop31-deadlock",
+      "id": "top-20261121-baltic-cargo-ship-drones",
       "category": "top",
-      "title": "COP31 climate talks deadlocked as fossil-fuel fight pushes summit into overtime",
-      "summary": "Negotiations among nearly 200 countries in Antalya have slipped into overtime over a draft deal that no longer mentions fossil fuels, with countries split over carbon-capture language. Developing nations are also angry that a pledge to ramp adaptation funding to $120bn by 2035 was dropped from the text.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-      "publishedAt": "2026-11-21T07:31:05Z",
+      "title": "Russian cargo ship ablaze in Baltic after drone strike; Finland tightens security",
+      "summary": "The Sparta II, a US-sanctioned Russian cargo ship with defence-industry links, was hit by drones in the Gulf of Finland on Saturday, caught fire and drifted into Finnish waters; Finland called it a likely Ukrainian attack and imposed temporary air and maritime restrictions. The 16-member crew evacuated safely - the latest sign of the Ukraine war spilling toward NATO territory.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/3fec1b0a85a0/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
+      "publishedAt": "2026-11-21T11:50:00Z",
       "tags": [
-        "cop31",
-        "climate",
-        "fossil-fuels",
-        "turkey"
+        "baltic",
+        "finland",
+        "ukraine",
+        "drones"
       ]
     },
     {
-      "id": "top-denmark-russia-plot",
-      "category": "top",
-      "title": "Denmark says it thwarted Russian plot to kill US-Ukrainian rapper Kyivstoner",
-      "summary": "Danish authorities say their security service stopped a Russian intelligence plot to assassinate US-Ukrainian rapper Kyivstoner near Copenhagen in September, and Denmark is expelling a Russian diplomat over the case - a fresh flashpoint in Europe's standoff with Moscow.",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604",
-      "publishedAt": "2026-11-21T06:11:05Z",
-      "tags": [
-        "denmark",
-        "russia",
-        "espionage",
-        "ukraine"
-      ]
-    },
-    {
-      "id": "tech-riemann-hypothesis",
+      "id": "tech-20261121-riemann-claude-verification",
       "category": "tech",
-      "title": "Anthropic mathematician claims to have solved the Riemann hypothesis with Claude's help",
-      "summary": "Levent Alpoge, a mathematician at Anthropic, says he produced a Lean-verifiable proof of the Riemann hypothesis - the 167-year-old Millennium Prize problem - working alongside Claude. If verified, it would be the strongest evidence yet that AI can crack problems that resisted generations of mathematicians; the claim is lighting up math circles and Hacker News.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-      "publishedAt": "2026-11-21T00:20:00Z",
+      "title": "Two groups verify mathematician's claim that Claude helped prove the Riemann hypothesis",
+      "summary": "Anthropic mathematician Levent Alpoege's claim that he proved the Riemann hypothesis - one of math's most famous open problems - with the help of Claude now has two independent verifications, the Guardian reports. Alpoege released the work Friday as roughly 17 million lines of formal Lean proof code, and independent checkers have now certified that it compiles and the headline theorems hold.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "publishedAt": "2026-11-21T17:30:00Z",
       "tags": [
         "ai",
-        "anthropic",
         "mathematics",
-        "claude"
+        "anthropic",
+        "riemann-hypothesis"
       ]
     },
     {
-      "id": "browns-bye-week-dawg-chow",
+      "id": "tech-20261121-inkling-2-mini-open-weights",
+      "category": "tech",
+      "title": "Thinking Machines opens weights of Inkling 2 Mini, a 26B model that runs on laptops",
+      "summary": "Thinking Machines released open weights for Inkling 2 Mini, a 26B-parameter looped mixture-of-experts model that reads text and images and is sized to run on laptops, with ready-made quantized builds from Unsloth. It makes private, offline AI prototyping practical - though no benchmarks or license details have been published yet.",
+      "source": "Magpie",
+      "url": "https://www.cameronsutcliff.com/magpie",
+      "publishedAt": "2026-11-21T11:33:00Z",
+      "tags": [
+        "open-weights",
+        "llm",
+        "thinking-machines",
+        "local-ai"
+      ]
+    },
+    {
+      "id": "tech-20261121-ai-stocks-correction",
+      "category": "tech",
+      "title": "The AI boom had a bad week - Nasdaq's worst since 2020, S&P and Dow in correction",
+      "summary": "AI stocks had their worst week since the COVID crash: the Nasdaq fell 10%, the S&P 500 and Dow entered correction territory, and Anthropic's IPO ended near its offer price, fueling fears of a bursting AI bubble. Because AI names now anchor index funds and retirement portfolios, a sustained unwind would ripple well beyond tech.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+      "publishedAt": "2026-11-21T10:00:00Z",
+      "tags": [
+        "ai",
+        "markets",
+        "nasdaq",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "browns-20261121-bye-week-table-scraps",
       "category": "browns",
-      "title": "Bye-weekend Dawg Chow: Browns sit at 6-4 with seven games to decide their season",
-      "summary": "Dawgs By Nature's Saturday roundup collects the week's best Browns reads heading into the bye: the Beacon Journal's seven players who will decide the playoff push, Terry Pluto's look at how Todd Monken became head coach, and Harold Fannin Jr.'s growth into a game captain. Next up: the Raiders on Sunday Night Football in Week 12.",
+      "title": "Browns bye-week roundup: Colts cut Daniel Jones, Drake Maye breaks leg",
+      "summary": "On Day 3 of the Browns' bye, the OBR newswire tracks the wild-card race around them: Indianapolis cut QB Daniel Jones 11 games into his $88 million deal (about $50M paid, $35.2M dead cap next year), and Drake Maye's broken leg hits 5-5 New England - the club directly ahead of Cleveland in the playoff standings. The Rams' first-round pick from the Myles Garrett trade also gains value as 6-4 Los Angeles faces a brutal closing schedule.",
+      "source": "cleveland19 | TheOBR",
+      "url": "https://www.cleveland19.com/2026/11/21/cleveland-browns-news-rumors-112126-table-scraps/",
+      "publishedAt": "2026-11-21T16:30:00Z",
+      "tags": [
+        "browns",
+        "nfl",
+        "bye-week",
+        "playoff-race"
+      ]
+    },
+    {
+      "id": "browns-20261121-saturday-dawg-chow",
+      "category": "browns",
+      "title": "Saturday Dawg Chow: a slow bye-week sports Saturday",
+      "summary": "With the Browns on their bye, the Saturday Dawg Chow rounds up the weekend's notes - including a franchise-history interview with former safety Thom Darden, who spent a decade making receivers think twice about crossing Cleveland's secondary.",
       "source": "Dawgs By Nature",
       "url": "https://www.dawgsbynature.com/cleveland-browns-news/138640/cleveland-browns-news-thom-darden-todd-monken-harold-fannin-kc-concepcion",
       "publishedAt": "2026-11-21T11:30:00Z",
       "tags": [
         "browns",
-        "bye-week",
-        "playoffs",
-        "nfl"
+        "history",
+        "bye-week"
       ]
     },
     {
-      "id": "browns-watson-contract-question",
-      "category": "browns",
-      "title": "Browns commentator warns Deshaun Watson may want out after QB dodges extension question",
-      "summary": "With Watson driving Cleveland's 6-4 start, the quarterback brushed off a question about signing an extension - saying it is up to his agent - prompting a commentator to argue he cannot wait to get out of Cleveland. The contract decision now hangs over a surprise playoff push.",
-      "source": "College Sports Network",
-      "url": "https://collegefootballnetwork.com/nfl/browns-commentator-raises-alarm-over-deshaun-watsons-future/",
-      "publishedAt": "2026-11-21T07:44:40Z",
-      "tags": [
-        "browns",
-        "deshaun-watson",
-        "contract",
-        "nfl"
-      ]
-    },
-    {
-      "id": "buckeyes-nebraska-pick",
+      "id": "buckeyes-20261121-smith-bigten-100yd-record",
       "category": "buckeyes",
-      "title": "Ohio State vs. Nebraska pick: Cornhuskers to cover as No. 14 Buckeyes visit Lincoln",
-      "summary": "Action Network's game-day breakdown likes Nebraska to cover a roughly 3-point home spread against Ohio State, which is 2-2 on the road this season, with the total around 41.5. It is the Buckeyes' final road game before The Game against Michigan on Nov. 28.",
-      "source": "Action Network",
-      "url": "https://www.actionnetwork.com/ncaaf/ohio-state-buckeyes-vs-nebraska-cornhuskers-prediction-pick-odds-college-football-saturday-november-21",
-      "publishedAt": "2026-11-21T10:06:00Z",
+      "title": "Jeremiah Smith sets Big Ten record with 18th career 100-yard game",
+      "summary": "Jeremiah Smith's first half at Nebraska - four catches for 117 yards and two touchdowns - was the 18th 100-yard receiving game of his career, breaking the Big Ten record he had shared with Michigan's Braylon Edwards and Purdue's David Bell. And he set the mark before halftime of a game the 7-3 Buckeyes need to keep their faint playoff hopes alive.",
+      "source": "Buckeyes Wire | USA TODAY",
+      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/11/21/jeremiah-smith-sets-big-ten-record-100-yard-games-buckeyes/92900244007/",
+      "publishedAt": "2026-11-21T19:43:00Z",
       "tags": [
-        "buckeyes",
-        "nebraska",
-        "week-12",
-        "cfp"
+        "ohio-state",
+        "jeremiah-smith",
+        "big-ten",
+        "nebraska"
       ]
     },
     {
-      "id": "buckeyes-nebraska-live-blog",
+      "id": "buckeyes-20261121-smith-ties-glenn-td-record",
       "category": "buckeyes",
-      "title": "Ohio State at Nebraska: live updates as No. 14 Buckeyes try to keep CFP hopes alive",
-      "summary": "No. 14 Ohio State (7-3) visits Nebraska (6-4) at Memorial Stadium in Lincoln, with kickoff at noon ET on FOX. The Buckeyes sit three spots outside the projected College Football Playoff field, so every remaining game is effectively an elimination game.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/ohio-state-football-nebraska-live-100127962.html",
-      "publishedAt": "2026-11-21T10:01:27Z",
+      "title": "Jeremiah Smith ties Terry Glenn's Ohio State single-season receiving TD record",
+      "summary": "Smith's second touchdown against Nebraska - a 31-yard catch at the back of the end zone - was his 17th receiving score of the season, tying Terry Glenn's 1995 Ohio State single-season record. He is now two short of Desmond Howard's Big Ten single-season mark of 19, with Michigan still on the schedule.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165603/jeremiah-smith-ties-terry-glenn-s-single-season-ohio-state-receiving-touchdowns-record",
+      "publishedAt": "2026-11-21T18:42:00Z",
       "tags": [
-        "buckeyes",
-        "nebraska",
-        "college-football",
-        "cfp"
+        "ohio-state",
+        "jeremiah-smith",
+        "records",
+        "nebraska"
       ]
     },
     {
-      "id": "buckeyes-nebraska-how-to-watch",
+      "id": "buckeyes-20261121-smith-67yd-opening-td",
       "category": "buckeyes",
-      "title": "How to watch Ohio State at Nebraska: noon ET Saturday on FOX and FOX One",
-      "summary": "Game-day viewing guide: No. 14 Ohio State (7-3), fresh off a 28-19 win over Northwestern, faces Nebraska (6-4), which shut out Rutgers 31-0, at 12:00 p.m. ET on FOX - also streaming on FOX One.",
-      "source": "FOX Sports",
-      "url": "https://www.fox.com/sports/football/college-football/watch-ohio-state-buckeyes-vs-nebraska-cornhuskers-nov-21-2026",
-      "publishedAt": "2026-11-21T00:20:00Z",
+      "title": "Fahey hits Smith for 67-yard TD on opening drive; Ryan Day penalty doesn't negate it",
+      "summary": "Backup quarterback Luke Fahey connected with Jeremiah Smith for a 67-yard touchdown on the opening drive at Nebraska, and a sideline-interference flag against Ryan Day did not negate the score. The quick strike carried over the momentum from last week's win over Northwestern, with injured starter Julian Sayin watching.",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/11/21/jeremiah-smith-touchdown-catch-nebraska-ryan-day-sideline-penalty/92898440007/",
+      "publishedAt": "2026-11-21T17:53:00Z",
       "tags": [
-        "buckeyes",
+        "ohio-state",
         "nebraska",
-        "how-to-watch",
-        "fox"
+        "luke-fahey",
+        "jeremiah-smith"
       ]
     },
     {
-      "id": "f1-norris-mclaren-straights",
-      "category": "f1",
-      "title": "Lando Norris brands McLaren awful in the straight despite P3 on Las Vegas grid",
-      "summary": "Norris qualified third, 0.093s off inherited pole, but tore into McLaren's straight-line deficit - saying the car is shocking in the straights - noting Antonelli's slipstream was worth up to 16 km/h. McLaren trails Red Bull by 17 points in the constructors' fight with three rounds left.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-slams-mclaren-as-awful-in-the-straight-despite-third-on-las-vegas-gp-grid/10876306/",
-      "publishedAt": "2026-11-21T07:10:00Z",
+      "id": "buckeyes-20261121-sayin-injury-outlook",
+      "category": "buckeyes",
+      "title": "What's next for injured Ohio State QB Julian Sayin?",
+      "summary": "Injured quarterback Julian Sayin (throwing-arm injury) missed a fourth straight game Saturday at Nebraska and could sit the rest of the regular season. The Dispatch examines his options: he has two years of eligibility left, and with backup Luke Fahey struggling to push the ball downfield, a healthy Sayin would likely reclaim the starting job in 2027 if he returns.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/11/21/as-ohio-state-faces-nebraska-whats-next-for-injured-quarterback-julian-sayin/92896845007/",
+      "publishedAt": "2026-11-21T14:11:00Z",
       "tags": [
-        "f1",
-        "las-vegas-gp",
-        "norris",
-        "mclaren"
+        "ohio-state",
+        "julian-sayin",
+        "injury",
+        "quarterback"
       ]
     },
     {
-      "id": "f1-russell-verstappen-clash",
+      "id": "f1-20261121-vegas-gp-verstappen-pole",
       "category": "f1",
-      "title": "George Russell slams Verstappen after Las Vegas practice collision",
-      "summary": "Russell muscled past Verstappen after the Red Bull forced his way by in final practice, making side-on contact at Turn 14 and earning Verstappen a stewards' warning - Somebody's got to stand up to that guy, Russell said. The two will share the front row in Saturday night's race.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876300/",
-      "publishedAt": "2026-11-21T06:26:51Z",
+      "title": "Antonelli fastest in Vegas qualifying but Verstappen inherits pole",
+      "summary": "Newly crowned world champion Kimi Antonelli set the fastest time in Las Vegas Grand Prix qualifying but drops to sixth with a five-place grid penalty, handing pole to Max Verstappen for Saturday night's race down the Strip. With both championships already decided, the tight fight for runner-up in the drivers' standings - five drivers within 33 points - is what remains to play for.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sports/formula1/antonelli-fastest-verstappen-pole-las-vegas-2026-11-21/",
+      "publishedAt": "2026-11-21T18:30:00Z",
       "tags": [
         "f1",
         "las-vegas-gp",
-        "russell",
-        "verstappen"
-      ]
-    },
-    {
-      "id": "f1-russell-tops-fp3",
-      "category": "f1",
-      "title": "Russell tops final Las Vegas practice, seven tenths clear, before Verstappen flashpoint",
-      "summary": "In the only dry practice session of the weekend, Russell ended FP3 0.7s clear of Norris with a 1m34.041s lap on the slippery Strip circuit, then clashed with Verstappen at the end of the session in an incident noted by the stewards.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-tops-final-practice-after-max-verstappen-collision/10876181/",
-      "publishedAt": "2026-11-21T05:44:00Z",
-      "tags": [
-        "f1",
-        "las-vegas-gp",
-        "practice",
-        "mercedes"
-      ]
-    },
-    {
-      "id": "f1-vegas-qualifying-verstappen-pole",
-      "category": "f1",
-      "title": "Antonelli fastest in Las Vegas qualifying, but Verstappen inherits pole; Ferraris out in Q2",
-      "summary": "Kimi Antonelli set the fastest time in Las Vegas qualifying (1m33.893s) for the eighth time this season, but a five-place engine penalty promotes Max Verstappen to pole, with Russell and Norris completing the top three. Lewis Hamilton and Charles Leclerc both failed to reach Q3.",
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-qualifying-report-10876231/10876231/",
-      "publishedAt": "2026-11-21T05:23:00Z",
-      "tags": [
-        "f1",
-        "las-vegas-gp",
-        "qualifying",
+        "verstappen",
         "antonelli"
       ]
     },
     {
-      "id": "local-nbc4-season-of-giving",
+      "id": "local-20261121-stolen-vehicle-crash",
       "category": "local",
-      "title": "NBC4 Season of Giving launches: fill a holiday wish list for a central Ohio senior",
-      "summary": "NBC4's annual Season of Giving with Besa is underway, inviting residents to fill holiday wish lists for local seniors in need - a program that started with 26 seniors in 2012 and now serves hundreds across central Ohio.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/nbc4-season-of-giving-with-besa-fill-a-holiday-wish-list-for-a-central-ohio-senior/",
-      "publishedAt": "2026-11-21T11:34:00Z",
+      "title": "Driver dies after crashing stolen vehicle while fleeing police on Northeast Side",
+      "summary": "A driver died after crashing a reported stolen vehicle while fleeing police on the Northeast Side. Officers first tried to stop the car near Neil and Buttles around 12:35 a.m.; the driver fled, lost control on Hudson Street and struck a pole, and was pronounced dead at the scene.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/2026/11/21/one-dead-crashing-stolen-vehicle-northeast-side-hudson-street-columbus-ohio-police-chase/92896844007/",
+      "publishedAt": "2026-11-21T14:47:00Z",
       "tags": [
         "columbus",
-        "holidays",
-        "community",
-        "seniors"
+        "police",
+        "crash"
       ]
     },
     {
-      "id": "local-dv-officer-training",
+      "id": "local-20261121-weekend-weather",
       "category": "local",
-      "title": "Ohio officers start new regional domestic-violence training program",
-      "summary": "Law enforcement officers across Ohio have begun new regional domestic-violence training funded through the state Office of Criminal Justice Services, an effort to improve and standardize how departments respond to domestic-violence calls statewide.",
-      "source": "WSYX ABC 6",
-      "url": "https://abc6onyourside.com/news/local/law-enforcement-officers-dive-into-new-regional-domestic-violence-training-statewide-rea-associates-criminal-justice-funded-ohio-department-of-public-safety-office-of-criminal-justice-services-dublin-calls-deaths-cases-fatalities-odvn",
-      "publishedAt": "2026-11-21T11:29:00Z",
+      "title": "Columbus weather: a mild weekend before temperatures trend cooler",
+      "summary": "Central Ohio gets one more mild day - mostly sunny with a high near 67 - before a cold front brings late showers Sunday and knocks Monday back to about 50. The chill holds into Thanksgiving week, with scattered showers possible on Thanksgiving Day and highs in the low-to-mid 40s.",
+      "source": "ABC6 Columbus",
+      "url": "https://abc6onyourside.com/news/local/columbus-weather-a-mild-weekend-before-temperatures-trend-cooler-november-21-2026-sunny-skies-rain-clouds-thanksgiving-forecast",
+      "publishedAt": "2026-11-21T14:16:00Z",
       "tags": [
-        "ohio",
-        "law-enforcement",
-        "public-safety",
-        "training"
+        "columbus",
+        "weather",
+        "thanksgiving"
       ]
     },
     {
-      "id": "local-cbj-hockey-tonk",
+      "id": "local-20261121-affordable-housing-demands",
       "category": "local",
-      "title": "Blue Jackets announce Hockey Tonk country night for Nov. 25 game vs. Devils",
-      "summary": "The Jackets Jukebox series gets a country twist: the Nov. 25 game against New Jersey at Nationwide Arena will feature live music from BELLES, a mechanical bull and themed entertainment around the arena.",
-      "source": "WSYX ABC 6",
-      "url": "https://abc6onyourside.com/news/local/blue-jackets-host-hockey-tonk-night-with-country-music-and-fan-events-new-jersey-devils-nov-25-2026-cbj-jukebox-games",
-      "publishedAt": "2026-11-21T11:06:00Z",
+      "title": "Columbus community leaders demand comprehensive affordable-housing action plan",
+      "summary": "Columbus Urban League President Stephanie Hightower says the group has fielded more than 12,000 housing-distress calls since July - about 3,000 a month - as community leaders including the Columbus NAACP demand a comprehensive affordable-housing action plan with wraparound services from city and county officials. Hightower likens the city's housing crunch to a crisis on par with COVID-19.",
+      "source": "Columbus Urban League | NUL",
+      "url": "https://nul.org/index.php/news/columbus-community-leaders-demanding-more-affordable-housing",
+      "publishedAt": "2026-11-21T11:00:00Z",
       "tags": [
         "columbus",
-        "blue-jackets",
-        "nhl",
-        "events"
+        "housing",
+        "urban-league"
       ]
     },
     {
-      "id": "local-fantasy-of-lights",
+      "id": "local-20261121-abdullahi-mayor-launch",
       "category": "local",
-      "title": "Butch Bando's Fantasy of Lights returns with 30+ new displays for year 10",
-      "summary": "The Central Ohio drive-through holiday light tradition is back with an expanded Blue Jackets display and a first-ever JEGS feature, celebrating 10 years of partnership with A Kid Again, which funds outings for families of children with serious illnesses.",
-      "source": "WSYX ABC 6",
-      "url": "https://abc6onyourside.com/news/local/butch-bandos-fantasy-of-lights-adds-new-displays-celebrates-10-years-with-a-kid-again-holiday-traditions-drive-thru-light-show-displays",
-      "publishedAt": "2026-11-21T07:06:00Z",
+      "title": "State Rep. Munira Abdullahi launches Columbus mayoral campaign from the left",
+      "summary": "State Rep. Munira Abdullahi of Northland formally launched a Columbus mayoral campaign Saturday, running to the left of Mayor Andrew Ginther and Council President Shannon Hardin and seeking the local DSA's endorsement - a first for a Columbus mayoral candidate. If elected, the 30-year-old Somali American would be the city's first female, first Muslim and first foreign-born mayor; the nonpartisan primary is May 4.",
+      "source": "Columbus Dispatch",
+      "url": "https://www.cincinnati.com/story/news/politics/elections/local/2026/11/21/ohio-state-rep-munira-abdullahi-launches-columbus-mayoral-campaign/92829804007/",
+      "publishedAt": "2026-11-21T10:05:00Z",
       "tags": [
         "columbus",
-        "holidays",
-        "events",
-        "family"
+        "mayors-race",
+        "elections"
       ]
     }
   ]
