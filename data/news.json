@@ -1,276 +1,181 @@
 {
   "meta": {
-    "updatedAt": "2026-11-21T20:37:10Z",
+    "updatedAt": "2026-11-22T12:13:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 18
+    "count": 17
   },
   "stories": [
     {
-      "id": "top-20261121-el-chapo-isidro-capture",
+      "id": "top-kyiv-drone-building-14-missing",
       "category": "top",
-      "title": "FBI Top-10 cartel boss 'El Chapo Isidro' captured in Sinaloa raid that killed 11",
-      "summary": "Mexican forces captured Fausto Isidro Meza Flores, one of the FBI's 10 most-wanted fugitives, in a Friday-night raid in Guasave, Sinaloa, and flew him to Mexico City with two top lieutenants. The operation, aided by U.S. intelligence, killed four soldiers and seven suspected gunmen and set off burning roadblocks - and experts warn picking off capos could trigger another wave of faction violence.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
-      "publishedAt": "2026-11-21T19:58:00Z",
-      "tags": [
-        "mexico",
-        "cartel",
-        "fbi",
-        "sinaloa"
-      ]
-    },
-    {
-      "id": "top-20261121-kryvyi-rih-missile-strike",
-      "category": "top",
-      "title": "Ballistic missile attack on Zelenskyy's hometown Kryvyi Rih kills 2, wounds 60",
-      "summary": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown killed two people and wounded 60 others, local officials said Saturday. The attack added to uncertainty over Washington-brokered peace efforts and came hours after two Russian missiles and a suspected drone came down in Poland.",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
-      "publishedAt": "2026-11-21T17:30:00Z",
-      "tags": [
-        "ukraine",
-        "russia",
-        "kryvyi-rih",
-        "war"
-      ]
-    },
-    {
-      "id": "top-20261121-un-killer-robots-2028",
-      "category": "top",
-      "title": "UN talks end with softened pledge to draft 'killer robot' rules by 2028",
-      "summary": "Week-long UN talks in Geneva ended Saturday with only a softened pledge to develop rules for lethal autonomous weapons by 2028, after Russian opposition blocked binding commitments. Human-rights groups, who had wanted legally binding rules quickly, called the outcome deeply disappointing.",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/europe/un-talks-killer-robots-weapons-russia-b3089057.html",
-      "publishedAt": "2026-11-21T13:59:00Z",
-      "tags": [
-        "un",
-        "geneva",
-        "autonomous-weapons",
-        "russia"
-      ]
-    },
-    {
-      "id": "top-20261121-baltic-cargo-ship-drones",
-      "category": "top",
-      "title": "Russian cargo ship ablaze in Baltic after drone strike; Finland tightens security",
-      "summary": "The Sparta II, a US-sanctioned Russian cargo ship with defence-industry links, was hit by drones in the Gulf of Finland on Saturday, caught fire and drifted into Finnish waters; Finland called it a likely Ukrainian attack and imposed temporary air and maritime restrictions. The 16-member crew evacuated safely - the latest sign of the Ukraine war spilling toward NATO territory.",
+      "title": "At least 14 missing after Russian drone hit a building in Kyiv region, Zelenskiy says",
+      "summary": "Ukraine's president said at least 14 people were missing after a Russian drone strike hit a building in the Kyiv region, as Russian missile and drone attacks continued to damage homes with winter setting in.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/3fec1b0a85a0/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
-      "publishedAt": "2026-11-21T11:50:00Z",
-      "tags": [
-        "baltic",
-        "finland",
-        "ukraine",
-        "drones"
-      ]
+      "url": "https://www.reuters.com/world/least-14-people-missing-after-russian-drone-hit-building-kyiv-region-zelenskiy-2026-11-22/",
+      "publishedAt": "2026-11-22T11:51:00Z",
+      "tags": ["Ukraine", "Russia", "Kyiv", "drones"]
     },
     {
-      "id": "tech-20261121-riemann-claude-verification",
+      "id": "top-cop31-climate-deal-balance",
+      "category": "top",
+      "title": "COP31 climate deal in the balance after fractious overtime talks",
+      "summary": "UN climate talks in Antalya, Türkiye have dragged into a second day of overtime as a draft deal acknowledges warming is on course to exceed 1.5C while avoiding calls to phase down fossil fuels. A final agreement remains up in the air as the summit lurches toward a finish.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/cop/cop31-climate-deal-balance-after-fractious-talks-2026-11-22/",
+      "publishedAt": "2026-11-22T11:50:00Z",
+      "tags": ["COP31", "climate", "Türkiye", "diplomacy"]
+    },
+    {
+      "id": "top-russian-cargo-ship-baltic-fire",
+      "category": "top",
+      "title": "Russian cargo ship still on fire off Finland after drone attack",
+      "summary": "The Russia-linked cargo ship Sparta II is still ablaze in the Baltic Sea off Finland, and the Finnish military said Ukraine likely carried out the drone strike. It is the latest sign of the war spilling over into Baltic shipping lanes.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/",
+      "publishedAt": "2026-11-22T11:50:00Z",
+      "tags": ["Baltic Sea", "Ukraine", "Finland", "shipping"]
+    },
+    {
+      "id": "top-indonesia-candy-factory-fire",
+      "category": "top",
+      "title": "Seven bodies recovered, around 50 missing after Indonesian candy factory fire",
+      "summary": "Rescuers have recovered seven bodies with about 50 workers still unaccounted for after a fire swept through the PT Fonusa Agung Mulia candy factory in Serang, Banten on Saturday. The blaze reportedly started at a cooling unit on the third floor.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/indonesia-rescuers-search-36-missing-after-factory-fire-kills-3-2026-11-22/",
+      "publishedAt": "2026-11-22T09:07:00Z",
+      "tags": ["Indonesia", "factory fire", "rescue"]
+    },
+    {
+      "id": "tech-fbi-ncic-database-hack",
       "category": "tech",
-      "title": "Two groups verify mathematician's claim that Claude helped prove the Riemann hypothesis",
-      "summary": "Anthropic mathematician Levent Alpoege's claim that he proved the Riemann hypothesis - one of math's most famous open problems - with the help of Claude now has two independent verifications, the Guardian reports. Alpoege released the work Friday as roughly 17 million lines of formal Lean proof code, and independent checkers have now certified that it compiles and the headline theorems hold.",
+      "title": "Trump confirms FBI's national crime database NCIC was targeted in hack",
+      "summary": "The FBI is investigating an apparent breach of the National Crime Information Center, the database police nationwide use for warrants, fugitives and stolen-property checks. Trump acknowledged the hack in a Fox News interview and a law enforcement source confirmed it to ABC News; the scope and culprits remain unclear.",
+      "source": "ABC News",
+      "url": "https://www.goodmorningamerica.com/news/story/fbis-national-crime-database-targeted-hack-trump-138347810",
+      "publishedAt": "2026-11-22T07:05:00Z",
+      "tags": ["FBI", "cyberattack", "NCIC", "data breach"]
+    },
+    {
+      "id": "tech-south-korea-education-minister-resigns-ai",
+      "category": "tech",
+      "title": "South Korea's education minister resigns over AI exam-cheating scandal",
+      "summary": "Education Minister Choi Kyo-jin stepped down Sunday, taking responsibility after an AI-assisted cheating scandal and last-minute anti-AI-cheating rules threw the run-up to the Suneung, South Korea's high-stakes college entrance exam, into turmoil. President Lee Jae Myung accepted the resignation.",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-      "publishedAt": "2026-11-21T17:30:00Z",
-      "tags": [
-        "ai",
-        "mathematics",
-        "anthropic",
-        "riemann-hypothesis"
-      ]
+      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "publishedAt": "2026-11-22T05:40:00Z",
+      "tags": ["South Korea", "AI", "Suneung", "resignation"]
     },
     {
-      "id": "tech-20261121-inkling-2-mini-open-weights",
+      "id": "tech-openrouter-drops-ai-inference-providers",
       "category": "tech",
-      "title": "Thinking Machines opens weights of Inkling 2 Mini, a 26B model that runs on laptops",
-      "summary": "Thinking Machines released open weights for Inkling 2 Mini, a 26B-parameter looped mixture-of-experts model that reads text and images and is sized to run on laptops, with ready-made quantized builds from Unsloth. It makes private, offline AI prototyping practical - though no benchmarks or license details have been published yet.",
-      "source": "Magpie",
-      "url": "https://www.cameronsutcliff.com/magpie",
-      "publishedAt": "2026-11-21T11:33:00Z",
-      "tags": [
-        "open-weights",
-        "llm",
-        "thinking-machines",
-        "local-ai"
-      ]
+      "title": "OpenRouter drops three AI inference providers after prompt-theft findings",
+      "summary": "OpenRouter said it off-boarded three AI inference providers and removed 125 endpoints from Zero Data Retention eligibility after Dragos researchers seeded about 2 million canary prompts and found months of prompt theft, including stolen AWS keys and S3 bucket searches. OpenRouter says its own gateway was not breached and affected customers have been notified.",
+      "source": "OpenRouter",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "publishedAt": "2026-11-22T02:30:00Z",
+      "tags": ["AI security", "OpenRouter", "prompt leakage", "supply chain"]
     },
     {
-      "id": "tech-20261121-ai-stocks-correction",
-      "category": "tech",
-      "title": "The AI boom had a bad week - Nasdaq's worst since 2020, S&P and Dow in correction",
-      "summary": "AI stocks had their worst week since the COVID crash: the Nasdaq fell 10%, the S&P 500 and Dow entered correction territory, and Anthropic's IPO ended near its offer price, fueling fears of a bursting AI bubble. Because AI names now anchor index funds and retirement portfolios, a sustained unwind would ripple well beyond tech.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-      "publishedAt": "2026-11-21T10:00:00Z",
-      "tags": [
-        "ai",
-        "markets",
-        "nasdaq",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "browns-20261121-bye-week-table-scraps",
+      "id": "browns-sunday-dawg-chow-week-11",
       "category": "browns",
-      "title": "Browns bye-week roundup: Colts cut Daniel Jones, Drake Maye breaks leg",
-      "summary": "On Day 3 of the Browns' bye, the OBR newswire tracks the wild-card race around them: Indianapolis cut QB Daniel Jones 11 games into his $88 million deal (about $50M paid, $35.2M dead cap next year), and Drake Maye's broken leg hits 5-5 New England - the club directly ahead of Cleveland in the playoff standings. The Rams' first-round pick from the Myles Garrett trade also gains value as 6-4 Los Angeles faces a brutal closing schedule.",
-      "source": "cleveland19 | TheOBR",
-      "url": "https://www.cleveland19.com/2026/11/21/cleveland-browns-news-rumors-112126-table-scraps/",
-      "publishedAt": "2026-11-21T16:30:00Z",
-      "tags": [
-        "browns",
-        "nfl",
-        "bye-week",
-        "playoff-race"
-      ]
+      "title": "Sunday Dawg Chow: Browns idle on bye at 6-4",
+      "summary": "The Browns enjoy their Week 11 bye sitting at 6-4, with today's roundup catching up on the roster picture — six players on injured reserve and a few candidates to return after the week off — plus what to watch around the AFC North on Sunday.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/cleveland-browns-news-good-day-113000006.html",
+      "publishedAt": "2026-11-22T11:30:00Z",
+      "tags": ["Cleveland Browns", "NFL Week 11", "injured reserve", "bye week"]
     },
     {
-      "id": "browns-20261121-saturday-dawg-chow",
+      "id": "browns-bye-week-primer-playoffs",
       "category": "browns",
-      "title": "Saturday Dawg Chow: a slow bye-week sports Saturday",
-      "summary": "With the Browns on their bye, the Saturday Dawg Chow rounds up the weekend's notes - including a franchise-history interview with former safety Thom Darden, who spent a decade making receivers think twice about crossing Cleveland's secondary.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/138640/cleveland-browns-news-thom-darden-todd-monken-harold-fannin-kc-concepcion",
-      "publishedAt": "2026-11-21T11:30:00Z",
-      "tags": [
-        "browns",
-        "history",
-        "bye-week"
-      ]
+      "title": "Browns bye week primer: No. 7 seed, healthy roster, Watson question",
+      "summary": "Cleveland (6-4) enters its Week 11 bye holding the AFC's No. 7 seed with a 61% playoff chance per The Athletic, and returns to three straight home games starting with rookie QB Fernando Mendoza and the Raiders on Sunday night Nov. 29. Safety Ronnie Hickman cleared concussion protocol, while Deshaun Watson extension chatter grows despite a planned post-June 1 release path in 2027.",
+      "source": "Dawg Pound Daily",
+      "url": "https://dawgpounddaily.com/browns-bye-week-primer-injury-updates-playoff-odds-and-lingering-questions-01m7x1p4nqg0",
+      "publishedAt": "2026-11-22T10:00:00Z",
+      "tags": ["Cleveland Browns", "bye week", "playoffs", "Deshaun Watson"]
     },
     {
-      "id": "buckeyes-20261121-smith-bigten-100yd-record",
+      "id": "buckeyes-whats-next-after-nebraska-loss",
       "category": "buckeyes",
-      "title": "Jeremiah Smith sets Big Ten record with 18th career 100-yard game",
-      "summary": "Jeremiah Smith's first half at Nebraska - four catches for 117 yards and two touchdowns - was the 18th 100-yard receiving game of his career, breaking the Big Ten record he had shared with Michigan's Braylon Edwards and Purdue's David Bell. And he set the mark before halftime of a game the 7-3 Buckeyes need to keep their faint playoff hopes alive.",
-      "source": "Buckeyes Wire | USA TODAY",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/11/21/jeremiah-smith-sets-big-ten-record-100-yard-games-buckeyes/92900244007/",
-      "publishedAt": "2026-11-21T19:43:00Z",
-      "tags": [
-        "ohio-state",
-        "jeremiah-smith",
-        "big-ten",
-        "nebraska"
-      ]
+      "title": "What's next for Ohio State after Nebraska loss ends playoff hopes",
+      "summary": "Ohio State's 31-28 loss at Nebraska — its fourth of the season — killed the Buckeyes' Big Ten title game and College Football Playoff hopes, even though Indiana and UCLA also lost Saturday and left the door open. All that's left to play for is redemption against Michigan in Columbus at noon Saturday on FOX, a year after the Wolverines' 13-10 upset and the midfield flag-planting melee.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/sports/buckeyes/whats-next-for-the-buckeyes-after-suffering-fourth-loss-at-nebraska/",
+      "publishedAt": "2026-11-22T12:00:00Z",
+      "tags": ["Ohio State", "Nebraska", "Michigan week", "College Football Playoff"]
     },
     {
-      "id": "buckeyes-20261121-smith-ties-glenn-td-record",
-      "category": "buckeyes",
-      "title": "Jeremiah Smith ties Terry Glenn's Ohio State single-season receiving TD record",
-      "summary": "Smith's second touchdown against Nebraska - a 31-yard catch at the back of the end zone - was his 17th receiving score of the season, tying Terry Glenn's 1995 Ohio State single-season record. He is now two short of Desmond Howard's Big Ten single-season mark of 19, with Michigan still on the schedule.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165603/jeremiah-smith-ties-terry-glenn-s-single-season-ohio-state-receiving-touchdowns-record",
-      "publishedAt": "2026-11-21T18:42:00Z",
-      "tags": [
-        "ohio-state",
-        "jeremiah-smith",
-        "records",
-        "nebraska"
-      ]
-    },
-    {
-      "id": "buckeyes-20261121-smith-67yd-opening-td",
-      "category": "buckeyes",
-      "title": "Fahey hits Smith for 67-yard TD on opening drive; Ryan Day penalty doesn't negate it",
-      "summary": "Backup quarterback Luke Fahey connected with Jeremiah Smith for a 67-yard touchdown on the opening drive at Nebraska, and a sideline-interference flag against Ryan Day did not negate the score. The quick strike carried over the momentum from last week's win over Northwestern, with injured starter Julian Sayin watching.",
-      "source": "USA TODAY",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/11/21/jeremiah-smith-touchdown-catch-nebraska-ryan-day-sideline-penalty/92898440007/",
-      "publishedAt": "2026-11-21T17:53:00Z",
-      "tags": [
-        "ohio-state",
-        "nebraska",
-        "luke-fahey",
-        "jeremiah-smith"
-      ]
-    },
-    {
-      "id": "buckeyes-20261121-sayin-injury-outlook",
-      "category": "buckeyes",
-      "title": "What's next for injured Ohio State QB Julian Sayin?",
-      "summary": "Injured quarterback Julian Sayin (throwing-arm injury) missed a fourth straight game Saturday at Nebraska and could sit the rest of the regular season. The Dispatch examines his options: he has two years of eligibility left, and with backup Luke Fahey struggling to push the ball downfield, a healthy Sayin would likely reclaim the starting job in 2027 if he returns.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/11/21/as-ohio-state-faces-nebraska-whats-next-for-injured-quarterback-julian-sayin/92896845007/",
-      "publishedAt": "2026-11-21T14:11:00Z",
-      "tags": [
-        "ohio-state",
-        "julian-sayin",
-        "injury",
-        "quarterback"
-      ]
-    },
-    {
-      "id": "f1-20261121-vegas-gp-verstappen-pole",
+      "id": "f1-verstappen-responds-russell-vegas",
       "category": "f1",
-      "title": "Antonelli fastest in Vegas qualifying but Verstappen inherits pole",
-      "summary": "Newly crowned world champion Kimi Antonelli set the fastest time in Las Vegas Grand Prix qualifying but drops to sixth with a five-place grid penalty, handing pole to Max Verstappen for Saturday night's race down the Strip. With both championships already decided, the tight fight for runner-up in the drivers' standings - five drivers within 33 points - is what remains to play for.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sports/formula1/antonelli-fastest-verstappen-pole-las-vegas-2026-11-21/",
-      "publishedAt": "2026-11-21T18:30:00Z",
-      "tags": [
-        "f1",
-        "las-vegas-gp",
-        "verstappen",
-        "antonelli"
-      ]
+      "title": "'So far below my level' — Verstappen hits back at Russell after Vegas win",
+      "summary": "After winning the Las Vegas Grand Prix, Verstappen dismissed George Russell's weekend criticism, saying the Mercedes driver is 'so far below my level' — reigniting a rivalry that burned through a race in which Russell repeatedly overtook him for the lead only for Verstappen to retake it each time.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/so-far-below-my-level-verstappen-responds-to-russell-comments-in-las-vegas-as-rivalry-reignites.4li166pkqaJAmwAXx5CZnr",
+      "publishedAt": "2026-11-22T08:59:00Z",
+      "tags": ["F1", "Max Verstappen", "George Russell", "Las Vegas GP"]
     },
     {
-      "id": "local-20261121-stolen-vehicle-crash",
-      "category": "local",
-      "title": "Driver dies after crashing stolen vehicle while fleeing police on Northeast Side",
-      "summary": "A driver died after crashing a reported stolen vehicle while fleeing police on the Northeast Side. Officers first tried to stop the car near Neil and Buttles around 12:35 a.m.; the driver fled, lost control on Hudson Street and struck a pole, and was pronounced dead at the scene.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/2026/11/21/one-dead-crashing-stolen-vehicle-northeast-side-hudson-street-columbus-ohio-police-chase/92896844007/",
-      "publishedAt": "2026-11-21T14:47:00Z",
-      "tags": [
-        "columbus",
-        "police",
-        "crash"
-      ]
+      "id": "f1-verstappen-75th-win-las-vegas",
+      "category": "f1",
+      "title": "Verstappen claims 75th career win as Mercedes challenge unravels in Vegas",
+      "summary": "Verstappen took his 75th Grand Prix victory — fourth of 2026 and third in Las Vegas — from pole after Russell crashed trying to pass team-mate Antonelli and Antonelli lost pace on the final lap, handing second and third to McLaren's Norris (+0.639s) and Piastri (up from 17th). The result strengthens Verstappen's hold on second in the drivers' championship over Russell.",
+      "source": "f1-fansite.com",
+      "url": "https://www.f1-fansite.com/f1-result/race-results-2026-las-vegas-formula-1-grand-prix-report/",
+      "publishedAt": "2026-11-22T07:26:19Z",
+      "tags": ["F1", "Las Vegas Grand Prix", "Verstappen", "McLaren"]
     },
     {
-      "id": "local-20261121-weekend-weather",
-      "category": "local",
-      "title": "Columbus weather: a mild weekend before temperatures trend cooler",
-      "summary": "Central Ohio gets one more mild day - mostly sunny with a high near 67 - before a cold front brings late showers Sunday and knocks Monday back to about 50. The chill holds into Thanksgiving week, with scattered showers possible on Thanksgiving Day and highs in the low-to-mid 40s.",
-      "source": "ABC6 Columbus",
-      "url": "https://abc6onyourside.com/news/local/columbus-weather-a-mild-weekend-before-temperatures-trend-cooler-november-21-2026-sunny-skies-rain-clouds-thanksgiving-forecast",
-      "publishedAt": "2026-11-21T14:16:00Z",
-      "tags": [
-        "columbus",
-        "weather",
-        "thanksgiving"
-      ]
+      "id": "f1-verstappen-wins-las-vegas-gp-report",
+      "category": "f1",
+      "title": "Verstappen wins exhilarating Las Vegas Grand Prix from Norris and Piastri",
+      "summary": "Max Verstappen held off a race-long challenge from Mercedes duo George Russell and Kimi Antonelli — both of whom dramatically fell off the podium in the closing laps — to seal his third win on the Vegas Strip from pole, ahead of McLaren's Norris and Piastri. Lewis Hamilton took a 10-second penalty and the Ferraris collided in the late chaos.",
+      "source": "formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
+      "publishedAt": "2026-11-22T05:58:00Z",
+      "tags": ["F1", "Las Vegas GP", "race report", "Verstappen"]
     },
     {
-      "id": "local-20261121-affordable-housing-demands",
+      "id": "local-columbus-mild-weather-ending",
       "category": "local",
-      "title": "Columbus community leaders demand comprehensive affordable-housing action plan",
-      "summary": "Columbus Urban League President Stephanie Hightower says the group has fielded more than 12,000 housing-distress calls since July - about 3,000 a month - as community leaders including the Columbus NAACP demand a comprehensive affordable-housing action plan with wraparound services from city and county officials. Hightower likens the city's housing crunch to a crisis on par with COVID-19.",
-      "source": "Columbus Urban League | NUL",
-      "url": "https://nul.org/index.php/news/columbus-community-leaders-demanding-more-affordable-housing",
-      "publishedAt": "2026-11-21T11:00:00Z",
-      "tags": [
-        "columbus",
-        "housing",
-        "urban-league"
-      ]
+      "title": "Columbus weather: Mild conditions coming to an end",
+      "summary": "Central Ohio gets one last unseasonably warm day — highs in the mid-to-upper 60s, roughly 15 degrees above normal — before a cold front brings light rain Sunday night and a sharp cooldown into the 40s for Thanksgiving week. Forecasters flag a possible wintry mix Friday for post-holiday travel, with 40s expected when Michigan visits Columbus Saturday.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/weather/forecast/columbus-weather-mild-conditions-coming-to-an-end/",
+      "publishedAt": "2026-11-22T11:55:00Z",
+      "tags": ["Columbus weather", "cold front", "Thanksgiving", "forecast"]
     },
     {
-      "id": "local-20261121-abdullahi-mayor-launch",
+      "id": "local-blue-jackets-beat-maple-leafs-4-3",
       "category": "local",
-      "title": "State Rep. Munira Abdullahi launches Columbus mayoral campaign from the left",
-      "summary": "State Rep. Munira Abdullahi of Northland formally launched a Columbus mayoral campaign Saturday, running to the left of Mayor Andrew Ginther and Council President Shannon Hardin and seeking the local DSA's endorsement - a first for a Columbus mayoral candidate. If elected, the 30-year-old Somali American would be the city's first female, first Muslim and first foreign-born mayor; the nonpartisan primary is May 4.",
-      "source": "Columbus Dispatch",
-      "url": "https://www.cincinnati.com/story/news/politics/elections/local/2026/11/21/ohio-state-rep-munira-abdullahi-launches-columbus-mayoral-campaign/92829804007/",
-      "publishedAt": "2026-11-21T10:05:00Z",
-      "tags": [
-        "columbus",
-        "mayors-race",
-        "elections"
-      ]
+      "title": "Blue Jackets topple Maple Leafs with two goals in final minutes",
+      "summary": "The Blue Jackets scored twice inside the final five minutes to beat Toronto 4-3 Saturday night, with Zach Werenski netting the go-ahead goal with 3:28 left and Adam Fantilli adding a goal and an assist. The loss stretched the reeling Maple Leafs' winless streak to nine games.",
+      "source": "NBC4 WCMH-TV (AP)",
+      "url": "https://www.nbc4i.com/sports/blue-jackets/blue-jackets-topple-maple-leafs-with-two-goals-in-final-minutes/",
+      "publishedAt": "2026-11-22T11:25:00Z",
+      "tags": ["Blue Jackets", "NHL", "Zach Werenski", "Toronto Maple Leafs"]
+    },
+    {
+      "id": "local-ohsaa-state-semifinal-pairings",
+      "category": "local",
+      "title": "OHSAA announces high school football state semifinal pairings",
+      "summary": "The OHSAA released the state semifinal pairings and sites for the 2026 high school football playoffs after Friday night's regional finals, setting the final-four matchups in each division. Central Ohio programs now know their paths to the state championship games.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/sports/ffn/high-school-football-semifinal-pairings-announced/",
+      "publishedAt": "2026-11-22T09:27:00Z",
+      "tags": ["high school football", "OHSAA", "state playoffs", "central Ohio"]
+    },
+    {
+      "id": "local-crew-shutout-inter-miami",
+      "category": "local",
+      "title": "Crew shock defending champion Inter Miami 3-0 in playoff opener",
+      "summary": "The Columbus Crew blanked Messi's Inter Miami 3-0 on the road to open their best-of-three MLS playoff series, with Gonzalo Tapia scoring twice and homegrown midfielder Taha Habroune adding the third. The Crew can knock out the defending MLS Cup champions when the series moves to Columbus on Black Friday.",
+      "source": "NBC4 WCMH-TV",
+      "url": "https://www.nbc4i.com/sports/mls/crew-shocks-defending-mls-cup-champs-miami-in-playoff-opener-with-3-0-win/",
+      "publishedAt": "2026-11-22T01:06:00Z",
+      "tags": ["Columbus Crew", "MLS playoffs", "Inter Miami", "Lionel Messi"]
     }
   ]
 }
