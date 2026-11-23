@@ -1,131 +1,221 @@
 {
   "meta": {
-    "updatedAt": "2026-11-23T12:20:00Z",
+    "updatedAt": "2026-11-23T20:35:00Z",
     "generatedBy": "hermes-cron",
     "title": "Daily Brief",
     "windowHours": 12,
-    "count": 12
+    "count": 21
   },
   "stories": [
     {
-      "id": "top-kenya-drc-restore-ties-2026-11-23",
+      "id": "top-iran-blockade-yemen-strikes-2026-11-23",
       "category": "top",
-      "title": "Kenya and DR Congo agree to restore diplomatic ties",
-      "summary": "Kenya President William Ruto and DR Congo leader Felix Tshisekedi agreed to restore full diplomatic ties after tensions rooted in the conflict in eastern DR Congo. The two countries committed to respecting sovereignty and non-interference.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cmvg2qnn95vro",
-      "publishedAt": "2026-11-23T10:00:00Z",
-      "tags": ["kenya", "dr-congo", "diplomacy"]
+      "title": "Iran vows to counter US naval blockade as Yemen strikes escalate",
+      "summary": "Iran's foreign ministry said Monday it will use \"all available means\" against the US naval blockade of its ports, calling it military aggression under the UN Charter. The same day, Houthi officials said a Saudi-led coalition strike on a telecom compound in the port city of Hodeida killed 17 workers, as fighting in Yemen intensifies.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+      "publishedAt": "2026-11-23T20:23:00Z",
+      "tags": ["iran", "yemen", "strait-of-hormuz", "middle-east"]
     },
     {
-      "id": "top-russian-warship-libya-drone-2026-11-23",
+      "id": "top-molly-meldrum-dies-2026-11-23",
       "category": "top",
-      "title": "Russian warship hit by suspected drone attack at Libyan port",
-      "summary": "A Russian warship was hit by a suspected drone attack at a port in eastern Libya; the eastern Libyan government said the ship had stopped for fuel and supplies on its way back to Russia. Zelensky says Ukraine was behind the strike.",
+      "title": "Australian music legend Molly Meldrum dies aged 83",
+      "summary": "Ian \"Molly\" Meldrum, the broadcaster and promoter who helped define Australian pop taste for decades through the TV show Countdown, has died at 83. Tributes came from across the Australian music industry, which credited him with breaking both local and international acts.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr894gjz0j0yo",
-      "publishedAt": "2026-11-23T09:00:00Z",
-      "tags": ["ukraine", "russia", "libya", "drones"]
+      "url": "https://www.bbc.com/news/articles/c3qj57rkd2k1o",
+      "publishedAt": "2026-11-23T12:30:00Z",
+      "tags": ["australia", "music", "obituary"]
     },
     {
-      "id": "top-cop31-no-deal-2026-11-23",
+      "id": "top-crimean-bridge-partly-collapses-2026-11-23",
       "category": "top",
-      "title": "Longest-ever UN climate talks end with no deal",
-      "summary": "COP31 in Antalya collapsed without an agreement after rows over fossil fuels and climate finance, ending as the longest-running climate summit in UN history. The Australian prime minister, whose country co-hosted the talks, blamed difficult geopolitical times.",
+      "title": "Crimean Bridge partly collapses after Ukrainian attack",
+      "summary": "Ukraine struck the bridge linking Russia to annexed Crimea with missiles and drones in an operation it says took weeks to plan, partly collapsing the span. Zelensky hailed the attack as \"unprecedented\" and said the logistics route used for Russian military supplies is now compromised.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqwy06zrd26lo",
-      "publishedAt": "2026-11-23T06:00:00Z",
-      "tags": ["cop31", "climate", "un"]
+      "url": "https://www.bbc.com/news/articles/cw772jk4rvmxo",
+      "publishedAt": "2026-11-23T10:30:00Z",
+      "tags": ["ukraine", "russia", "crimea", "drones"]
     },
     {
-      "id": "top-ukraine-dymer-rescue-2026-11-23",
-      "category": "top",
-      "title": "Boy, 7, pulled alive from rubble after Russian strike on Ukrainian town",
-      "summary": "Rescuers pulled a 7-year-old boy from the wreckage of a residential building in Dymer, where at least 11 people died in the attack. Ukrainian officials reported more than 70 strikes across 10 regions as of Sunday evening.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqdr15l32d3go",
-      "publishedAt": "2026-11-23T06:00:00Z",
-      "tags": ["ukraine", "russia", "rescue"]
-    },
-    {
-      "id": "tech-alice-huang-spying-2026-11-23",
+      "id": "tech-jensen-huang-senate-testimony-2026-11-23",
       "category": "tech",
-      "title": "More details emerge on alleged spying tied to former Nvidia CEO Jensen Huang",
-      "summary": "The New York Times reports that Alice Huang stayed in contact with an officer of the Chinese Ministry of State Security from spring 2025 until this fall, a period overlapping her affair with former Nvidia CEO Jensen Huang. The report deepens the national-security questions that already cost Huang the top job at the AI chip giant.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1039883/more-details-emerge-regarding-the-extent-of-alice-huangs-alleged-spying",
-      "publishedAt": "2026-11-23T11:38:00Z",
-      "tags": ["nvidia", "china", "espionage", "jensen-huang"]
-    },
-    {
-      "id": "tech-meta-muse-walmart-2026-11-23",
-      "category": "tech",
-      "title": "Walmart opens Black Friday shopping to Meta Muse AI agent",
-      "summary": "The Walmart Agent Gateway is now live with Meta Muse support, letting the AI assistant browse and buy on the retailer site for Black Friday, while Amazon and eBay continue blocking AI agents. Walmart says support for more apps and agents is on the way.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-      "publishedAt": "2026-11-23T11:37:00Z",
-      "tags": ["ai", "meta", "walmart", "ecommerce"]
-    },
-    {
-      "id": "tech-anthropic-ipo-backers-2026-11-23",
-      "category": "tech",
-      "title": "How GIC and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "Notable Capital, GIC and Baillie Gifford detail their early Anthropic bets: GIC led the AI lab Series G at a 380 billion dollar valuation and returned to co-lead the pre-IPO round at 965 billion. The account lands days after the record-breaking Nasdaq debut of the AI lab.",
+      "title": "Jensen Huang called to testify before Senate Banking on December 3",
+      "summary": "Nvidia CEO Jensen Huang is scheduled to appear before the Senate Banking Committee on December 3, hours after the board reinstated him, over export controls and his ties to a woman the US suspects of being a Chinese spy. He had already agreed to testify before three House committees on December 1.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "publishedAt": "2026-11-23T02:00:00Z",
-      "tags": ["anthropic", "ai", "ipo", "vc"]
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "publishedAt": "2026-11-23T18:12:00Z",
+      "tags": ["nvidia", "congress", "export-controls", "ai-chips"]
     },
     {
-      "id": "tech-sf-ai-boom-crash-worries-2026-11-23",
+      "id": "tech-amazon-decart-7-5b-2026-11-23",
       "category": "tech",
-      "title": "San Francisco AI boom is riding high, but crash worries are growing",
-      "summary": "Workers at the epicenter of the AI industry say the sector feels overheated, even as the boom keeps transforming the San Francisco economy. The piece captures growing unease that the current wave may not be sustainable.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqe9k09j9jv4o",
-      "publishedAt": "2026-11-23T01:00:00Z",
-      "tags": ["ai", "san-francisco", "economy"]
+      "title": "Amazon pays $7.5B for Decart's AI optimization tech",
+      "summary": "Amazon agreed to buy Israeli startup Decart's optimization software and much of its staff for $7.5 billion, according to Bloomberg. The technology helps AI models run efficiently on non-Nvidia hardware, which Amazon needs as it prepares to sell its own Trainium chips to outside customers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "publishedAt": "2026-11-23T17:14:00Z",
+      "tags": ["amazon", "acquisition", "trainium", "ai-infrastructure"]
     },
     {
-      "id": "browns-mailbag-watson-garrett-2026-11-23",
+      "id": "tech-trump-endorses-huang-return-2026-11-23",
+      "category": "tech",
+      "title": "Trump endorses Huang's return to Nvidia, says no evidence of wrongdoing",
+      "summary": "President Trump said the US government sees no national security risk in Jensen Huang returning as Nvidia's CEO and claimed the attorney general found no evidence of unlawful conduct. His statement is unusual because the Justice Department normally conducts such reviews independently.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "publishedAt": "2026-11-23T15:04:00Z",
+      "tags": ["nvidia", "trump", "national-security"]
+    },
+    {
+      "id": "tech-nvidia-reinstates-huang-ceo-2026-11-23",
+      "category": "tech",
+      "title": "Nvidia reverses course and reinstates Jensen Huang as CEO",
+      "summary": "Nvidia's board unanimously reinstated Jensen Huang as president and CEO less than two weeks after he resigned over extramarital affairs, including one with a woman suspected of being a Chinese spy. The board said it was satisfied with his candor after consulting senior US government officials; Colette Kress returns to CFO only.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "publishedAt": "2026-11-23T14:21:00Z",
+      "tags": ["nvidia", "jensen-huang", "leadership", "ai-chips"]
+    },
+    {
+      "id": "browns-ward-monken-style-2026-11-23",
       "category": "browns",
-      "title": "Browns mailbag: Deshaun Watson future, the Garrett trade and a playoff chase few saw coming",
-      "summary": "At 6-4 and flexed into Sunday Night Football against the Raiders, the Browns are unexpectedly in the AFC playoff race. The Athletic mailbag digs into the contract-year surge of Deshaun Watson (six game-winning drives) and the Myles Garrett trade.",
-      "source": "The Athletic",
-      "url": "https://www.nytimes.com/athletic/7800199/2026/11/23/browns-deshaun-watson-contract-mailbag/",
-      "publishedAt": "2026-11-23T11:31:00Z",
-      "tags": ["browns", "deshaun-watson", "nfl", "playoffs"]
+      "title": "Denzel Ward credits Todd Monken's practice style for Browns' 6-4 start",
+      "summary": "Browns cornerback Denzel Ward said first-year coach Todd Monken's repetition-heavy practices are a big reason Cleveland is 6-4 and sitting sixth in the AFC playoff standings. Ward, allowing just 3.8 yards per target this season, is a leading All-Pro candidate on a defense carrying the team.",
+      "source": "Browns Wire",
+      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/11/23/browns-denzel-ward-appreciates-the-style-todd-monken-coaches-with/92921308007/",
+      "publishedAt": "2026-11-23T19:55:00Z",
+      "tags": ["browns", "denzel-ward", "todd-monken"]
     },
     {
-      "id": "browns-afc-playoff-picture-week11-2026-11-23",
+      "id": "browns-under-construction-6-4-2026-11-23",
       "category": "browns",
-      "title": "NFL playoff picture: bye-week Browns in the mix for AFC No. 7 seed",
-      "summary": "The updated Week 11 bracket keeps Cleveland (6-4, coming off its bye) in the fight for the final AFC playoff spot alongside the surging Texans. The Browns can strengthen their case when they host Las Vegas on Sunday night in Week 12.",
-      "source": "ProFootballTalk (NBC Sports)",
-      "url": "https://sports.yahoo.com/articles/nfl-playoff-picture-2026-updated-095445480.html",
-      "publishedAt": "2026-11-23T05:01:00Z",
-      "tags": ["browns", "nfl", "playoffs", "afc"]
+      "title": "Browns say they're 'under construction' but ahead of schedule at 6-4",
+      "summary": "Todd Monken said the rebuild is far from finished even though Cleveland, after trading Myles Garrett, has already topped last season's win total and is 4-0 at home for the first time since 1963. The bye week is being used to fix a run defense Delpit called a liability before a flexed Sunday night game with the Raiders.",
+      "source": "cleveland19.com",
+      "url": "https://www.cleveland19.com/2026/11/23/browns-say-theyre-under-construction-6-4-start-suggests-rebuild-is-ahead-schedule/",
+      "publishedAt": "2026-11-23T13:04:00Z",
+      "tags": ["browns", "todd-monken", "deshaun-watson", "bye-week"]
     },
     {
-      "id": "buckeyes-ap-top-25-drop-2026-11-23",
-      "category": "buckeyes",
-      "title": "AP Top 25: Ohio State crashes to No. 25 after Nebraska loss",
-      "summary": "Ohio State fell to No. 25, the very bottom of the AP Top 25, after the 31-28 loss at Nebraska on Saturday. It is the third defeat in four games for the Buckeyes, all to unranked teams, since quarterback Julian Sayin went out injured in mid-October.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/sports/buckeyes/ap-top-25-how-far-did-ohio-state-drop-after-loss-to-nebraska/",
-      "publishedAt": "2026-11-23T04:04:00Z",
-      "tags": ["ohio-state", "ap-top-25", "college-football"]
+      "id": "browns-bye-week-playoff-picture-2026-11-23",
+      "category": "browns",
+      "title": "Browns climb AFC North during bye as Steelers and Ravens lose",
+      "summary": "Without playing, Cleveland moved into second place in the AFC North after Pittsburgh lost to Philadelphia and Baltimore fell to Carolina, putting the Ravens 2.5 games back. A Washington win over Cincinnati on Monday night would leave the Browns one game out of the division lead with both Bengals games still to play.",
+      "source": "Dawgs By Nature",
+      "url": "https://www.dawgsbynature.com/cleveland-browns-news/138723/cleveland-browns-news-time-to-get-back-to-work-on-the-playoff-run",
+      "publishedAt": "2026-11-23T11:00:00Z",
+      "tags": ["browns", "afc-north", "playoffs"]
     },
     {
-      "id": "buckeyes-coaches-poll-out-2026-11-23",
+      "id": "buckeyes-underwood-start-injured-2026-11-23",
       "category": "buckeyes",
-      "title": "Ohio State falls out of the coaches poll after Nebraska upset",
-      "summary": "A week after returning to the rankings at No. 17, Ohio State dropped out of the coaches poll entirely following the 31-28 loss at Nebraska. It was the third Buckeyes loss in four weeks, leaving playoff hopes nearly gone.",
-      "source": "NBC4 WCMH-TV",
-      "url": "https://www.nbc4i.com/sports/buckeyes/ohio-state-ousted-from-coaches-poll-after-loss-to-nebraska/",
-      "publishedAt": "2026-11-23T03:04:00Z",
-      "tags": ["ohio-state", "coaches-poll", "college-football"]
+      "title": "Michigan plans to start Bryce Underwood, but injury clouds The Game",
+      "summary": "Kyle Whittingham said Monday that Bryce Underwood remains Michigan's starter for Saturday's game at Ohio State, but reports hours later said the quarterback has a lower-body injury that could sideline him. Tommy Carr, who started four games this season, would play instead.",
+      "source": "MLive",
+      "url": "https://www.mlive.com/wolverines/football/2026/11/michigan-plans-to-start-qb-underwood-vs-ohio-state-but-report-says-hes-injured.html",
+      "publishedAt": "2026-11-23T16:55:00Z",
+      "tags": ["buckeyes", "michigan", "the-game", "bryce-underwood"]
+    },
+    {
+      "id": "buckeyes-whittingham-rivalry-2026-11-23",
+      "category": "buckeyes",
+      "title": "Whittingham embraces Ohio State rivalry in first trip to the Horseshoe",
+      "summary": "Michigan's first-year coach said he fully appreciates the magnitude of the rivalry ahead of his first game in Columbus, where the Wolverines are chasing a third straight win. Both teams arrive limping: Ohio State is 7-4 after losing at Nebraska, Michigan is 6-5 and dealing with injuries at quarterback, running back and tackle.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50574173/whittingham-appreciates-magnitude-michigan-ohio-state-rivalry",
+      "publishedAt": "2026-11-23T16:50:00Z",
+      "tags": ["buckeyes", "michigan", "kyle-whittingham"]
+    },
+    {
+      "id": "buckeyes-jakobi-jackson-out-2026-11-23",
+      "category": "buckeyes",
+      "title": "Buckeyes handed injury news at running back before Michigan",
+      "summary": "Ohio State heads into the Michigan game without running back Ja'Kobi Jackson, who has been out since Lisfranc surgery and had hoped to return late in the regular season. The Buckeyes are also working around the loss of starting quarterback Julian Sayin, leaving freshman Luke Fahey to start The Game.",
+      "source": "A to Z Sports",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-injury-update-key-player-out-for-michigan-game/",
+      "publishedAt": "2026-11-23T12:48:00Z",
+      "tags": ["buckeyes", "injuries", "jakobi-jackson"]
+    },
+    {
+      "id": "buckeyes-meyer-tressel-back-day-2026-11-23",
+      "category": "buckeyes",
+      "title": "Meyer and Tressel back Ryan Day to have Ohio State ready for Michigan",
+      "summary": "Urban Meyer and Jim Tressel said they believe Ryan Day will have the Buckeyes prepared for The Game despite a 7-4 season that ended their Big Ten and playoff hopes at Nebraska. Day is 2-4 against Michigan, and beating the Wolverines is the only goal left this year.",
+      "source": "Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165688/ohio-state-vs-michigan-is-a-way-of-life-for-urban-meyer-and-jim-tressel-who-believe-ryan-day-will-have-his-team-ready-this-week",
+      "publishedAt": "2026-11-23T12:05:00Z",
+      "tags": ["buckeyes", "ryan-day", "michigan", "urban-meyer"]
+    },
+    {
+      "id": "f1-qatar-war-zone-security-2026-11-23",
+      "category": "f1",
+      "title": "F1 presses on with Qatar and Abu Dhabi races amid regional tensions",
+      "summary": "Formula 1 is keeping its Middle East finale despite escalating US-Iran tensions, after an Italian replacement race failed to materialise and Bahrain and Saudi Arabia were already moved or cancelled this season. Teams say staff retain the right to refuse to travel, with Cadillac's CEO calling safety \"absolutely paramount\".",
+      "source": "GrandPrix247",
+      "url": "https://www.grandprix247.com/formula-1-news/formula-1-jets-into-war-zone-for-qatar-and-abu-dhabi-races-inshallah-safety-and-peace-prevail",
+      "publishedAt": "2026-11-23T14:21:00Z",
+      "tags": ["f1", "qatar-gp", "middle-east", "safety"]
+    },
+    {
+      "id": "f1-qatar-preview-espn-2026-11-23",
+      "category": "f1",
+      "title": "Qatar preview: Verstappen chases fifth win as title fight winds down",
+      "summary": "F1 heads to Lusail for the penultimate round with Kimi Antonelli already crowned champion and Mercedes holding the constructors' title. Max Verstappen, winner in Las Vegas, is targeting another victory while the Verstappen-Russell feud and Ferrari's Hamilton-Leclerc clashes carry over into the weekend.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/f1/story/_/id/50530095/qatar-grand-prix-2026-race-f1-start-s-how-watch-schedule-tv-channel-live-stream-predictions",
+      "publishedAt": "2026-11-23T11:17:00Z",
+      "tags": ["f1", "qatar-gp", "verstappen", "antonelli"]
+    },
+    {
+      "id": "f1-nine-points-for-third-2026-11-23",
+      "category": "f1",
+      "title": "Nine points for third: Red Bull and McLaren set for constructors' fight",
+      "summary": "Red Bull leads McLaren by just nine points for third in the constructors' championship with two rounds left, after McLaren outscored them 33-25 in Las Vegas. Verstappen also needs to leave Qatar more than 25 points clear of Lewis Hamilton to lock up second in the drivers' standings.",
+      "source": "Coffee Corner Motorsport",
+      "url": "https://coffeecornermotorsport.com/qatar-grand-prix-2026-preview/",
+      "publishedAt": "2026-11-23T11:08:00Z",
+      "tags": ["f1", "constructors", "red-bull", "mclaren"]
+    },
+    {
+      "id": "local-cota-bus-crash-dispatch-2026-11-23",
+      "category": "local",
+      "title": "Two COTA drivers killed in head-on bus crash near fairgrounds",
+      "summary": "Two Central Ohio Transit Authority drivers died and at least nine other people were hurt when two buses collided head-on on East 11th Avenue near the Ohio Expo Center, with a third vehicle then hitting one bus. Columbus police are reviewing Ring and onboard camera footage; a westbound bus is believed to have crossed the center line.",
+      "source": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/story/news/accident/2026/11/23/two-dead-12-injured-crash-two-cota-buses-weinland-park/92923925007/",
+      "publishedAt": "2026-11-23T19:10:00Z",
+      "tags": ["columbus", "cota", "crash", "weinland-park"]
+    },
+    {
+      "id": "local-cota-bus-crash-wosu-2026-11-23",
+      "category": "local",
+      "title": "One COTA driver died at the scene, the other at a hospital",
+      "summary": "Columbus fire officials said one bus driver was pronounced dead at East 11th and North 6th and the second died after transport, with the injured listed as stable. Four of the hurt were in an SUV, the rest were aboard a bus, and COTA and police were expected to release statements later Monday.",
+      "source": "WOSU Public Media",
+      "url": "https://www.wosu.org/news/2026-11-23/two-cota-drivers-dead-nine-people-hurt-in-crash-involving-two-buses-near-state-fairgrounds",
+      "publishedAt": "2026-11-23T15:10:00Z",
+      "tags": ["columbus", "cota", "crash"]
+    },
+    {
+      "id": "local-cota-bus-crash-nbc4-2026-11-23",
+      "category": "local",
+      "title": "Medics called to three-vehicle crash involving two city buses",
+      "summary": "Dispatchers sent medics to East 11th Avenue and North 6th Street at 8:02 a.m. after a crash involving two COTA buses and a third vehicle. Two people died and 12 were initially taken to hospitals, making it one of the deadliest transit crashes in Columbus in years.",
+      "source": "NBC4 WCMH",
+      "url": "https://www.nbc4i.com/news/local-news/columbus/one-dead-12-hospitalized-after-three-vehicle-crash-in-columbus-area-involving-buses/",
+      "publishedAt": "2026-11-23T14:26:00Z",
+      "tags": ["columbus", "cota", "crash", "public-safety"]
+    },
+    {
+      "id": "local-columbus-cooler-sunny-2026-11-23",
+      "category": "local",
+      "title": "Cooler but sunny Monday across central Ohio",
+      "summary": "Columbus turned mostly sunny and much cooler Monday with a high near 49 and northwest winds gusting to 20 mph. The dry, chilly stretch sets up a cold Thanksgiving travel week around central Ohio.",
+      "source": "10TV",
+      "url": "https://www.10tv.com/video/weather/forecast/columbus-ohio-weather-forecast-for-nov-23-2026-much-cooler-but-sun-returns/530-98607ef6-d60e-4d88-9d39-c528653c0840",
+      "publishedAt": "2026-11-23T12:10:00Z",
+      "tags": ["columbus", "weather", "forecast"]
     }
   ]
 }
