@@ -1,221 +1,25 @@
 {
-  "meta": {
-    "updatedAt": "2026-11-23T20:35:00Z",
-    "generatedBy": "hermes-cron",
-    "title": "Daily Brief",
-    "windowHours": 12,
-    "count": 21
-  },
-  "stories": [
-    {
-      "id": "top-iran-blockade-yemen-strikes-2026-11-23",
-      "category": "top",
-      "title": "Iran vows to counter US naval blockade as Yemen strikes escalate",
-      "summary": "Iran's foreign ministry said Monday it will use \"all available means\" against the US naval blockade of its ports, calling it military aggression under the UN Charter. The same day, Houthi officials said a Saudi-led coalition strike on a telecom compound in the port city of Hodeida killed 17 workers, as fighting in Yemen intensifies.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-      "publishedAt": "2026-11-23T20:23:00Z",
-      "tags": ["iran", "yemen", "strait-of-hormuz", "middle-east"]
-    },
-    {
-      "id": "top-molly-meldrum-dies-2026-11-23",
-      "category": "top",
-      "title": "Australian music legend Molly Meldrum dies aged 83",
-      "summary": "Ian \"Molly\" Meldrum, the broadcaster and promoter who helped define Australian pop taste for decades through the TV show Countdown, has died at 83. Tributes came from across the Australian music industry, which credited him with breaking both local and international acts.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3qj57rkd2k1o",
-      "publishedAt": "2026-11-23T12:30:00Z",
-      "tags": ["australia", "music", "obituary"]
-    },
-    {
-      "id": "top-crimean-bridge-partly-collapses-2026-11-23",
-      "category": "top",
-      "title": "Crimean Bridge partly collapses after Ukrainian attack",
-      "summary": "Ukraine struck the bridge linking Russia to annexed Crimea with missiles and drones in an operation it says took weeks to plan, partly collapsing the span. Zelensky hailed the attack as \"unprecedented\" and said the logistics route used for Russian military supplies is now compromised.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cw772jk4rvmxo",
-      "publishedAt": "2026-11-23T10:30:00Z",
-      "tags": ["ukraine", "russia", "crimea", "drones"]
-    },
-    {
-      "id": "tech-jensen-huang-senate-testimony-2026-11-23",
-      "category": "tech",
-      "title": "Jensen Huang called to testify before Senate Banking on December 3",
-      "summary": "Nvidia CEO Jensen Huang is scheduled to appear before the Senate Banking Committee on December 3, hours after the board reinstated him, over export controls and his ties to a woman the US suspects of being a Chinese spy. He had already agreed to testify before three House committees on December 1.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "publishedAt": "2026-11-23T18:12:00Z",
-      "tags": ["nvidia", "congress", "export-controls", "ai-chips"]
-    },
-    {
-      "id": "tech-amazon-decart-7-5b-2026-11-23",
-      "category": "tech",
-      "title": "Amazon pays $7.5B for Decart's AI optimization tech",
-      "summary": "Amazon agreed to buy Israeli startup Decart's optimization software and much of its staff for $7.5 billion, according to Bloomberg. The technology helps AI models run efficiently on non-Nvidia hardware, which Amazon needs as it prepares to sell its own Trainium chips to outside customers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "publishedAt": "2026-11-23T17:14:00Z",
-      "tags": ["amazon", "acquisition", "trainium", "ai-infrastructure"]
-    },
-    {
-      "id": "tech-trump-endorses-huang-return-2026-11-23",
-      "category": "tech",
-      "title": "Trump endorses Huang's return to Nvidia, says no evidence of wrongdoing",
-      "summary": "President Trump said the US government sees no national security risk in Jensen Huang returning as Nvidia's CEO and claimed the attorney general found no evidence of unlawful conduct. His statement is unusual because the Justice Department normally conducts such reviews independently.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "publishedAt": "2026-11-23T15:04:00Z",
-      "tags": ["nvidia", "trump", "national-security"]
-    },
-    {
-      "id": "tech-nvidia-reinstates-huang-ceo-2026-11-23",
-      "category": "tech",
-      "title": "Nvidia reverses course and reinstates Jensen Huang as CEO",
-      "summary": "Nvidia's board unanimously reinstated Jensen Huang as president and CEO less than two weeks after he resigned over extramarital affairs, including one with a woman suspected of being a Chinese spy. The board said it was satisfied with his candor after consulting senior US government officials; Colette Kress returns to CFO only.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "publishedAt": "2026-11-23T14:21:00Z",
-      "tags": ["nvidia", "jensen-huang", "leadership", "ai-chips"]
-    },
-    {
-      "id": "browns-ward-monken-style-2026-11-23",
-      "category": "browns",
-      "title": "Denzel Ward credits Todd Monken's practice style for Browns' 6-4 start",
-      "summary": "Browns cornerback Denzel Ward said first-year coach Todd Monken's repetition-heavy practices are a big reason Cleveland is 6-4 and sitting sixth in the AFC playoff standings. Ward, allowing just 3.8 yards per target this season, is a leading All-Pro candidate on a defense carrying the team.",
-      "source": "Browns Wire",
-      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/11/23/browns-denzel-ward-appreciates-the-style-todd-monken-coaches-with/92921308007/",
-      "publishedAt": "2026-11-23T19:55:00Z",
-      "tags": ["browns", "denzel-ward", "todd-monken"]
-    },
-    {
-      "id": "browns-under-construction-6-4-2026-11-23",
-      "category": "browns",
-      "title": "Browns say they're 'under construction' but ahead of schedule at 6-4",
-      "summary": "Todd Monken said the rebuild is far from finished even though Cleveland, after trading Myles Garrett, has already topped last season's win total and is 4-0 at home for the first time since 1963. The bye week is being used to fix a run defense Delpit called a liability before a flexed Sunday night game with the Raiders.",
-      "source": "cleveland19.com",
-      "url": "https://www.cleveland19.com/2026/11/23/browns-say-theyre-under-construction-6-4-start-suggests-rebuild-is-ahead-schedule/",
-      "publishedAt": "2026-11-23T13:04:00Z",
-      "tags": ["browns", "todd-monken", "deshaun-watson", "bye-week"]
-    },
-    {
-      "id": "browns-bye-week-playoff-picture-2026-11-23",
-      "category": "browns",
-      "title": "Browns climb AFC North during bye as Steelers and Ravens lose",
-      "summary": "Without playing, Cleveland moved into second place in the AFC North after Pittsburgh lost to Philadelphia and Baltimore fell to Carolina, putting the Ravens 2.5 games back. A Washington win over Cincinnati on Monday night would leave the Browns one game out of the division lead with both Bengals games still to play.",
-      "source": "Dawgs By Nature",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-news/138723/cleveland-browns-news-time-to-get-back-to-work-on-the-playoff-run",
-      "publishedAt": "2026-11-23T11:00:00Z",
-      "tags": ["browns", "afc-north", "playoffs"]
-    },
-    {
-      "id": "buckeyes-underwood-start-injured-2026-11-23",
-      "category": "buckeyes",
-      "title": "Michigan plans to start Bryce Underwood, but injury clouds The Game",
-      "summary": "Kyle Whittingham said Monday that Bryce Underwood remains Michigan's starter for Saturday's game at Ohio State, but reports hours later said the quarterback has a lower-body injury that could sideline him. Tommy Carr, who started four games this season, would play instead.",
-      "source": "MLive",
-      "url": "https://www.mlive.com/wolverines/football/2026/11/michigan-plans-to-start-qb-underwood-vs-ohio-state-but-report-says-hes-injured.html",
-      "publishedAt": "2026-11-23T16:55:00Z",
-      "tags": ["buckeyes", "michigan", "the-game", "bryce-underwood"]
-    },
-    {
-      "id": "buckeyes-whittingham-rivalry-2026-11-23",
-      "category": "buckeyes",
-      "title": "Whittingham embraces Ohio State rivalry in first trip to the Horseshoe",
-      "summary": "Michigan's first-year coach said he fully appreciates the magnitude of the rivalry ahead of his first game in Columbus, where the Wolverines are chasing a third straight win. Both teams arrive limping: Ohio State is 7-4 after losing at Nebraska, Michigan is 6-5 and dealing with injuries at quarterback, running back and tackle.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50574173/whittingham-appreciates-magnitude-michigan-ohio-state-rivalry",
-      "publishedAt": "2026-11-23T16:50:00Z",
-      "tags": ["buckeyes", "michigan", "kyle-whittingham"]
-    },
-    {
-      "id": "buckeyes-jakobi-jackson-out-2026-11-23",
-      "category": "buckeyes",
-      "title": "Buckeyes handed injury news at running back before Michigan",
-      "summary": "Ohio State heads into the Michigan game without running back Ja'Kobi Jackson, who has been out since Lisfranc surgery and had hoped to return late in the regular season. The Buckeyes are also working around the loss of starting quarterback Julian Sayin, leaving freshman Luke Fahey to start The Game.",
-      "source": "A to Z Sports",
-      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-injury-update-key-player-out-for-michigan-game/",
-      "publishedAt": "2026-11-23T12:48:00Z",
-      "tags": ["buckeyes", "injuries", "jakobi-jackson"]
-    },
-    {
-      "id": "buckeyes-meyer-tressel-back-day-2026-11-23",
-      "category": "buckeyes",
-      "title": "Meyer and Tressel back Ryan Day to have Ohio State ready for Michigan",
-      "summary": "Urban Meyer and Jim Tressel said they believe Ryan Day will have the Buckeyes prepared for The Game despite a 7-4 season that ended their Big Ten and playoff hopes at Nebraska. Day is 2-4 against Michigan, and beating the Wolverines is the only goal left this year.",
-      "source": "Eleven Warriors",
-      "url": "https://www.elevenwarriors.com/ohio-state-football/2026/11/165688/ohio-state-vs-michigan-is-a-way-of-life-for-urban-meyer-and-jim-tressel-who-believe-ryan-day-will-have-his-team-ready-this-week",
-      "publishedAt": "2026-11-23T12:05:00Z",
-      "tags": ["buckeyes", "ryan-day", "michigan", "urban-meyer"]
-    },
-    {
-      "id": "f1-qatar-war-zone-security-2026-11-23",
-      "category": "f1",
-      "title": "F1 presses on with Qatar and Abu Dhabi races amid regional tensions",
-      "summary": "Formula 1 is keeping its Middle East finale despite escalating US-Iran tensions, after an Italian replacement race failed to materialise and Bahrain and Saudi Arabia were already moved or cancelled this season. Teams say staff retain the right to refuse to travel, with Cadillac's CEO calling safety \"absolutely paramount\".",
-      "source": "GrandPrix247",
-      "url": "https://www.grandprix247.com/formula-1-news/formula-1-jets-into-war-zone-for-qatar-and-abu-dhabi-races-inshallah-safety-and-peace-prevail",
-      "publishedAt": "2026-11-23T14:21:00Z",
-      "tags": ["f1", "qatar-gp", "middle-east", "safety"]
-    },
-    {
-      "id": "f1-qatar-preview-espn-2026-11-23",
-      "category": "f1",
-      "title": "Qatar preview: Verstappen chases fifth win as title fight winds down",
-      "summary": "F1 heads to Lusail for the penultimate round with Kimi Antonelli already crowned champion and Mercedes holding the constructors' title. Max Verstappen, winner in Las Vegas, is targeting another victory while the Verstappen-Russell feud and Ferrari's Hamilton-Leclerc clashes carry over into the weekend.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/50530095/qatar-grand-prix-2026-race-f1-start-s-how-watch-schedule-tv-channel-live-stream-predictions",
-      "publishedAt": "2026-11-23T11:17:00Z",
-      "tags": ["f1", "qatar-gp", "verstappen", "antonelli"]
-    },
-    {
-      "id": "f1-nine-points-for-third-2026-11-23",
-      "category": "f1",
-      "title": "Nine points for third: Red Bull and McLaren set for constructors' fight",
-      "summary": "Red Bull leads McLaren by just nine points for third in the constructors' championship with two rounds left, after McLaren outscored them 33-25 in Las Vegas. Verstappen also needs to leave Qatar more than 25 points clear of Lewis Hamilton to lock up second in the drivers' standings.",
-      "source": "Coffee Corner Motorsport",
-      "url": "https://coffeecornermotorsport.com/qatar-grand-prix-2026-preview/",
-      "publishedAt": "2026-11-23T11:08:00Z",
-      "tags": ["f1", "constructors", "red-bull", "mclaren"]
-    },
-    {
-      "id": "local-cota-bus-crash-dispatch-2026-11-23",
-      "category": "local",
-      "title": "Two COTA drivers killed in head-on bus crash near fairgrounds",
-      "summary": "Two Central Ohio Transit Authority drivers died and at least nine other people were hurt when two buses collided head-on on East 11th Avenue near the Ohio Expo Center, with a third vehicle then hitting one bus. Columbus police are reviewing Ring and onboard camera footage; a westbound bus is believed to have crossed the center line.",
-      "source": "The Columbus Dispatch",
-      "url": "https://www.dispatch.com/story/news/accident/2026/11/23/two-dead-12-injured-crash-two-cota-buses-weinland-park/92923925007/",
-      "publishedAt": "2026-11-23T19:10:00Z",
-      "tags": ["columbus", "cota", "crash", "weinland-park"]
-    },
-    {
-      "id": "local-cota-bus-crash-wosu-2026-11-23",
-      "category": "local",
-      "title": "One COTA driver died at the scene, the other at a hospital",
-      "summary": "Columbus fire officials said one bus driver was pronounced dead at East 11th and North 6th and the second died after transport, with the injured listed as stable. Four of the hurt were in an SUV, the rest were aboard a bus, and COTA and police were expected to release statements later Monday.",
-      "source": "WOSU Public Media",
-      "url": "https://www.wosu.org/news/2026-11-23/two-cota-drivers-dead-nine-people-hurt-in-crash-involving-two-buses-near-state-fairgrounds",
-      "publishedAt": "2026-11-23T15:10:00Z",
-      "tags": ["columbus", "cota", "crash"]
-    },
-    {
-      "id": "local-cota-bus-crash-nbc4-2026-11-23",
-      "category": "local",
-      "title": "Medics called to three-vehicle crash involving two city buses",
-      "summary": "Dispatchers sent medics to East 11th Avenue and North 6th Street at 8:02 a.m. after a crash involving two COTA buses and a third vehicle. Two people died and 12 were initially taken to hospitals, making it one of the deadliest transit crashes in Columbus in years.",
-      "source": "NBC4 WCMH",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/one-dead-12-hospitalized-after-three-vehicle-crash-in-columbus-area-involving-buses/",
-      "publishedAt": "2026-11-23T14:26:00Z",
-      "tags": ["columbus", "cota", "crash", "public-safety"]
-    },
-    {
-      "id": "local-columbus-cooler-sunny-2026-11-23",
-      "category": "local",
-      "title": "Cooler but sunny Monday across central Ohio",
-      "summary": "Columbus turned mostly sunny and much cooler Monday with a high near 49 and northwest winds gusting to 20 mph. The dry, chilly stretch sets up a cold Thanksgiving travel week around central Ohio.",
-      "source": "10TV",
-      "url": "https://www.10tv.com/video/weather/forecast/columbus-ohio-weather-forecast-for-nov-23-2026-much-cooler-but-sun-returns/530-98607ef6-d60e-4d88-9d39-c528653c0840",
-      "publishedAt": "2026-11-23T12:10:00Z",
-      "tags": ["columbus", "weather", "forecast"]
-    }
-  ]
-}
+"meta":{"updatedAt":"2026-11-24T12:01:00Z","generatedBy":"hermes-cron","title":"Daily Brief","windowHours":12,"count":21},
+"stories":[
+{"id":"top-bangladesh-garment-protests-1124","category":"top","title":"Bangladesh garment workers clash with police as pay protests shut factories","summary":"Garment workers in Bangladesh clashed with police on Tuesday as protests over wages shut factories, escalating a standoff with employers over a new pay scale. The sector is the country main export earner and employs millions.","source":"Reuters","url":"https://www.reuters.com/business/world-at-work/bangladesh-garment-workers-clash-police-pay-protests-shut-factories-2026-11-24/","publishedAt":"2026-11-24T11:52:00Z","tags":["Bangladesh","labor","economy"]},
+{"id":"top-flydubai-tel-aviv-1124","category":"top","title":"Israel approves flydubai return to Tel Aviv pending security clearance","summary":"Israel approved flydubai resuming flights to Tel Aviv subject to a security clearance, a step toward restoring a Gulf carrier link that was disrupted by regional conflict. The airline had diverted a flight to Saudi Arabia earlier after an emergency signal.","source":"Reuters","url":"https://www.reuters.com/world/middle-east/israel-approves-flydubais-return-tel-aviv-pending-security-clearance-2026-11-24/","publishedAt":"2026-11-24T11:43:00Z","tags":["Israel","aviation","Middle East"]},
+{"id":"top-gaza-hamas-official-killed-1124","category":"top","title":"Israeli airstrike kills senior Hamas security official in Gaza, sources say","summary":"An Israeli airstrike killed a senior Hamas security official in Gaza, according to Hamas sources, in one of the first targeted killings reported since the latest ceasefire strain. Israel did not immediately comment.","source":"Reuters","url":"https://www.reuters.com/world/middle-east/israeli-airstrike-kills-senior-hamas-security-official-gaza-hamas-sources-say-2026-11-24/","publishedAt":"2026-11-24T10:58:00Z","tags":["Gaza","Israel","conflict"]},
+{"id":"top-hasina-return-bangladesh-1124","category":"top","title":"Sheikh Hasina seeks return to Bangladesh on December 16","summary":"Deposed Prime Minister Sheikh Hasina wants to fly home from India on December 16 aboard the state carrier, a plan Dhaka calls contentious as it weighs the political fallout of her return. She has been in exile since being ousted in 2024.","source":"Reuters","url":"https://www.reuters.com/world/asia-pacific/sheikh-hasina-seeks-return-bangladesh-december-16-state-carrier-2026-11-24/","publishedAt":"2026-11-24T09:58:00Z","tags":["Bangladesh","politics","Hasina"]},
+{"id":"tech-anthropic-ipo-below-price-1124","category":"tech","title":"Anthropic breaks below $83 IPO price as debut rally unravels","summary":"Anthropic shares fell below their $83 IPO price on Tuesday, erasing the gains from a strong first-day pop and putting pressure on the AI sector valuations that underpinned the listing. The reversal came amid a broader risk-off move in AI stocks.","source":"Reuters","url":"https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/","publishedAt":"2026-11-24T11:52:00Z","tags":["Anthropic","AI","markets","IPO"]},
+{"id":"tech-nvidia-huang-risks-1124","category":"tech","title":"Nvidia slips as investors weigh risks around Huang return as CEO","summary":"Nvidia shares slipped as investors refocused on the political and governance risks surrounding Jensen Huang return as CEO after a presidential intervention. Analysts flagged board independence and Washington scrutiny as overhangs.","source":"Reuters","url":"https://www.reuters.com/business/retail-consumer/nvidia-slips-investors-assess-risks-surrounding-huangs-return-ceo-2026-11-24/","publishedAt":"2026-11-24T11:51:00Z","tags":["Nvidia","AI chips","markets"]},
+{"id":"tech-xiaomi-q3-profit-1124","category":"tech","title":"Xiaomi third-quarter profit falls 57% as EV sales decline","summary":"Xiaomi reported a 57% drop in third-quarter profit, pressured by weaker electric vehicle deliveries alongside a softer smartphone market. The result clouds its bet that the EV unit can become a second growth engine.","source":"Reuters","url":"https://www.reuters.com/markets/asia/xiaomi-third-quarter-falls-57-smartphone-sales-hit-2026-11-24/","publishedAt":"2026-11-24T11:00:00Z","tags":["Xiaomi","EVs","earnings"]},
+{"id":"tech-spacex-tesla-merger-directors-1124","category":"tech","title":"SpaceX and Tesla tap five directors to guide merger talks","summary":"SpaceX and Tesla have appointed five directors to steer talks over a potential combination, according to the Financial Times. The move signals formal groundwork for a deal that would reshape both Elon Musk companies.","source":"Reuters","url":"https://www.reuters.com/legal/transactional/spacex-tesla-entrusts-five-directors-merger-talks-ft-reports-2026-11-24/","publishedAt":"2026-11-24T07:00:00Z","tags":["SpaceX","Tesla","M&A"]},
+{"id":"browns-bold-predictions-1124","category":"browns","title":"Four bold Browns predictions for the playoff push","summary":"Dawg Pound Daily laid out stretch-run calls for the 6-4 Browns: Jared Verse averaging a sack per game after a zero-sack first half, both rookie receivers topping 1,000 yards, Harold Fannin Jr. leading the team in catches and Cleveland winning a playoff game.","source":"Dawg Pound Daily","url":"https://dawgpounddaily.com/4-bold-browns-predictions-for-their-playoff-push-including-a-postseason-win-01m84qvsmyt3","publishedAt":"2026-11-24T12:00:07Z","tags":["Browns","NFL","playoffs"]},
+{"id":"browns-former-players-checkin-1124","category":"browns","title":"Former Browns check-in: Garrett settles in, Newsome injured","summary":"A roundup of ex-Cleveland players shows Myles Garrett, traded to the Rams in June, posting three sacks in limited snaps, while Greg Newsome II suffered a high-ankle sprain days after signing a Giants extension. The piece credits GM Andrew Berry roster overhaul for a 6-4 start.","source":"Dawg Pound Daily","url":"https://dawgpounddaily.com/former-browns-check-in-myles-garrett-settles-in-greg-newsome-s-setback-and-more-01m855mq5s70","publishedAt":"2026-11-24T10:00:00Z","tags":["Browns","Myles Garrett","roster"]},
+{"id":"buckeyes-skull-session-1124","category":"buckeyes","title":"Skull Session: Buckeyes lean on history before Michigan","summary":"Eleven Warriors opens rivalry week with Tennyson and the 2004 upset of Michigan as reminders that a disappointing season need not define what comes next. Ohio State is 7-4 and needs a win Saturday to salvage its Big Ten and playoff hopes.","source":"Eleven Warriors","url":"https://www.elevenwarriors.com/skull-sessions/2026/11/165703/skull-session-history-is-the-best-teacher","publishedAt":"2026-11-24T09:55:00Z","tags":["Ohio State","Michigan","Big Ten"]},
+{"id":"buckeyes-pff-grades-nebraska-1124","category":"buckeyes","title":"PFF grades: Jeremiah Smith, Luke Fahey top Buckeyes vs Nebraska","summary":"Jeremiah Smith and Luke Fahey were Ohio State top-graded players in the 31-28 loss to Nebraska, but only four other Buckeyes graded above 70. The numbers reflect a thin performance on both sides in the fourth loss of the season.","source":"Eleven Warriors","url":"https://www.elevenwarriors.com/ohio-state-football/2026/11/165696/ohio-states-pff-grades-vs-nebraska-jeremiah-smith-luke-fahey-are-highest-graded-buckeyes-in-31-28-loss","publishedAt":"2026-11-24T02:15:00Z","tags":["Ohio State","football","analysis"]},
+{"id":"buckeyes-ryan-day-michigan-1124","category":"buckeyes","title":"Ryan Day: Focus on Michigan, not the 7-4 record","summary":"Ryan Day said Ohio State cannot afford to dwell on its record with Michigan next, calling the margin for error tiny against one of the top defenses in the nation. The Buckeyes close the regular season Saturday in Ann Arbor.","source":"Eleven Warriors","url":"https://www.elevenwarriors.com/ohio-state-football/2026/11/165705/ryan-day-says-ohio-state-must-focus-on-beating-michigan-not-its-record-this-season-our-margin-for-errors-tiny","publishedAt":"2026-11-24T00:31:00Z","tags":["Ohio State","Ryan Day","Michigan"]},
+{"id":"f1-ferrari-unmanageable-1124","category":"f1","title":"Ferrari boss calls Leclerc-Hamilton pairing unmanageable","summary":"Fred Vasseur admitted the Charles Leclerc and Lewis Hamilton partnership has become unmanageable after their latest collision in Las Vegas and hinted at regret over pairing them. Ferrari is weighing how to handle the two drivers over the final two rounds.","source":"ESPN","url":"https://www.espn.com/f1/story/_/id/50472137/ferrari-charles-leclerc-lewis-hamilton-las-vegas-grand-prix-formula-1","publishedAt":"2026-11-24T12:00:14Z","tags":["F1","Ferrari","Hamilton","Leclerc"]},
+{"id":"f1-hamilton-number-one-1124","category":"f1","title":"Hamilton says No.1 status would have boosted eighth-title bid","summary":"Lewis Hamilton said he believes he could have won a record eighth world championship this season had Ferrari prioritised him over Leclerc. The comment sharpens questions about team orders after the pair collided again in Las Vegas.","source":"ESPN","url":"https://www.espn.com/f1/story/_/id/50472141/lewis-hamilton-ferrari-las-vegas-grand-prix-formula-1","publishedAt":"2026-11-24T12:00:14Z","tags":["F1","Hamilton","Ferrari"]},
+{"id":"f1-qatar-preview-1124","category":"f1","title":"Qatar Grand Prix preview: start time, schedule and what is left to fight for","summary":"F1 heads to Lusail for the penultimate round on Nov. 29, the second leg of the final triple header. Kimi Antonelli has already sealed the title and Mercedes the constructors crown, leaving the fight for second and third as the main storyline.","source":"ESPN","url":"https://www.espn.com/f1/story/_/id/50530095/qatar-grand-prix-2026-race-f1-start-s-how-watch-schedule-tv-channel-live-stream-predictions","publishedAt":"2026-11-24T10:00:57Z","tags":["F1","Qatar","preview"]},
+{"id":"f1-verstappen-russell-feud-1124","category":"f1","title":"Verstappen-Russell feud unlikely to stay in Las Vegas","summary":"Max Verstappen mocked George Russell after the Las Vegas Grand Prix, calling the Mercedes driver 2026 campaign a complete joke, and ESPN expects the spat to carry into Qatar. The two have traded barbs for years and now meet again with little to lose in the standings.","source":"ESPN","url":"https://www.espn.com/racing/f1/story/_/id/50562576/verstappen-russell-feud-f1-las-vegas","publishedAt":"2026-11-24T08:42:35Z","tags":["F1","Verstappen","Russell"]},
+{"id":"tarkov-patch-1350-1124","category":"tarkov","title":"Escape from Tarkov 1.3.5.0 rolls out with Unity 6 and faster reconnects","summary":"Battlestate released patch 1.3.5.0, moving the game to Unity 6 and reworking raid loading, server performance and reconnect logic so dropped players can rejoin without reloading the raid. The patch also ends the Halloween event and introduces the RenderStack graphics platform.","source":"escapefromtarkov.com","url":"https://www.escapefromtarkov.com/news/id/421","publishedAt":"2026-11-24T10:00:00Z","tags":["Tarkov","patch","Unity 6"]},
+{"id":"local-thanksgiving-services-1124","category":"local","title":"Thanksgiving 2026: no mail, shifted trash pickup, closures","summary":"Columbus will skip Thursday trash collection on Nov. 26 and shift color-coded pickups forward a day, while postal carriers, Columbus libraries and the Columbus Zoo close for the holiday. FedEx runs modified service Friday.","source":"NBC4","url":"https://www.nbc4i.com/news/local-news/central-ohio-news/holiday-trash-mail-schedule/","publishedAt":"2026-11-24T11:30:00Z","tags":["Columbus","Thanksgiving","services"]},
+{"id":"local-licking-crash-1124","category":"local","title":"One dead, one injured in Licking County crash","summary":"A 69-year-old woman was killed and another person injured in a two-vehicle crash Monday afternoon near Granville, according to the Ohio State Highway Patrol. Troopers responded at about 3:17 p.m.","source":"NBC4","url":"https://www.nbc4i.com/news/one-dead-another-injured-in-licking-county-crash/","publishedAt":"2026-11-24T10:45:01Z","tags":["Licking County","OSHP","traffic"]},
+{"id":"local-columbus-rate-vote-paused-1124","category":"local","title":"Columbus council pauses water and power rate increase vote","summary":"Columbus City Council postponed a vote on raising water and electricity rates for residents, with members still weighing funding to house people at a homeless encampment. The delay pushes the decision past the Thanksgiving holiday.","source":"NBC4","url":"https://www.nbc4i.com/news/local-news/columbus/columbus-pauses-water-power-rate-increase-considers-funding-for-homeless-encampment/","publishedAt":"2026-11-24T01:00:00Z","tags":["Columbus","City Council","utilities"]}
+]}
